@@ -1,0 +1,702 @@
+[
+    {
+        "id": "b810e662-d729-460b-8583-2faad5a72d7b",
+        "word": "accommodate",
+        "persian": "تطبيق دادن، برآورده کردن،جا دادن ،منزل دادن",
+        "definition": "To accommodate means to provide something needed or desired; to adapt or adjust to someone's needs, desires, or preferences; or to provide lodging or sufficient space for something. It implies making an effort to be helpful or agreeable.\n\nSynonyms: oblige, help, adjust, adapt, house, lodge.\n",
+        "exampleA": "accommodate your child's requirements",
+        "exampleB": "The hotel can accommodate up to 500 guests.",
+        "exampleC": "We need to accommodate her dietary restrictions at the party.",
+        "status": "learned"
+    },
+    {
+        "id": "6b8c3830-8c92-42ac-9a4b-6005c4cd9138",
+        "word": "active role",
+        "persian": "نقش موثر",
+        "definition": "An \"active role\" signifies taking a prominent and participatory part in something, rather than being passive or simply observing. It implies initiative, involvement, and contribution, often involving decision-making, problem-solving, and directly influencing outcomes.\n\nSynonyms: engaged participation, proactive involvement, key role, significant contribution.\n",
+        "exampleA": "She took an active role in the community cleanup project.",
+        "exampleB": "The CEO encouraged employees to take an active role in shaping the company's future.",
+        "exampleC": "Parents play an active role in their children's education by helping with homework and attending school events.",
+        "status": "learned"
+    },
+    {
+        "id": "03b6cf7e-27ce-4600-98f1-916438ef9e47",
+        "word": "adolescence",
+        "persian": "\"Adolescence\" در فارسی معمولاً به \"نوجوانی\" یا \"دوران بلوغ\" ترجمه می‌شود که به دوره‌ی سنی بین کودکی و بزرگسالی اشاره دارد.\n",
+        "definition": "Adolescence is the transitional period of physical and psychological development between childhood and adulthood, typically beginning with puberty and ending when a person is considered mature. It involves significant biological, cognitive, and social changes as individuals navigate the complexities of identity formation, independence, and future roles.\n\nSynonyms: teenage years, puberty, youth, development stage\n",
+        "exampleA": "Adolescence is often a time of great self-discovery and change.",
+        "exampleB": "Many mental health issues can first emerge during adolescence.",
+        "exampleC": "The novel explores the complex emotions and experiences of adolescence.",
+        "status": ""
+    },
+    {
+        "id": "866a1f50-9069-4d61-a450-49d055bea07d",
+        "word": "adopt",
+        "persian": "قبول کردن ،اتخاذ کردن ،اقتباس کردن ،تعميد دادن ،نام گذاردن( هنگام تعميد)،در ميان خود پذيرفتن ،به فرزندى پذيرفتن",
+        "definition": "\"Adopt\" means to legally take someone else's child and raise them as your own, assuming all parental rights and responsibilities. It can also mean to accept and start using a particular idea, method, or course of action.\nSynonyms: embrace, foster, assume, espouse.\n",
+        "exampleA": "We decided to adopt a rescue dog from the local shelter.",
+        "exampleB": "The company plans to adopt a new software system next quarter.",
+        "exampleC": "The city council will adopt the proposed budget at the next meeting.",
+        "status": "learned"
+    },
+    {
+        "id": "4d95a92a-52c9-4190-8117-ff9f6969eefb",
+        "word": "adulthood",
+        "persian": "\"Adulthood\" در فارسی معمولاً به \"بزرگسالی\" یا \"بلوغ\" ترجمه می‌شود، اما بسته به متن می‌تواند \"دوران بزرگسالی\"، \"سن بلوغ\" یا \"رسیدگی\" هم معنی داشته باشد.\n",
+        "definition": "Adulthood signifies the state of being fully grown or mature, encompassing physical, mental, and emotional development and the acceptance of responsibilities and rights associated with being an independent individual within society. It often involves legal recognition, economic self-sufficiency, and the capacity to make autonomous decisions.\n\nSynonyms: maturity, adulthood, majority, grown-up status, legal age.\n",
+        "exampleA": "Adulthood comes with many responsibilities, such as managing finances and maintaining a household.",
+        "exampleB": "She felt unprepared for the complexities of adulthood despite her years of schooling.",
+        "exampleC": "Many young adults struggle with the transition from adolescence to adulthood.",
+        "status": ""
+    },
+    {
+        "id": "33c84447-84f2-4c84-8856-3c6e1ecac1e3",
+        "word": "be out of touch with sth",
+        "persian": "از موضوعی دور بودن و در تماس نبودن",
+        "definition": "To be \"out of touch with something\" means to lack current knowledge or understanding about it, often because you haven't been involved with it or exposed to it for a while. It suggests a disconnect from the present state or trends of a particular topic, group, or situation.\n\nSynonyms: Unfamiliar with, unaware of, behind the times, uninformed about, disconnected from.\n",
+        "exampleA": "he is out of touch with modern medicine",
+        "exampleB": "The professor's lectures were so theoretical that students felt he was out of touch with the practical realities of the industry.",
+        "exampleC": "Many older politicians seem to be out of touch with the concerns of younger voters.",
+        "status": "learned"
+    },
+    {
+        "id": "91c44073-b903-4e75-8f1e-9b7ad6f4ef40",
+        "word": "bond",
+        "persian": "رابطه خویشاوندی، پیوند",
+        "definition": "A bond represents a strong connection or tie, either emotional or physical, that unites people or things. It signifies a feeling of unity, affection, or mutual interest that creates a sense of belonging and commitment. It can also refer to a formal agreement or promise.\n\nSynonyms: connection, tie, link, relationship, attachment, agreement.\n",
+        "exampleA": "emotional bond between mother and child",
+        "exampleB": "The strong bond between the siblings was evident.",
+        "exampleC": "The company issued a bond to raise capital for expansion.",
+        "status": "seen"
+    },
+    {
+        "id": "e41315db-bbbd-4ae9-9766-a177cc4e41c6",
+        "word": "break down",
+        "persian": "در هم شکستن، خراب شدن وسیله نقلیه",
+        "definition": "\"Break down\" has multiple meanings, but generally refers to ceasing to function or operate effectively, whether it's a machine malfunctioning, a relationship ending, or a person experiencing emotional distress. It implies a failure or collapse of something that was previously working or holding together.\n\nSynonyms: malfunction, collapse, fail, crumble, disintegrate, give way.\n",
+        "exampleA": "my car broke down in the way to london",
+        "exampleB": "The car started to break down on the highway, leaving us stranded.",
+        "exampleC": "Let's break down the complex problem into smaller, more manageable steps.",
+        "status": "learned"
+    },
+    {
+        "id": "b5bc40f7-c2b0-42f1-b9db-733f010102a2",
+        "word": "bring up",
+        "persian": "بزرگ کردن بچه",
+        "definition": "\"Bring up\" is a versatile phrasal verb that generally means to raise a child or to introduce a topic for discussion. In the context of raising a child, it implies nurturing, educating, and caring for them until they reach adulthood. When used in conversation, \"bring up\" signifies introducing a new subject, idea, or point of contention into the discussion.\n\nSynonyms: raise, nurture, rear, mention, introduce, broach.\n",
+        "exampleA": "Please don't bring up that embarrassing incident again.",
+        "exampleB": "The teacher decided to bring up the topic of climate change in class.",
+        "exampleC": "He didn't want to bring up his financial problems during the dinner.",
+        "status": "learned"
+    },
+    {
+        "id": "1577c818-02c8-41d7-a36c-726172e4f322",
+        "word": "brotherhood",
+        "persian": "برادری و اخوت",
+        "definition": "Brotherhood refers to the feeling of kinship, unity, and mutual support that exists between people, often stemming from shared experiences, values, or goals. It emphasizes the bonds of affection, loyalty, and responsibility that connect individuals, fostering a sense of community and collective identity.\n\nSynonyms: fraternity, comradeship, solidarity, fellowship, camaraderie.\n",
+        "exampleA": "The war fostered a strong sense of brotherhood among the soldiers.",
+        "exampleB": "The fraternity aimed to promote brotherhood and academic excellence.",
+        "exampleC": "Despite their different backgrounds, they shared a deep brotherhood.",
+        "status": "learned"
+    },
+    {
+        "id": "fa4dc1c1-278b-4628-8263-b6c7692692d0",
+        "word": "character",
+        "persian": "شخصیت، ویژگی",
+        "definition": "\"Character\" refers to the mental and moral qualities distinctive to an individual, essentially defining who they are. It encompasses traits like honesty, integrity, courage, kindness, and resilience, shaping their behavior and reactions. A person of strong character is generally considered virtuous and reliable.\n\nSynonyms: personality, disposition, nature, temperament, integrity\n",
+        "exampleA": "The main character of the novel is a young woman named Elizabeth.",
+        "exampleB": "Honesty is an important character trait to have.",
+        "exampleC": "The movie was lacking in character development.",
+        "status": "learned"
+    },
+    {
+        "id": "d1314d6c-6507-46b7-a6d4-66f04dfdab48",
+        "word": "childhood",
+        "persian": "دوران کودکی یا بچگی.\n",
+        "definition": "Childhood refers to the period of life spanning from infancy to adolescence, characterized by significant physical, cognitive, and emotional development. It's a time of learning, exploration, and dependence on caregivers, shaping future personality and experiences.\n\nSynonyms: youth, early years, formative years, boyhood/girlhood\n",
+        "exampleA": "Her childhood was filled with laughter and adventure.",
+        "exampleB": "He often reminisces about his childhood in the countryside.",
+        "exampleC": "The trauma she experienced in childhood still affects her today.",
+        "status": ""
+    },
+    {
+        "id": "76d47257-c351-4aee-a0b4-ca016632182b",
+        "word": "close",
+        "persian": "\"Close\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها عبارتند از:\n\n   نزدیک: (از نظر فاصله)\n   بستن/بسته: (به عنوان فعل یا صفت)\n   خاتمه دادن/پایان دادن: (در مورد یک رویداد یا فعالیت)\n   صمیمی/نزدیک: (در مورد روابط)\n",
+        "definition": "\"Close\" is a versatile word signifying nearness in space, time, or relationship, or an ending or conclusion. It can describe physical proximity, a short duration, an intimate bond, or the act of shutting something. In business, it often refers to finalizing a deal or sale.\n\nSynonyms: near, shut, end, intimate, adjacent, conclude.\n",
+        "exampleA": "Please close the door behind you.",
+        "exampleB": "The store is close to my house.",
+        "exampleC": "We are close to reaching our fundraising goal.",
+        "status": ""
+    },
+    {
+        "id": "22879490-1d2e-4907-9ed6-69754ea21eb2",
+        "word": "close-knit",
+        "persian": "\"Close-knit\" در فارسی معمولاً به صورت \"صمیمی و نزدیک\"، \"همدل و متحد\"، یا \"بافت محکم\" ترجمه می‌شود که بسته به متن و مفهوم مورد نظر، یکی از این معادل‌ها مناسب‌تر خواهد بود.\n",
+        "definition": "\"Close-knit\" describes a group of people, typically a family, community, or team, who have strong relationships, feel emotionally connected, and support each other. They are often involved in each other's lives, share common values, and prioritize spending time together.\n\nSynonyms: tight-knit, cohesive, united, intimate, connected\n",
+        "exampleA": "The community was very close-knit, with everyone knowing and supporting each other.",
+        "exampleB": "She grew up in a close-knit family where traditions were highly valued.",
+        "exampleC": "Despite the challenges, the team remained close-knit and worked together to achieve their goals.",
+        "status": ""
+    },
+    {
+        "id": "8dbd1dd9-1cf3-4f80-964a-86e1578ba3a5",
+        "word": "close-knit family",
+        "persian": "خانواده در هم تنیده، خانواده ای که از همه چیز هم مطلع هستند",
+        "definition": "A close-knit family is a group of relatives who have strong emotional bonds, support each other extensively, and spend a lot of time together. They often share values, traditions, and a deep sense of belonging.\n\nSynonyms: Affectionate family, United family, Supportive family, Intimate family.\n",
+        "exampleA": "They were raised in a close-knit family where everyone supported each other's dreams.",
+        "exampleB": "Growing up in a close-knit family instilled in her the importance of loyalty and communication.",
+        "exampleC": "The annual family reunion is a testament to their close-knit family bonds.",
+        "status": "learned"
+    },
+    {
+        "id": "dde5a273-d172-4773-9897-d2411180c808",
+        "word": "competency",
+        "persian": "صلاحیت",
+        "definition": "Competency refers to the demonstrated ability to apply knowledge, skills, and personal attributes to perform effectively in a specific role or situation. It goes beyond simply possessing knowledge; it's about being able to use that knowledge to achieve a desired outcome or standard. Synonyms include: capability, proficiency, expertise, aptitude, and skill.\n",
+        "exampleA": "The job description emphasized the need for demonstrated competency in project management.",
+        "exampleB": "She received a certificate of competency after completing the training program.",
+        "exampleC": "The company assessed employee competency through regular performance reviews.",
+        "status": "seen"
+    },
+    {
+        "id": "56dcb483-9613-449c-bc8d-94d79172f05d",
+        "word": "conflict",
+        "persian": "تعارض ، کشمکش ، درگیری",
+        "definition": "Conflict refers to a serious disagreement or argument, typically a prolonged one, or a state of opposition between persons, ideas, or interests. It can manifest as a clash, struggle, or controversy, often stemming from incompatible goals, desires, or needs.\n\nSynonyms: dispute, strife, discord, contention, opposition.\n",
+        "exampleA": "The story revolves around a central conflict between two families.",
+        "exampleB": "His internal conflict made it difficult to make a decision.",
+        "exampleC": "Mediation can be a useful tool for resolving conflict in the workplace.",
+        "status": "learned"
+    },
+    {
+        "id": "28a83528-101a-46c4-b033-af744c3c82c3",
+        "word": "connection",
+        "persian": "\"Connection\" بسته به متن می‌تونه به \"ارتباط\"، \"اتصال\"، \"پیوند\" یا \"رابطه\" ترجمه بشه.\n",
+        "definition": "\"Connection\" refers to a relationship or link between two or more things, people, or ideas. It implies a bond, association, or interaction that can be tangible or intangible, suggesting a degree of interdependence or influence. Synonyms include: relationship, link, bond, association, tie, interaction.\n",
+        "exampleA": "The internet connection was unreliable during the storm.",
+        "exampleB": "She felt a deep connection with her grandmother.",
+        "exampleC": "The investigation revealed a connection between the two suspects.",
+        "status": ""
+    },
+    {
+        "id": "2df0c295-72eb-402a-aac8-2af38966df61",
+        "word": "cousin",
+        "persian": "عموزاده، عمه زاده، خاله زاده، دایی زاده",
+        "definition": "A cousin is a relative who shares one or more common ancestors with you, but is not your direct ancestor (parent, grandparent, etc.) or direct descendant (child, grandchild, etc.). They are typically the children of your aunts and uncles.\n\nSynonyms: kinsman, relative, kin, family member\n",
+        "exampleA": "My cousin is coming to visit next week.",
+        "exampleB": "She's my favorite cousin because we have so much in common.",
+        "exampleC": "I haven't seen my cousin since our grandmother's funeral.",
+        "status": "learned"
+    },
+    {
+        "id": "1fbae003-fbb7-44ac-b86d-e397c3306bed",
+        "word": "develop",
+        "persian": "،ایجاد کردن، تهیه کردن، پرورش دادن، توسعه دادن",
+        "definition": "\"Develop\" means to grow, expand, or improve something over time. It implies a process of gradual change and advancement, often leading to a more complex or mature state. It can apply to skills, ideas, products, or even a person's character.\n\nSynonyms: evolve, cultivate, refine, mature, progress.\n",
+        "exampleA": "The company plans to develop a new line of eco-friendly products.",
+        "exampleB": "Regular exercise can help you develop stronger muscles.",
+        "exampleC": "The artist needed time to develop his unique style.",
+        "status": "learned"
+    },
+    {
+        "id": "0fefdd19-d322-44b3-aa55-5bc59698abce",
+        "word": "endure",
+        "persian": "تحمل کردن ، دوام آوردن",
+        "definition": "To endure means to withstand hardship, suffering, or difficult circumstances with patience and resilience. It implies persisting through a challenging situation, often involving pain or unpleasantness, without giving up. Essentially, it's about toughing it out and surviving despite adversity.\n\nSynonyms: tolerate, bear, withstand, persevere, sustain.\n",
+        "exampleA": "She had to endure a long and painful surgery.",
+        "exampleB": "The old building continued to endure through many harsh winters.",
+        "exampleC": "They learned to endure hardship and emerge stronger.",
+        "status": "learned"
+    },
+    {
+        "id": "23716ba1-3269-4dc8-ad53-33186c03f858",
+        "word": "establish",
+        "persian": "برقزار کردن، تاسیس کردن",
+        "definition": "\"Establish\" means to set up, create, or firmly settle something. It implies bringing something into existence or putting it on a secure and lasting footing. It can refer to a business, a rule, a relationship, or even a fact.\n\nSynonyms: found, create, institute, form, build, settle.\n",
+        "exampleA": "The company plans to establish a new branch in the city center.",
+        "exampleB": "We need to establish clear guidelines for the project before we begin.",
+        "exampleC": "They hope to establish a strong reputation for quality and reliability.",
+        "status": "learned"
+    },
+    {
+        "id": "0bc06067-af11-4f3c-9f83-c0a3d85119d5",
+        "word": "extended family",
+        "persian": "بستگان درجه دوم",
+        "definition": "An extended family refers to a family unit that goes beyond the nuclear family (parents and their children) to include other relatives such as grandparents, aunts, uncles, and cousins, all living nearby or within the same household. It often involves a strong sense of shared responsibility, mutual support, and close-knit relationships between various generations.\n\nSynonyms: joint family, multigenerational family, clan\n",
+        "exampleA": "We spent the holidays with our extended family, enjoying a large feast.",
+        "exampleB": "My extended family provides a strong support system, always there to lend a hand.",
+        "exampleC": "Growing up, I learned a lot from my grandparents and other members of my extended family.",
+        "status": "seen"
+    },
+    {
+        "id": "76f99bf1-9de1-4021-b427-2d990df46556",
+        "word": "family gathering",
+        "persian": "دور هم جمع شدنهای خانوادگی",
+        "definition": "A family gathering is a meeting or assembly of relatives, often spanning multiple generations, for the purpose of socializing, celebrating a special occasion, or simply spending time together. These gatherings typically involve shared meals, conversation, activities, and the strengthening of familial bonds.\n\nSynonyms: family reunion, family get-together, family function, clan gathering.\n",
+        "exampleA": "The annual family gathering is always a highlight of the year.",
+        "exampleB": "We're expecting a large turnout for the family gathering this summer.",
+        "exampleC": "I'm helping my mom prepare for the family gathering on Sunday.",
+        "status": "learned"
+    },
+    {
+        "id": "1b5a0514-dff8-4133-aa4f-53241cd9d0e3",
+        "word": "family resemblance",
+        "persian": "شباهت خانوادگی",
+        "definition": "\"Family resemblance\" refers to the shared similarities between members of a family, not necessarily in appearance alone, but also in mannerisms, temperament, or certain talents and skills. These resemblances suggest a common ancestry and inherited traits that link family members together, even if they don't all look like identical copies of one another.\n\nSynonyms: familial similarity, hereditary traits, inherited characteristics, common lineage.\n",
+        "exampleA": "Despite their different personalities, there's a clear family resemblance in their eyes.",
+        "exampleB": "The architect's new design shares a strong family resemblance with his previous work.",
+        "exampleC": "Although the siblings have different talents, a strong family resemblance can be seen in their competitive spirit.",
+        "status": "learned"
+    },
+    {
+        "id": "2b891110-4e6f-4cbf-b0e1-4e21224c71c9",
+        "word": "fatherhood",
+        "persian": "\"پدر بودن\"، \"پدری\"، یا \"مقام پدری\" ترجمه‌های مناسبی برای این کلمه هستند و به نقش و مسئولیت‌های یک پدر اشاره دارند.\n",
+        "definition": "Fatherhood encompasses the role and responsibilities of being a father, including providing care, guidance, and support to children. It involves a complex mix of nurturing, protecting, teaching, and shaping a child's development. It is a deeply personal experience that impacts a man's identity and perspective.\n\nSynonyms: Paternity, fathering, parenthood (specifically in the context of a father).\n",
+        "exampleA": "He embraced fatherhood with open arms.",
+        "exampleB": "The book explored the joys and challenges of fatherhood.",
+        "exampleC": "His understanding of fatherhood changed after his own experiences.",
+        "status": ""
+    },
+    {
+        "id": "93d144ba-af2a-456e-bace-1cd0ddcb6fbb",
+        "word": "friendship",
+        "persian": "دوستی",
+        "definition": "Friendship is a bond of mutual affection, respect, and trust between two or more people. It involves companionship, shared experiences, and emotional support, often characterized by loyalty, understanding, and a willingness to help one another. It's a relationship built on shared values and a genuine caring for each other's well-being.\n\nSynonyms: camaraderie, companionship, fellowship, amity, rapport.\n",
+        "exampleA": "Their friendship blossomed over shared interests and a mutual love for adventure.",
+        "exampleB": "The movie explores the complexities of friendship and the challenges of maintaining close bonds.",
+        "exampleC": "Through thick and thin, their friendship remained a constant source of support and comfort.",
+        "status": "learned"
+    },
+    {
+        "id": "2f04dba7-e52c-476f-87b3-245790caca72",
+        "word": "go to sb for help",
+        "persian": "پیش کسی برای کمک رفتن",
+        "definition": "\"Go to someone for help\" means to approach a person or entity with the intention of asking for assistance, guidance, or support in a situation where you are facing a problem or need something resolved. It implies seeking their knowledge, skills, or resources to overcome a challenge.\n\nSynonyms: seek help from, turn to, consult, ask for advice from.\n",
+        "exampleA": "If you're struggling with the math problem, you should go to Sarah for help; she's a tutor.",
+        "exampleB": "When the computer crashed, I decided to go to my tech-savvy brother for help.",
+        "exampleC": "Feeling overwhelmed with the project, I had to go to my manager for help and guidance.",
+        "status": "learned"
+    },
+    {
+        "id": "fd78826c-e5d3-47a3-b701-4ad586aae201",
+        "word": "have sth in common",
+        "persian": "\"وجه اشتراک داشتن\"، \"در چیزی مشترک بودن\" یا \"هم‌خوانی داشتن\" بهترین معادل‌ها برای این عبارت هستند.\n",
+        "definition": "\"Have something in common\" means that two or more people or things share similar characteristics, qualities, interests, or experiences. It signifies a connection or point of agreement between them.\n\nSynonyms: share, have in agreement, relate, have affinity.\n",
+        "exampleA": "Despite their different backgrounds, they have a lot in common, including a love for hiking and a passion for animal welfare.",
+        "exampleB": "The two candidates don't seem to have much in common on policy issues.",
+        "exampleC": "While they appear different on the surface, they have in common a deep desire to make a positive impact on the world.",
+        "status": ""
+    },
+    {
+        "id": "3f4da942-8721-4db4-827f-40f0ff64d82c",
+        "word": "have sth in common with sb",
+        "persian": "اشتراکات داشتن با کسی",
+        "definition": "\"Have something in common with someone\" means to share similar characteristics, interests, experiences, or qualities with another person. It implies a connection or resemblance between individuals based on shared aspects.\n\nSynonyms: share, relate to, be similar to, have a connection with, resemble.\n",
+        "exampleA": "Despite their different backgrounds, they have a lot in common with each other.",
+        "exampleB": "The two artists have something in common with their shared love for nature.",
+        "exampleC": "While they disagree on politics, they have something in common with their passion for sports.",
+        "status": "learned"
+    },
+    {
+        "id": "4d49bf3c-a377-43bf-8b67-4124ca57ee44",
+        "word": "immediate family",
+        "persian": "بستگان درجه اول",
+        "definition": "\"Immediate family\" refers to a person's closest relatives, typically those most directly related and living in the same household or forming the closest emotional bonds. It generally includes parents, siblings, and children.\n\nSynonyms: nuclear family, close relatives, direct family.\n",
+        "exampleA": "Only immediate family attended the small, intimate wedding.",
+        "exampleB": "The company's bereavement policy allows for paid time off to attend funerals of immediate family.",
+        "exampleC": "She relies on her immediate family for emotional support during difficult times.",
+        "status": "learned"
+    },
+    {
+        "id": "fae2a464-0709-4f19-9cb0-7df0afe65a47",
+        "word": "inherit",
+        "persian": "\"Inherit\" بسته به زمینه می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: \"به ارث بردن\"، \"به ارث رسیدن\"، \"ارث بردن\" و یا \"به ارث بردن از\". انتخاب دقیق‌ترین معادل به جمله‌ای که این کلمه در آن به کار رفته بستگی دارد.\n",
+        "definition": "To inherit means to receive something, typically property or characteristics, from someone who has died, or to receive qualities or features passed down from ancestors. It can also refer to acquiring a particular situation, problem, or trait as a consequence of someone else's actions or circumstances.\n\nSynonyms: Receive, acquire, succeed to, derive, be bequeathed.\n",
+        "exampleA": "She will inherit her grandmother's antique jewelry collection.",
+        "exampleB": "Children often inherit traits like eye color and hair color from their parents.",
+        "exampleC": "The company will inherit a large debt after the merger.",
+        "status": ""
+    },
+    {
+        "id": "7242eb0e-5320-43b8-a15b-7ed9a78c951d",
+        "word": "inherit (sth from sb)",
+        "persian": "به ميراث بردن ،وارث شدن",
+        "definition": "To inherit something from someone means to receive property, money, a title, or qualities from a person who has died or from an ancestor. It implies a transfer of possession or characteristics due to lineage or legacy.\n\nSynonyms: receive, be bequeathed, succeed to, come into.\n",
+        "exampleA": "to inherit your mother's curly hair",
+        "exampleB": "She will inherit a large fortune from her grandmother.",
+        "exampleC": "Many children inherit their musical talent from their parents.",
+        "status": "learned"
+    },
+    {
+        "id": "76eede12-19be-46d5-9fd6-1b3f4eaa8713",
+        "word": "instinct",
+        "persian": "غریزه",
+        "definition": "Instinct is an inherent, typically fixed pattern of behavior in response to certain stimuli, present from birth rather than learned. It's a natural inclination or impulse that drives action without conscious thought or reasoning.\n\nSynonyms: intuition, impulse, natural tendency, gut feeling.\n",
+        "exampleA": "maternal instincts",
+        "exampleB": "Her first instinct was to run.",
+        "exampleC": "The bird's instinct told it to fly south for the winter.",
+        "status": "learned"
+    },
+    {
+        "id": "5de5faf9-9ff4-4287-bcad-096137dea49a",
+        "word": "instinctive",
+        "persian": "غریزی",
+        "definition": "\"Instinctive\" describes a behavior or reaction that is natural, automatic, and not learned or consciously thought out. It's something you do or feel without needing to be taught or trained, a gut reaction or inherent tendency.\n\nSynonyms: innate, intuitive, inherent, natural, spontaneous.\n",
+        "exampleA": "Her reaction was instinctive, a flinch as the ball came hurtling towards her.",
+        "exampleB": "The bird's migration is an instinctive behavior passed down through generations.",
+        "exampleC": "He had an instinctive understanding of the market, making him a successful trader.",
+        "status": "learned"
+    },
+    {
+        "id": "0afe5807-123d-4d52-b8f8-74100634dde9",
+        "word": "interact",
+        "persian": "\"Interact\" در فارسی می‌تواند به صورت‌های مختلفی ترجمه شود، اما رایج‌ترین و مناسب‌ترین معادل‌ها عبارتند از: \"تعامل داشتن\"، \"ارتباط برقرار کردن\" و \"کنش متقابل داشتن\". انتخاب بهترین معادل بستگی به متن و مفهوم مورد نظر دارد.\n",
+        "definition": "\"Interact\" means to act in such a way as to have an effect on another; it implies reciprocal action, influence, or communication between two or more things or people. It suggests a dynamic and responsive relationship, where actions and reactions shape each other.\n\nSynonyms: engage, connect, communicate, relate, interface, collaborate\n",
+        "exampleA": "The children love to interact with the animals at the petting zoo.",
+        "exampleB": "Software developers need to understand how different systems interact with each other.",
+        "exampleC": "It's important for teachers to encourage students to interact and share their ideas.",
+        "status": ""
+    },
+    {
+        "id": "0a7bbcad-cecb-4b20-a2a0-1fd48c1c4018",
+        "word": "interaction",
+        "persian": "تعامل",
+        "definition": "Interaction refers to a reciprocal action or influence between two or more things. It involves a cause-and-effect relationship where each party affects the other. Think of it as a dynamic exchange or interplay that leads to some form of consequence or outcome.\n\nSynonyms: communication, interplay, exchange, relationship, connection.\n",
+        "exampleA": "constructive interaction",
+        "exampleB": "The software's user interaction is intuitive and easy to learn.",
+        "exampleC": "Effective teamwork requires consistent interaction between team members.",
+        "status": "learned"
+    },
+    {
+        "id": "94d93404-891c-4081-aca8-f412c2a0cd4a",
+        "word": "maternal",
+        "persian": "از طرف خانواده مادری، مادرانه",
+        "definition": "\"Maternal\" describes qualities or characteristics associated with a mother, particularly those of nurturing, caring, and protective behavior. It encompasses the instincts and actions traditionally attributed to mothers in raising and caring for their children.\n\nSynonyms: motherly, nurturing, protective, caring, fostering.\n",
+        "exampleA": "Her maternal instincts kicked in when she saw the lost child crying.",
+        "exampleB": "The research focused on the maternal health of women in rural communities.",
+        "exampleC": "She displayed a warm and maternal nature towards her younger siblings.",
+        "status": "learned"
+    },
+    {
+        "id": "4cb84bfc-b1fe-4d8f-8761-55504d2951a8",
+        "word": "maternal instinct",
+        "persian": "\"غریزه مادری\" یا \"احساس مادری\"\n",
+        "definition": "Maternal instinct refers to an inherent, biologically-rooted drive in mothers, or those who take on a maternal role, to care for, nurture, protect, and provide for their offspring. It's often depicted as an automatic, intuitive behavior that ensures the survival and well-being of the young.\n\nSynonyms: motherly love, nurturing instinct, maternal behavior, parental instinct (broader term).\n",
+        "exampleA": "The mother bear's maternal instinct kicked in when she sensed danger to her cubs.",
+        "exampleB": "Even before she held her baby, she felt a strong maternal instinct take over.",
+        "exampleC": "Some argue that maternal instinct is a societal construct, while others believe it's innate.",
+        "status": ""
+    },
+    {
+        "id": "d72b1aaa-5323-44a5-8e7b-26ea2f6e758b",
+        "word": "maternity",
+        "persian": "\"Maternity\" در فارسی معمولاً به «مادرانه»، «مادری» یا «دوران بارداری و زایمان» ترجمه می‌شود، بسته به اینکه در چه context ای به کار رفته باشد.\n",
+        "definition": "motherhood",
+        "exampleA": "children who are unprepared for motherhood.",
+        "exampleB": "She wore comfortable clothing throughout her maternity.",
+        "exampleC": "The company offers generous maternity leave to its employees.",
+        "status": "learned"
+    },
+    {
+        "id": "833a8d52-d3e2-4d3d-8f3a-67a57b95c525",
+        "word": "motherhood",
+        "persian": "\"مادری\" یا \"مادر بودن\" بهترین ترجمه‌ها برای این کلمه هستند و به معنای وضعیت یا تجربه مادر بودن است.\n",
+        "definition": "Motherhood encompasses the state of being a mother, typically associated with nurturing, raising, and caring for a child. It involves a complex blend of emotional, social, and often physical responsibilities related to the well-being and development of offspring. It can also refer to the qualities or attributes often associated with mothers, such as compassion, protectiveness, and selflessness.\n\nSynonyms: maternity, parenthood (specifically female), mothering\n",
+        "exampleA": "She embraced motherhood with open arms.",
+        "exampleB": "The joys and challenges of motherhood are often intertwined.",
+        "exampleC": "Her work explores the complexities of modern motherhood.",
+        "status": ""
+    },
+    {
+        "id": "7ec8c068-3cca-4988-b8fd-2a9266d3bd96",
+        "word": "nature",
+        "persian": "بسته بهcontext  میتونه «طبیعت»، «ذات»، «فطرت» یا «سرشت» معنی بشه.\n",
+        "definition": "\"Nature\" broadly refers to the physical world and everything within it that is not made or caused by humans. It encompasses all plants, animals, ecosystems, landscapes, and natural processes occurring on Earth. It can also refer to the inherent character or qualities of something.\n\nSynonyms: the natural world, environment, wildlife, the outdoors, essence.\n",
+        "exampleA": "We went for a hike to enjoy the beauty of nature.",
+        "exampleB": "Protecting nature is crucial for future generations.",
+        "exampleC": "Her paintings often depict scenes from nature.",
+        "status": ""
+    },
+    {
+        "id": "bf8c4676-ab59-4791-b536-d88de3d7c6f5",
+        "word": "nephew",
+        "persian": "پسر برادر یا خواهر",
+        "definition": "A nephew is the son of one's brother or sister, or the son of one's brother-in-law or sister-in-law. It describes a familial relationship based on blood or marriage.\n\nSynonyms: sister's son, brother's son\n",
+        "exampleA": "My nephew is learning to play the guitar.",
+        "exampleB": "She always spoils her nephew with gifts.",
+        "exampleC": "He's so proud of his nephew's accomplishments.",
+        "status": "learned"
+    },
+    {
+        "id": "7befc472-f690-415b-a4f8-1e9db08ea406",
+        "word": "niece",
+        "persian": "دختر برادر یا خواهر",
+        "definition": "A niece is a daughter of one's brother or sister, or of one's brother-in-law or sister-in-law. It's a familial relationship denoting a female relative in the generation after one's own.\n\nSynonyms: female relative, female descendant, kinswoman.\n",
+        "exampleA": "My niece is visiting from out of town next week.",
+        "exampleB": "She dotes on her niece and nephew.",
+        "exampleC": "He proudly watched his niece graduate from college.",
+        "status": "learned"
+    },
+    {
+        "id": "17caa8aa-27b7-4990-ba6a-6bf22f85a52b",
+        "word": "nurture",
+        "persian": "پرورش دادن، پروردن",
+        "definition": "To nurture means to care for and encourage the growth or development of something or someone. It involves providing the necessary support, sustenance, and environment for something to flourish. It can apply to raising a child, developing a skill, fostering a relationship, or cultivating a plant.\n\nSynonyms: foster, cultivate, develop, nourish, cherish.\n",
+        "exampleA": "to nurture young talents",
+        "exampleB": "Parents should nurture their children's talents and interests.",
+        "exampleC": "A supportive environment is essential to nurture creativity.",
+        "status": "seen"
+    },
+    {
+        "id": "3b09e355-ee74-40e3-841c-f2c945112913",
+        "word": "parent",
+        "persian": "\"Parent\" در فارسی می‌تواند به «والد»، «والدین» (به صورت جمع، برای اشاره به پدر و مادر) یا «سرپرست» ترجمه شود. انتخاب دقیق‌ترین معادل بستگی به متن و مفهوم مورد نظر دارد.\n",
+        "definition": "A parent is a person who raises, nurtures, and cares for a child, typically being their biological mother or father, or someone who has legally adopted or fostered the child. They provide guidance, support, and love, shaping the child's development and well-being.\n\nSynonyms: Mother, Father, Guardian, Caregiver, Foster Parent.\n",
+        "exampleA": "My parent always encouraged me to pursue my dreams.",
+        "exampleB": "The organization provides resources for every kind of parent.",
+        "exampleC": "Becoming a parent is a life-changing experience.",
+        "status": ""
+    },
+    {
+        "id": "f233a29f-e65e-49dc-8f54-820c74929aad",
+        "word": "parental",
+        "persian": "\"Parental\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین ترجمه‌ها عبارتند از: \"والدینی\"، \"مربوط به والدین\" یا \"پدر و مادری\".\n",
+        "definition": "\"Parental\" relates to the characteristics, duties, and responsibilities associated with being a parent. It encompasses the nurturing, caregiving, and guiding role that parents play in the upbringing and development of their children. It also refers to the rights and obligations bestowed upon parents by law and society.\n\nSynonyms: fatherly, motherly, paternal, maternal, nurturing, guardian.\n",
+        "exampleA": "Parental involvement is crucial for a child's academic success.",
+        "exampleB": "The school requires parental consent for all field trips.",
+        "exampleC": "She felt a strong parental instinct when she saw the lost child.",
+        "status": ""
+    },
+    {
+        "id": "ad55b365-6daa-4186-8b22-27e9eacd2daa",
+        "word": "paternal",
+        "persian": "از طرف خانواده پدری، پدرانه",
+        "definition": "\"Paternal\" describes something characteristic of or relating to a father. It often implies a benevolent, caring, and protective nature, much like a father's typical role. It can also refer to inheritance or descent traced through the father's line.\n\nSynonyms: fatherly, paternalistic, patriarchal, protective, benevolent.\n",
+        "exampleA": "His paternal instincts kicked in when he saw the child fall.",
+        "exampleB": "The company offered paternal leave to new fathers.",
+        "exampleC": "He has a paternal responsibility to care for his children.",
+        "status": "learned"
+    },
+    {
+        "id": "46e38c9d-567c-44f4-a5f4-5e6e5c523bfc",
+        "word": "paternity",
+        "persian": "\"Paternity\" در فارسی به معنای \"پدری\" یا \"نسب پدری\" است و به رابطه بیولوژیکی یا قانونی بین پدر و فرزند اشاره دارد.\n",
+        "definition": "fatherhood",
+        "exampleA": "the idea of fatherhood frightens me.",
+        "exampleB": "The court case aimed to establish the child's paternity.",
+        "exampleC": "Doubts about his paternity lingered for years.",
+        "status": "learned"
+    },
+    {
+        "id": "4eb8cd75-2593-4b2c-a427-703a0b0265dc",
+        "word": "play a role",
+        "persian": "\"نقش ایفا کردن\"، \"نقش داشتن\" یا \"مؤثر بودن\" معادل‌های مناسبی برای این عبارت هستند.\n",
+        "definition": "\"Play a role\" means to participate in or contribute to something, often a situation, event, or project. It implies having an influence or impact, even if the contribution is small. It suggests that someone or something is a factor in the outcome, whether intentionally or unintentionally.\n\nSynonyms: contribute, participate, be involved, have a hand in, be a factor, influence.\n",
+        "exampleA": "Education can play a role in reducing poverty.",
+        "exampleB": "Honesty will play a role in building trust.",
+        "exampleC": "Healthy eating habits play a role in maintaining good health.",
+        "status": ""
+    },
+    {
+        "id": "753ef8a7-efdd-45ee-af7f-903fa6aca369",
+        "word": "raise",
+        "persian": "مطرح کردن یک موضوع یا سوال",
+        "definition": "\"Raise\" means to lift something to a higher position, increase in amount, level, or intensity, or bring something into being or awareness. It encompasses the act of elevating something physical or abstract.\n\nSynonyms: elevate, lift, increase, augment, cultivate, rear, bring up.\n",
+        "exampleA": "raise the issue/question",
+        "exampleB": "The company decided to raise prices due to increased manufacturing costs.",
+        "exampleC": "Could you please raise the window a little? It's getting stuffy in here.",
+        "status": "seen"
+    },
+    {
+        "id": "894f725c-e0ce-4186-b559-acdeaefa8672",
+        "word": "reach an agreement",
+        "persian": "به توافق رسیدن",
+        "definition": "\"Reach an agreement\" means to successfully come to a mutual understanding or settlement on a particular issue after discussion, negotiation, or debate. It signifies the end of a disagreement and the establishment of a common ground acceptable to all parties involved.\n\nSynonyms: come to terms, settle, conclude a deal, find common ground, strike a bargain.\n",
+        "exampleA": "After weeks of negotiation, the company and the union were able to reach an agreement.",
+        "exampleB": "Both sides are working hard to reach an agreement before the deadline.",
+        "exampleC": "Despite their differences, they managed to reach an agreement on the key issues.",
+        "status": "learned"
+    },
+    {
+        "id": "73f57782-831d-4fd4-b43d-0c19b74ed8dd",
+        "word": "relate (to)",
+        "persian": "\"Relate to\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما معمولاً به معنی ارتباط داشتن، مربوط بودن، یا درک کردن و هم‌ذات‌پنداری کردن هست.\n",
+        "definition": "To \"relate (to)\" means to understand or find a connection with something or someone, often because you share similar experiences, feelings, or ideas. It implies an ability to empathize, identify with, or feel a sense of kinship.\n\nSynonyms: empathize, identify, connect, understand, sympathize.\n",
+        "exampleA": "I can relate to the feeling of being overwhelmed by work.",
+        "exampleB": "The article didn't relate to the topic we were discussing.",
+        "exampleC": "Many viewers can relate to the characters' struggles on the show.",
+        "status": ""
+    },
+    {
+        "id": "c62ff95a-e8dc-4147-b23d-e6c5203403fb",
+        "word": "relation",
+        "persian": "\"Relation\" بسته به متن می‌تونه به \"رابطه\"، \"ارتباط\"، \"نسبت\" یا \"پیوند\" ترجمه بشه.\n",
+        "definition": "\"Relation\" refers to the way in which two or more things are connected, or the state of being connected. It describes the link, association, or bond between individuals, objects, or ideas, often implying a mutual connection or influence. It can encompass a wide range of connections, from personal relationships to logical connections.\n\nSynonyms: connection, link, bond, association, relationship.\n",
+        "exampleA": "The relation between cause and effect is fundamental to understanding science.",
+        "exampleB": "Their relation had been strained after the argument.",
+        "exampleC": "The company has a strong business relation with its suppliers.",
+        "status": ""
+    },
+    {
+        "id": "47037ab6-dafd-4535-9172-5b2cf743699f",
+        "word": "relationship (between, with)",
+        "persian": "\"رابطه\" یا \"ارتباط\" بسته به متن و نوع رابطه‌ای که مد نظر است.\n",
+        "definition": "A relationship refers to the way in which two or more people or things are connected, or the state of being connected. It describes the nature and degree of interaction, association, or linkage between them. This connection can be based on various factors like kinship, shared interests, mutual feelings, or simply proximity.\n\nSynonyms: connection, association, bond, link, tie.\n",
+        "exampleA": "The relationship between the two companies is complex and multifaceted.",
+        "exampleB": "She has a very close relationship with her grandmother.",
+        "exampleC": "Researchers are studying the relationship between diet and disease.",
+        "status": ""
+    },
+    {
+        "id": "b2c4a3fb-70b6-49e8-8146-08938f4bf8da",
+        "word": "relative",
+        "persian": "\"Relative\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها این‌ها هستند:\n\n   نسبی: وقتی در مورد چیزی صحبت می‌کنیم که به چیز دیگری بستگی دارد یا مقایسه می‌شود.\n   خویشاوند/فامیل: وقتی در مورد ارتباطات خانوادگی صحبت می‌کنیم.\n   مرتبط: وقتی در مورد ارتباط بین دو چیز صحبت می‌کنیم.\n",
+        "definition": "\"Relative\" signifies something that is not absolute or independent, but rather exists or is understood in relation to something else. It implies a comparison or connection to another factor, standard, or point of reference. The value, meaning, or significance of something relative depends on the context or relationship in which it is considered.\n\nSynonyms: comparative, dependent, connected, contingent, proportional.\n",
+        "exampleA": "My relative is visiting from out of town next week.",
+        "exampleB": "The price of the item seems relative to its quality.",
+        "exampleC": "Compared to the sun, Earth is relatively small.",
+        "status": ""
+    },
+    {
+        "id": "45454550-5447-47fe-bdbc-6c5cc5763f2d",
+        "word": "resemblance",
+        "persian": "\"resemblance\" در فارسی به معنی \"شباهت\"، \"همانندی\" یا \"تشابه\" است.\n",
+        "definition": "Resemblance refers to the state of looking or being like someone or something else. It implies a similarity in appearance, characteristics, or qualities between two or more things. The degree of resemblance can range from slight to very strong.\n\nSynonyms: similarity, likeness, correspondence, analogy, affinity.\n",
+        "exampleA": "The resemblance between the twins was uncanny.",
+        "exampleB": "There's a striking resemblance between her paintings and Van Gogh's.",
+        "exampleC": "Despite being raised apart, they noticed a strong resemblance in their mannerisms.",
+        "status": ""
+    },
+    {
+        "id": "71335888-b68d-4f5c-930b-ff439127443f",
+        "word": "rewarding",
+        "persian": "رضایت بخش",
+        "definition": "\"Rewarding\" describes something that provides a feeling of personal satisfaction, fulfillment, or gratification, often because of effort invested or a positive outcome achieved. It implies a sense of worth and value derived from the experience or activity.\n\nSynonyms: fulfilling, gratifying, satisfying, enriching, worthwhile.\n",
+        "exampleA": "a rewarding career",
+        "exampleB": "Volunteering at the animal shelter was a surprisingly rewarding experience.",
+        "exampleC": "The challenging project proved to be extremely rewarding upon completion.",
+        "status": "learned"
+    },
+    {
+        "id": "2c55d899-3081-4566-ab2d-796058e78d52",
+        "word": "rivalry",
+        "persian": "\"Rivalry\" در فارسی به معنای \"رقابت\"، \"ستیز\"، \"هماوردی\" یا \"خصومت\" است. انتخاب بهترین معادل بستگی به متن و لحن مورد نظر دارد.\n",
+        "definition": "Rivalry signifies a state of competition or antagonism between individuals, groups, or organizations striving for the same objective or vying for superiority in a particular domain. It often involves a persistent desire to outperform the other(s) and can manifest in various settings like sports, business, or even personal relationships.\n\nSynonyms: competition, contention, opposition, antagonism, feud.\n",
+        "exampleA": "The intense rivalry between the two basketball teams made for an exciting game.",
+        "exampleB": "Their business partnership dissolved due to the escalating rivalry for market share.",
+        "exampleC": "Sibling rivalry is a common experience during childhood.",
+        "status": ""
+    },
+    {
+        "id": "8c590f56-e4a3-48d7-abba-c448979805fe",
+        "word": "sibling",
+        "persian": "\"Sibling\" در فارسی به «خواهر و برادر» یا «هم‌خون» ترجمه می‌شود و به طور کلی به هر فردی گفته می‌شود که با فرد دیگری دارای یک یا هر دو والدین یکسان باشد.\n",
+        "definition": "A sibling is a person's brother or sister, sharing at least one parent. It's a term used to describe the familial relationship between children of the same parentage, regardless of gender.\n\nSynonyms: brother, sister, sib, kin.\n",
+        "exampleA": "My sibling and I share a close bond.",
+        "exampleB": "She treats her best friend like a sibling.",
+        "exampleC": "Having a sibling can teach you valuable lessons about sharing.",
+        "status": ""
+    },
+    {
+        "id": "100958ad-4614-4dca-b3a8-24a5f4b4be17",
+        "word": "sibling rivalry",
+        "persian": "رقابتها و تعارضات خواهر برادری",
+        "definition": "Sibling rivalry refers to the competition, jealousy, and animosity that can occur between brothers and sisters. It often stems from perceived unfair treatment, competition for parental attention, or differences in personality and interests. This rivalry can manifest in various ways, from playful teasing to serious arguments and can persist into adulthood.\n\nSynonyms: sibling conflict, sibling squabbles, fraternal competition, familial strife.\n",
+        "exampleA": "The constant bickering was a clear sign of intense sibling rivalry.",
+        "exampleB": "Despite the sibling rivalry, they always had each other's backs in the end.",
+        "exampleC": "The competition for their parents' attention fueled their lifelong sibling rivalry.",
+        "status": "learned"
+    },
+    {
+        "id": "371f44ea-ebfb-46ef-9051-50f969dbd05e",
+        "word": "stable",
+        "persian": "\"Stable\" بسته به متن می‌تونه به \"پایدار\"، \"ثابت\"، \"استوار\" یا \"مطمئن\" ترجمه بشه.\n",
+        "definition": "\"Stable\" describes something that is not easily changed, moved, or upset; it is firm, steady, and reliable. A stable situation or object is in equilibrium, resistant to fluctuations or disruptions. Essentially, it implies a sense of consistency and predictability.\n\nSynonyms: steady, firm, secure, steadfast, durable, balanced.\n",
+        "exampleA": "The horse stood stable and calm as the rider mounted.",
+        "exampleB": "A stable economy is crucial for long-term growth.",
+        "exampleC": "The chemical compound is stable under normal conditions.",
+        "status": ""
+    },
+    {
+        "id": "fc79ce43-52cc-4fda-ba5d-70e27e2ecca6",
+        "word": "stable upbringing",
+        "persian": "\"تربیت باثبات\" یا \"پرورش در محیطی باثبات\"\n",
+        "definition": "A stable upbringing refers to a childhood environment characterized by consistency, security, and predictability. It typically involves a supportive and nurturing family structure, consistent routines, emotional security, and financial stability. This kind of upbringing allows children to develop a strong sense of self, learn healthy coping mechanisms, and build secure attachments.\n\nSynonyms: secure childhood, nurturing upbringing, balanced upbringing, grounded childhood.\n",
+        "exampleA": "A stable upbringing is crucial for a child's emotional development.",
+        "exampleB": "Despite facing adversity, she credited her success to her stable upbringing.",
+        "exampleC": "The therapist believed his anxiety stemmed from a lack of a stable upbringing.",
+        "status": ""
+    },
+    {
+        "id": "8b9028ed-4314-4fe1-8b6a-69f9cd0a080d",
+        "word": "striking resemblance",
+        "persian": "شباهت تو چشم و زننده",
+        "definition": "\"Striking resemblance\" refers to a very strong or remarkable similarity between two or more people or things. It suggests that the likeness is so significant and obvious that it immediately catches the eye.\n\nSynonyms: uncanny similarity, remarkable likeness, close resemblance, spitting image, dead ringer.\n",
+        "exampleA": "The twins shared a striking resemblance, making it difficult to tell them apart.",
+        "exampleB": "Despite being unrelated, the actress and the historical figure had a striking resemblance.",
+        "exampleC": "The new model of car bears a striking resemblance to its predecessor.",
+        "status": "seen"
+    },
+    {
+        "id": "353233e3-2413-48c8-959b-fb5071f5a917",
+        "word": "taste (in sth)",
+        "persian": "سلیقه",
+        "definition": "\"Taste\" in something refers to your personal preference, judgment, or sense of what is appealing, stylish, or appropriate within a particular area, such as music, art, fashion, or decor. It indicates your capacity to appreciate and select things that align with your aesthetic sensibilities or understanding of quality in that domain.\n\nSynonyms: preference, liking, inclination, appreciation, discernment, aesthetic sense.\n",
+        "exampleA": "what's your taste in music?",
+        "exampleB": "Her taste in music is quite eclectic, ranging from classical to punk rock.",
+        "exampleC": "He has terrible taste in clothes, often wearing clashing colors and outdated styles.",
+        "status": "learned"
+    },
+    {
+        "id": "dae29ec3-d9df-458d-89b4-d229b127ad25",
+        "word": "teenager",
+        "persian": "معادل‌های مختلفی برای teenager در فارسی وجود دارد، از جمله: نوجوان، جوان، نوجوانه (محاوره).\n",
+        "definition": "A teenager is a young person between the ages of 13 and 19. This period of life is often marked by significant physical, emotional, and social development as individuals transition from childhood into adulthood. It's a time of exploration, self-discovery, and grappling with new responsibilities and challenges.\n\nSynonyms: adolescent, teen, youth, young adult\n",
+        "exampleA": "The teenager was excited to get their driver's license.",
+        "exampleB": "She often babysits her younger siblings since she's a teenager now.",
+        "exampleC": "That teenager is very skilled at playing the guitar.",
+        "status": ""
+    },
+    {
+        "id": "9d8b203f-5e6c-4f73-b003-2aa14b9482df",
+        "word": "temperament",
+        "persian": "خلق و خوی",
+        "definition": "Temperament refers to the characteristic set of inborn, biologically based personality traits that influence how a person reacts to and interacts with the world. It's often considered the \"raw material\" of personality, shaping a person's emotional reactivity, energy levels, and self-regulation. Think of it as a person's natural predisposition to behave in certain ways.\n\nSynonyms: disposition, nature, character, constitution, makeup\n",
+        "exampleA": "Her artistic temperament made her sensitive to criticism.",
+        "exampleB": "The dog's calm temperament made him an excellent therapy animal.",
+        "exampleC": "The success of the project depended on the team's ability to manage their diverse temperaments.",
+        "status": "learned"
+    },
+    {
+        "id": "291986eb-0697-414f-87d3-dc1364fdc276",
+        "word": "thank goodness",
+        "persian": "خدا را شکر",
+        "definition": "\"Thank goodness\" is an expression of relief or gratitude that something unpleasant has been avoided or that something positive has occurred. It conveys a sense of being thankful that a potential problem didn't materialize, or that a desired outcome came to pass.\n\nSynonyms: Thank heavens, thankfully, fortunately, thank God, what a relief.\n",
+        "exampleA": "Thank goodness, the rain stopped before the picnic started.",
+        "exampleB": "I found my keys; thank goodness they were just under the couch!",
+        "exampleC": "Thank goodness you're safe; we were so worried.",
+        "status": "learned"
+    },
+    {
+        "id": "2fedb215-950d-4d8f-a29d-cf5c87ed9ddf",
+        "word": "ties",
+        "persian": "روابط بین دو گروه یا کشور",
+        "definition": "\"Ties\" refers to the connections, bonds, or relationships between individuals, groups, or entities. These connections can be based on shared interests, kinship, affection, obligation, or other factors that bind people or things together. They represent a sense of unity, interdependence, or mutual involvement.\n\nSynonyms: connections, bonds, links, relationships, affiliations, associations\n",
+        "exampleA": "close/strong family ties",
+        "exampleB": "The investigation revealed strong ties between the two companies.",
+        "exampleC": "He always wears a suit and ties to work.",
+        "status": "learned"
+    },
+    {
+        "id": "c90d8b8a-d199-40cc-bd48-c788d089ac5b",
+        "word": "upbringing",
+        "persian": "تربیت",
+        "definition": "Upbringing refers to the way a child is raised and nurtured, encompassing the education, values, beliefs, and experiences that shape their development and character. It includes the parenting style, environment, and cultural influences that contribute to a person's growth from infancy to adulthood.\n\nSynonyms: rearing, nurture, parenting, childhood, education.\n",
+        "exampleA": "an stable upbringing",
+        "exampleB": "Her strict upbringing instilled in her a strong sense of discipline.",
+        "exampleC": "His privileged upbringing gave him access to opportunities that many others never have.",
+        "status": "learned"
+    }
+]

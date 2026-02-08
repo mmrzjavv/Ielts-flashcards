@@ -1,0 +1,782 @@
+[
+    {
+        "id": "2f5cd9af-e9a4-41fe-90de-5dc9f9ac7bb2",
+        "word": "accuracy",
+        "persian": "دقت",
+        "definition": "Accuracy refers to the degree to which something is correct or precise; it's how closely a measured or calculated value matches the true or accepted value. In essence, it reflects the absence of error or deviation from a standard.\n\nSynonyms: Precision, exactness, correctness, fidelity, truthfulness.\n",
+        "exampleA": "The accuracy of the weather forecast improved with the new satellite data.",
+        "exampleB": "She emphasized the importance of accuracy when reporting financial figures.",
+        "exampleC": "The archer's accuracy was remarkable, hitting the bullseye every time.",
+        "status": "learned"
+    },
+    {
+        "id": "21808ec3-668c-4803-ade4-5c154ec6f3d7",
+        "word": "appreciate",
+        "persian": "قدردانى کردن( از)،تقدير کردن ،درک کردن",
+        "definition": "To appreciate something means to recognize and enjoy its good qualities, value, or significance. It involves being grateful for, understanding, and acknowledging the worth of someone or something. It can also mean to increase in value over time.\n\nSynonyms: value, cherish, admire, acknowledge, recognize\n",
+        "exampleA": "I appreciate your help with this project.",
+        "exampleB": "We appreciate the opportunity to present our proposal.",
+        "exampleC": "They appreciate the simple things in life, like a good cup of coffee.",
+        "status": "learned"
+    },
+    {
+        "id": "85f71951-d917-464b-83be-9766a5bd2919",
+        "word": "chimpanzee",
+        "persian": "شامپانزه",
+        "definition": "A chimpanzee is a species of great ape native to the forests and savanna of tropical Africa, known for their high intelligence, complex social structures, and close genetic relationship to humans. They are skilled tool users and demonstrate a wide range of behaviors similar to humans.\n\nSynonyms: Chimp, Pan troglodytes, common chimpanzee.\n",
+        "exampleA": "The chimpanzee swung effortlessly through the trees, a display of its arboreal agility.",
+        "exampleB": "Researchers observed the chimpanzee using a tool to extract termites from a log.",
+        "exampleC": "A baby chimpanzee clung tightly to its mother's back as she foraged for food.",
+        "status": "learned"
+    },
+    {
+        "id": "40a63f13-ab87-4a8b-a8a7-4bf7db162450",
+        "word": "clarify",
+        "persian": "روشن کردن یک موضوع",
+        "definition": "To clarify means to make something easier to understand by providing more detail, removing ambiguity, or simplifying complex ideas. It's about making something clearer and more accessible to others.\n\nSynonyms: explain, elucidate, simplify, define, illuminate.\n",
+        "exampleA": "Could you clarify the first point please? I don't understand it completely.",
+        "exampleB": "Could you please clarify your position on the matter?",
+        "exampleC": "The instructions were unclear, so I had to clarify them with my supervisor.",
+        "status": "learned"
+    },
+    {
+        "id": "8ce7f69d-c9fe-4f96-a2aa-2abd2079b4f9",
+        "word": "communicate",
+        "persian": "\"communicate\" در فارسی می‌تواند به معانی مختلفی مانند \"ارتباط برقرار کردن\"، \"گفتگو کردن\"، \"اطلاع دادن\" یا \"انتقال دادن\" بسته به متن مورد استفاده ترجمه شود.\n",
+        "definition": "To communicate means to convey information, ideas, thoughts, or feelings to others effectively, ensuring that the message is understood. It involves a sender, a message, a channel, and a receiver, all working together to establish a shared understanding.\n\nSynonyms: convey, impart, express, inform, transmit.\n",
+        "exampleA": "We need to communicate our findings to the team.",
+        "exampleB": "She found it difficult to communicate her feelings.",
+        "exampleC": "Animals communicate in various ways, including through sound and body language.",
+        "status": ""
+    },
+    {
+        "id": "65901c3d-7e3a-4fe3-88fc-a2ffb6cde11a",
+        "word": "communication",
+        "persian": "\"communication\" در فارسی می‌تواند به صورت‌های مختلفی ترجمه شود، از جمله: ارتباط، انتقال پیام، و اطلاع‌رسانی. انتخاب بهترین معادل بستگی بهcontext دارد.\n",
+        "definition": "Communication is the process of conveying information, ideas, thoughts, feelings, and emotions between individuals or groups through various channels. It's a two-way process involving a sender, a message, a medium, and a receiver, with the goal of creating mutual understanding and shared meaning. Effective communication leads to clarity, collaboration, and stronger relationships.\n\nSynonyms: exchange, interaction, dialogue, transmission, correspondence\n",
+        "exampleA": "Effective communication is crucial for building strong relationships.",
+        "exampleB": "The company uses various channels of communication to reach its customers.",
+        "exampleC": "A breakdown in communication led to misunderstandings and delays.",
+        "status": ""
+    },
+    {
+        "id": "452d587c-9330-4951-8b6b-71bc2f5ab282",
+        "word": "comprehend",
+        "persian": "فهمیدن ، متوجه شدن",
+        "definition": "To comprehend means to grasp the meaning of something, to understand it fully and completely. It involves not just hearing or seeing information, but also processing it in a way that allows you to make sense of it.\n\nSynonyms: understand, grasp, perceive, apprehend, fathom.\n",
+        "exampleA": "I didn't fully comprehend the instructions, so I made a few mistakes.",
+        "exampleB": "She struggled to comprehend the complex physics equation.",
+        "exampleC": "After a lengthy explanation, he finally began to comprehend the situation.",
+        "status": "learned"
+    },
+    {
+        "id": "1e183927-9249-456a-a245-5a53f079c61c",
+        "word": "concept",
+        "persian": "\"Concept\" در فارسی می‌تواند به معانی مختلفی ترجمه شود، اما رایج‌ترین و مناسب‌ترین ترجمه‌ها عبارتند از: \"مفهوم\"، \"تصور\"، \"ایده\"، یا \"انگاره\". انتخاب دقیق‌ترین معادل بستگی به متن و کاربرد آن دارد.\n",
+        "definition": "A concept is an abstract idea or general notion representing a fundamental element of thought or knowledge. It's a mental representation that allows us to understand and categorize experiences, objects, or events by identifying common features or characteristics. In essence, it's a building block for understanding the world around us.\n\nSynonyms: idea, notion, thought, principle, abstraction, construct.\n",
+        "exampleA": "The concept of democracy is complex and multifaceted.",
+        "exampleB": "I'm struggling to grasp the underlying concept behind this physics problem.",
+        "exampleC": "She developed a groundbreaking concept for a new marketing campaign.",
+        "status": ""
+    },
+    {
+        "id": "815f6489-fff1-4257-930e-8378233b0847",
+        "word": "conclude",
+        "persian": "نتیجه گیری کردن ، خاتمه یافتن",
+        "definition": "To conclude means to bring something to an end or to reach a final decision or judgment after a period of thought, investigation, or discussion. It signifies the act of finishing or wrapping up a process or activity.\n\nSynonyms: end, finish, complete, determine, deduce, resolve.\n",
+        "exampleA": "After reviewing the evidence, the jury had to conclude that the defendant was guilty.",
+        "exampleB": "The scientists could only conclude that further research was needed to understand the phenomenon.",
+        "exampleC": "I can only conclude from your silence that you disagree with my proposal.",
+        "status": "learned"
+    },
+    {
+        "id": "efed82da-aa24-476a-b680-163bb41dcb14",
+        "word": "confirm",
+        "persian": "تایید کردن",
+        "definition": "To confirm means to verify or establish the truth, accuracy, or validity of something. It strengthens a belief or assurance, often by providing evidence or further information. It can also mean to formally approve or ratify something.\n\nSynonyms: Verify, Validate, Affirm, Corroborate, Authenticate.\n",
+        "exampleA": "the report confirms that a diet rich in vitamin C can help to prevent cataracts",
+        "exampleB": "Please confirm your reservation by replying to this email.",
+        "exampleC": "The lab results confirm that the patient is healthy.",
+        "status": "learned"
+    },
+    {
+        "id": "b79d810f-f223-43f6-b9d1-81be64a7ee32",
+        "word": "conjecture",
+        "persian": "\"Conjecture\" در فارسی می‌تواند به صورت \"حدس\"، \"گمانه‌زنی\" یا \"فرضیه\" ترجمه شود، که همگی به یک ایده یا نظر مبتنی بر اطلاعات ناقص یا ناکافی اشاره دارند.\n",
+        "definition": "guess",
+        "exampleA": "conjectures about the newcomer were many and varied",
+        "exampleB": "The detective's conjecture about the suspect's motive proved to be correct.",
+        "exampleC": "His conjecture that the market would crash was based on very little evidence.",
+        "status": "seen"
+    },
+    {
+        "id": "02fabf32-05af-4e8f-bdaa-1254cb14e5ca",
+        "word": "connotation",
+        "persian": "معنی، معنی ضمنی",
+        "definition": "Connotation refers to the emotional, cultural, or suggested meaning associated with a word or phrase, beyond its literal or dictionary definition. It encompasses the feelings and associations that a word evokes, which can be positive, negative, or neutral and vary depending on individual experiences and cultural context.\n\nSynonyms: implication, suggestion, undertone, association, nuance.\n",
+        "exampleA": "Our society often attaches a negative connotation to the word ‘game.’",
+        "exampleB": "The word \"home\" has a positive connotation for most people, suggesting warmth and comfort.",
+        "exampleC": "While the word itself is neutral, the context of its use can give it a negative connotation.",
+        "status": "seen"
+    },
+    {
+        "id": "00fa59bd-d9c6-409d-a9b3-450d048f0539",
+        "word": "contradict",
+        "persian": "متناقض بودن، نقض کردن",
+        "definition": "To contradict means to assert the opposite of what someone else has said or done, or to be inconsistent with something else. It implies a clash or conflict between statements, actions, or ideas. In essence, it's a denial or rebuttal.\n\nSynonyms: deny, refute, oppose, challenge, negate.\n",
+        "exampleA": "If you're both going to lie, at least stick to the same story and don't contradict each other!",
+        "exampleB": "His actions often contradict his words.",
+        "exampleC": "The witness's testimony seemed to contradict the evidence.",
+        "status": "seen"
+    },
+    {
+        "id": "1df5bf09-bd18-46d8-a017-450cc12a79fd",
+        "word": "converse",
+        "persian": "گفتگو کردن",
+        "definition": "To converse means to engage in a spoken exchange of thoughts, feelings, or information; it's essentially having a conversation. It implies a reciprocal and often informal exchange between two or more people.\nSynonyms: talk, chat, discuss, communicate, speak\n",
+        "exampleA": "She's so shy that conversing with her can be quite difficult.",
+        "exampleB": "The two scientists were eager to converse about their latest findings.",
+        "exampleC": "She preferred to converse in French to practice her fluency.",
+        "status": "learned"
+    },
+    {
+        "id": "07b543d1-e6f5-4b83-8871-bf232067ebe0",
+        "word": "cove",
+        "persian": "\"Cove\" در فارسی می‌تواند به \"خلیج کوچک\"، \"خور\"، \"آب‌بند\" یا \"پناهگاه ساحلی\" ترجمه شود. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "a curved part of a coast that partly surrounds an area of water",
+        "exampleA": "The small cove provided a sheltered spot for our picnic.",
+        "exampleB": "We anchored our boat in the tranquil cove, enjoying the clear water.",
+        "exampleC": "Hidden within the cove, we discovered a secret beach.",
+        "status": "learned"
+    },
+    {
+        "id": "91900275-7c0b-4611-8f81-2419a48dbdb4",
+        "word": "define",
+        "persian": "\"Define\" در فارسی بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها شامل این موارد هستند: \"تعریف کردن\"، \"مشخص کردن\"، \"معین کردن\"، \"توصیف کردن\" یا \"تعیین کردن\".\n",
+        "definition": "To define something is to state clearly and concisely the meaning of a word, concept, or object, often by describing its essential qualities and characteristics. It's about setting boundaries and making something distinct and understandable.\n\nSynonyms: Explain, clarify, describe, delineate, specify.\n",
+        "exampleA": "Can you define the term 'quantum entanglement' for me?",
+        "exampleB": "The contract clearly defines the responsibilities of each party.",
+        "exampleC": "We need to define our target audience before launching the marketing campaign.",
+        "status": ""
+    },
+    {
+        "id": "8c7fb6d9-a5cd-461f-ab15-f00750af0ef2",
+        "word": "Define",
+        "persian": "To give the meaning of. To explain تعريف کردن",
+        "definition": "\"Define\" means to clearly and precisely explain the meaning of something, such as a word, concept, or term. It involves outlining its essential qualities, characteristics, or boundaries to make it understandable. Essentially, you're providing a comprehensive description that clarifies its nature.\n\nSynonyms: explain, clarify, delineate, specify, describe.\n",
+        "exampleA": "Can you define the term 'quantum entanglement'?",
+        "exampleB": "We need to define clear objectives for this project.",
+        "exampleC": "The dictionary defines 'love' as a profound emotion.",
+        "status": "learned"
+    },
+    {
+        "id": "06fe57d4-7464-47da-a025-b48e56b1b6f3",
+        "word": "demonstrate",
+        "persian": "با توضیح نشان دادن",
+        "definition": "To demonstrate means to clearly show or prove something, often through actions, evidence, or examples. It involves making something evident or apparent to others.\n\nSynonyms: show, illustrate, prove, exhibit, display.\n",
+        "exampleA": "The teacher will demonstrate the proper technique for using the microscope.",
+        "exampleB": "These findings demonstrate a clear link between diet and health.",
+        "exampleC": "Please demonstrate your understanding of the material by answering the following questions.",
+        "status": "learned"
+    },
+    {
+        "id": "6233f905-065b-4290-965e-9771043c3ac8",
+        "word": "denotation",
+        "persian": "معنی صریح",
+        "definition": "Denotation refers to the literal or dictionary definition of a word, devoid of any emotional or subjective associations. It is the objective meaning shared by a language community, as opposed to the feelings or ideas a word might suggest.\n\nSynonyms: Literal meaning, dictionary definition, explicit meaning, objective meaning.\n",
+        "exampleA": "The dictionary provides the denotation of the word, but not always its connotations.",
+        "exampleB": "We must consider both the denotation and connotation of 'freedom' to fully understand its meaning.",
+        "exampleC": "The author carefully chose words with a specific denotation to create a precise image in the reader's mind.",
+        "status": "learned"
+    },
+    {
+        "id": "657271e0-c279-481f-98a0-b83268e4aa81",
+        "word": "denote",
+        "persian": "مفهوم رساندن، indicate",
+        "definition": "\"Denote\" means to serve as a name or symbol for, to indicate, or to signify something directly and explicitly. It points to the literal or dictionary definition of a word or the thing that a sign or symbol represents. It emphasizes a clear, objective connection between the signifier and the signified.\n\nSynonyms: Indicate, signify, represent, mean, designate, express.\n",
+        "exampleA": "The colour red is used to denote passion or danger.",
+        "exampleB": "In this diagram, the red lines denote major highways.",
+        "exampleC": "The asterisk in the footnote will denote additional information.",
+        "status": "learned"
+    },
+    {
+        "id": "74d2c4e5-d519-4385-892c-7c33c138b97b",
+        "word": "dialect",
+        "persian": "لهجه ،زبان محلى ،گويش",
+        "definition": "A dialect is a regional or social variety of a language distinguished by pronunciation, grammar, and vocabulary. It's a form of language that differs from the standard or main version spoken in a particular area or by a specific group of people. Dialects are often seen as less prestigious than the standard language, though they are equally valid and complex linguistic systems.\n\nSynonyms: vernacular, regionalism, patois, accent, idiom.\n",
+        "exampleA": "a regional dialect",
+        "exampleB": "The linguist studied the unique dialect spoken in the remote mountain village.",
+        "exampleC": "Although they both spoke English, the nuances of their respective regional dialects made communication challenging.",
+        "status": "learned"
+    },
+    {
+        "id": "2c3c3eb6-fcb3-46da-86a9-7e15ca626f2c",
+        "word": "distinguish",
+        "persian": "تمیز دادن، وجه تمایز قائل شدن",
+        "definition": "To distinguish means to recognize or point out a difference between two or more things or people, especially to identify them as being different. It implies careful observation and the ability to perceive subtle variations.\n\nSynonyms: differentiate, discern, differentiate, separate, identify.\n",
+        "exampleA": "He's colour-blind and can't distinguish (the difference) between red and green easily.",
+        "exampleB": "It can be difficult to distinguish between identical twins.",
+        "exampleC": "The expert was able to distinguish the original painting from the forgery.",
+        "status": "seen"
+    },
+    {
+        "id": "6324cc6b-54bf-4266-9152-af36e25fe59b",
+        "word": "emerge",
+        "persian": "بیرون آمدن ، ظاهر شدن ، خارج شدن",
+        "definition": "To emerge means to come forth into view, notice, or existence, often after being hidden or concealed. It suggests a gradual or surprising appearance from a previously unclear or unseen state.\n\nSynonyms: appear, surface, arise, come out, materialize\n",
+        "exampleA": "New leaders will emerge from the crisis.",
+        "exampleB": "Details continue to emerge about the scandal.",
+        "exampleC": "The sun began to emerge from behind the clouds.",
+        "status": "learned"
+    },
+    {
+        "id": "69de1215-7819-4d9d-a75d-6e8030c6a9d5",
+        "word": "evolve",
+        "persian": "\"Evolve\" در فارسی معمولاً به صورت \"تکامل یافتن\"، \"توسعه یافتن\" یا \"پیشرفت کردن\" ترجمه می‌شود که بسته به متن و مفهوم مورد نظر، یکی از این معادل‌ها مناسب‌تر خواهد بود.\n",
+        "definition": "Evolve means to gradually develop or change over time, often into a more complex or advanced form. It implies a process of adaptation and transformation in response to changing circumstances or environments.\n\nSynonyms: develop, progress, advance, grow, transform.\n",
+        "exampleA": "The company needs to evolve its marketing strategy to reach a younger audience.",
+        "exampleB": "Over time, the simple cell evolved into complex multicellular organisms.",
+        "exampleC": "His understanding of the subject continued to evolve as he gained more experience.",
+        "status": ""
+    },
+    {
+        "id": "ec04a5a3-4d9a-4b8a-8eb1-d6ae00127a69",
+        "word": "explain",
+        "persian": "\"Explain\" در فارسی می‌تواند معادل‌های مختلفی داشته باشد، اما رایج‌ترین و کلی‌ترین ترجمه‌ها عبارتند از: \"توضیح دادن\"، \"شرح دادن\"، یا \"تفسیر کردن\".\n",
+        "definition": "To explain means to make something clear, understandable, or easier to comprehend by providing information, reasons, or details about it. It involves clarifying complex ideas or concepts so that someone else can grasp their meaning or significance.\n\nSynonyms: clarify, elucidate, expound, interpret, define.\n",
+        "exampleA": "Could you explain the concept of quantum entanglement?",
+        "exampleB": "The teacher will explain the new assignment tomorrow.",
+        "exampleC": "Let me explain why I disagree with that statement.",
+        "status": ""
+    },
+    {
+        "id": "f50dacab-5373-43bf-9a86-2983d5e40394",
+        "word": "express",
+        "persian": "ابراز کردن",
+        "definition": "\"Express\" means to convey a thought, feeling, or idea through words, actions, or other means of communication, making it known to others. It emphasizes clarity and directness in getting your point across.\n\nSynonyms: articulate, communicate, reveal, state, convey.\n",
+        "exampleA": "She decided to express her feelings in a heartfelt letter.",
+        "exampleB": "The train will express you directly to the city center.",
+        "exampleC": "Please express your opinion on the new proposal.",
+        "status": "learned"
+    },
+    {
+        "id": "32575f46-40fd-4db3-a9b4-aa5200d3be76",
+        "word": "fabulous",
+        "persian": "افسانه ای - عالی",
+        "definition": "\"Fabulous\" means extraordinarily good or impressive; almost unbelievably great. It suggests something is delightful, wonderful, or remarkable, often in a way that is almost too good to be true.\n\nSynonyms: amazing, fantastic, marvelous, wonderful, incredible.\n",
+        "exampleA": "The party was fabulous, with delicious food and great music.",
+        "exampleB": "She looked absolutely fabulous in her new dress.",
+        "exampleC": "They had a fabulous time on their vacation in Italy.",
+        "status": "learned"
+    },
+    {
+        "id": "8c645316-762d-4e2b-aed9-dac3f498929f",
+        "word": "fluency",
+        "persian": "داشتن تسلط، روانی",
+        "definition": "Fluency refers to the ability to express oneself easily and articulately, especially in a language, with a smooth, flowing, and effortless command of vocabulary, grammar, and pronunciation. It implies a natural rhythm and ease in communication.\n\nSynonyms: eloquence, articulateness, proficiency, mastery, facility.\n",
+        "exampleA": "One of the requirements of the job is fluency in two or more African languages",
+        "exampleB": "Her fluency in Spanish allowed her to easily converse with the locals.",
+        "exampleC": "Developing fluency in a new programming language takes time and practice.",
+        "status": "learned"
+    },
+    {
+        "id": "26712c2b-3a75-4c5f-bddb-8abf16dc6a39",
+        "word": "gesture",
+        "persian": "بسته به متن، \"gesture\" می‌تونه به موارد زیر ترجمه بشه:\n\n   ژست: وقتی به حالت و طرز ایستادن یا نشستن اشاره داره.\n   حرکت: وقتی به یک حرکت بدنی خاص مثل تکان دادن دست اشاره داره.\n   اشاره: وقتی برای انتقال پیام یا منظوری از حرکات دست یا بدن استفاده می‌شه.\n   کنش: در معنای کلی‌تر، می‌تونه به هر نوع عمل یا رفتاری اشاره داشته باشه.\n   حركت نمادين: وقتی یک حرکت، نشان‌دهنده مفهوم یا احساسی خاص باشه.\n",
+        "definition": "A gesture is a movement of the body, especially a hand or arm, used to express an idea or feeling. It can be a nonverbal way to communicate, emphasize a point, or replace spoken words altogether. Gestures can be intentional or unintentional and vary significantly across cultures.\n\nSynonyms: Signal, motion, indication, sign, wave\n",
+        "exampleA": "She made a small gesture of apology, offering a weak smile.",
+        "exampleB": "The conductor's dramatic gesture signaled the orchestra to begin.",
+        "exampleC": "He interpreted her silence as a gesture of disapproval.",
+        "status": ""
+    },
+    {
+        "id": "11e9dcd9-69b8-4207-90ce-512c7b0775ac",
+        "word": "gesture",
+        "persian": "بسته به متن، \"gesture\" می‌تونه به موارد زیر ترجمه بشه:\n\n   ژست: وقتی به حالت و طرز ایستادن یا نشستن اشاره داره.\n   حرکت: وقتی به یک حرکت بدنی خاص مثل تکان دادن دست اشاره داره.\n   اشاره: وقتی برای انتقال پیام یا منظوری از حرکات دست یا بدن استفاده می‌شه.\n   کنش: در معنای کلی‌تر، می‌تونه به هر نوع عمل یا رفتاری اشاره داشته باشه.\n   حركت نمادين: وقتی یک حرکت، نشان‌دهنده مفهوم یا احساسی خاص باشه.\n",
+        "definition": "A gesture is a movement of the body, especially a hand or arm, used to express an idea or feeling. It can be a nonverbal way to communicate, emphasize a point, or replace spoken words altogether. Gestures can be intentional or unintentional and vary significantly across cultures.\n\nSynonyms: Signal, motion, indication, sign, wave\n",
+        "exampleA": "She made a small gesture of apology, offering a weak smile.",
+        "exampleB": "The conductor's dramatic gesture signaled the orchestra to begin.",
+        "exampleC": "He interpreted her silence as a gesture of disapproval.",
+        "status": ""
+    },
+    {
+        "id": "11da5b03-a3a9-499c-8dcf-b51bf273a464",
+        "word": "have a say",
+        "persian": "حرفی برای گفتن داشتن",
+        "definition": "\"Have a say\" means to have the opportunity to express your opinion or influence a decision on a particular matter. It implies having some level of input or control over an outcome, rather than being completely excluded from the decision-making process.\n\nSynonyms: have a voice, have input, have influence, participate, contribute\n",
+        "exampleA": "I think it's important for everyone to have a say in how the government is elected",
+        "exampleB": "Everyone should have a say in how the company is run.",
+        "exampleC": "The children wanted to have a say in choosing the movie.",
+        "status": "learned"
+    },
+    {
+        "id": "c3468fdb-8356-4bc8-a92b-a58ec666cbe5",
+        "word": "having said that",
+        "persian": "با وجود این، با همه ی این حرفها",
+        "definition": "\"Having said that\" is a transitional phrase used to introduce a contrasting or qualifying statement to something that has just been mentioned. It signals that the speaker or writer is about to present a different perspective, a limitation, or an exception to the preceding point. Essentially, it acknowledges the previous statement while paving the way for a nuanced or opposing idea.\n\nSynonyms: nevertheless, however, even so, nonetheless, still, despite that.\n",
+        "exampleA": "Having said that, the teachers seem warm and very involved with the students",
+        "exampleB": "Having said that, I do think we need to consider the budget implications.",
+        "exampleC": "Having said that, the new design is a significant improvement over the old one.",
+        "status": "learned"
+    },
+    {
+        "id": "7c6fd94f-18a0-4a70-be5e-1df488cb903d",
+        "word": "hesitation",
+        "persian": "تامل و درنگ",
+        "definition": "Hesitation refers to a pause or delay before saying or doing something, often stemming from uncertainty, doubt, or reluctance. It's a moment where you're holding back, considering options, or feeling uneasy about proceeding. Synonyms include: reluctance, indecision, wavering, pause, doubt.\n",
+        "exampleA": "There was a moment of hesitation before she answered the question.",
+        "exampleB": "His hesitation revealed his uncertainty about the plan.",
+        "exampleC": "Despite her initial hesitation, she decided to take the risk.",
+        "status": "learned"
+    },
+    {
+        "id": "ff3b3946-0aa0-41c4-ad3f-d8d7ff17226e",
+        "word": "idle",
+        "persian": "بی اساس",
+        "definition": "\"Idle\" generally means inactive, not working, or avoiding work. It can describe a person who is lazy or unwilling to exert effort, or something that is not being used or operated. It implies a state of inactivity, often with a negative connotation of being unproductive.\n\nSynonyms: lazy, inactive, unoccupied, dormant, still\n",
+        "exampleA": "idle speculation/gossip",
+        "exampleB": "The machines were left idle during the factory shutdown.",
+        "exampleC": "He couldn't stand to be idle, always needing to work on a project.",
+        "status": "learned"
+    },
+    {
+        "id": "2e952f66-8baa-4655-ab8e-c6e2e8281f7c",
+        "word": "idle",
+        "persian": "بیکار، بیخود، بیهوده",
+        "definition": "\"Idle\" describes a state of being inactive, unproductive, or not in use. It can refer to a person who is avoiding work or to a piece of machinery that is not running or performing its intended function. Essentially, it signifies a lack of activity or purpose.\n\nSynonyms: lazy, inactive, dormant, unemployed, still.\n",
+        "exampleA": "It's crazy to have £7,000 sitting idle in the bank. Almost half of the workforce are now idle",
+        "exampleB": "The factory machines remained idle during the holiday weekend.",
+        "exampleC": "Don't let your skills become idle; practice them regularly.",
+        "status": "learned"
+    },
+    {
+        "id": "73251878-9882-4ab7-83b9-bfecfa8a7d96",
+        "word": "illustrate",
+        "persian": "معادل‌های فارسی برای \"illustrate\" بسته به زمینه عبارتند از: توضیح دادن، شرح دادن، نشان دادن، مصور کردن، مثال زدن و روشن کردن.\n",
+        "definition": "To illustrate means to clarify or explain something by using examples, diagrams, pictures, or other visual aids. It's about making something easier to understand through concrete representation or vivid description.\n\nSynonyms: demonstrate, depict, clarify, exemplify, represent.\n",
+        "exampleA": "The artist used watercolors to illustrate the delicate features of the flower.",
+        "exampleB": "Let me illustrate my point with a simple example.",
+        "exampleC": "The data clearly illustrates the correlation between exercise and good health.",
+        "status": ""
+    },
+    {
+        "id": "f07c0322-b267-4459-8286-b1a454b72efb",
+        "word": "imply",
+        "persian": "حاکی از آنست که ،مطلبى را رساندن ،ضمنا فهماندن",
+        "definition": "To imply means to suggest something indirectly, without stating it explicitly. It's about hinting or signaling a meaning that is understood through context, tone, or subtle cues rather than being directly expressed.\n\nSynonyms: suggest, hint, insinuate, intimate, indicate.\n",
+        "exampleA": "His silence seemed to imply agreement.",
+        "exampleB": "The evidence doesn't directly state guilt, but it does imply it.",
+        "exampleC": "Are you trying to imply that I'm not capable?",
+        "status": "learned"
+    },
+    {
+        "id": "7fd97546-8353-49cb-a7d7-c9480c96c4be",
+        "word": "in advance",
+        "persian": "\"In advance\" بسته به متن می‌تونه به این صورت‌ها ترجمه بشه: \"از قبل\"، \"پیشاپیش\"، \"زودتر\" یا \"از پیش\".\n",
+        "definition": "before a particular time, or before doing a particular thing",
+        "exampleA": "If you're going to come, please let me know in advance./ you need to book weeks in advance",
+        "exampleB": "Please submit your application in advance of the deadline.",
+        "exampleC": "I booked our hotel rooms in advance to secure the best rate.",
+        "status": "learned"
+    },
+    {
+        "id": "0b98f3f4-30bf-46b3-9efb-5956da2f60ed",
+        "word": "incoherent",
+        "persian": "غیر منسجم",
+        "definition": "\"Incoherent\" describes something that is difficult or impossible to understand because its parts are not logically connected or clearly presented. It lacks clarity and consistency, often resulting in confusion for the listener or reader.\n\nSynonyms: unintelligible, disjointed, rambling, garbled, muddled.\n",
+        "exampleA": "The talk she gave was incoherent and badly prepared.",
+        "exampleB": "His speech was slurred and incoherent, making it difficult to understand what he was trying to say.",
+        "exampleC": "The plot of the movie was so convoluted and illogical that it seemed completely incoherent.",
+        "status": "learned"
+    },
+    {
+        "id": "76c7933f-fb3c-465a-98c6-1c6f0dc0a0b4",
+        "word": "indicate",
+        "persian": "نشان دادن ،نمايان ساختن ،اشاره کردن بر",
+        "definition": "\"Indicate\" means to point out, show, or signal something, often indirectly. It suggests hinting at or providing evidence of something without explicitly stating it. In essence, it's about making something known or evident through a sign or gesture.\n\nSynonyms: suggest, signal, imply, denote, signify.\n",
+        "exampleA": "The red flashing light indicates a problem with the system.",
+        "exampleB": "Please indicate your preferred method of contact on the form.",
+        "exampleC": "His silence seemed to indicate agreement with the proposal.",
+        "status": "learned"
+    },
+    {
+        "id": "da86dbe4-cf7d-4e7a-b9a3-d0d71ce78052",
+        "word": "inherent",
+        "persian": "ذاتى",
+        "definition": "\"Inherent\" means existing in something as a natural, essential, or permanent part of its nature or character; it's an intrinsic quality that is inseparable from the thing itself. For example, a cat's curiosity is an inherent part of its feline nature.\n\nSynonyms: intrinsic, innate, natural, ingrained, built-in.\n",
+        "exampleA": "any form of mountaineering has its inherent dangers",
+        "exampleB": "The job has inherent risks, so proper training is essential.",
+        "exampleC": "There's an inherent beauty in simplicity.",
+        "status": "learned"
+    },
+    {
+        "id": "addb7ab1-b00f-46c1-bfcb-fef7827d7c7e",
+        "word": "intimate",
+        "persian": "مطلبی را غیر مستقیم گفتن",
+        "definition": "\"Intimate\" describes a close, personal, and often private relationship characterized by deep understanding, affection, and trust between individuals. It suggests a level of comfort, familiarity, and vulnerability that allows for sharing thoughts, feelings, and experiences openly.\n\nSynonyms: close, familiar, personal, affectionate, loving, heartfelt.\n",
+        "exampleA": "She has intimated that she will resign if she loses the vote.",
+        "exampleB": "The restaurant had an intimate atmosphere, perfect for a romantic dinner.",
+        "exampleC": "She shared some intimate details about her childhood with her therapist.",
+        "status": "learned"
+    },
+    {
+        "id": "92c2e765-9e09-4579-8f18-6fe8d064255b",
+        "word": "language",
+        "persian": "\"زبان\" معادل دقیقی برای واژه \"language\" در فارسی است.\n",
+        "definition": "Language is a structured system of communication used by humans, consisting of words, sounds, and rules for combining them, to express thoughts, feelings, and ideas. It allows for the transfer of information, social interaction, and the preservation of culture.\n\nSynonyms: speech, communication, discourse, expression\n",
+        "exampleA": "English is a widely spoken language.",
+        "exampleB": "The nuances of language can be difficult to master.",
+        "exampleC": "Body language can often reveal more than spoken words.",
+        "status": ""
+    },
+    {
+        "id": "8c018e1c-0ec4-4304-ac3a-c8fe610b5d42",
+        "word": "language barrier",
+        "persian": "مانع زبانی",
+        "definition": "A language barrier refers to the difficulty or inability to communicate effectively between people who speak different languages. It hinders understanding, creates misunderstandings, and can impede the exchange of information, ideas, and cultural nuances. This can occur in various settings, from personal interactions to professional collaborations and international relations.\n\nSynonyms: communication gap, linguistic divide, language difference.\n",
+        "exampleA": "The language barrier made it difficult to communicate with the locals.",
+        "exampleB": "Overcoming the language barrier was crucial for the success of the international project.",
+        "exampleC": "Frustration mounted as the language barrier prevented a clear understanding of the situation.",
+        "status": "learned"
+    },
+    {
+        "id": "73e2d3b1-a56c-4814-b5b4-9165a54de906",
+        "word": "linguist",
+        "persian": "معادل فارسی \"linguist\" می‌تواند «زبان‌شناس» یا «متخصص زبان‌شناسی» باشد.\n",
+        "definition": "A linguist is someone who studies language scientifically. They analyze language structure, its history and evolution, how it's acquired and used, and its relationship to culture and cognition. Linguists can work on a wide range of topics, from documenting endangered languages to developing natural language processing systems for computers.\n\nSynonyms: language scientist, philologist, language expert, polyglot (though the latter more specifically refers to someone who speaks many languages).\n",
+        "exampleA": "The linguist studied the evolution of the English language over several centuries.",
+        "exampleB": "As a trained linguist, she was able to quickly pick up the nuances of the new dialect.",
+        "exampleC": "The company hired a linguist to analyze customer feedback and improve communication.",
+        "status": ""
+    },
+    {
+        "id": "cf95ffbe-fbc5-455b-b7f7-bb591a93d482",
+        "word": "linguistics",
+        "persian": "زبان شناسی",
+        "definition": "Linguistics is the scientific study of language, encompassing its structure, evolution, use, and acquisition. It explores how language is organized at various levels, from sounds and words to sentences and discourse, and how it functions in communication and society.\n\nSynonyms: language science, linguistic science, philology\n",
+        "exampleA": "She is majoring in linguistics to better understand language structure.",
+        "exampleB": "The professor's lecture on historical linguistics was fascinating.",
+        "exampleC": "Computational linguistics combines computer science and the study of language.",
+        "status": "learned"
+    },
+    {
+        "id": "8888c6bc-882b-4758-89f8-3fd9959a6375",
+        "word": "means of communication",
+        "persian": "وسایل ارتباطات",
+        "definition": "\"Means of communication\" refers to the various ways humans share information, ideas, thoughts, and feelings with each other. It encompasses the methods and channels used to convey messages between individuals or groups, enabling interaction and understanding.\n\nSynonyms: channels of communication, communication methods, modes of communication, communication systems.\n",
+        "exampleA": "The internet has become a primary means of communication for people around the world.",
+        "exampleB": "Gestures and facial expressions can be a powerful means of communication, especially when language barriers exist.",
+        "exampleC": "For centuries, letters were the most reliable means of communication across long distances.",
+        "status": "learned"
+    },
+    {
+        "id": "beeec9b0-f5dd-423f-9207-9ef22f70d699",
+        "word": "mother tongue",
+        "persian": "زبان مادری",
+        "definition": "\"Mother tongue\" refers to the language a person learns from birth, often from their parents or caregivers, and is the language they typically speak most fluently and naturally. It's deeply connected to one's cultural identity and early cognitive development.\n\nSynonyms: native language, first language, L1, vernacular.\n",
+        "exampleA": "Her mother tongue is Mandarin Chinese, but she also speaks English fluently.",
+        "exampleB": "Learning to read in my mother tongue was easier than learning a foreign language.",
+        "exampleC": "The poet's work is deeply rooted in the rhythms and idioms of his mother tongue.",
+        "status": "learned"
+    },
+    {
+        "id": "1b9a4cf6-51ea-4aab-afce-fd8e76764ef7",
+        "word": "narrate",
+        "persian": "داستانى را تعريف کردن ،بازگویی کردن",
+        "definition": "To narrate means to tell a story or give an account of events, typically in a structured and detailed way. It involves crafting a coherent and engaging presentation of a sequence of happenings, often focusing on characters, plot, and setting.\n\nSynonyms: recount, relate, tell, describe, chronicle.\n",
+        "exampleA": "The historian will narrate the events leading up to the revolution.",
+        "exampleB": "I asked my grandfather to narrate his experiences during the war.",
+        "exampleC": "The documentary used a voice-over to narrate the story of the wildlife.",
+        "status": "learned"
+    },
+    {
+        "id": "1e5ea387-9ba6-40dc-9375-d18c4780e967",
+        "word": "native speaker",
+        "persian": "معادل دقیق و رایج \"native speaker\" در فارسی «زبان مادری» یا «کسی که زبان مادری‌اش [فلان زبان] است» می‌باشد.\n",
+        "definition": "A \"native speaker\" is someone who learned a language as their first language, typically from birth or early childhood. This implies a deep, intuitive understanding of the language's grammar, pronunciation, and cultural nuances. They are often considered to have a natural fluency and command of the language that is difficult for non-native speakers to achieve.\n\nSynonyms: mother-tongue speaker, first language speaker, L1 speaker.\n",
+        "exampleA": "The company is looking for a translator who is a native speaker of Japanese.",
+        "exampleB": "As a native speaker, she was able to catch subtle nuances in the language that others missed.",
+        "exampleC": "Practicing with a native speaker is a great way to improve your pronunciation.",
+        "status": ""
+    },
+    {
+        "id": "e5ad870b-ff08-4552-8ae9-a0b27bb50215",
+        "word": "needless to say",
+        "persian": "البته، نیازی به گفتن نیست که",
+        "definition": "\"Needless to say\" is a phrase used as a filler or transition to indicate that the speaker is about to state something that is already obvious or understood by the listener or reader. It often serves to emphasize or reinforce a point without feeling repetitive or condescending. It's a stylistic way of saying the following statement is self-evident.\n\nSynonyms: obviously, of course, undoubtedly, it goes without saying, naturally.\n",
+        "exampleA": "needless to say, he didn’t believe me",
+        "exampleB": "Needless to say, the project was a complete failure.",
+        "exampleC": "Needless to say, I was shocked by the news.",
+        "status": "learned"
+    },
+    {
+        "id": "562afa8b-67ed-4305-9162-b8ac1c4a8f75",
+        "word": "pronounce",
+        "persian": "تلفظ کردن",
+        "definition": "\"Pronounce\" means to articulate or utter a word or sound clearly and distinctly, often in a way that conforms to accepted standards of speech. It can also mean to declare or announce something formally or authoritatively.\n\nSynonyms: articulate, enunciate, utter, declare, announce.\n",
+        "exampleA": "How do you pronounce this word?",
+        "exampleB": "The teacher asked him to pronounce the sentence clearly.",
+        "exampleC": "I can't pronounce her name correctly.",
+        "status": "learned"
+    },
+    {
+        "id": "4b613580-8022-475e-8e26-feca663ff16a",
+        "word": "pronunciation",
+        "persian": "تلفظ، به معنی نحوه ادا کردن یک کلمه یا عبارت است.\n",
+        "definition": "Pronunciation refers to the way a word or language is spoken, including the sounds, stress patterns, and intonation used to articulate it. It encompasses how individual sounds (phonemes) are produced and combined to form recognizable words and phrases. A correct pronunciation aims to accurately reflect the standard or accepted way a word should be said, facilitating clear communication.\n\nSynonyms: articulation, enunciation, diction, elocution, accent\n",
+        "exampleA": "The pronunciation of this word is tricky for non-native speakers.",
+        "exampleB": "I looked up the pronunciation in the online dictionary.",
+        "exampleC": "Her pronunciation of the French phrases was surprisingly accurate.",
+        "status": ""
+    },
+    {
+        "id": "3f4021cc-dbf8-4c41-8320-b52b1e24273b",
+        "word": "propose",
+        "persian": "ارائه دادن، پیشنهاد دادن",
+        "definition": "To \"propose\" means to suggest a plan, idea, or course of action for consideration, often formally or officially. It also commonly refers to asking someone to marry you.\n\nSynonyms: suggest, offer, recommend, submit, put forward.\n",
+        "exampleA": "I propose we start the meeting now.",
+        "exampleB": "He intends to propose to his girlfriend on their anniversary.",
+        "exampleC": "The committee will propose a new budget next week.",
+        "status": "seen"
+    },
+    {
+        "id": "137db6ce-cc29-4eff-bb8e-cefcaedc4c40",
+        "word": "recall",
+        "persian": "،بسيج کردن قوا،بياد اوردن ،فراخواندن",
+        "definition": "\"Recall\" refers to the act of remembering something from the past, bringing it back to your conscious mind. It's the process of retrieving information stored in your memory.\n\nSynonyms: remember, recollect, reminisce, evoke, call to mind.\n",
+        "exampleA": "The company issued a recall of the defective toys.",
+        "exampleB": "I can't quite recall her name, but I know I've met her before.",
+        "exampleC": "The historian tried to recall the events of that fateful day.",
+        "status": "learned"
+    },
+    {
+        "id": "1e08c39f-c492-493f-a109-f4f58400bf20",
+        "word": "recount",
+        "persian": "برشمردن، تعریف کردن یک ماجرا",
+        "definition": "To \"recount\" means to tell someone about something; to narrate or describe an event or experience in detail. It involves presenting a story or account of what happened, often in chronological order.\n\nSynonyms: narrate, relate, detail, describe, tell, report.\n",
+        "exampleA": "He recounted his adventures since he had left home.",
+        "exampleB": "The witness had to recount the events of the accident several times.",
+        "exampleC": "He was asked to recount his experiences during the war.",
+        "status": "learned"
+    },
+    {
+        "id": "3fa5f103-f340-4efd-8ff1-624b6767d37e",
+        "word": "refer (to)",
+        "persian": "\"اشاره کردن (به)\" یا \"ارجاع دادن (به)\". انتخاب بین این دو بستگی به متن داره.\n",
+        "definition": "\"Refer (to)\" generally means to mention, allude to, or direct attention to something or someone else. It's about making a connection between the current topic and something external, whether it's a piece of information, a person, or an idea. The act of referring involves pointing the listener or reader to something for more information, context, or understanding.\n\nSynonyms: mention, allude, cite, indicate, point to.\n",
+        "exampleA": "In her speech, the senator did not refer to the ongoing investigation.",
+        "exampleB": "Please refer to the user manual for detailed instructions.",
+        "exampleC": "The speaker seemed to refer to a past incident without explicitly naming it.",
+        "status": ""
+    },
+    {
+        "id": "dd2daac9-681c-4aa3-aab8-05bfa657e48f",
+        "word": "shop around",
+        "persian": "\"Shop around\" به فارسی یعنی \"مقایسه قیمت و کیفیت قبل از خرید کردن\" یا \"پرس و جو کردن از چند جا برای پیدا کردن بهترین گزینه\".\n",
+        "definition": "o compare the price and quality of the same or a similar object in different shops before you decide which one to buy",
+        "exampleA": "When you're buying a flight, you should always shop around for the best deal",
+        "exampleB": "It's always a good idea to shop around for the best insurance rates.",
+        "exampleC": "We should shop around before deciding on a new refrigerator.",
+        "status": "learned"
+    },
+    {
+        "id": "cca76766-e20c-4858-9f61-1ee685a5f440",
+        "word": "signify",
+        "persian": "حکایت داشتن از ، دلالت کردن ، معنی دادن",
+        "definition": "\"Signify\" means to be a symbol of something, to indicate or mean something, or to be of importance. It's about conveying a particular meaning or being a signal for something else.\n\nSynonyms: denote, represent, indicate, imply, express\n",
+        "exampleA": "The symbol used signifies that the frequency is measured in kHz.",
+        "exampleB": "The dark clouds signify an approaching storm.",
+        "exampleC": "A handshake can signify agreement or a warm greeting.",
+        "status": "seen"
+    },
+    {
+        "id": "ca3b59dd-a4b7-4b2b-89c7-87c098ca0046",
+        "word": "sign language",
+        "persian": "زبان اشاره\n",
+        "definition": "Sign language is a visual-gestural language used by deaf and hard-of-hearing individuals to communicate. It employs handshapes, facial expressions, and body movements to convey meaning, functioning as a complete and independent language system with its own grammar and syntax.\n\nSynonyms: Manual communication, visual language, gestural language.\n",
+        "exampleA": "She communicated fluently using sign language.",
+        "exampleB": "Learning sign language opened up a new world of communication for him.",
+        "exampleC": "The interpreter translated the speaker's words into sign language.",
+        "status": ""
+    },
+    {
+        "id": "86822e17-4b8a-49be-b3c3-12559686e47b",
+        "word": "sophisticated",
+        "persian": "پیچیده، سطح بالا",
+        "definition": "\"Sophisticated\" describes someone or something possessing refined tastes, worldly knowledge, and elegant manners. It implies a high degree of complexity, polish, and understanding of social conventions or specialized knowledge. It's often used to suggest a level of experience and cultivated charm that sets the individual or thing apart.\n\nSynonyms: refined, cultured, elegant, worldly, urbane, polished.\n",
+        "exampleA": "The restaurant's sophisticated ambiance made it the perfect place for a special occasion.",
+        "exampleB": "Her sophisticated understanding of the market allowed her to make shrewd investments.",
+        "exampleC": "He appreciated the author's sophisticated use of language and symbolism.",
+        "status": "learned"
+    },
+    {
+        "id": "0c2e3c11-7ff8-4601-bbb2-c2e436241ab2",
+        "word": "speculation",
+        "persian": "گمانه زنی",
+        "definition": "Speculation refers to the forming of a theory or conjecture about a subject without firm evidence. It's essentially guessing or surmising, often based on incomplete information or personal beliefs. It can involve contemplation, conjecture, or the process of thinking about possibilities, and can often happen when concrete facts are missing.\n\nSynonyms: conjecture, guesswork, surmise, assumption, hypothesis.\n",
+        "exampleA": "The market is reacting wildly to speculation about a possible interest rate hike.",
+        "exampleB": "Her sudden departure fueled a lot of speculation among her colleagues.",
+        "exampleC": "Police are urging the public to avoid engaging in speculation that could hinder the investigation.",
+        "status": "learned"
+    },
+    {
+        "id": "39c6558c-0297-467e-a963-f28e580f1bd1",
+        "word": "spontaneous",
+        "persian": "\"خودجوش\"، \"بی‌اختیار\"، یا \"فی‌البداهه\" بهترین معادل‌ها برای spontaneous هستند و بسته به متن می‌توان از آن‌ها استفاده کرد.\n",
+        "definition": "\"Spontaneous\" describes something that arises naturally and without premeditation or external cause. It's characterized by being impulsive, unplanned, and originating from an inner impulse or feeling. Essentially, it means happening or done freely and without conscious effort.\n\nSynonyms: impromptu, instinctive, extemporaneous, impulsive, off-the-cuff.\n",
+        "exampleA": "Her spontaneous laughter filled the room, brightening everyone's mood.",
+        "exampleB": "The trip was completely spontaneous; we just packed our bags and left.",
+        "exampleC": "He made a spontaneous decision to quit his job and travel the world.",
+        "status": ""
+    },
+    {
+        "id": "ee435e3d-5374-4958-8dd7-f6f3ec7b5f16",
+        "word": "spontaneously",
+        "persian": "بطور خودبخودی",
+        "definition": "\"Spontaneously\" means happening or done in a natural, sudden, and unplanned way, without any external cause or prompting. It suggests a lack of premeditation or conscious effort, arising from an inner impulse or feeling.\n\nSynonyms: impulsively, instinctively, naturally, freely, automatically.\n",
+        "exampleA": "The audience spontaneously erupted in applause after the singer's powerful performance.",
+        "exampleB": "During the discussion, a new idea arose spontaneously from the group's brainstorming session.",
+        "exampleC": "The chemical reaction occurred spontaneously when the two solutions were mixed together.",
+        "status": "seen"
+    },
+    {
+        "id": "12759425-b94f-4440-ba68-791c87928845",
+        "word": "state",
+        "persian": "کلمه \"state\" بسته به متن می‌تونه معانی مختلفی داشته باشه. رایج‌ترین ترجمه‌ها عبارتند از:\n\n   دولت: وقتی که منظور نهاد حاکم و سیاسی یک کشور باشه.\n   ایالت: وقتی که منظور یکی از واحدهای تقسیمات کشوری یک کشور فدرال باشه.\n   حالت: وقتی که منظور وضعیت یا شرایط یک چیز یا شخص باشه.\n   بیان کردن: وقتی که به معنی اظهار یا گفتن چیزی باشه.\n   کشور: در مواردی به عنوان مترادف \"دولت\" استفاده میشه.\n\nبرای انتخاب دقیق‌ترین ترجمه، به متن و مفهوم کلی جمله نیاز هست.\n",
+        "definition": "The word \"state\" refers to a particular condition or status that something or someone is in at a specific time. It can describe a physical condition, an emotional condition, a condition of being, or even a level of organization or development. Think of it as a snapshot of how things are.\n\nSynonyms: condition, situation, status, circumstance, shape\n",
+        "exampleA": "The state of the economy is a major concern for voters.",
+        "exampleB": "California is a state known for its diverse landscapes.",
+        "exampleC": "He had to state his name and address to the officer.",
+        "status": ""
+    },
+    {
+        "id": "78511a21-5398-4bef-a6f5-040502232f67",
+        "word": "State",
+        "persian": "بیان کردن، اظهار کردن",
+        "definition": "\"State\" can refer to a politically organized community living under a single system of government. It's a defined territory with its own laws, institutions, and the power to enforce them. Think of it as a country or a nation with sovereign authority.\n\nSynonyms: Nation, country, realm, commonwealth, republic.\n",
+        "exampleA": "The state of California is known for its beautiful beaches.",
+        "exampleB": "He refused to state his opinion on the matter.",
+        "exampleC": "The patient's state of health deteriorated rapidly.",
+        "status": "learned"
+    },
+    {
+        "id": "ef35955d-fb58-49c4-81bf-183634228ece",
+        "word": "stutter",
+        "persian": "با لکنت حرف زدن",
+        "definition": "\"Stutter\" refers to a speech disorder characterized by involuntary disruptions in the flow of speech, such as repetitions, prolongations, or blocks of sounds, syllables, words, or phrases. These interruptions can be accompanied by physical tension, struggle behaviors, and secondary features like eye blinks or head nods. It affects the rhythm and fluency of speech, making communication challenging.\n\nSynonyms: stammer, hesitate, falter, splutter, stumble over words.\n",
+        "exampleA": "The child began to stutter when he felt nervous about the presentation.",
+        "exampleB": "His stutter made it difficult for him to order food at the restaurant.",
+        "exampleC": "Despite her stutter, she became a successful public speaker through years of practice and therapy.",
+        "status": "learned"
+    },
+    {
+        "id": "f3bad4e5-a744-4bb6-afe4-9a048472edbe",
+        "word": "suggest",
+        "persian": "\"Suggest\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما به طور کلی می‌شه اون رو به «پیشنهاد دادن»، «توصیه کردن»، «اشاره کردن» یا «مطرح کردن» ترجمه کرد.\n",
+        "definition": "To suggest means to put forward an idea, plan, or possibility for consideration. It implies a non-forceful recommendation or proposal, often aiming to guide or influence thinking without demanding acceptance.\n\nSynonyms: propose, recommend, advise, imply, hint\n",
+        "exampleA": "I suggest we leave early to avoid traffic.",
+        "exampleB": "The doctor didn't suggest any specific medication, but recommended rest.",
+        "exampleC": "Could you suggest a good restaurant in this area?",
+        "status": ""
+    },
+    {
+        "id": "81a66adc-5e6d-49a6-827c-66e22f2689e3",
+        "word": "that is to say",
+        "persian": "بعبارت دیگر، بدین معنی که",
+        "definition": "\"That is to say\" is a phrase used to clarify or explain something that has just been said, often by restating it in a simpler or more precise way, or by providing further details. It essentially signals to the listener or reader that you are about to offer an alternative explanation or rephrase the preceding statement for better understanding.\n\nSynonyms: in other words, namely, that is, specifically, to put it another way.\n",
+        "exampleA": "androcentric—that is to say, male-dominated—concepts",
+        "exampleB": "The project is behind schedule, that is to say, we won't meet the original deadline.",
+        "exampleC": "He is a polyglot, that is to say, he speaks multiple languages fluently.",
+        "status": "learned"
+    },
+    {
+        "id": "b199f9e3-47ce-4d31-abf5-8ee97805943c",
+        "word": "there is a lot to be said for",
+        "persian": "این عبارت را می‌توان به این صورت ترجمه کرد: \"مزایای زیادی دارد\" یا \"حرف‌های زیادی برای گفتن درباره‌اش وجود دارد.\"\n",
+        "definition": "said to mean that something has advantages",
+        "exampleA": "There's a lot to be said for living alone.",
+        "exampleB": "There is a lot to be said for taking a long walk in nature to clear your head.",
+        "exampleC": "There is a lot to be said for the traditional methods of teaching, even in this digital age.",
+        "status": "learned"
+    },
+    {
+        "id": "eda508bb-eec5-4d38-a653-e3665d6f9d5a",
+        "word": "there is something to be said for",
+        "persian": "عبارت \"there is something to be said for\" در فارسی معمولاً به این صورت ترجمه می‌شود: \"یه نکته مثبتی در موردش وجود داره\" یا \"یه جنبه مثبتی هم داره\".\n",
+        "definition": "\"There is something to be said for\" means that there are arguments or advantages in favor of a particular idea, option, or action, even if it isn't perfect or the obvious choice. It suggests that something possesses a certain degree of merit or value that deserves consideration, despite potential drawbacks.\n\nSynonyms: has its merits, has something going for it, has a point, warrants consideration.\n",
+        "exampleA": "There is something to be said for disconnecting from technology and spending time in nature.",
+        "exampleB": "There is something to be said for the simplicity of a home-cooked meal.",
+        "exampleC": "Even though it's unconventional, there is something to be said for his approach to problem-solving.",
+        "status": ""
+    },
+    {
+        "id": "987525ec-740c-46de-85c8-97e2bad9819e",
+        "word": "to say the least",
+        "persian": "عبارت \"to say the least\" در فارسی معمولاً به صورت‌های زیر ترجمه می‌شود:\n\n   حداقلش اینه که...\n   دست کم...\n   به بیان ملایم...\n   کمترین چیزی که میشه گفت اینه که...\n   اگه بخوام خیلی نرم بگم...\n",
+        "definition": "used to say that what you are describing is in fact much more serious or important than you have suggested",
+        "exampleA": "The situation was chaotic, to say the least.",
+        "exampleB": "His performance was disappointing, to say the least.",
+        "exampleC": "The journey was challenging, to say the least.",
+        "status": "seen"
+    },
+    {
+        "id": "22ff44ea-b535-4291-9b5b-5147c07fd652",
+        "word": "translate",
+        "persian": "ترجمه کردن",
+        "definition": "To translate means to convert text or speech from one language (the source language) into another language (the target language) while preserving the original meaning and intent as accurately as possible. It involves understanding the nuances of both languages and conveying the message effectively in the new linguistic context.\n\nSynonyms: interpret, render, convert, transcribe, decode.\n",
+        "exampleA": "I need to translate this document from Spanish to English.",
+        "exampleB": "Can you translate what she just said?",
+        "exampleC": "The software can automatically translate websites.",
+        "status": "learned"
+    },
+    {
+        "id": "b2fe42cd-4d1e-4a3b-a663-7ea74b735550",
+        "word": "turquoise",
+        "persian": "سنگ فیروزه، فیروزه ای",
+        "definition": "Turquoise refers to a blue-green mineral, chemically a hydrous phosphate of copper and aluminum, often used in jewelry and ornamentation. The term also denotes the vivid blue-green color resembling the mineral.\nSynonyms: aquamarine, cyan, teal, greenish-blue\n",
+        "exampleA": "The tropical ocean shimmered with a vibrant turquoise hue.",
+        "exampleB": "She wore a beautiful turquoise necklace that complemented her dress.",
+        "exampleC": "He painted the door a bright turquoise color to add a pop of color to the house.",
+        "status": "learned"
+    },
+    {
+        "id": "6cf3047f-92f1-4e0d-8ce3-47892711c2ed",
+        "word": "verbalise",
+        "persian": "به زبان آوردن",
+        "definition": "To verbalise means to express thoughts, feelings, or ideas in words, whether spoken or written. It's the act of translating internal experiences into a comprehensible linguistic form so others (or even oneself) can understand them.\n\nSynonyms: articulate, express, vocalise, put into words, communicate.\n",
+        "exampleA": "He found it hard to verbalize his feelings towards his son.",
+        "exampleB": "She struggled to verbalise her feelings after the accident.",
+        "exampleC": "The therapist encouraged him to verbalise his anxieties in a safe space.",
+        "status": "learned"
+    },
+    {
+        "id": "977b4bdc-1eb1-4e6a-8bf3-255ee35db798",
+        "word": "vocabulary",
+        "persian": "\"Vocabulary\" در فارسی به معنای \"واژگان\"، \"دایره لغات\" یا \"گنجینه لغات\" است و به مجموعه‌ای از کلماتی گفته می‌شود که یک فرد یا در یک زبان وجود دارد.\n",
+        "definition": "Vocabulary refers to the body of words known to an individual person or used within a particular language or subject. It encompasses the words we understand, use in speaking and writing, and recognize when reading or listening. A strong vocabulary is essential for effective communication, comprehension, and expression.\n\nSynonyms: lexicon, word stock, wordbook, terminology, language.\n",
+        "exampleA": "Learning new words helps expand your vocabulary.",
+        "exampleB": "This book is designed to improve your English vocabulary.",
+        "exampleC": "A strong vocabulary is essential for effective communication.",
+        "status": ""
+    },
+    {
+        "id": "23c7b2b5-9454-461e-ad1c-22695cf70f7b",
+        "word": "when all is said and done",
+        "persian": "\"وقتی همه‌چیز گفته و انجام شد\"، \"در نهایت\" یا \"تهِ تهش\" معادل‌های مناسبی برای این عبارت هستند و بسته به لحن و موقعیت می‌توان از آن‌ها استفاده کرد.\n",
+        "definition": "\"When all is said and done\" means after everything has been considered, debated, or completed; it refers to the final result or the most important point that remains after all other aspects have been taken into account. It emphasizes the ultimate outcome or essential truth.\n\nSynonyms: ultimately, in the final analysis, at the end of the day, all things considered.\n",
+        "exampleA": "When all is said and done, the project was ultimately a success.",
+        "exampleB": "When all is said and done, I still believe he made the right decision.",
+        "exampleC": "When all is said and done, family is what truly matters.",
+        "status": ""
+    },
+    {
+        "id": "278c01ca-3711-409f-8e74-023e2687d2a9",
+        "word": "you can say that again!",
+        "persian": "کاملا موافقم باهات، آره دقیقا",
+        "definition": "\"You can say that again!\" is an emphatic agreement with a statement made by someone else. It signifies that the speaker completely agrees and possibly feels even more strongly about the sentiment expressed. It's a way of showing enthusiasm and solidarity.\n\nSynonyms: I agree completely, Absolutely!, That's so true, Exactly!, I couldn't agree more.\n",
+        "exampleA": "you can say that again! because it's the story of my life",
+        "exampleB": "After that long day, all I wanted was a hot shower; you can say that again!",
+        "exampleC": "\"This pizza is amazing!\" \"You can say that again!\"",
+        "status": "learned"
+    }
+]

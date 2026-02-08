@@ -1,0 +1,942 @@
+[
+    {
+        "id": "5ac4915c-9ca1-410a-bfc6-9ac3b13afc0c",
+        "word": "achieve",
+        "persian": "دست يافتن ،بانجام رسانيدن ،رسيدن ،نائل شدن ب",
+        "definition": "\"Achieve\" means to successfully reach a desired goal or objective, often requiring effort, skill, or determination. It implies a sense of accomplishment and completion of a task or ambition.\n\nSynonyms: accomplish, attain, realize, fulfill, complete.\n",
+        "exampleA": "She studied diligently to achieve her academic goals.",
+        "exampleB": "With hard work and dedication, you can achieve anything you set your mind to.",
+        "exampleC": "The company hopes to achieve record sales this quarter.",
+        "status": "learned"
+    },
+    {
+        "id": "bce39681-f864-4229-a470-e2a677c8e12e",
+        "word": "(achieve a) balance",
+        "persian": "رسیدن به تعادل / ایجاد تعادل / حفظ تعادل\n",
+        "definition": "To achieve a balance means to reach a state where different elements or aspects are in equal or correct proportions, creating stability and harmony. It often involves finding equilibrium between opposing forces, managing competing priorities, or distributing resources effectively to avoid excess or deficiency in any one area.\n\nSynonyms: harmonize, equalize, equilibrate, stabilize, coordinate.\n",
+        "exampleA": "It's important to achieve a balance between work and personal life.",
+        "exampleB": "The tightrope walker struggled to achieve a balance as the wind picked up.",
+        "exampleC": "The chef worked meticulously to achieve a balance of flavors in the dish.",
+        "status": ""
+    },
+    {
+        "id": "be168d41-62bc-4449-ada3-3e857cd0ec0e",
+        "word": "achieve a balance",
+        "persian": "به تعادل دست یافتن",
+        "definition": "\"Achieve a balance\" means to attain a state of equilibrium or stability between different elements or aspects of something, ensuring that no single aspect is excessively dominant or neglected. It suggests a harmonious and well-adjusted relationship where opposing forces are in harmony.\n\nSynonyms: harmonize, equalize, reconcile, calibrate, attune.\n",
+        "exampleA": "It's important to achieve a balance between work and personal life.",
+        "exampleB": "The artist carefully considered how to achieve a balance of color and texture in the painting.",
+        "exampleC": "To achieve a balance in your diet, you need to eat a variety of foods from different food groups.",
+        "status": "learned"
+    },
+    {
+        "id": "ba0afa76-aabf-47e6-8d0e-6c05a1942adf",
+        "word": "achieve (a goal)",
+        "persian": "رسیدن به (یک هدف) یا محقق کردن (یک هدف).\n",
+        "definition": "To achieve a goal means to successfully reach or accomplish a desired objective, putting in the necessary effort and overcoming any obstacles along the way. It implies a sense of completion and satisfaction in having attained something significant.\n\nSynonyms: accomplish, attain, realize, fulfill, complete.\n",
+        "exampleA": "With hard work and dedication, she was able to achieve her goal of running a marathon.",
+        "exampleB": "The team set out to achieve a goal of increasing sales by 20% this quarter.",
+        "exampleC": "He knew that to achieve his goal of becoming a doctor, he would need to study diligently.",
+        "status": ""
+    },
+    {
+        "id": "ee30dcc7-141f-42b6-a75d-38c6b30f9998",
+        "word": "active",
+        "persian": "بسته به متن، \"active\" می‌تونه به معانی مختلفی ترجمه بشه. چند تا از رایج‌ترین ترجمه‌ها اینها هستن: فعال، پویا، کوشا، کنشگر، در حال کار، عملیاتی، و مؤثر. انتخاب بهترین ترجمه بستگی به این داره که \"active\" در چه زمینه‌ای استفاده شده.\n",
+        "definition": "\"Active\" generally describes something or someone that is engaged in action, doing things, or exerting energy. It implies a state of being in motion, operating, or participating. An active person might be physically energetic and involved in many activities, while an active volcano is currently erupting or showing signs of potential eruption.\n\nSynonyms: energetic, lively, dynamic, operative, functioning.\n",
+        "exampleA": "She leads an active lifestyle, filled with hiking and swimming.",
+        "exampleB": "The volcano is still considered active, with occasional tremors.",
+        "exampleC": "He took an active role in the community's fundraising efforts.",
+        "status": ""
+    },
+    {
+        "id": "1056d086-8e9f-4a9f-8075-0a065801691d",
+        "word": "activity",
+        "persian": "بسته به متن، \"activity\" می‌تونه به فعالیت، کنش، کار، اقدام یا برنامه ترجمه بشه.\n",
+        "definition": "\"Activity\" refers to a state of being active, engaged, or involved in some kind of action, process, or pursuit. It encompasses anything that is being done, whether physical, mental, or social, and suggests a degree of energy or engagement.\n\nSynonyms: pursuit, endeavor, undertaking, action, operation\n",
+        "exampleA": "Reading is a relaxing activity for many people.",
+        "exampleB": "The children participated in a variety of outdoor activity.",
+        "exampleC": "Economic activity has slowed down in recent months.",
+        "status": ""
+    },
+    {
+        "id": "701d65d4-2c05-4de6-8631-0a123f00e633",
+        "word": "all walks of life",
+        "persian": "تمام اقشار جامعه",
+        "definition": "\"All walks of life\" refers to people from every social, economic, and ethnic background; it encompasses the entire spectrum of humanity without regard to class, profession, or status. It suggests a diverse group representing all levels and aspects of society.\n\nSynonyms: all social classes, every background, a diverse group, the general public.\n",
+        "exampleA": "We saw people at the airport from all walks of life.",
+        "exampleB": "The community center serves people from all walks of life.",
+        "exampleC": "Our organization welcomes volunteers from all walks of life.",
+        "status": "learned"
+    },
+    {
+        "id": "9289d9ac-db39-4679-b6d2-2a170094ec74",
+        "word": "ambition",
+        "persian": "رویا",
+        "definition": "Ambition refers to a strong desire and determination to achieve success, power, wealth, or a particular goal. It's a driving force that motivates individuals to work hard, overcome obstacles, and strive for something greater than their current state. It often involves setting high aspirations and pursuing them with passion and dedication.\n\nSynonyms: aspiration, drive, ambition, motivation, zeal, determination.\n",
+        "exampleA": "Her ambition drove her to work tirelessly towards her goals.",
+        "exampleB": "His political ambition led him down a path of questionable ethics.",
+        "exampleC": "The young artist's ambition was to have her work displayed in a renowned gallery.",
+        "status": "learned"
+    },
+    {
+        "id": "ca696d51-c3c9-422a-bbd1-81be7cc1558d",
+        "word": "appeal",
+        "persian": "\"Appeal\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها عبارتند از: درخواست، تقاضا، تجدید نظر، جذابیت، یا استیناف.\n",
+        "definition": "\"Appeal\" generally means to make a serious or urgent request, typically to a higher authority, for something needed or desired. It can also refer to something being attractive or interesting to someone. The context determines the specific nuance, but the core idea is a call for help, consideration, or attraction.\n\nSynonyms: plea, request, entreaty; attraction, charm, allure\n",
+        "exampleA": "The charity launched an appeal for donations to help the victims of the earthquake.",
+        "exampleB": "His heartfelt speech had a strong appeal to the audience.",
+        "exampleC": "The company decided to appeal the court's decision.",
+        "status": ""
+    },
+    {
+        "id": "2cc976ac-488d-40d6-890e-3f6b42b24c89",
+        "word": "appeal (to sb)",
+        "persian": "جذاب بودن برای کسی",
+        "definition": "To appeal to someone means to be attractive or interesting to them, or to try to persuade them to do something by making it seem desirable or reasonable. It suggests an attempt to influence someone's opinion or behavior by highlighting qualities that they find appealing or by presenting a compelling argument.\n    \nSynonyms: attract, entice, persuade, influence, plead.\n",
+        "exampleA": "I think what appeals to me about his painting is his use of colour.",
+        "exampleB": "The charity's advertisement sought to appeal to people's sense of compassion.",
+        "exampleC": "His argument did not appeal to the judge, who quickly dismissed it.",
+        "status": "learned"
+    },
+    {
+        "id": "d5061ec6-418f-4ed4-82c0-ff76ea6d8e55",
+        "word": "aspect",
+        "persian": "منظر، جنبه",
+        "definition": "An aspect refers to a particular part or feature of something. It's a way of looking at or considering something from a specific angle or perspective. It highlights a specific quality, characteristic, or element of a larger whole.\n\nSynonyms: facet, feature, characteristic, angle, perspective, side, element.\n",
+        "exampleA": "the financial aspect can be overstressed",
+        "exampleB": "The budget is one aspect of the project that needs careful consideration.",
+        "exampleC": "From a historical aspect, the discovery was quite significant.",
+        "status": "learned"
+    },
+    {
+        "id": "436d1a38-5d50-4922-bff3-a72771a9dbfa",
+        "word": "attitude",
+        "persian": "نگرش، طرز برخورد",
+        "definition": "Attitude refers to a settled way of thinking or feeling about someone or something, typically reflected in a person's behavior. It's a mental position that influences how we perceive, interpret, and react to the world around us. It can be positive, negative, or neutral, and it shapes our perspectives and actions.\n\nSynonyms: disposition, outlook, perspective, mindset, stance.\n",
+        "exampleA": "He has a very bad attitude to/towards work.",
+        "exampleB": "Her positive attitude was infectious and brightened everyone's day.",
+        "exampleC": "The employee's dismissive attitude led to several customer complaints.",
+        "status": "learned"
+    },
+    {
+        "id": "69300d54-12a0-402e-b19f-12536e8ae525",
+        "word": "attract",
+        "persian": "جذب کردن، جلب کردن، کشیدن، یا به خود متمایل کردن.\n",
+        "definition": "To attract means to draw someone or something towards oneself, often because of appealing qualities or characteristics. It implies a force that creates interest, desire, or a pull that causes people or things to move closer.\n\nSynonyms: draw, entice, allure, pull, charm.\n",
+        "exampleA": "The bright colors of the flowers attract bees and butterflies.",
+        "exampleB": "A competitive salary and benefits package can attract top talent to the company.",
+        "exampleC": "The new museum exhibit is expected to attract a large number of visitors.",
+        "status": ""
+    },
+    {
+        "id": "059e987e-cf19-4ff5-9a0b-2583eab51543",
+        "word": "babysit (for sb)",
+        "persian": "از بچه نگهداری کردن",
+        "definition": "To babysit for someone means to temporarily take care of their child or children, typically in their home, while the parents are away. It usually involves feeding, playing with, and ensuring the safety and well-being of the child.\n\nSynonyms: child-mind, look after, care for, tend, supervise.\n",
+        "exampleA": "I babysit for my neighbour sometimes",
+        "exampleB": "I'm going to babysit for my neighbors this weekend.",
+        "exampleC": "Can you babysit for me on Friday night?",
+        "status": "learned"
+    },
+    {
+        "id": "19dd0b1d-f395-4ef7-89f5-01c4a826f1ed",
+        "word": "bored",
+        "persian": "بی حوصله",
+        "definition": "Being \"bored\" describes a state of feeling weary, restless, and uninterested due to a lack of stimulation or activity. It signifies a disengaged and often unpleasant feeling stemming from monotony or a perceived lack of things to do or see as worthwhile.\n\nSynonyms: uninterested, apathetic, listless, weary, restless.\n",
+        "exampleA": "I was so bored during the lecture that I started counting ceiling tiles.",
+        "exampleB": "She felt bored and restless after spending the entire day indoors.",
+        "exampleC": "The kids complained they were bored despite having a room full of toys.",
+        "status": "learned"
+    },
+    {
+        "id": "350c1754-730c-44fb-8018-ad97268b4d8d",
+        "word": "choose",
+        "persian": "\"Choose\" در فارسی معمولاً به صورت \"انتخاب کردن\"، \"برگزیدن\"، یا \"گزینش کردن\" ترجمه می‌شود. بسته به متن و مفهوم، می‌توان از هر کدام از این عبارات استفاده کرد.\n",
+        "definition": "\"Choose\" means to pick out or select someone or something from a range of options. It implies making a decision about what you prefer or need from available alternatives.\n\nSynonyms: select, pick, opt, decide, elect.\n",
+        "exampleA": "I choose to believe in the good in people.",
+        "exampleB": "You can choose either the red shirt or the blue one.",
+        "exampleC": "Did you choose a major yet?",
+        "status": ""
+    },
+    {
+        "id": "4bc5a684-00f6-4248-b60f-f67c939a5431",
+        "word": "competition",
+        "persian": "رقابت",
+        "definition": "Competition is a contest or rivalry among individuals, groups, or entities striving for the same goal or prize. It involves a struggle for superiority, whether in sports, business, academics, or any other field where limited resources or desirable outcomes are sought. The act of competing often drives innovation, efficiency, and improvement as participants push themselves to outperform others.\n\nSynonyms: rivalry, contest, contention, struggle, vying\n",
+        "exampleA": "The intense competition in the tech industry drives innovation.",
+        "exampleB": "She thrived under the pressure of competition and always strived to be the best.",
+        "exampleC": "The local bakery faced stiff competition from the new chain store.",
+        "status": "learned"
+    },
+    {
+        "id": "945c9181-2bcd-49d9-9e41-e0fbc9884410",
+        "word": "confused",
+        "persian": "سردرگم، گیج",
+        "definition": "\"Confused\" describes a state of mental uncertainty, bewilderment, or lack of clarity. It suggests a difficulty in understanding something or making sense of a situation, leading to disorientation or an inability to think clearly.\n\nSynonyms: perplexed, baffled, disoriented, bewildered.\n",
+        "exampleA": "I'm a bit confused. Was that her husband or her son she was with?",
+        "exampleB": "The student looked confused when the teacher explained the complex equation.",
+        "exampleC": "I was utterly confused by the plot twists in the movie.",
+        "status": "learned"
+    },
+    {
+        "id": "31eecc37-06e5-4fc7-8f5f-8ed9cda29842",
+        "word": "cost of living",
+        "persian": "خرج زندگی",
+        "definition": "The \"cost of living\" refers to the average expenses required to maintain a certain standard of living in a particular location. It encompasses costs like housing, food, transportation, healthcare, and entertainment. Areas with higher costs of living generally require higher incomes to afford the same quality of life as areas with lower costs.\n\nSynonyms: living expenses, subsistence level, consumer price index (related), expenditure.\n",
+        "exampleA": "The cost of living in New York City is notoriously high.",
+        "exampleB": "Many young professionals are moving to smaller cities to reduce their cost of living.",
+        "exampleC": "Negotiating a higher salary is essential to maintain your standard of living given the rising cost of living.",
+        "status": "learned"
+    },
+    {
+        "id": "0e44ba0e-ca5d-4909-9d7d-95c91dd38744",
+        "word": "craft",
+        "persian": "\"Craft\" بسته به متن می‌تونه معانی مختلفی داشته باشه. اما به طور کلی، می‌شه اون رو به «صنعت»، «مهارت»، «فن»، یا «هنر دستی» ترجمه کرد. گاهی هم به معنی «ساختن با مهارت» یا «تولید کردن» به کار می‌ره.\n",
+        "definition": "handicraft",
+        "exampleA": "the shop sells local crafts",
+        "exampleB": "She honed her craft as a silversmith over many years.",
+        "exampleC": "The rebels used small boats to craft a blockade.",
+        "status": "learned"
+    },
+    {
+        "id": "efff5b71-11d7-4ffc-9881-bb8fdcfa549d",
+        "word": "creativity",
+        "persian": "خلاقیت",
+        "definition": "Creativity is the ability to generate novel and useful ideas, solutions, and expressions. It involves breaking away from conventional thinking, exploring new possibilities, and ultimately producing something original and valuable.\n\nSynonyms: ingenuity, innovation, imagination, resourcefulness.\n",
+        "exampleA": "Energising colours in the bedroom also inspire mental activity and creativity.",
+        "exampleB": "Her creativity shone through in her inventive solutions to complex problems.",
+        "exampleC": "The art class fostered creativity through experimentation with different mediums.",
+        "status": "learned"
+    },
+    {
+        "id": "d16ece8d-ea0d-45f9-b61d-b84c1343e784",
+        "word": "daily routine",
+        "persian": "فعالیتهای روزمره",
+        "definition": "A daily routine is the set of activities you consistently perform each day, usually at approximately the same times. It provides structure and predictability, and can contribute to increased efficiency, reduced stress, and improved well-being. It encompasses everything from waking up and eating meals to working, exercising, and winding down for bed.\n\nSynonyms: daily grind, regular schedule, daily regimen, set pattern.\n",
+        "exampleA": "My daily routine includes a morning workout and a healthy breakfast.",
+        "exampleB": "The monotony of the daily routine began to wear on her.",
+        "exampleC": "Breaking out of the daily routine can be refreshing and invigorating.",
+        "status": "learned"
+    },
+    {
+        "id": "dd9f3fa0-e9fd-474c-8ce6-6a16d1a86226",
+        "word": "desire",
+        "persian": "میل",
+        "definition": "Desire is a strong feeling of wanting something, often a specific object, goal, or experience. It represents a yearning or craving that motivates one to pursue its fulfillment. It can range from a simple wish to a deep, passionate longing.\n\nSynonyms: Want, Craving, Yearning, Longing, Aspiration.\n",
+        "exampleA": "I certainly have no desire to have children.",
+        "exampleB": "His desire for success drove him to work tirelessly.",
+        "exampleC": "She felt a sudden desire to travel the world.",
+        "status": "learned"
+    },
+    {
+        "id": "fd16755b-abee-478a-a0dc-5395d7f42c86",
+        "word": "disappointment",
+        "persian": "ناامیدی",
+        "definition": "Disappointment is a feeling of sadness or dissatisfaction that arises when one's expectations, hopes, or wishes are not met. It's a common human emotion experienced when a desired outcome fails to materialize or when something falls short of what was anticipated. This feeling can range from mild frustration to deep sorrow depending on the significance of the unmet expectation.\n\nSynonyms: letdown, discouragement, disillusionment, frustration, regret\n",
+        "exampleA": "The team's loss was a crushing disappointment.",
+        "exampleB": "Her failure to get the promotion was a profound disappointment.",
+        "exampleC": "The poorly organized event was a huge disappointment.",
+        "status": "learned"
+    },
+    {
+        "id": "1de93dbc-66f9-4f45-aa5e-cc687ecf07e9",
+        "word": "dissatisfied",
+        "persian": "معادل‌های فارسی برای dissatisfied بسته به متن می‌تونه \"ناراضی\"، \"ناخشنود\"، \"دلخور\" یا \"ناراضی بودن\" باشه.\n",
+        "definition": "\"Dissatisfied\" means feeling or expressing discontent and unhappiness because something is not as good as desired or expected. It describes a state of being displeased or unfulfilled with a particular situation, object, or outcome.\n\nSynonyms: Discontented, disgruntled, displeased, unhappy, frustrated\n",
+        "exampleA": "The customer was dissatisfied with the slow service.",
+        "exampleB": "She felt dissatisfied despite her apparent success.",
+        "exampleC": "The team was deeply dissatisfied with the outcome of the match.",
+        "status": ""
+    },
+    {
+        "id": "a60e0a90-ebda-4fca-9413-b161f817629a",
+        "word": "enjoy",
+        "persian": "معنی \"enjoy\" بسته به متن می‌تونه متفاوت باشه، اما معمولاً به این صورت ترجمه می‌شه: لذت بردن، خوش گذراندن، حال کردن، کیف کردن، یا بهره‌مند شدن.\n",
+        "definition": "\"Enjoy\" means to experience pleasure or satisfaction from something. It signifies a feeling of happiness or gratification derived from an activity, event, or possession. It implies a positive emotional connection and a sense of delight.\n\nSynonyms: relish, savor, appreciate, delight in.\n",
+        "exampleA": "I enjoy spending time with my family.",
+        "exampleB": "Did you enjoy the movie last night?",
+        "exampleC": "We enjoy taking long walks in the park.",
+        "status": ""
+    },
+    {
+        "id": "e1bb492c-7c37-43b0-96da-5f1820cba117",
+        "word": "experience",
+        "persian": "\"تجربه\" در فارسی به معنای رویدادها، مهارت‌ها و دانش‌هایی است که فرد در طول زندگی از طریق مواجهه با موقعیت‌های مختلف به دست می‌آورد.\n",
+        "definition": "\"Experience\" refers to the knowledge, skills, or understanding gained from engaging in activities, encountering events, or living through situations. It's the process of learning and developing through direct observation and participation, shaping our perspectives and capabilities.\n\nSynonyms: exposure, expertise, background, involvement, familiarity.\n",
+        "exampleA": "Her experience in customer service made her a valuable asset to the team.",
+        "exampleB": "The trip to Europe was an unforgettable experience.",
+        "exampleC": "I lack the experience necessary for this demanding job.",
+        "status": ""
+    },
+    {
+        "id": "a2b7b8bc-ad53-45fe-83b9-84f6feb664a8",
+        "word": "express",
+        "persian": "ابراز کردن",
+        "definition": "\"Express\" means to clearly and directly communicate thoughts, feelings, or information, often with speed and efficiency. It emphasizes conveying something in an unambiguous and readily understandable way.\n\nSynonyms: articulate, convey, state, declare, voice, communicate.\n",
+        "exampleA": "The train will express passengers directly to the city center.",
+        "exampleB": "She used her art to express her deepest emotions.",
+        "exampleC": "Please express your opinion on the matter clearly and concisely.",
+        "status": "learned"
+    },
+    {
+        "id": "ee82dab5-744f-4106-ae5b-1ea24d9fbbf1",
+        "word": "extreme sport",
+        "persian": "\"Extreme sport\" در فارسی معمولاً به «ورزش‌های مخاطره‌آمیز» یا «ورزش‌های پرهیجان» ترجمه می‌شود که هر دو بر جنبه‌ی خطرناک و هیجان‌انگیز این نوع فعالیت‌ها تأکید دارند.\n",
+        "definition": "a sport that is very dangerous and exciting",
+        "exampleA": "Don't take any risks - just ring the police.",
+        "exampleB": "Base jumping is considered an extreme sport due to its inherent dangers.",
+        "exampleC": "She enjoys participating in extreme sport activities like rock climbing and whitewater rafting.",
+        "status": "learned"
+    },
+    {
+        "id": "b30240e2-fd9b-4e58-9cb8-d2197288c64f",
+        "word": "fulfil",
+        "persian": "\"Fulfil\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما به طور کلی یعنی \"برآورده کردن\"، \"انجام دادن\"، \"به انجام رساندن\" یا \"تحقق بخشیدن\".\n",
+        "definition": "To fulfil means to bring to completion or realization, to achieve a desired end or purpose, or to satisfy a requirement or condition. It suggests a sense of accomplishment and meeting expectations, whether it's completing a task, satisfying a need, or realizing a dream.\n\nSynonyms: achieve, accomplish, realize, satisfy, complete\n",
+        "exampleA": "She worked hard to fulfil her lifelong ambition of becoming a doctor.",
+        "exampleB": "The company struggled to fulfil all the orders due to supply chain issues.",
+        "exampleC": "It is important to fulfil your promises and commitments.",
+        "status": ""
+    },
+    {
+        "id": "99fbe82b-a8a5-416f-a9d2-9f2866a70b18",
+        "word": "fulfill",
+        "persian": "تحقق بخشیدن",
+        "definition": "To fulfill means to bring something to completion, satisfaction, or realization. It signifies carrying out a task, promise, or desire to its intended purpose, often implying a sense of achievement or contentment.\n\nSynonyms: achieve, complete, satisfy, realize, accomplish, execute.\n",
+        "exampleA": "At the age of 45, she finally fulfilled her ambition to run a marathon.",
+        "exampleB": "The company strives to fulfill all customer orders promptly.",
+        "exampleC": "She worked hard to fulfill her lifelong dream of becoming a doctor.",
+        "status": "learned"
+    },
+    {
+        "id": "6ac29323-8d2a-4ea8-841a-b970cd66556d",
+        "word": "fulfillment",
+        "persian": "بسته به زمینه، \"fulfillment\" می‌تونه به معانی مختلفی ترجمه بشه، اما در حالت کلی می‌تونیم اون رو \"تحقق\"، \"به انجام رساندن\"، یا \"تکمیل\" معنی کنیم.\n",
+        "definition": "Fulfillment refers to a state of deep satisfaction and contentment derived from realizing one's potential, pursuing meaningful goals, and living a life aligned with one's values. It's a sense of wholeness and purpose, where one feels like they are contributing to something larger than themselves and living a life that resonates with their authentic self.\n\nSynonyms: satisfaction, contentment, gratification, self-actualization, purpose.\n",
+        "exampleA": "Her work as a volunteer brought her a deep sense of fulfillment.",
+        "exampleB": "The company strives to achieve fulfillment of customer orders promptly.",
+        "exampleC": "He found artistic fulfillment in painting landscapes.",
+        "status": ""
+    },
+    {
+        "id": "1424a5db-caf9-44b3-b0f3-a806ecbc29f3",
+        "word": "fulfilment",
+        "persian": "تحقق، احساس کامیابی",
+        "definition": "Fulfillment refers to a feeling of satisfaction and happiness that comes from achieving something you desire or believe is important, or from fully developing your abilities and character. It's a sense of completeness and contentment derived from living a meaningful and purposeful life.\n\nSynonyms: satisfaction, contentment, gratification, realization, achievement, completion.\n",
+        "exampleA": "Being here is the fulfilment of a lifelong ambition. Sexual fulfilment",
+        "exampleB": "She found fulfilment in her work as a volunteer.",
+        "exampleC": "The company struggled to ensure order fulfilment during the holiday season.",
+        "status": "learned"
+    },
+    {
+        "id": "262bb9af-f6c3-468d-b2e8-83f5698bdb59",
+        "word": "get on (with sb/sth)",
+        "persian": "get along، کنار آمدن با کسی یا چیزی",
+        "definition": "\"Get on (with sb/sth)\" means to have a good, friendly, or harmonious relationship with someone, or to make progress or continue successfully with a task or activity. It implies a positive interaction or advancement.\n\nSynonyms: get along, proceed, manage, continue, progress.\n",
+        "exampleA": "I don't really get along with my sister's husband.",
+        "exampleB": "I get on really well with my new roommate.",
+        "exampleC": "We need to get on with the project if we want to meet the deadline.",
+        "status": "learned"
+    },
+    {
+        "id": "ff377c44-b7b6-46be-a9ab-870ed0b4b130",
+        "word": "goal",
+        "persian": "\"Goal\" در فارسی بسته به متن می‌تونه به \"هدف\"، \"مقصد\"، \"آرمان\" یا \"گل\" (در ورزش) ترجمه بشه.\n",
+        "definition": "A goal is a desired result or outcome that a person or organization aims to achieve. It's a specific target or objective that drives action and provides a sense of direction. Goals can be short-term or long-term, personal or professional, and achieving them typically requires planning, effort, and persistence.\n\nSynonyms: aim, objective, target, ambition, aspiration.\n",
+        "exampleA": "My main goal is to finish this project by Friday.",
+        "exampleB": "The team's goal is to win the championship this year.",
+        "exampleC": "Setting achievable goals is important for personal growth.",
+        "status": ""
+    },
+    {
+        "id": "fac3368a-62cb-439f-bd19-401dae25193e",
+        "word": "handicraft",
+        "persian": "کاردستی، صنایع دستی",
+        "definition": "Handicraft refers to skilled work done by hand, often involving artistic or traditional techniques to create decorative or useful objects. It emphasizes the artistry and individual skill of the maker rather than mass production.\n\nSynonyms: handcraft, craftwork, artisanry, handmade.\n",
+        "exampleA": "the traditional handicrafts of this region",
+        "exampleB": "The village is known for its beautiful handicraft, especially the woven baskets.",
+        "exampleC": "She sells her delicate handicraft at the local market every Saturday.",
+        "status": "learned"
+    },
+    {
+        "id": "f741149c-1ae6-4f94-85eb-7e127e70293e",
+        "word": "hobby",
+        "persian": "سرگرمی",
+        "definition": "A hobby is a pursuit or interest undertaken for pleasure or relaxation, typically during one's leisure time. It's an activity that people engage in simply because they enjoy it, not for financial gain or professional advancement. Hobbies can range from collecting items to creating art, playing sports, or learning new skills, offering a way to unwind, express creativity, and connect with others who share similar interests.\n\nSynonyms: pastime, avocation, interest, pursuit, diversion\n",
+        "exampleA": "the happiest people are those who have found a way to make living from their hobbies.",
+        "exampleB": "Photography is my favorite hobby, allowing me to capture beautiful moments.",
+        "exampleC": "His main hobby is collecting vintage stamps from around the world.",
+        "status": "learned"
+    },
+    {
+        "id": "00d6fa93-c0ba-4472-83f3-e8b5b81c3716",
+        "word": "improve",
+        "persian": "بهبود بخشیدن، ارتقا دادن، بهتر کردن، و توسعه دادن.\n",
+        "definition": "To improve means to make something better, more desirable, or of a higher quality. It involves enhancing existing features, fixing flaws, or adding new elements to achieve a superior state or outcome. Essentially, it's about taking something from where it is to a more advantageous position.\n\nSynonyms: enhance, refine, ameliorate, upgrade.\n",
+        "exampleA": "Regular exercise can significantly improve your overall health.",
+        "exampleB": "The company is implementing new strategies to improve customer satisfaction.",
+        "exampleC": "He attended a workshop to improve his public speaking skills.",
+        "status": ""
+    },
+    {
+        "id": "b97fc6d3-2846-4f22-a942-2754506c0d1d",
+        "word": "insight",
+        "persian": "بسته به زمینه، \"insight\" می‌تونه به معانی زیر ترجمه بشه:\n\n   بینش: این رایج‌ترین و عمومی‌ترین ترجمه است.\n   درک عمیق: وقتی منظور فهمیدن چیزی فراتر از ظاهر آن باشد.\n   بصیرت: وقتی به یک فهم ناگهانی یا شهودی اشاره دارد.\n   نگرش: وقتی منظور دیدگاه خاصی نسبت به یک موضوع باشد.\n   فهم: یک ترجمه ساده و قابل استفاده.\n",
+        "definition": "Insight is the ability to deeply understand something, often a complex situation or idea, by grasping underlying truths, patterns, and relationships that were not immediately apparent. It involves seeing beyond the surface level to gain a new and often profound perspective.\n\nSynonyms: understanding, perception, awareness, comprehension, acumen.\n",
+        "exampleA": "The research provided valuable insight into the causes of the disease.",
+        "exampleB": "Her sharp insight allowed her to quickly identify the problem.",
+        "exampleC": "Sometimes a fresh perspective can provide a new insight into an old issue.",
+        "status": ""
+    },
+    {
+        "id": "9062a7a0-0df5-47cf-8953-e0f8583b78b7",
+        "word": "insight (into sth)",
+        "persian": "نگاه به درون چیزی، بصیرت، بینش، درک",
+        "definition": "Insight (into something) refers to a deep and clear understanding of a complex situation or problem, often involving seeing beyond the surface level to grasp underlying truths or connections. It signifies a profound ability to perceive the nature of things, leading to informed and effective action or decision-making.\n\nSynonyms: comprehension, perception, discernment, understanding, awareness.\n",
+        "exampleA": "It was an interesting book, full of fascinating insights into human relationships.",
+        "exampleB": "The article provided valuable insight into the causes of the recession.",
+        "exampleC": "Her personal experiences gave her a unique insight into the challenges faced by immigrants.",
+        "status": "learned"
+    },
+    {
+        "id": "4de9dca6-82b9-42c0-ad14-5b1402d5634b",
+        "word": "intense",
+        "persian": "زياد،سخت ،شديد،قوى ،مشتاقانه",
+        "definition": "\"Intense\" describes something that is of extreme degree, strength, or feeling. It suggests a high level of energy, focus, or emotion that is concentrated and powerful. An intense experience can be overwhelmingly moving or deeply affecting.\n\nSynonyms: passionate, extreme, fierce, profound, powerful\n",
+        "exampleA": "The competition was intense, with every team vying for the top spot.",
+        "exampleB": "She felt an intense wave of emotion as she watched the sunset.",
+        "exampleC": "He had an intense focus that allowed him to finish the project ahead of schedule.",
+        "status": "learned"
+    },
+    {
+        "id": "aea4ed28-ad87-4214-8918-765564d723c1",
+        "word": "inventiveness",
+        "persian": "ابتکار",
+        "definition": "Inventiveness refers to the quality of being creative and original, particularly in devising new things, solutions, or methods. It's the ability to come up with novel ideas and put them into practice.\n\nSynonyms: creativity, ingenuity, resourcefulness, originality, innovation.\n",
+        "exampleA": "Her inventiveness led to the creation of a groundbreaking new technology.",
+        "exampleB": "The project required inventiveness and a willingness to think outside the box.",
+        "exampleC": "The company values inventiveness and encourages employees to develop novel solutions.",
+        "status": "learned"
+    },
+    {
+        "id": "1d4b794b-c2a1-4c15-898b-e18d74eab37a",
+        "word": "lead a happy life",
+        "persian": "زندگی شادی را ساختن",
+        "definition": "\"Lead a happy life\" means to experience a life characterized by joy, contentment, and well-being. It implies feeling satisfied with one's circumstances, relationships, and overall existence, and actively pursuing experiences that bring happiness and fulfillment.\n\nSynonyms: Live a fulfilling life, enjoy a good life, have a joyful existence, find happiness in life.\n",
+        "exampleA": "She decided to quit her stressful job in order to lead a happy life.",
+        "exampleB": "Many people believe that spending time with loved ones is the key to lead a happy life.",
+        "exampleC": "He worked hard to overcome his challenges and ultimately lead a happy life filled with purpose.",
+        "status": "learned"
+    },
+    {
+        "id": "209b164c-921d-4ae5-ba08-1cf42fce7073",
+        "word": "leisure",
+        "persian": "تن اسايى ،اسودگى ،فرصت ،مجال ،وقت کافى ،فراغت",
+        "definition": "Leisure refers to time free from work or other duties, dedicated to activities enjoyed for relaxation, personal enrichment, or recreation. It's a period characterized by a sense of freedom and choice in how one spends their time, allowing for pursuits outside of necessary obligations.\n\nSynonyms: recreation, free time, relaxation, spare time, downtime.\n",
+        "exampleA": "leisure time/activities/facilities",
+        "exampleB": "She enjoys painting and gardening in her leisure.",
+        "exampleC": "The resort offered a variety of activities for guests to enjoy at their leisure.",
+        "status": "learned"
+    },
+    {
+        "id": "8f9f0841-0f8d-4bd1-ae15-a2cf6b690f40",
+        "word": "lifelong ambition",
+        "persian": "رویای همیشگی",
+        "definition": "A lifelong ambition is a goal or aspiration that someone dedicates a significant portion, or even all, of their life to pursuing. It's a deeply held desire that provides direction and motivation over many years, often shaping decisions and influencing priorities. It's more than just a passing fancy; it's a defining purpose that drives a person's actions and gives their life meaning.\n\nSynonyms: long-held dream, enduring aspiration, lifelong goal, ultimate pursuit, paramount objective.\n",
+        "exampleA": "Becoming a doctor was her lifelong ambition.",
+        "exampleB": "He finally realized his lifelong ambition of writing a novel.",
+        "exampleC": "Their lifelong ambition was to travel the world together.",
+        "status": "learned"
+    },
+    {
+        "id": "fae436e6-3f58-4102-821f-155d07747461",
+        "word": "lifestyle",
+        "persian": "\"سبک زندگی\" بهترین و رایج‌ترین ترجمه برای \"lifestyle\" است که به روش زندگی، عادات، سلیقه‌ها و ارزش‌های یک فرد یا گروه اشاره دارد.\n",
+        "definition": "\"Lifestyle\" refers to the way a person lives, encompassing their habits, behaviors, choices, and overall approach to life. It reflects their values, attitudes, and the manner in which they allocate their time, resources, and energy. In essence, it's the unique pattern of living that defines an individual or group.\n\nSynonyms: way of life, habits, customs, routine, behavior, conduct.\n",
+        "exampleA": "Her healthy lifestyle includes daily exercise and a balanced diet.",
+        "exampleB": "The magazine features articles about travel, fashion, and the modern lifestyle.",
+        "exampleC": "He chose a minimalist lifestyle, focusing on experiences rather than possessions.",
+        "status": ""
+    },
+    {
+        "id": "30f5464c-c0fb-4384-92c3-19bdb466a591",
+        "word": "live life on the edge",
+        "persian": "زندگی پرمخاطره ای را تجربه کردن",
+        "definition": "\"Living life on the edge\" describes a lifestyle characterized by taking risks, seeking thrills, and pushing boundaries. It involves engaging in activities or making choices that are exciting, potentially dangerous, and often unconventional, often for the adrenaline rush or the feeling of being fully alive. It's about stepping outside of one's comfort zone and embracing uncertainty.\n\nSynonyms: Thrill-seeking, risk-taking, adventurous, daring, reckless (sometimes).\n",
+        "exampleA": "He decided to live life on the edge after his divorce.",
+        "exampleB": "Skydiving is one way to live life on the edge.",
+        "exampleC": "She quit her stable job to travel the world and truly live life on the edge.",
+        "status": "learned"
+    },
+    {
+        "id": "2466d8f1-7593-4bc0-ac5c-c27e1f2d32d9",
+        "word": "live life to the full",
+        "persian": "از زندگی نهایت بهره را بردن",
+        "definition": "\"Live life to the full\" means to experience life with enthusiasm, embracing every opportunity and moment with joy, passion, and a sense of adventure. It involves actively seeking out new experiences, cherishing relationships, and maximizing personal growth, rather than passively existing.\n\nSynonyms: Carpe diem, seize the day, live life to the fullest, make the most of life, enjoy life.\n",
+        "exampleA": "She decided to quit her job and travel the world, determined to live life to the full.",
+        "exampleB": "After his near-death experience, he resolved to live life to the full and appreciate every moment.",
+        "exampleC": "Don't be afraid to take risks and embrace new experiences; live life to the full!",
+        "status": "learned"
+    },
+    {
+        "id": "02d02d74-d31a-4aeb-a710-ed251f84bb67",
+        "word": "living expenses",
+        "persian": "هزینه های زندگی",
+        "definition": "Living expenses are the costs associated with maintaining a basic standard of living. This includes essential expenditures for things like housing, food, transportation, healthcare, and utilities that are necessary to survive and function day-to-day. They represent the money required to cover your everyday needs.\n\nSynonyms: cost of living, daily expenses, overhead, subsistence costs, upkeep.\n",
+        "exampleA": "Her salary barely covers her living expenses in the city.",
+        "exampleB": "We need to create a budget to track our monthly living expenses.",
+        "exampleC": "The company offers a stipend to help with employee living expenses.",
+        "status": "learned"
+    },
+    {
+        "id": "baaec79a-9792-4e9e-b7aa-1e6a076fa2af",
+        "word": "local community",
+        "persian": "اجتماع محلی",
+        "definition": "A local community refers to a group of people living in a specific geographic area, often sharing common interests, resources, and a sense of belonging. It's the immediate environment where individuals interact regularly, contributing to and drawing support from the network of social relationships and shared experiences within that location.\n\nSynonyms: neighborhood, district, vicinity, locale, region.\n",
+        "exampleA": "The new park will greatly benefit the local community.",
+        "exampleB": "We need to listen to the concerns of the local community.",
+        "exampleC": "The project aims to support the local community and economy.",
+        "status": "learned"
+    },
+    {
+        "id": "57163b0e-c3ad-4a60-a3da-7c56f00a1d45",
+        "word": "make a choice",
+        "persian": "انتخاب کردن، to choose",
+        "definition": "\"Make a choice\" means to select one option from a range of possibilities, typically involving a decision-making process where you weigh different factors and consider the consequences of each option before settling on the one you prefer or believe is best.\n\nSynonyms: Decide, Opt, Pick, Select, Determine\n",
+        "exampleA": "You need to make a choice between the red dress and the blue one.",
+        "exampleB": "She had to make a choice about her future career path.",
+        "exampleC": "The company asked him to make a choice: resign or be terminated.",
+        "status": "learned"
+    },
+    {
+        "id": "461e955d-a00e-4a6f-b12c-ed3a9c9a956c",
+        "word": "make a decision",
+        "persian": "تصمیم گرفتن، To decide",
+        "definition": "To \"make a decision\" means to choose a course of action or form an opinion after considering different options or possibilities. It involves evaluating available information, weighing potential outcomes, and then committing to a specific path forward. It's a key element of problem-solving and taking control.\n\nSynonyms: choose, decide, resolve, determine, conclude.\n",
+        "exampleA": "It's time to make a decision about our vacation plans.",
+        "exampleB": "The board must make a decision regarding the company's future direction.",
+        "exampleC": "He struggled to make a decision, weighing the pros and cons carefully.",
+        "status": "learned"
+    },
+    {
+        "id": "2a602b6b-1378-4db5-8a15-73f555a0dcdb",
+        "word": "make a living",
+        "persian": "خرج زندگی را درآوردن",
+        "definition": "\"Make a living\" refers to the process of earning enough money to support oneself and one's dependents, covering basic needs like food, shelter, and clothing, as well as other expenses. It encompasses the activities and efforts undertaken to secure financial resources for sustenance and maintaining a certain standard of life.\n\nSynonyms: earn a livelihood, subsist, support oneself, be self-sufficient.\n",
+        "exampleA": "she was struggling to make a living as a dancer",
+        "exampleB": "He works as a carpenter to make a living.",
+        "exampleC": "It's hard to make a living as a freelance artist.",
+        "status": "learned"
+    },
+    {
+        "id": "f28566e7-7745-4a70-a363-2a4c7a8af7ff",
+        "word": "materialistic",
+        "persian": "مادی گرا، اهل مادیات",
+        "definition": "\"Materialistic\" describes someone who is excessively concerned with material possessions and wealth, often placing a high value on acquiring and displaying them as a sign of success or happiness. Such individuals tend to prioritize tangible objects over intangible values like relationships, experiences, or personal growth. Synonyms include: acquisitive, consumeristic, grasping, covetous, worldly.\n",
+        "exampleA": "She was accused of being materialistic because she only cared about expensive clothes and cars.",
+        "exampleB": "His materialistic desires led him to prioritize wealth over genuine relationships.",
+        "exampleC": "The film critiques the materialistic values of modern society, portraying them as ultimately unfulfilling.",
+        "status": "learned"
+    },
+    {
+        "id": "20e0590f-80b2-44ac-827a-81b5cc07c485",
+        "word": "meet a need",
+        "persian": "نیازی را برآوردن",
+        "definition": "\"Meet a need\" means to satisfy a requirement or fulfill a deficiency that exists. It implies providing something that is lacking or addressing a problem. Essentially, it's about supplying what is necessary to achieve a desired outcome or alleviate a difficult situation.\n\nSynonyms: fulfill, satisfy, address, cater to, take care of.\n",
+        "exampleA": "The new community center will meet a need for affordable childcare.",
+        "exampleB": "Her volunteer work helps meet a need for companionship among the elderly.",
+        "exampleC": "This software update is designed to meet a need for increased security.",
+        "status": "learned"
+    },
+    {
+        "id": "cd2bcf10-c2e9-4ce5-a9b8-8317c40587fa",
+        "word": "miss (an opportunity)",
+        "persian": "فرصت را از دست دادن، غفلت کردن از یک فرصت، یا موقعیت را از دست دادن.\n",
+        "definition": "To \"miss an opportunity\" means to fail to take advantage of a favorable chance or possibility that presents itself. It implies a loss or regret associated with not acting when one could have benefited from doing so.\n\nSynonyms: pass up, let slip, lose out on, forgo, fail to seize.\n",
+        "exampleA": "I didn't want to miss an opportunity to advance my career.",
+        "exampleB": "He'll regret it if he decides to miss an opportunity like this.",
+        "exampleC": "Don't miss an opportunity to tell her how you feel.",
+        "status": ""
+    },
+    {
+        "id": "83830525-caf8-4e87-8a97-26fdf70876fb",
+        "word": "miss an opportunity",
+        "persian": "فرصت از دست دادن",
+        "definition": "\"Miss an opportunity\" means failing to take advantage of a favorable circumstance or chance to achieve a desired outcome or benefit. It implies a lost potential or a regret that something positive could have been gained but was not due to inaction, oversight, or misjudgment.\n\nSynonyms: Pass up, forgo, lose out on, squander, let slip.\n",
+        "exampleA": "He didn't want to miss an opportunity to advance his career.",
+        "exampleB": "If you hesitate, you might miss an opportunity to buy the stock at a lower price.",
+        "exampleC": "She regretted letting fear hold her back and miss an opportunity to travel the world.",
+        "status": "learned"
+    },
+    {
+        "id": "3b84eb8a-b5a1-4b5e-93ee-2f121286aab2",
+        "word": "motivate",
+        "persian": "انگیزه دادن، تشویق کردن، ترغیب کردن، یا ایجاد انگیزه.\n",
+        "definition": "To motivate someone means to provide them with a reason or incentive to act in a particular way or achieve a specific goal. It's about inspiring and encouraging them to take action, often by appealing to their needs, desires, or values. Essentially, you are giving them the drive and enthusiasm needed to move forward.\n\nSynonyms: inspire, encourage, stimulate, incentivize, propel\n",
+        "exampleA": "The promise of a bonus can motivate employees to work harder.",
+        "exampleB": "Good teachers motivate their students to learn and explore new ideas.",
+        "exampleC": "Listening to inspiring music can motivate me to exercise.",
+        "status": ""
+    },
+    {
+        "id": "76e2831c-c79d-4295-b7d0-2e8effaebe9d",
+        "word": "negative",
+        "persian": "\"منفی\" معادل دقیقی برای \"negative\" در فارسی است. بسته به زمینه، می توان از کلماتی مانند \"نامطلوب\"، \"منفی‌گرا\" یا \"ضعیف\" نیز استفاده کرد.\n",
+        "definition": "\"Negative\" generally means expressing denial, disagreement, or a lack of something desired or expected. It can also indicate an unfavorable or harmful outcome, or a charge that is opposite to positive. It's used in a wide range of contexts, from mathematics and science to emotions and opinions.\n\nSynonyms: pessimistic, unfavorable, adverse, contrary, denial\n",
+        "exampleA": "The test result came back negative, which was a relief.",
+        "exampleB": "Her negative attitude was affecting the team's morale.",
+        "exampleC": "The company reported negative earnings for the quarter.",
+        "status": ""
+    },
+    {
+        "id": "a07f6fed-a863-4484-bbc4-381eb5c5dcc0",
+        "word": "occupy",
+        "persian": "اشغال کردن، مشغول کردن کسی",
+        "definition": "\"Occupy\" means to take control of a place, usually by force or military action, and establish a presence there. It can also mean to fill or take up space or time, or to hold a position or job. Essentially, it signifies taking possession or control of something.\n\nSynonyms: seize, inhabit, dwell, absorb, engage.\n",
+        "exampleA": "On long car journeys I occupy myself with solving maths puzzles.",
+        "exampleB": "Protesters continue to occupy the park despite warnings from the authorities.",
+        "exampleC": "The army planned to occupy the enemy territory by the end of the week.",
+        "status": "learned"
+    },
+    {
+        "id": "1eb92066-d09e-4823-95ed-e25080a64561",
+        "word": "once in a lifetime opportunity",
+        "persian": "فرصتی بی‌نظیر و تکرارنشدنی.\n",
+        "definition": "A \"once in a lifetime opportunity\" refers to a rare and exceptional chance or experience that is unlikely to occur again in one's life. It signifies something incredibly valuable and potentially transformative, urging someone to seize the moment and take advantage of it.\n Synonyms: Unique opportunity, rare chance, golden opportunity, unrepeatable experience.\n",
+        "exampleA": "Winning the lottery is a once in a lifetime opportunity that most people only dream of.",
+        "exampleB": "This scholarship is a once in a lifetime opportunity to study abroad and broaden your horizons.",
+        "exampleC": "Meeting the president was a once in a lifetime opportunity I will never forget.",
+        "status": ""
+    },
+    {
+        "id": "734d38ce-2ff3-42a6-bf9a-d0bf4043b65a",
+        "word": "opportunity",
+        "persian": "فرصت",
+        "definition": "\"Opportunity\" refers to a favorable set of circumstances or a chance to do something positive or advantageous. It's a moment or situation that, if seized, can lead to progress, advancement, or the achievement of a desired outcome.\n\nSynonyms: chance, occasion, opening, break, prospect.\n",
+        "exampleA": "This job offers a great opportunity for career advancement.",
+        "exampleB": "She seized the opportunity to travel the world.",
+        "exampleC": "Don't miss the opportunity to learn a new skill.",
+        "status": "learned"
+    },
+    {
+        "id": "3f5146b3-91e7-40d9-bb87-91b9c155fc13",
+        "word": "optimist",
+        "persian": "فرد خوشبین",
+        "definition": "An optimist is a person who tends to look on the positive side of things and anticipates good outcomes rather than dwelling on the negative. They believe that ultimately things will work out for the best, even in the face of challenges.\n\nSynonyms: hopeful, positive thinker, idealist, Pollyanna, rosy-eyed.\n",
+        "exampleA": "Despite the setbacks, she remained an optimist, believing things would eventually improve.",
+        "exampleB": "Only an optimist would invest in such a risky venture.",
+        "exampleC": "He was a confirmed optimist, always seeing the silver lining in every cloud.",
+        "status": "learned"
+    },
+    {
+        "id": "fb923853-d2d9-4247-a026-ccf521ab7f6f",
+        "word": "outdoor",
+        "persian": "\"Outdoor\" در فارسی معمولاً به صورت \"فضای باز\"، \"بیرونی\" یا \"در فضای باز\" ترجمه می‌شود. بسته به متن، می‌توان از معادل مناسب‌تری استفاده کرد.\n",
+        "definition": "\"Outdoor\" refers to anything existing, happening, or being used outside of a building or enclosed space; it encompasses the natural environment and activities conducted within it. It's essentially the opposite of \"indoor.\"\n\nSynonyms: al fresco, open-air, outside, exterior.\n",
+        "exampleA": "We spent the afternoon enjoying the outdoor scenery.",
+        "exampleB": "The restaurant has a lovely outdoor patio for dining.",
+        "exampleC": "They are planning an outdoor wedding reception.",
+        "status": ""
+    },
+    {
+        "id": "c6789a17-d714-425a-97a5-8dbb7c945fca",
+        "word": "outlook",
+        "persian": "چشم‌انداز، دیدگاه، یا دورنما.\n",
+        "definition": "\"Outlook\" refers to a person's point of view or general attitude towards something. It encompasses their expectations, beliefs, and perspectives, influencing how they interpret events and approach situations. A positive outlook suggests optimism and hopefulness, while a negative outlook implies pessimism and apprehension.\n\nSynonyms: perspective, viewpoint, attitude, mindset, expectation, forecast.\n",
+        "exampleA": "The economic outlook for the next quarter is uncertain.",
+        "exampleB": "Her positive outlook on life is truly inspiring.",
+        "exampleC": "From the mountain peak, the outlook was breathtaking.",
+        "status": ""
+    },
+    {
+        "id": "86910f4d-155e-46e6-8d06-a176ea1a844e",
+        "word": "outlook (on sth)",
+        "persian": "چشم انداز، نگرش",
+        "definition": "An \"outlook\" on something refers to your point of view, attitude, or general perspective regarding a particular topic, situation, or the future. It's the way you tend to interpret events and anticipate what might happen, often shaped by your experiences, beliefs, and values.\n\nSynonyms: perspective, viewpoint, attitude, stance, vision\n",
+        "exampleA": "He has a fairly positive outlook ON life.",
+        "exampleB": "Her positive outlook on life helped her overcome many challenges.",
+        "exampleC": "The company's outlook on the future of the market is optimistic.",
+        "status": "learned"
+    },
+    {
+        "id": "3df818d6-fc4e-4fd5-8d03-09b3bc426fe8",
+        "word": "participate",
+        "persian": "سهيم شدن در،شريک شدن ،شرکت کردن ،سهيم شدن ،دخالت کردن",
+        "definition": "To participate means to take part in an activity or event, often implying involvement and contribution. It suggests being present and active, rather than simply observing.\n\nSynonyms: engage, join, partake, contribute, be involved\n",
+        "exampleA": "We encourage everyone to participate in the upcoming community event.",
+        "exampleB": "Students are expected to participate actively in class discussions.",
+        "exampleC": "Several countries chose not to participate in the international treaty.",
+        "status": "learned"
+    },
+    {
+        "id": "3f247479-8a47-4f7a-beb0-f1996edd4aa5",
+        "word": "personality",
+        "persian": "\"شخصیت\" بهترین و رایج‌ترین ترجمه برای \"personality\" است که به مجموعه‌ای از ویژگی‌ها، رفتارها و الگوهای فکری یک فرد اشاره دارد و او را از دیگران متمایز می‌کند.\n",
+        "definition": "character",
+        "exampleA": "She has a very warm personality.",
+        "exampleB": "Her outgoing personality made her a natural leader.",
+        "exampleC": "The interviewer assessed my personality to see if I was a good fit for the company.",
+        "status": "learned"
+    },
+    {
+        "id": "720117ba-1639-4b48-8bb4-70e52c58e699",
+        "word": "pessimist",
+        "persian": "فرد بدبین",
+        "definition": "A pessimist is someone who generally expects negative outcomes and believes that things are more likely to go wrong than right. They tend to focus on the downsides of situations and anticipate the worst possible scenarios.\n\nSynonyms: doomster, cynic, defeatist, melancholic.\n",
+        "exampleA": "The pessimist always expects the worst, regardless of the situation.",
+        "exampleB": "Don't be such a pessimist; things might actually work out for once.",
+        "exampleC": "He was labeled a pessimist after predicting the company's downfall.",
+        "status": "learned"
+    },
+    {
+        "id": "a9d0698f-0539-4e4d-a458-ab4f252a1bc9",
+        "word": "play a role",
+        "persian": "\"نقش ایفا کردن\"، \"نقش داشتن\" یا \"مؤثر بودن\" معادل‌های مناسبی برای این عبارت هستند.\n",
+        "definition": "\"Play a role\" means to participate in or contribute to something, often a situation, event, or project. It implies having an influence or impact, even if the contribution is small. It suggests that someone or something is a factor in the outcome, whether intentionally or unintentionally.\n\nSynonyms: contribute, participate, be involved, have a hand in, be a factor, influence.\n",
+        "exampleA": "Education can play a role in reducing poverty.",
+        "exampleB": "Honesty will play a role in building trust.",
+        "exampleC": "Healthy eating habits play a role in maintaining good health.",
+        "status": ""
+    },
+    {
+        "id": "0d3ff55e-b6f8-4e93-8123-f618e019d9c0",
+        "word": "positive",
+        "persian": "بسته به متن، «مثبت»، «خوب»، «سازنده»، «مطمئن»، یا «رضایت‌بخش» ترجمه می‌شود.\n",
+        "definition": "\"Positive\" generally means good, favorable, or constructive. It implies optimism, confidence, and a focus on beneficial outcomes. It can also describe something that is definite or certain, or that confirms the presence of something else.\n\nSynonyms: optimistic, affirmative, beneficial, constructive, definite.\n",
+        "exampleA": "The test results came back positive, indicating the presence of the virus.",
+        "exampleB": "Her positive attitude helped the team overcome the challenges.",
+        "exampleC": "The company reported positive earnings for the quarter.",
+        "status": ""
+    },
+    {
+        "id": "6726b856-f228-4a90-88e6-a047c255d2b9",
+        "word": "pressure",
+        "persian": "فشار، بسته به متن می‌تونه به معنی‌های متفاوتی مثل \"فشار فیزیکی\"، \"فشار روانی\"، \"تنش\" یا \"اجبار\" به کار بره.\n",
+        "definition": "Pressure is the continuous force applied to or exerted on an object per unit area. It can refer to physical forces like atmospheric pressure or the force exerted by a fluid, or it can describe a sense of stress, urgency, or compulsion in a social or psychological context. It signifies a weight or burden, either literal or figurative.\n\nSynonyms: stress, force, strain, burden, urgency, demand.\n",
+        "exampleA": "The pressure to succeed in college was immense.",
+        "exampleB": "The water pressure in the shower was very low this morning.",
+        "exampleC": "The doctor checked my blood pressure during the appointment.",
+        "status": ""
+    },
+    {
+        "id": "2092d308-d2fe-4cdc-9916-fa4f24f5252f",
+        "word": "priority",
+        "persian": "،اولويت ،حق تقدم",
+        "definition": "A priority is something that is regarded as more important than other things and therefore needs to be dealt with first. It represents the order of importance or urgency that is assigned to tasks, goals, or issues, guiding decision-making and resource allocation.\n\nSynonyms: precedence, urgency, importance, significance, preference\n",
+        "exampleA": "Getting enough sleep is a priority for maintaining good health.",
+        "exampleB": "The customer's satisfaction is our top priority.",
+        "exampleC": "The project's deadline makes its completion a high priority.",
+        "status": "learned"
+    },
+    {
+        "id": "b1b64b5b-9623-4732-8e4c-c488fc050d0e",
+        "word": "put a pressure on sb",
+        "persian": "کسی را تحت فشار قرار دادن",
+        "definition": "To \"put pressure on someone\" means to try to influence them to do something, often by creating a sense of urgency, obligation, or threat. It implies applying some kind of force, whether it be emotional, social, or even economic, to encourage them to act in a desired way, often against their initial inclination or comfort.\n\nSynonyms: pressure, urge, coerce, push, lean on, strong-arm.\n",
+        "exampleA": "The upcoming deadline will put a pressure on the team to finish the project quickly.",
+        "exampleB": "The coach didn't want to put a pressure on the young quarterback by starting him in the championship game.",
+        "exampleC": "Rising living costs put a pressure on families to find ways to save money.",
+        "status": "learned"
+    },
+    {
+        "id": "4d57b485-e1c7-4ad2-94ee-66f7c7d6b22c",
+        "word": "put pressure on",
+        "persian": "\"وارد کردن فشار\" یا \"فشار آوردن\" معادل‌های مناسبی برای این عبارت هستند.\n",
+        "definition": "To \"put pressure on\" someone means to try and influence them to do something, often by using persuasion, demands, or threats. It implies creating a sense of urgency or obligation to make the person act in a desired way.\n\nSynonyms: pressure, urge, coerce, influence, push, lean on\n",
+        "exampleA": "The upcoming deadline will put pressure on the team to finish the project.",
+        "exampleB": "The coach tried to put pressure on the referee by constantly questioning his calls.",
+        "exampleC": "Rising inflation continues to put pressure on household budgets.",
+        "status": ""
+    },
+    {
+        "id": "acf16e27-9122-43d3-9f21-c4066ee7c85c",
+        "word": "realist",
+        "persian": "فرد واقع بین",
+        "definition": "A realist is someone who tends to view the world, situations, and people in a practical and pragmatic way, focusing on observable facts and possibilities rather than idealistic dreams or wishful thinking. They are often grounded in reality and base their actions and decisions on what is achievable and likely to succeed, often accepting the less pleasant aspects of life.\n\nSynonyms: pragmatist, down-to-earth person, pragmatist, hardhead, no-nonsense person, materialist.\n",
+        "exampleA": "As a realist, she focused on practical solutions rather than idealistic dreams.",
+        "exampleB": "The artist's realist paintings depicted everyday life with unflinching accuracy.",
+        "exampleC": "He's a realist about the company's chances of success in this competitive market.",
+        "status": "learned"
+    },
+    {
+        "id": "8a9d12e1-d389-41c9-95d9-9db57ec46192",
+        "word": "recreation",
+        "persian": "تفریح",
+        "definition": "Recreation refers to activities done for enjoyment, pleasure, or relaxation, typically during leisure time. It's about engaging in pursuits that refresh and revitalize the mind and body, offering a break from routine responsibilities and stress.\n\nSynonyms: Leisure, amusement, fun, entertainment, hobby\n",
+        "exampleA": "Emma's only form of recreation seems to be shopping.",
+        "exampleB": "The city offers a variety of programs for recreation, including sports leagues and art classes.",
+        "exampleC": "Hiking in the mountains is my favorite form of recreation.",
+        "status": "learned"
+    },
+    {
+        "id": "300136f4-c656-493d-8251-d01fc4367c63",
+        "word": "recreational",
+        "persian": "تفریحی",
+        "definition": "\"Recreational\" describes activities or pursuits undertaken for enjoyment, leisure, or relaxation, typically during one's free time. It encompasses anything done to refresh the mind and body and to provide a break from work or daily routines.\n\nSynonyms: leisure, pastime, diversion, amusement, relaxing, enjoyable\n",
+        "exampleA": "The city offers many recreational activities, such as hiking and biking.",
+        "exampleB": "This park is designed for recreational use, including picnicking and playing sports.",
+        "exampleC": "Many people pursue painting as a recreational hobby.",
+        "status": "learned"
+    },
+    {
+        "id": "383772ff-ad43-46dc-ac39-64816b5a0969",
+        "word": "regret",
+        "persian": "\"Regret\" در فارسی می‌تواند به معانی مختلفی بسته به زمینه استفاده شود، اما رایج‌ترین ترجمه‌های آن عبارتند از: پشیمانی، افسوس، حسرت.\n",
+        "definition": "Regret is a feeling of sadness, disappointment, or remorse over something one has done or failed to do in the past. It often involves a sense of wishing one could undo or change a previous action or decision.\n\nSynonyms: remorse, sorrow, contrition, compunction, rue.\n",
+        "exampleA": "I regret not studying harder for the exam.",
+        "exampleB": "She felt a pang of regret after the harsh words she spoke.",
+        "exampleC": "He lived a life free of regret, always following his passions.",
+        "status": ""
+    },
+    {
+        "id": "41e5f01f-d1c5-4158-9f32-53bc20788c8a",
+        "word": "regret (doing sth)",
+        "persian": "پشیمان بودن",
+        "definition": "Regret is a feeling of sadness, remorse, or disappointment over something that has happened or been done, especially when it involves a mistake or a missed opportunity. It implies a desire that things had turned out differently or that a different choice had been made in the past.\n\nSynonyms: repent, lament, rue, be sorry for.\n",
+        "exampleA": "I regret not studying harder for the exam.",
+        "exampleB": "She may regret saying those harsh words later.",
+        "exampleC": "They don't regret taking the risk, even though it failed.",
+        "status": "learned"
+    },
+    {
+        "id": "e9a8cd0a-c5eb-459e-b42e-d3a4375137c2",
+        "word": "relax",
+        "persian": "\"Relax\" در فارسی معمولاً به صورت \"ریلکس کردن\"، \"آرام شدن\"، \"استراحت کردن\" یا \"راحت بودن\" ترجمه می‌شود. بسته به متن و موقعیت، می‌توانید از هر کدام از این معادل‌ها استفاده کنید.\n",
+        "definition": "\"Relax\" means to become less tense, anxious, or stressed, both physically and mentally. It involves releasing tension and finding a state of calm and tranquility, often associated with leisure activities or simply doing nothing.\n\nSynonyms: unwind, chill out, de-stress, loosen up, calm down\n",
+        "exampleA": "After a long day at work, I just want to relax.",
+        "exampleB": "Let's relax by the pool this weekend.",
+        "exampleC": "Try to relax and take deep breaths before the presentation.",
+        "status": ""
+    },
+    {
+        "id": "bc814459-6ffe-403c-9bfc-408b0632f796",
+        "word": "risk-taker",
+        "persian": "فرد مخاطره طلب",
+        "definition": "A risk-taker is someone who is willing to embrace challenges and potentially negative outcomes in pursuit of a desired goal or experience. They often demonstrate a higher tolerance for uncertainty and are more likely to engage in activities that others might perceive as dangerous or imprudent. A risk-taker isn't necessarily reckless, but rather someone who carefully considers the potential rewards and is prepared to accept the possibility of failure.\n\nSynonyms: adventurer, daredevil, gambler, opportunist, entrepreneur.\n",
+        "exampleA": "She's a real risk-taker, always up for trying new and daring activities.",
+        "exampleB": "The company needs a risk-taker to lead the innovation team.",
+        "exampleC": "His reputation as a risk-taker preceded him, making investors both excited and wary.",
+        "status": "learned"
+    },
+    {
+        "id": "d60c0adf-3715-4620-a2b4-3ea49dde8e6f",
+        "word": "satisfy",
+        "persian": "راضی کردن، اقناع کردن، برآورده کردن",
+        "definition": "To satisfy means to fulfill a need, desire, or expectation; to provide what is necessary or desired to the point of contentment or fulfillment. It implies bringing a feeling of lack or wanting to an end by meeting a certain requirement or standard.\n\nSynonyms: fulfill, gratify, appease, quench, content.\n",
+        "exampleA": "She satisfies all the requirements for the job.",
+        "exampleB": "The hearty meal did indeed satisfy my hunger.",
+        "exampleC": "Does this agreement satisfy the terms of the contract?",
+        "status": "learned"
+    },
+    {
+        "id": "45337a09-3bcd-4c9d-a962-3b0a527e1f12",
+        "word": "self-expression",
+        "persian": "ابراز وجود",
+        "definition": "Self-expression refers to the act of conveying one's thoughts, feelings, ideas, and personality to the world through various creative or personal outlets. It's the externalization of an individual's inner self, allowing them to communicate who they are and what they believe in, often through art, writing, music, fashion, or simply their behavior.\n\nSynonyms: Articulation, manifestation, personal statement, representation.\n",
+        "exampleA": "Her clothing choices were a vibrant form of self-expression.",
+        "exampleB": "Art therapy provided a safe space for self-expression and emotional release.",
+        "exampleC": "The internet has become a powerful tool for self-expression and connecting with like-minded individuals.",
+        "status": "learned"
+    },
+    {
+        "id": "82593e5e-b202-407b-8ce0-1167dfe60969",
+        "word": "sense",
+        "persian": "\"Sense\" بسته بهcontext می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌هاش این‌ها هستن:\n\n   حس: وقتی که به توانایی درک از طریق حواس پنجگانه اشاره داره.\n   احساس: وقتی که به یک عاطفه یا حالت روحی اشاره داره.\n   معنی: وقتی که به مفهوم یا منظور چیزی اشاره داره.\n درک: وقتی به فهم و استنباط اشاره دارد.\n",
+        "definition": "\"Sense\" refers to the faculty by which a living being perceives external stimuli or internal states. It encompasses the ability to feel, perceive, or understand something. It can also refer to a generally shared feeling or opinion, or a practical and intelligent approach to life.\n\nSynonyms: sensation, feeling, perception, understanding, awareness, intuition, judgment.\n",
+        "exampleA": "I didn't sense any danger.",
+        "exampleB": "Does that make sense to you?",
+        "exampleC": "He has a great sense of humor.",
+        "status": ""
+    },
+    {
+        "id": "f67b8bec-cbfe-465d-b81e-d487770e8f26",
+        "word": "set (a goal)",
+        "persian": "\"تعیین کردن (هدف)\" یا \"مشخص کردن (هدف)\". بسته به لحن و بافت جمله، می‌تونید از این دو عبارت استفاده کنید.\n",
+        "definition": "To \"set a goal\" means to define or establish a specific objective or desired outcome that one aims to achieve within a certain timeframe. It involves consciously deciding on something you want to accomplish and then formulating a plan to make it happen. Essentially, it's about identifying a target and committing to working towards it.\n\nSynonyms: establish, define, determine, formulate, designate\n",
+        "exampleA": "I need to set a goal for myself to exercise three times a week.",
+        "exampleB": "It's important to set a goal that is both challenging and achievable.",
+        "exampleC": "Before starting the project, we should set a goal to define its scope and objectives.",
+        "status": ""
+    },
+    {
+        "id": "1fe443c8-eab2-45b4-b81c-9a9623a4d91e",
+        "word": "set yourself a goal",
+        "persian": "برای خودت هدف تعیین کردن",
+        "definition": "\"Set yourself a goal\" means to define a specific, desired outcome or achievement that you aim to accomplish within a certain timeframe. It involves deciding what you want to achieve and then consciously directing your efforts towards making it a reality. This provides focus, motivation, and a sense of direction.\n\nSynonyms: aim, target, determine, aspire, resolve\n",
+        "exampleA": "Before starting any project, set yourself a goal to provide a clear direction.",
+        "exampleB": "It's important to set yourself a goal that is challenging but still attainable.",
+        "exampleC": "If you want to improve your skills, set yourself a goal to practice regularly.",
+        "status": "learned"
+    },
+    {
+        "id": "1d4bb807-e6ef-49f2-b166-088be139f9ff",
+        "word": "standard of living",
+        "persian": "\"Standard of living\" معمولاً به صورت \"سطح زندگی\" یا \"کیفیت زندگی\" ترجمه می‌شود که به میزان رفاه، آسایش و دسترسی به امکانات مختلف در زندگی یک فرد یا جامعه اشاره دارد.\n",
+        "definition": "\"Standard of living\" refers to the degree of wealth and material comfort available to a person or community. It's often measured by factors like income, employment, access to healthcare, education, housing affordability, and overall quality of life, reflecting the ease with which basic needs and wants can be satisfied.\n\nSynonyms: Living standards, quality of life, level of affluence, economic well-being.\n",
+        "exampleA": "The country's economic growth has significantly improved the standard of living for its citizens.",
+        "exampleB": "Many people move to cities in search of a higher standard of living and better opportunities.",
+        "exampleC": "Access to healthcare and education are key factors in determining a person's standard of living.",
+        "status": ""
+    },
+    {
+        "id": "a7f95f0f-5e6a-4e0a-8344-5b7e51c507e4",
+        "word": "successful",
+        "persian": "\"موفق\" یا \"کامیاب\"\n",
+        "definition": "\"Successful\" generally describes the achievement of desired aims or outcomes. It implies that someone or something has attained a goal, realized a purpose, or reached a favorable conclusion after effort and planning. It's a positive term denoting accomplishment and triumph.\n\nSynonyms: prosperous, thriving, flourishing, victorious, accomplished.\n",
+        "exampleA": "She had a successful career as a doctor.",
+        "exampleB": "The project was considered successful due to the positive results.",
+        "exampleC": "He built a successful business from the ground up.",
+        "status": ""
+    },
+    {
+        "id": "8b81d096-418c-4cdd-bba3-fcf992a3f6ab",
+        "word": "take part (in)",
+        "persian": "شرکت کردن (در)، سهیم شدن (در)، حضور داشتن (در).\n",
+        "definition": "\"Take part (in)\" means to actively participate or be involved in an activity, event, or organization. It signifies not just being present, but contributing and engaging with what's happening.\n\nSynonyms: Participate, engage, contribute, join, partake.\n",
+        "exampleA": "I want to take part in the upcoming marathon.",
+        "exampleB": "Did you take part in the school play last year?",
+        "exampleC": "Many students decided to take part in the volunteer program.",
+        "status": ""
+    },
+    {
+        "id": "61a84454-d785-4e58-844a-2bbff78a7b8d",
+        "word": "take part in",
+        "persian": "شرکت کردن در",
+        "definition": "\"Take part in\" means to participate or be involved in an activity, event, or process. It signifies being an active member and contributing to something that is happening.\n\nSynonyms: participate, engage in, get involved, join in, partake.\n",
+        "exampleA": "I want to take part in the upcoming marathon.",
+        "exampleB": "Did you take part in the school play last year?",
+        "exampleC": "Several students decided to take part in the science competition.",
+        "status": "learned"
+    },
+    {
+        "id": "a485fb55-b1b5-4525-a49b-b0e2bb62f08a",
+        "word": "the glass is half-full",
+        "persian": "نیمه پر لیوان را دیدن",
+        "definition": "\"The glass is half-full\" is an expression used to describe someone who is optimistic and focuses on the positive aspects of a situation, even when faced with challenges or setbacks. It implies seeing the potential for more good to come, rather than dwelling on what's lacking.\n\nSynonyms: optimistic, positive, hopeful, sanguine, cheerful\n",
+        "exampleA": "she remains a person for whom the glass is always half-full, not half-empty",
+        "exampleB": "Despite the challenges, he believed the glass is half-full, seeing opportunities where others saw obstacles.",
+        "exampleC": "While acknowledging the difficulties, she maintained that the glass is half-full, focusing on the progress they had made.",
+        "status": "learned"
+    },
+    {
+        "id": "f8f436b9-323c-4a7b-a1a8-7bf1a9213fa7",
+        "word": "way of life",
+        "persian": "\"شیوه زندگی\" یا \"سبک زندگی\"\n",
+        "definition": "lifestyle",
+        "exampleA": "Sustainable farming is more than just a job; it's a way of life.",
+        "exampleB": "For nomadic tribes, constant travel is their way of life.",
+        "exampleC": "Minimalism, for some, is not just a trend but a way of life.",
+        "status": "learned"
+    },
+    {
+        "id": "0bd60668-437a-43e7-b794-d8f21ae4e51b",
+        "word": "work hard for a living",
+        "persian": "کار کردن برای امرار معاش",
+        "definition": "\"Work hard for a living\" means to exert considerable effort and dedication in one's job or profession to earn enough money to support oneself and one's family. It implies a strong work ethic and a commitment to earning income through diligence and perseverance, often suggesting a job that requires significant physical or mental exertion.\n\nSynonyms: toil, labor, grind, hustle, slave away.\n",
+        "exampleA": "He had to work hard for a living after his business failed.",
+        "exampleB": "Many people work hard for a living just to make ends meet.",
+        "exampleC": "She instilled in her children the importance of education so they wouldn't have to work too hard for a living.",
+        "status": "learned"
+    }
+]

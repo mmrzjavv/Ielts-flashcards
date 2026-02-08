@@ -1,0 +1,852 @@
+[
+    {
+        "id": "916b1c47-2f95-4768-bfc1-c7f12a31a400",
+        "word": "ability",
+        "persian": "توانایی، قابلیت، استعداد، یا مهارت. انتخاب دقیق‌ترین معادل بستگی به متن و مفهوم مورد نظر دارد.\n",
+        "definition": "\"Ability\" refers to the quality of being able to do something; it's the inherent or learned power to perform a task, skill, or action effectively. It encompasses a range of capabilities, from physical prowess to mental aptitude and learned expertise.\n\nSynonyms: Capability, competence, aptitude, skill, talent.\n",
+        "exampleA": "Her ability to learn new languages is remarkable.",
+        "exampleB": "The athlete's natural ability and rigorous training led to victory.",
+        "exampleC": "Do you have the ability to help me with this problem?",
+        "status": ""
+    },
+    {
+        "id": "2a29b500-22e3-4c04-9e4c-f58050338e61",
+        "word": "abstract",
+        "persian": "انتزاعی، مفهوم مجرد",
+        "definition": "\"Abstract\" refers to something that exists primarily as an idea, concept, or theoretical representation, rather than having a concrete or physical form. It often involves generalizing or simplifying information, focusing on essential qualities rather than specific details. Think of concepts like love, justice, or freedom - these are abstract notions.\n\nSynonyms: Conceptual, theoretical, intangible, non-concrete, philosophical.\n",
+        "exampleA": "The artist's paintings were very abstract and open to interpretation.",
+        "exampleB": "He presented an abstract of his research paper at the conference.",
+        "exampleC": "Justice is an abstract concept that can be hard to define.",
+        "status": "seen"
+    },
+    {
+        "id": "749d5050-6159-4759-943d-cfbd6e193e99",
+        "word": "acquire",
+        "persian": "معنی \"acquire\" بسته به متن می‌تونه متفاوت باشه، اما به طور کلی به معنی «به دست آوردن»، «کسب کردن»، یا «فرا گرفتن» است.\n",
+        "definition": "\"Acquire\" means to come into possession of something, often through purchase, effort, or learning. It signifies the act of obtaining or gaining ownership of an object, skill, or knowledge.\nSynonyms: obtain, gain, attain, procure, secure.\n",
+        "exampleA": "The company plans to acquire a smaller competitor to expand its market share.",
+        "exampleB": "She hopes to acquire fluency in Spanish before her trip to Mexico.",
+        "exampleC": "Through hard work and dedication, he was able to acquire valuable skills.",
+        "status": ""
+    },
+    {
+        "id": "4f45dc32-f01e-45cc-a374-baf79d149e0d",
+        "word": "adolescence",
+        "persian": "نوجوانی",
+        "definition": "Adolescence is the transitional stage of physical and psychological human development that generally occurs during the period from puberty to legal adulthood. It is characterized by significant changes in the body, emotions, and social roles as a young person navigates the path towards independence and self-discovery.\n\nSynonyms: teenage years, youth, puberty, development phase\n",
+        "exampleA": "Her rebellion was a typical phase of adolescence.",
+        "exampleB": "Many lasting friendships are formed during adolescence.",
+        "exampleC": "The challenges of adolescence can be difficult to navigate.",
+        "status": "learned"
+    },
+    {
+        "id": "a03e3fc5-9828-4513-8326-da41baa182f7",
+        "word": "adolescent",
+        "persian": "نوجوان ، نا بالغ ، خام ، جوان",
+        "definition": "\"Adolescent\" refers to a young person who is in the stage of development between childhood and adulthood, typically ranging from the ages of 10 to 19. It encompasses the period of physical, emotional, and psychological changes as individuals transition towards maturity.\n\nSynonyms: teenager, youth, juvenile\n",
+        "exampleA": "The adolescent struggled to find their place among their peers.",
+        "exampleB": "She's writing a novel about the challenges of adolescent life.",
+        "exampleC": "The program aims to support adolescent mental health.",
+        "status": "learned"
+    },
+    {
+        "id": "652242c3-85a2-4d0a-8d0f-003031cc541e",
+        "word": "adulthood",
+        "persian": "بزرگسالی",
+        "definition": "Adulthood signifies the stage of life when an individual is considered fully developed and mature, both physically and emotionally, and typically assumes responsibilities associated with independence, such as financial stability, decision-making, and social contributions. It's a period marked by legal recognition as an adult and the societal expectations that come with it.\n\nSynonyms: maturity, adulthood, ripeness, seniority, developed.\n",
+        "exampleA": "She embraced the responsibilities of adulthood with grace and maturity.",
+        "exampleB": "Many young people feel unprepared for the challenges of adulthood.",
+        "exampleC": "The transition from adolescence to adulthood can be a confusing time.",
+        "status": "learned"
+    },
+    {
+        "id": "d8f6bb26-3501-4b9b-b305-663a381bd29b",
+        "word": "affection",
+        "persian": "محبت،علاقه",
+        "definition": "Affection is a feeling of fondness or love, often expressed through tender gestures and words. It's a gentle warmth directed towards someone or something, signifying a positive emotional connection. It can range from a comfortable liking to deep attachment.\n\nSynonyms: love, fondness, tenderness, warmth, care, endearment.\n",
+        "exampleA": "to have deep affection for sb",
+        "exampleB": "She showed great affection for her new puppy, cuddling it constantly.",
+        "exampleC": "His stoic exterior hid a deep affection for his family and friends.",
+        "status": "learned"
+    },
+    {
+        "id": "34624e32-9b0d-40cd-aaa1-a42fcd2a63ff",
+        "word": "affectionate",
+        "persian": "محبت آمیز",
+        "definition": "\"Affectionate\" describes someone who readily shows love, care, and tenderness towards others. It suggests a warm and demonstrative nature, expressing feelings of fondness through actions and words.\n\nSynonyms: loving, tender, warm, caring, fond\n",
+        "exampleA": "an affectionate hug",
+        "exampleB": "The puppy was very affectionate, licking everyone who came near.",
+        "exampleC": "She gave him an affectionate smile and squeezed his hand.",
+        "status": "learned"
+    },
+    {
+        "id": "4dcf359a-a8d9-42f8-bf4a-9405fc92de9a",
+        "word": "bear in mind",
+        "persian": "در نظر داشته باشید",
+        "definition": "\"Bear in mind\" means to remember and consider something important when making a decision or thinking about a situation. It's a gentle way of reminding someone to not forget a crucial piece of information.\n\nSynonyms: remember, keep in mind, be mindful, take into account, don't forget.\n",
+        "exampleA": "Bear in mind that the deadline is next Friday.",
+        "exampleB": "When you're negotiating, bear in mind your bottom line.",
+        "exampleC": "Bear in mind that this is just my opinion.",
+        "status": "learned"
+    },
+    {
+        "id": "7b9ea6da-1301-43c6-b7f0-0fdf9ddcb71d",
+        "word": "behaviour",
+        "persian": "رفتار",
+        "definition": "\"Behaviour\" refers to the way a person or animal acts, especially in response to a particular situation or stimulus. It encompasses their actions, mannerisms, and conduct, essentially how they carry themselves and interact with their environment.\n\nSynonyms: conduct, demeanor, manner, actions, deportment.\n",
+        "exampleA": "The dog's unusual behaviour worried its owner.",
+        "exampleB": "His behaviour in the meeting was unacceptable.",
+        "exampleC": "Scientists are studying the behaviour of bees.",
+        "status": "learned"
+    },
+    {
+        "id": "01c71ba9-09a3-4102-a133-d2edebf3f215",
+        "word": "broaden the mind",
+        "persian": "باز شدن ذهن و فکر",
+        "definition": "\"Broaden the mind\" means to expand one's understanding, knowledge, and perspectives by exposing oneself to new ideas, experiences, and cultures. It suggests a process of intellectual and personal growth achieved through learning, exploration, and challenging pre-existing beliefs.\n\nSynonyms: Expand horizons, enlighten, open up, enrich understanding.\n",
+        "exampleA": "travel broadens the mind",
+        "exampleB": "Traveling to different countries can broaden the mind and offer new perspectives.",
+        "exampleC": "Reading diverse genres and engaging in thoughtful discussions can help broaden the mind.",
+        "status": "learned"
+    },
+    {
+        "id": "e72aa100-dc69-4b91-a8c5-61ad6943beb6",
+        "word": "childhood",
+        "persian": "دوران کودکی",
+        "definition": "Childhood refers to the period of life from infancy to adolescence, generally characterized by innocence, dependency, and a time of significant physical, cognitive, and emotional development. It's a stage marked by learning, play, and formative experiences that shape an individual's future.\n\nSynonyms: boyhood, girlhood, youth, infancy, early years.\n",
+        "exampleA": "Her childhood was filled with laughter and outdoor adventures.",
+        "exampleB": "He often reflects on the simpler times of his childhood.",
+        "exampleC": "The novel explores the themes of innocence and loss during childhood.",
+        "status": "learned"
+    },
+    {
+        "id": "a7729c60-b12f-4239-ac3f-fdfed962a40e",
+        "word": "clumsy",
+        "persian": "ناشیانه",
+        "definition": "\"Clumsy\" describes someone who lacks grace or coordination in their movements, often resulting in accidents or awkwardness. It implies a lack of dexterity and a tendency to drop things, trip, or bump into objects.\n\nSynonyms: awkward, ungainly, inept, maladroit.\n",
+        "exampleA": "clumsy attempt to catch the ball",
+        "exampleB": "The clumsy waiter spilled a tray of drinks all over the floor.",
+        "exampleC": "Despite her best efforts, she was a clumsy dancer, often tripping over her own feet.",
+        "status": "learned"
+    },
+    {
+        "id": "d03e3800-16d1-406a-9dee-e8c50fdb641c",
+        "word": "cognitive",
+        "persian": "شناختی و ادراکی",
+        "definition": "\"Cognitive\" relates to mental processes involved in knowing, understanding, learning, remembering, and perceiving. It encompasses all conscious and unconscious intellectual activities that allow us to gain knowledge and make sense of the world around us.\n\nSynonyms: intellectual, mental, thinking, rational, perceptive.\n",
+        "exampleA": "The test assesses cognitive abilities such as memory and reasoning.",
+        "exampleB": "Meditation can improve cognitive function and reduce stress.",
+        "exampleC": "His cognitive development was delayed due to a childhood illness.",
+        "status": "learned"
+    },
+    {
+        "id": "03b60938-1f09-4024-aee4-fe8e34137e9c",
+        "word": "concept",
+        "persian": "مفهوم، ایده کلی",
+        "definition": "A concept is a general idea or understanding about something, often representing an abstract notion or a category of things. It's a mental representation that helps us organize and make sense of the world around us. Think of it as a building block of thought, allowing us to categorize, understand, and communicate about objects, events, and relationships.\n\nSynonyms: idea, notion, theory, principle, abstraction.\n",
+        "exampleA": "The concept of artificial intelligence is rapidly evolving.",
+        "exampleB": "He struggled to grasp the underlying concept of the theory.",
+        "exampleC": "The artist's work explores the concept of impermanence.",
+        "status": "learned"
+    },
+    {
+        "id": "db2dd398-d96e-4e21-8ed0-91c6789ccae5",
+        "word": "concept",
+        "persian": "\"Concept\" در فارسی می‌تواند به معانی مختلفی ترجمه شود، اما رایج‌ترین و مناسب‌ترین ترجمه‌ها عبارتند از: \"مفهوم\"، \"تصور\"، \"ایده\"، یا \"انگاره\". انتخاب دقیق‌ترین معادل بستگی به متن و کاربرد آن دارد.\n",
+        "definition": "A concept is an abstract idea or general notion representing a fundamental element of thought or knowledge. It's a mental representation that allows us to understand and categorize experiences, objects, or events by identifying common features or characteristics. In essence, it's a building block for understanding the world around us.\n\nSynonyms: idea, notion, thought, principle, abstraction, construct.\n",
+        "exampleA": "The concept of democracy is complex and multifaceted.",
+        "exampleB": "I'm struggling to grasp the underlying concept behind this physics problem.",
+        "exampleC": "She developed a groundbreaking concept for a new marketing campaign.",
+        "status": ""
+    },
+    {
+        "id": "51fbb817-d6cf-4c16-a9e9-afbacc91e5b5",
+        "word": "concept",
+        "persian": "مفهوم، ایده کلی",
+        "definition": "A concept is a mental representation of an idea, object, event, or category, allowing us to understand and classify the world around us. It's an abstract notion that helps us organize information and make sense of experiences.\n\nSynonyms: idea, notion, thought, principle, theory\n",
+        "exampleA": "The professor explained the complex concept of quantum entanglement.",
+        "exampleB": "Understanding the core concept is essential for mastering the subject.",
+        "exampleC": "The marketing team developed a new concept for the advertising campaign.",
+        "status": "learned"
+    },
+    {
+        "id": "cf221609-cc2c-4014-a7d1-f8570abe47bc",
+        "word": "consequence",
+        "persian": "نتيجه منطقى ،اثر،برامد،دست اورد،پى امد",
+        "definition": "A consequence is the result or effect of an action or event. It can be positive or negative, intended or unintended, and it refers to what follows as a natural or logical outcome of something. Understanding consequences is crucial for making responsible decisions and learning from past experiences.\n\nSynonyms: result, outcome, effect, repercussion, aftermath.\n",
+        "exampleA": "There is always a consequence for every action.",
+        "exampleB": "He faced the consequence of his poor decisions.",
+        "exampleC": "Ignoring safety regulations can lead to dire consequences.",
+        "status": "learned"
+    },
+    {
+        "id": "0802f7b9-1f00-4405-835b-a4ac86468a09",
+        "word": "develop",
+        "persian": "\"Develop\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین معادل‌های اون در فارسی عبارتند از: \"توسعه دادن\"، \"ایجاد کردن\"، \"پرورش دادن\"، \"به وجود آوردن\" و \"رشد دادن\".\n",
+        "definition": "To develop means to grow, expand, or evolve gradually over time, often by adding details, improving quality, or becoming more complex. It can refer to a physical process, like developing a photograph, or an abstract one, like developing a skill.\n\nSynonyms: evolve, mature, progress, cultivate, generate.\n",
+        "exampleA": "The company plans to develop a new line of electric vehicles.",
+        "exampleB": "Reading regularly can help develop a stronger vocabulary.",
+        "exampleC": "Scientists are working hard to develop a vaccine for the disease.",
+        "status": ""
+    },
+    {
+        "id": "4063cc7c-435b-42f1-afff-f102f5ed171b",
+        "word": "elderly",
+        "persian": "پیر، مسن",
+        "definition": "\"Elderly\" is a polite and common term to describe someone who is old or advanced in years, often suggesting they are past middle age and entering the later stages of life. It generally implies a degree of physical or cognitive decline associated with aging.\n\nSynonyms: aged, senior, geriatric, old.\n",
+        "exampleA": "The elderly woman needed help crossing the busy street.",
+        "exampleB": "Many programs are available to assist the elderly with their healthcare needs.",
+        "exampleC": "Respect for the elderly is a cornerstone of our community.",
+        "status": "learned"
+    },
+    {
+        "id": "a9cb1549-54b3-4cbe-8961-61217dbb0faf",
+        "word": "fond",
+        "persian": "عاشق و شیفته",
+        "definition": "\"Fond\" means having an affection or liking for someone or something. It suggests a warm, gentle feeling of pleasure or attachment. It doesn't necessarily imply deep love, but rather a sense of enjoyment and positive regard.\n\nSynonyms: affectionate, loving, partial, keen, attached.\n",
+        "exampleA": "fond OF sb/sth",
+        "exampleB": "She was fond of her grandfather and visited him often.",
+        "exampleC": "I have fond memories of our summer vacations at the beach.",
+        "status": "learned"
+    },
+    {
+        "id": "c115a57a-7b18-4b1a-8429-39c31202b8ba",
+        "word": "fond look",
+        "persian": "نگاه عاشقانه",
+        "definition": "A \"fond look\" is a gaze that expresses deep affection, tenderness, and warmth. It's a look that communicates positive emotions like love, care, or admiration for the person or object being observed, often with a hint of indulgence or gentle amusement.\n\nSynonyms: adoring gaze, loving glance, affectionate stare, tender look\n",
+        "exampleA": "fond look/smile/",
+        "exampleB": "She cast a fond look at her sleeping child.",
+        "exampleC": "He gave the old photograph a fond look, remembering happier times.",
+        "status": "learned"
+    },
+    {
+        "id": "2ef77c0f-b4ec-4dc1-ad3e-e1db3a3b0736",
+        "word": "fond memories",
+        "persian": "خاطرات شیرین",
+        "definition": "\"Fond memories\" refer to pleasant recollections of past experiences that evoke feelings of warmth, happiness, and affection. They are cherished memories that bring a sense of nostalgia and often remind us of happy times, loved ones, or significant events in our lives.\n\nSynonyms: cherished memories, happy recollections, treasured moments, sweet memories\n",
+        "exampleA": "The old photographs stirred up fond memories of childhood summers.",
+        "exampleB": "She looked back on her time in Italy with fond memories.",
+        "exampleC": "Sharing stories with old friends brought back fond memories of our college days.",
+        "status": "learned"
+    },
+    {
+        "id": "9f09f896-35ff-4861-8478-3e92e9e55498",
+        "word": "fully-grown",
+        "persian": "رشد یافته، رشید",
+        "definition": "\"Fully-grown\" means having reached complete physical maturity and development, signifying the end of the growing process. It indicates that an organism, be it a plant, animal, or even a person, has attained its maximum size and possesses all the characteristics of its adult form.\n\nSynonyms: mature, adult, full-sized, developed, grown-up\n",
+        "exampleA": "The fully-grown oak tree provided ample shade for the picnic.",
+        "exampleB": "Scientists tagged several fully-grown salmon as they migrated upstream.",
+        "exampleC": "The zoo is home to a fully-grown Bengal tiger.",
+        "status": "learned"
+    },
+    {
+        "id": "280b7147-9cff-4261-bd3a-ec691ef07253",
+        "word": "geriatric",
+        "persian": "سالمند",
+        "definition": "\"Geriatric\" refers to the branch of medicine or social care that focuses on the health, well-being, and care of elderly people. It encompasses the prevention, diagnosis, and treatment of diseases and conditions associated with aging, as well as the management of chronic health problems and the maintenance of functional abilities.\n\nSynonyms: elderly, aged, senior, older adult, aging.\n",
+        "exampleA": "The geriatric ward provides specialized care for elderly patients.",
+        "exampleB": "Geriatric medicine focuses on the unique health needs of older adults.",
+        "exampleC": "She is a geriatric nurse, dedicated to improving the quality of life for her patients.",
+        "status": "learned"
+    },
+    {
+        "id": "8c1f09de-799f-4e37-bdfc-c450dd3b3b0d",
+        "word": "gesture",
+        "persian": "بسته به متن، \"gesture\" می‌تونه به موارد زیر ترجمه بشه:\n\n   ژست: وقتی به حالت و طرز ایستادن یا نشستن اشاره داره.\n   حرکت: وقتی به یک حرکت بدنی خاص مثل تکان دادن دست اشاره داره.\n   اشاره: وقتی برای انتقال پیام یا منظوری از حرکات دست یا بدن استفاده می‌شه.\n   کنش: در معنای کلی‌تر، می‌تونه به هر نوع عمل یا رفتاری اشاره داشته باشه.\n   حركت نمادين: وقتی یک حرکت، نشان‌دهنده مفهوم یا احساسی خاص باشه.\n",
+        "definition": "A gesture is a movement of the body, especially a hand or arm, used to express an idea or feeling. It can be a nonverbal way to communicate, emphasize a point, or replace spoken words altogether. Gestures can be intentional or unintentional and vary significantly across cultures.\n\nSynonyms: Signal, motion, indication, sign, wave\n",
+        "exampleA": "She made a small gesture of apology, offering a weak smile.",
+        "exampleB": "The conductor's dramatic gesture signaled the orchestra to begin.",
+        "exampleC": "He interpreted her silence as a gesture of disapproval.",
+        "status": ""
+    },
+    {
+        "id": "afab7301-f906-4e7f-9f57-78a57a2fb2d8",
+        "word": "gesture",
+        "persian": "قیافه، ژست",
+        "definition": "A gesture is a movement of the body, especially a hand or head, to express an idea or feeling. It's a nonverbal form of communication, often used to emphasize speech, convey emotions, or indicate something without using words. Gestures can be intentional or subconscious.\n\nSynonyms: motion, signal, sign, indication, wave, expression\n",
+        "exampleA": "He made a sweeping gesture towards the garden, inviting us to admire the flowers.",
+        "exampleB": "The child's simple gesture of offering her toy made everyone smile.",
+        "exampleC": "Reading his body language, her thoughtful gesture was a gentle pat on the hand.",
+        "status": "seen"
+    },
+    {
+        "id": "270d93be-fc4e-43d4-ab32-80bca0acd708",
+        "word": "gesture",
+        "persian": "به کسی یا چیزی اشاره کردن",
+        "definition": "A gesture is a movement of the body, typically of the hand or head, to express an idea or feeling. It's a nonverbal form of communication that can emphasize speech, replace it entirely, or convey emotions and intentions without words. Think of a wave, a thumbs-up, or a shrug.\n\nSynonyms: signal, motion, sign, indication, action.\n",
+        "exampleA": "gesture for sb to do sth, gesture at sth",
+        "exampleB": "Her dramatic gesture emphasized the importance of her statement.",
+        "exampleC": "He made a friendly gesture by waving hello as we passed.",
+        "status": "learned"
+    },
+    {
+        "id": "5af1ca4e-2a4b-4d61-b506-9b9e9e9eccca",
+        "word": "gesture",
+        "persian": "بسته به متن، \"gesture\" می‌تونه به موارد زیر ترجمه بشه:\n\n   ژست: وقتی به حالت و طرز ایستادن یا نشستن اشاره داره.\n   حرکت: وقتی به یک حرکت بدنی خاص مثل تکان دادن دست اشاره داره.\n   اشاره: وقتی برای انتقال پیام یا منظوری از حرکات دست یا بدن استفاده می‌شه.\n   کنش: در معنای کلی‌تر، می‌تونه به هر نوع عمل یا رفتاری اشاره داشته باشه.\n   حركت نمادين: وقتی یک حرکت، نشان‌دهنده مفهوم یا احساسی خاص باشه.\n",
+        "definition": "A gesture is a movement of the body, especially a hand or arm, used to express an idea or feeling. It can be a nonverbal way to communicate, emphasize a point, or replace spoken words altogether. Gestures can be intentional or unintentional and vary significantly across cultures.\n\nSynonyms: Signal, motion, indication, sign, wave\n",
+        "exampleA": "She made a small gesture of apology, offering a weak smile.",
+        "exampleB": "The conductor's dramatic gesture signaled the orchestra to begin.",
+        "exampleC": "He interpreted her silence as a gesture of disapproval.",
+        "status": ""
+    },
+    {
+        "id": "2734a935-7f9c-499d-9d78-ebf6d082c0b8",
+        "word": "grow",
+        "persian": "\"Grow\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌هاش این‌ها هستند: رشد کردن، بزرگ شدن، پرورش دادن، کاشتن، یا توسعه یافتن.\n",
+        "definition": "\"Grow\" refers to the process of increasing in size, amount, number, or degree. It can apply to physical development, like a plant growing taller, or to abstract concepts, such as growing a business or growing one's understanding. Ultimately, it signifies development and expansion.\n\nSynonyms: develop, expand, increase, mature, advance\n",
+        "exampleA": "I hope my tomato plants grow tall this summer.",
+        "exampleB": "Children grow quickly and change every day.",
+        "exampleC": "Businesses need to grow to remain competitive.",
+        "status": ""
+    },
+    {
+        "id": "4dbd528e-0bbe-47f6-b008-f6993be3df82",
+        "word": "growth",
+        "persian": "رشد",
+        "definition": "Growth refers to the process of increasing in size, quantity, degree, or development. It can apply to a wide range of things, from a child getting taller to a company expanding its market share or even personal development through learning and experiences. It generally implies a positive change or progression.\n\nSynonyms: development, expansion, advancement, progress, increase.\n",
+        "exampleA": "The company experienced significant growth in the last quarter.",
+        "exampleB": "Personal growth is an important part of self-improvement.",
+        "exampleC": "The growth of the plant was stunted due to lack of sunlight.",
+        "status": "learned"
+    },
+    {
+        "id": "64ce93c1-06d3-4c14-af1a-a98cc52a7355",
+        "word": "have something in mind",
+        "persian": "\"چیزی در نظر داشتن\"، \"نقشه‌ای داشتن\" یا \"فکری در سر داشتن\".\n",
+        "definition": "\"Have something in mind\" means to have a specific plan, idea, or intention; it implies you're already considering a particular option or solution. It suggests that you're not starting from scratch but rather building upon a pre-existing thought.\n\nSynonyms: be considering, be planning, have an idea, have a notion, be thinking of.\n",
+        "exampleA": "Do you have something in mind for dinner tonight?",
+        "exampleB": "I don't have anything in mind yet, but I'm open to suggestions.",
+        "exampleC": "She seems to have something in mind, judging by that mischievous grin.",
+        "status": ""
+    },
+    {
+        "id": "6e461539-4664-478d-b672-5e0fb8d305ac",
+        "word": "have something on your mind",
+        "persian": "«چیزی تو فکرته؟»، «فکرت مشغول چیزیه؟» یا «ذهنت درگیره؟» معادل‌های مناسبی برای این عبارت هستند.\n",
+        "definition": "To \"have something on your mind\" means to be preoccupied or thinking about something that is causing concern, worry, or intense focus. It suggests that a particular issue, problem, or thought is dominating your attention and affecting your mental state.\n\nSynonyms: preoccupied, troubled, concerned, worried, absorbed, dwelling on.\n",
+        "exampleA": "You seem distracted, do you have something on your mind?",
+        "exampleB": "I could tell by her silence that she had something on her mind.",
+        "exampleC": "If you have something on your mind, please share it with me.",
+        "status": ""
+    },
+    {
+        "id": "71595543-c152-4667-8c64-20cbd5cb6f9e",
+        "word": "have sth in mind",
+        "persian": "نظر و پیشنهاد داشتن",
+        "definition": "\"To have something in mind\" means to have a particular idea, plan, or thought already formed in one's mind about a certain subject. It implies a pre-existing notion or intention, often not yet fully expressed or finalized.\n\nSynonyms: consider, contemplate, envision, intend, plan.\n",
+        "exampleA": "do you have something in mind?",
+        "exampleB": "Do you have something in mind for dinner tonight?",
+        "exampleC": "I don't have anything specific in mind, but I'm open to suggestions.",
+        "status": "learned"
+    },
+    {
+        "id": "402c6fc7-a557-4b04-954d-bcb0270a536b",
+        "word": "have sth on your mind",
+        "persian": "دغدغه و نگرانی چیزی را داشتن",
+        "definition": "\"Have something on your mind\" means to be preoccupied or worried about something, often causing distraction or difficulty concentrating. It suggests that a particular issue, thought, or problem is taking up a significant amount of mental space and emotional energy.\n\nSynonyms: be preoccupied, be concerned, be worried, be troubled, be bothered.\n",
+        "exampleA": "You're looking very thoughtful. Is something on your mind at the moment?",
+        "exampleB": "You seem distracted, do you have something on your mind?",
+        "exampleC": "I could tell she had something on her mind, but she wouldn't tell me what it was.",
+        "status": "learned"
+    },
+    {
+        "id": "4596c572-6612-472a-aa45-f3bb9fce3a83",
+        "word": "height",
+        "persian": "بلندی، ارتفاع، قد",
+        "definition": "Height refers to the measurement of something from its base to its top, indicating how tall it is. It can also describe the elevated position or altitude above a reference point, such as sea level.\nSynonyms: altitude, elevation, stature, tallness\n",
+        "exampleA": "The basketball player's height gave him an advantage.",
+        "exampleB": "The airplane reached its cruising height.",
+        "exampleC": "She measured the height of the bookshelf.",
+        "status": "learned"
+    },
+    {
+        "id": "808bc0dd-d3a1-44c7-824f-1a46c474bdaf",
+        "word": "imagination",
+        "persian": "تخیل و تصور",
+        "definition": "Imagination is the ability to form new ideas, images, and concepts in the mind that are not necessarily based on reality or past experiences. It's the power to create mental pictures, explore possibilities, and generate creative solutions. It's a fundamental human capacity that fuels innovation, artistic expression, and problem-solving.\n\nSynonyms: creativity, fantasy, vision, inventiveness, ingenuity\n",
+        "exampleA": "Her vivid imagination allowed her to create fantastical worlds in her writing.",
+        "exampleB": "The artist relied on his imagination to transform ordinary objects into stunning sculptures.",
+        "exampleC": "Solving complex problems often requires a healthy dose of imagination and creative thinking.",
+        "status": "learned"
+    },
+    {
+        "id": "a30d1b3d-219b-4c47-9185-d3fdc82ef109",
+        "word": "imitate",
+        "persian": "نواى کسى را در اوردن ،تقليد کردن ،پيروى کردن",
+        "definition": "To imitate means to copy or mimic the actions, behavior, appearance, or style of someone or something else. It involves observing and then trying to replicate the original as closely as possible, often with the goal of learning, entertaining, or even deceiving.\n\nSynonyms: mimic, copy, emulate, simulate, mirror.\n",
+        "exampleA": "The parrot can imitate human speech with surprising accuracy.",
+        "exampleB": "Many young artists initially imitate their idols before developing their own style.",
+        "exampleC": "Children often imitate the behavior of their parents and older siblings.",
+        "status": "seen"
+    },
+    {
+        "id": "07da971f-2dbb-4f3c-afe6-8a5cd4ae5834",
+        "word": "immature",
+        "persian": "نارس و نابالغ",
+        "definition": "\"Immature\" describes someone or something that is not fully developed or behaving in a way expected of their age or stage of growth. It suggests a lack of emotional maturity, wisdom, or skill, often characterized by childishness, impulsivity, or a lack of responsibility.\n\nSynonyms: childish, juvenile, callow, puerile, infantile.\n",
+        "exampleA": "His immature behavior at the party embarrassed everyone.",
+        "exampleB": "She dismissed his argument as immature and lacking in substance.",
+        "exampleC": "The teacher addressed the immature actions of the students in the hallway.",
+        "status": "learned"
+    },
+    {
+        "id": "3d77e56f-698a-4be4-b933-5fad5525d5bf",
+        "word": "independent",
+        "persian": "مستقل ،خود مختار،داراى قدرت مطلقه",
+        "definition": "\"Independent\" means being free from outside control, influence, or support. It signifies the ability to act, think, or exist autonomously, relying on one's own resources and judgment rather than being dependent on others. It often implies self-reliance, self-sufficiency, and freedom.\n\nSynonyms: autonomous, self-reliant, self-governing, free, sovereign\n",
+        "exampleA": "She became financially independent after starting her own business.",
+        "exampleB": "The country declared itself independent from foreign rule.",
+        "exampleC": "He prides himself on being an independent thinker.",
+        "status": "learned"
+    },
+    {
+        "id": "30358974-0cc7-4521-833a-f4cc2bb0cb8e",
+        "word": "indulgent",
+        "persian": "آسان گیر، زیاده رو",
+        "definition": "\"Indulgent\" describes someone who is lenient, permissive, and tends to give in to desires or whims, often excessively so. It implies a willingness to overlook flaws or shortcomings and to grant favors or privileges freely, even when perhaps they shouldn't.\n\nSynonyms: lenient, permissive, tolerant, forbearing, generous.\n",
+        "exampleA": "to be indulgent towards sb                           indulgent grandparents",
+        "exampleB": "She allowed herself an indulgent afternoon at the spa.",
+        "exampleC": "The child's indulgent grandparents spoiled him with toys.",
+        "status": "learned"
+    },
+    {
+        "id": "3f4b11ce-e3e0-49c9-b84a-4fe0dea11142",
+        "word": "infancy",
+        "persian": "دوران نوزادی",
+        "definition": "\"Infancy\" refers to the early period of life, typically from birth to around the age of one or two years, characterized by rapid growth, development, and dependence on caregivers. It's a stage where fundamental skills like walking, talking, and basic social interaction are being learned.\n\nSynonyms: babyhood, early childhood, beginning, dawn.\n",
+        "exampleA": "The project is still in its infancy, with much development left to be done.",
+        "exampleB": "He has been fascinated by astronomy since infancy.",
+        "exampleC": "The country's democratic institutions are in their infancy.",
+        "status": "learned"
+    },
+    {
+        "id": "29e4c172-99e4-4789-ae99-247219d9660b",
+        "word": "infant",
+        "persian": "\"Infant\" بسته به بافتار می‌تونه به «نوزاد»، «طفل شیرخوار» یا «بچه» ترجمه بشه. معمولاً به بچه‌های خیلی کوچیک، به خصوص در اولین سال زندگی‌شون اشاره داره.\n",
+        "definition": "An infant is a very young child during the earliest stage of development, typically from birth to around one year old. This stage is characterized by rapid growth and development, and complete dependence on caregivers.\n\nSynonyms: baby, newborn, neonate, toddler (sometimes used loosely)\n",
+        "exampleA": "The infant slept peacefully in her mother's arms.",
+        "exampleB": "Researchers studied the cognitive development of the infant.",
+        "exampleC": "A bottle of formula was prepared for the hungry infant.",
+        "status": ""
+    },
+    {
+        "id": "6e11a3f4-7b9f-4b42-990f-f1f7a4957451",
+        "word": "irresponsible",
+        "persian": "وظیفه نشناس",
+        "definition": "\"Irresponsible\" describes someone who lacks a sense of duty or obligation, often failing to consider the consequences of their actions. It implies a lack of accountability, reliability, and good judgment, often leading to negative outcomes for themselves and others.\n\nSynonyms: careless, reckless, negligent, unreliable, thoughtless.\n",
+        "exampleA": "It was irresponsible of him to drive after drinking.",
+        "exampleB": "Her irresponsible spending habits led to mounting debt.",
+        "exampleC": "The company was criticized for its irresponsible disposal of toxic waste.",
+        "status": "learned"
+    },
+    {
+        "id": "059ecc5b-574e-4cb3-9ba1-f552ded3eaa3",
+        "word": "it slipped my mind",
+        "persian": "یادم رفت",
+        "definition": "\"It slipped my mind\" is a common idiom used to express that you forgot something, usually unintentionally or temporarily. It suggests a lapse in memory, a forgetting that occurred because the information wasn't consciously retained or readily accessible when needed. It's a gentle way of admitting forgetfulness.\n\nSynonyms: I forgot, I spaced out, it escaped me, I blanked, it went over my head.\n",
+        "exampleA": "it completely slipped my mind.",
+        "exampleB": "I meant to call you back, but it slipped my mind.",
+        "exampleC": "I was supposed to pick up milk, but it completely slipped my mind.",
+        "status": "learned"
+    },
+    {
+        "id": "11fba2d4-291a-4941-b545-cdd68a4aa838",
+        "word": "keep an open mind",
+        "persian": "زود قضاوت نکن.",
+        "definition": "\"Keep an open mind\" means to be receptive to new ideas, perspectives, and information without preconceived notions or biases. It suggests a willingness to consider different viewpoints, even if they challenge your existing beliefs. Essentially, it's about being flexible in your thinking and not immediately dismissing something simply because it's unfamiliar or contrary to what you already believe.\n\nSynonyms: be receptive, be unbiased, be flexible, be non-judgmental, be willing to listen\n",
+        "exampleA": "We should keep an open mind until all of the evidence is available.",
+        "exampleB": "It's important to keep an open mind when listening to different perspectives.",
+        "exampleC": "Even though I disagree with his opinion, I'm trying to keep an open mind.",
+        "status": "learned"
+    },
+    {
+        "id": "0dcda519-c41a-43d7-9131-be734b2e2d73",
+        "word": "knowledge",
+        "persian": "دانش، علم",
+        "definition": "Knowledge is the understanding and awareness of facts, information, descriptions, or skills acquired through experience or education; it's the theoretical or practical comprehension of a subject. Essentially, it's what someone knows.\n\nSynonyms: understanding, awareness, learning, wisdom, insight\n",
+        "exampleA": "Her extensive knowledge of history made her a valuable asset to the research team.",
+        "exampleB": "Gaining knowledge is a lifelong pursuit that enriches our understanding of the world.",
+        "exampleC": "He possessed the knowledge necessary to solve the complex equation.",
+        "status": "learned"
+    },
+    {
+        "id": "e0bb23df-9b61-4a22-bc30-5315a598cc5e",
+        "word": "look back",
+        "persian": "نگاه کردن به گذشته",
+        "definition": "\"Look back\" means to think about or remember something that happened in the past. It involves reflecting on past events, experiences, or periods of one's life, often with a sense of nostalgia, regret, or analysis. It's a retrospective action, examining what has already occurred.\n\nSynonyms: reminisce, recall, remember, reflect, review, retrospect.\n",
+        "exampleA": "Sometimes, it's helpful to look back and see how far you've come.",
+        "exampleB": "Don't look back; you're not going that way.",
+        "exampleC": "She decided not to look back on her decision, focusing instead on the future.",
+        "status": "learned"
+    },
+    {
+        "id": "63bad6e6-3aaf-45d8-a8b9-28c637b434ee",
+        "word": "master",
+        "persian": "ماهر شدن",
+        "definition": "\"Master\" generally refers to someone who has a very high level of skill, knowledge, or control in a particular area. It can also denote a person who has authority or ownership over others, like a teacher or a slave owner. The term implies expertise, command, and often a level of respect associated with such proficiency or power.\n\nSynonyms: expert, maestro, commander, ruler, lord.\n",
+        "exampleA": "The chef is a master of French cuisine.",
+        "exampleB": "She worked hard to master the complex software.",
+        "exampleC": "He was the master of his own destiny.",
+        "status": "learned"
+    },
+    {
+        "id": "eb733f1b-6fd9-4bd5-a294-88e3a20c9e28",
+        "word": "mature",
+        "persian": "\"Mature\" بسته به زمینه می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌هاش این‌ها هستند:\n\n   بالغ: برای انسان یا حیوان که به بلوغ رسیده.\n   رسیده: برای میوه یا محصول کشاورزی که آماده مصرفه.\n   پخته: برای رفتار یا شخصیت کسی که عاقلانه و سنجیده عمل می‌کنه.\n   توسعه‌یافته: برای بازار، صنعت یا ایده که به مرحله پیشرفته‌ای رسیده.\n",
+        "definition": "\"Mature\" describes a state of being fully developed or ripe, whether physically, emotionally, or intellectually. It implies having reached a stage of completion, demonstrating responsible behavior, and possessing a well-rounded understanding. It often suggests growth and development beyond a younger or less developed state.\n\nSynonyms: Developed, grown-up, ripe, seasoned, sophisticated, adult.\n",
+        "exampleA": "The mature oak tree provided ample shade for the picnic.",
+        "exampleB": "She displayed a mature understanding of the complex situation.",
+        "exampleC": "This cheese has a rich and mature flavor.",
+        "status": ""
+    },
+    {
+        "id": "2808d46f-c43a-42cb-a5b6-7edf6a8903e7",
+        "word": "mature",
+        "persian": "\"Mature\" بسته به زمینه می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌هاش این‌ها هستند:\n\n   بالغ: برای انسان یا حیوان که به بلوغ رسیده.\n   رسیده: برای میوه یا محصول کشاورزی که آماده مصرفه.\n   پخته: برای رفتار یا شخصیت کسی که عاقلانه و سنجیده عمل می‌کنه.\n   توسعه‌یافته: برای بازار، صنعت یا ایده که به مرحله پیشرفته‌ای رسیده.\n",
+        "definition": "\"Mature\" describes a state of being fully developed or ripe, whether physically, emotionally, or intellectually. It implies having reached a stage of completion, demonstrating responsible behavior, and possessing a well-rounded understanding. It often suggests growth and development beyond a younger or less developed state.\n\nSynonyms: Developed, grown-up, ripe, seasoned, sophisticated, adult.\n",
+        "exampleA": "The mature oak tree provided ample shade for the picnic.",
+        "exampleB": "She displayed a mature understanding of the complex situation.",
+        "exampleC": "This cheese has a rich and mature flavor.",
+        "status": ""
+    },
+    {
+        "id": "565250ba-3658-4803-b9b4-7234cc4577f0",
+        "word": "maturity",
+        "persian": "بلوغ و پختگی",
+        "definition": "Maturity encompasses the state of being fully developed in various aspects, including emotional, intellectual, and physical. It signifies a capacity for responsible decision-making, independent thought, and understanding complex situations. It often involves a shift from impulsive behavior to considered action and a greater awareness of one's self and the world.\n\nSynonyms: adulthood, ripeness, development, wisdom, responsibility.\n",
+        "exampleA": "Her maturity surprised everyone given her young age.",
+        "exampleB": "The cheese has reached its peak maturity and is ready to be served.",
+        "exampleC": "With age comes wisdom and, hopefully, maturity.",
+        "status": "seen"
+    },
+    {
+        "id": "508511fa-4b57-4e7f-b15a-502bc9d411b8",
+        "word": "memory",
+        "persian": "بسته به متن، \"memory\" می‌تونه به صورت‌های زیر ترجمه بشه:\n\n   حافظه: رایج‌ترین و کلی‌ترین ترجمه.\n   خاطره: وقتی صحبت از یادآوری رویدادهای گذشته باشه.\n   یاد: در مواردی که به یادآوری یا یادبود اشاره داره.\n   حافطه (کامپیوتر): در مباحث مربوط به کامپیوتر و دستگاه‌های دیجیتال.\n",
+        "definition": "Memory refers to the cognitive processes involved in encoding, storing, and retrieving information, allowing us to learn from past experiences and utilize knowledge. It encompasses the ability to retain information, recall events, and recognize familiar people or objects.\n\nSynonyms: recollection, remembrance, recall, retention, cognition\n",
+        "exampleA": "The scent of lavender always triggers a vivid memory of my grandmother's garden.",
+        "exampleB": "Unfortunately, the computer's memory is full, so I can't save the new file.",
+        "exampleC": "She has an incredible memory for faces and names, which makes her excellent at networking.",
+        "status": ""
+    },
+    {
+        "id": "a4764088-40a9-44ba-b57a-b268df08cba8",
+        "word": "milestone",
+        "persian": "مرحله مهمی از زندگی",
+        "definition": "A milestone is a significant event or achievement marking a crucial stage in a process, project, or life. It represents a point of considerable progress or development that deserves recognition.\n\nSynonyms: benchmark, landmark, turning point, watershed.\n",
+        "exampleA": "Graduating college was a significant milestone in her life.",
+        "exampleB": "The company celebrated its 10th anniversary, a major milestone for the small business.",
+        "exampleC": "Reaching the summit of Mount Everest is an incredible milestone for any mountaineer.",
+        "status": "learned"
+    },
+    {
+        "id": "240dc1fe-ebe5-4117-a00a-8b1bae2d72d8",
+        "word": "mind",
+        "persian": "کلمه \"mind\" بسته به context می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: ذهن، فکر، عقل، و خاطر.\n",
+        "definition": "\"Mind\" refers to the faculty of consciousness and thought, encompassing our perceptions, feelings, memories, imagination, and will. It's the intangible aspect of a person that processes information, solves problems, experiences emotions, and ultimately shapes our understanding of the world and ourselves.\n\nSynonyms: intellect, psyche, consciousness, awareness, mentality.\n",
+        "exampleA": "I can't seem to make up my mind about which job to take.",
+        "exampleB": "Her story really weighed heavily on my mind.",
+        "exampleC": "He has a brilliant mind for solving complex problems.",
+        "status": ""
+    },
+    {
+        "id": "2fe54a62-94b7-49db-b839-0e7e127246ce",
+        "word": "my mind went blank",
+        "persian": "ذهنم خالی شد،",
+        "definition": "\"My mind went blank\" describes a temporary state of mental emptiness or an inability to recall information or think clearly. It typically occurs due to stress, anxiety, or a sudden unexpected question, resulting in a loss of focus and the inability to access memories or form coherent thoughts.\n\nSynonyms: brain freeze, mental block, mind went numb, spaced out, lost my train of thought\n",
+        "exampleA": "I was so nervous during the presentation that my mind went blank.",
+        "exampleB": "The teacher called on me unexpectedly, and my mind went blank.",
+        "exampleC": "When the police asked me what happened, my mind went blank with fear.",
+        "status": "learned"
+    },
+    {
+        "id": "f9550e9e-a226-4208-b254-c7b1c159dd8b",
+        "word": "patient",
+        "persian": "بیمار، صبور",
+        "definition": "\"Patient\" describes someone who can endure delays, difficulties, or suffering without becoming annoyed or upset. It implies a capacity to tolerate frustration and wait calmly for desired outcomes or resolutions. In essence, it's about having forbearance and a composed demeanor in challenging situations.\n\nSynonyms: Tolerant, understanding, enduring, long-suffering, composed.\n",
+        "exampleA": "The doctor was very patient with the anxious child.",
+        "exampleB": "As a teacher, she learned to be patient with her students' varying learning styles.",
+        "exampleC": "The patient man waited in line for over an hour.",
+        "status": "learned"
+    },
+    {
+        "id": "3fef8e4a-0677-4131-ab13-079488896685",
+        "word": "peers",
+        "persian": "هم سن وسالان",
+        "definition": "\"Peers\" refers to individuals who are equal in status, age, or ability, often those who are similar to oneself in a particular context or environment, such as classmates, colleagues, or members of the same social group. They are people you are on a level playing field with and can often relate to because of shared characteristics.\n\nSynonyms: equals, contemporaries, colleagues, fellows, associates.\n",
+        "exampleA": "She felt immense pressure to succeed because she was constantly compared to her peers.",
+        "exampleB": "The professor encouraged us to collaborate with our peers on the research project.",
+        "exampleC": "He respected his peers' opinions and valued their contributions to the discussion.",
+        "status": "learned"
+    },
+    {
+        "id": "2876fb28-b8e0-40c5-b80a-cec90c01c2d4",
+        "word": "period",
+        "persian": "بسته به متن، \"period\" می‌تونه معانی مختلفی داشته باشه. رایج‌ترین ترجمه‌ها عبارتند از:\n\n   دوره: (برای اشاره به یک بازه زمانی مشخص)\n   فصل: (برای اشاره به یک بازه زمانی مشخص، مثل دوره تاریخی)\n   عادت ماهانه/پریود: (در زمینه مسائل زنان)\n   نقطه: (در نگارش)\n   دوران: (برای اشاره به یک بازه زمانی مهم و تاثیرگذار)\n\nبرای ترجمه دقیق‌تر، به متن و زمینه‌ای که کلمه در آن استفاده شده، نیاز است.\n",
+        "definition": "\"Period\" has multiple meanings, but generally refers to a specific length or portion of time. It can be a defined interval, a historical era, or a stage in a process. It also refers to punctuation mark (.) at the end of a sentence.\n\nSynonyms: duration, interval, epoch, era, stage, full stop.\n",
+        "exampleA": "She lived in France for a period of five years.",
+        "exampleB": "The punctuation mark at the end of a sentence is called a period.",
+        "exampleC": "The Victorian period was known for its elaborate fashions.",
+        "status": ""
+    },
+    {
+        "id": "7beaee65-1ef5-4d2e-bb92-7c775cec4291",
+        "word": "phase",
+        "persian": "فاز، مرحله",
+        "definition": "A phase refers to a distinct period or stage in a process, development, or cycle, characterized by particular features or events. It represents a specific point in time marked by a set of conditions or activities that differentiate it from other parts of the overall progression.\n\nSynonyms: stage, period, chapter, point, aspect.\n",
+        "exampleA": "The project is currently in the testing phase.",
+        "exampleB": "Every teenager goes through a rebellious phase.",
+        "exampleC": "The moon's phase will be full next week.",
+        "status": "learned"
+    },
+    {
+        "id": "c5ec6a44-39e7-4178-87ed-9acacc5ef11a",
+        "word": "puberty",
+        "persian": "سن بلوغ",
+        "definition": "Puberty is the period of physical and hormonal changes in a child's body that lead to sexual maturity and the ability to reproduce. It's a transformative process marked by rapid growth spurts, the development of secondary sexual characteristics, and hormonal shifts that affect mood, behavior, and overall development.\n\nSynonyms: Adolescence, Pubescence, Maturation, Coming of age.\n",
+        "exampleA": "Puberty is a time of significant physical and emotional changes.",
+        "exampleB": "She started puberty earlier than most of her friends.",
+        "exampleC": "Hormonal changes during puberty can affect mood and behavior.",
+        "status": "seen"
+    },
+    {
+        "id": "4195c963-6a90-47a2-b7f2-ac8f8822f324",
+        "word": "put your mind at ease",
+        "persian": "خیال کسی را راحت کردن",
+        "definition": "\"Put your mind at ease\" means to reassure someone and relieve their worry, anxiety, or stress about something. It's about offering comfort and certainty to alleviate their concerns and help them relax.\n\nSynonyms: calm your fears, set your mind at rest, alleviate your worries, assure you, reassure you.\n",
+        "exampleA": "Chris phoned to say they'd arrived safely, so that really put my mind at rest.",
+        "exampleB": "The doctor's explanation helped to put my mind at ease about the surgery.",
+        "exampleC": "Knowing the children arrived safely put her mind at ease.",
+        "status": "learned"
+    },
+    {
+        "id": "059ee4fc-6fd5-4161-9f54-7c8438e67516",
+        "word": "rate",
+        "persian": "\"نرخ\"، \"میزان\"، \"ارزیابی\"، یا \"رتبه\" بسته به متن و مفهوم مورد نظر.\n",
+        "definition": "\"Rate\" signifies a measure, quantity, or frequency, typically expressed as a proportion or ratio. It indicates how often something occurs in relation to something else, or the cost/value assigned to something per unit. Synonyms include pace, speed, level, charge, tariff, and proportion.\n",
+        "exampleA": "What is the current interest rate on your savings account?",
+        "exampleB": "Customers were asked to rate the new restaurant on a scale of 1 to 5.",
+        "exampleC": "The company decided to rate employees based on their performance.",
+        "status": ""
+    },
+    {
+        "id": "f83c99a6-6a8d-4692-bf0a-55f94c7fad3b",
+        "word": "rebellious",
+        "persian": "خیره سر و حرف گوش نکن",
+        "definition": "\"Rebellious\" describes someone who resists authority, control, or convention. It signifies a refusal to obey rules or norms, often expressing defiance and a desire for change. A rebellious person may challenge established systems or traditions through actions or attitudes.\n\nSynonyms: defiant, insubordinate, disobedient, nonconformist, revolutionary.\n",
+        "exampleA": "rebellious children",
+        "exampleB": "Her rebellious spirit led her to question authority at every turn.",
+        "exampleC": "The rebellious teenagers spray-painted graffiti on the abandoned building.",
+        "status": "learned"
+    },
+    {
+        "id": "a1106446-6bd7-4e5f-ab16-6d81aa0111d2",
+        "word": "remember",
+        "persian": "به یاد آوردن",
+        "definition": "\"Remember\" means to bring back to mind an event, person, or piece of information that was previously known or experienced. It involves retrieving and consciously recalling something from one's memory.\n\nSynonyms: Recall, recollect, reminisce, commemorate, retain.\n",
+        "exampleA": "I don't remember where I put my keys.",
+        "exampleB": "Remember to buy milk on your way home.",
+        "exampleC": "Do you remember our trip to the beach last summer?",
+        "status": "learned"
+    },
+    {
+        "id": "b109737e-4278-45ea-bbca-54ef86b9e7ea",
+        "word": "remind",
+        "persian": "تذکر دادن، یادآوری کردن",
+        "definition": "To remind someone is to cause them to remember something they had forgotten or might forget. It's to bring a past event, obligation, or piece of information back to their conscious awareness.\n\nSynonyms: jog one's memory, prompt, cue, call to mind, refresh one's memory.\n",
+        "exampleA": "Please remind me to buy milk on the way home.",
+        "exampleB": "The old photographs remind me of my childhood.",
+        "exampleC": "This song always reminds me of you.",
+        "status": "learned"
+    },
+    {
+        "id": "9f46aa0a-e2ac-4f3c-acaa-bb947e715e28",
+        "word": "reminder",
+        "persian": "تذکر و یادآوری",
+        "definition": "A reminder is something that causes you to remember something you might have forgotten or need to do. It can be an object, a person, an event, or even a feeling that triggers a memory or action. Essentially, it serves to jog your memory and keep you on track with tasks, appointments, or important information.\n\nSynonyms: prompt, cue, nudge, memorandum, aide-mémoire.\n",
+        "exampleA": "The appointment confirmation serves as a helpful reminder.",
+        "exampleB": "Please set a reminder to pay the bills before the due date.",
+        "exampleC": "This song is a reminder of our summer vacation.",
+        "status": "learned"
+    },
+    {
+        "id": "d91059dc-e0ba-4399-922c-d6f56f3400a0",
+        "word": "reminisce",
+        "persian": "یاد کردن خاطرات",
+        "definition": "To reminisce means to indulge in enjoyable recollection of past events, often with a sense of nostalgia. It involves thinking, talking, and sharing stories about experiences from one's past, usually focusing on the positive or interesting aspects.\n\nSynonyms: remember, recall, reflect, look back, dwell on.\n",
+        "exampleA": "reminisce ABOUT college days",
+        "exampleB": "We would often sit on the porch and reminisce about our childhood adventures.",
+        "exampleC": "The old photograph album encouraged her to reminisce about her wedding day.",
+        "status": "seen"
+    },
+    {
+        "id": "8047b954-52c5-4457-aa64-fbdc133fae4e",
+        "word": "school principal",
+        "persian": "مدیر مدرسه",
+        "definition": "A school principal is the administrative leader responsible for overseeing all aspects of a school's operations, from curriculum and instruction to student discipline and staff management. They ensure a safe and effective learning environment for students and act as a liaison between the school, parents, and the community.\n\nSynonyms: Headmaster/Headmistress, School Director, School Administrator, Superintendent.\n",
+        "exampleA": "The school principal announced new policies regarding student attendance.",
+        "exampleB": "Parents met with the school principal to discuss concerns about bullying.",
+        "exampleC": "The school principal has been working tirelessly to improve the learning environment.",
+        "status": "learned"
+    },
+    {
+        "id": "32398239-4eac-41e8-9670-6ca84236b3a3",
+        "word": "significant",
+        "persian": "\"Significant\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌های اون به فارسی عبارتند از: مهم، قابل توجه، چشمگیر، معنی‌دار.\n",
+        "definition": "\"Significant\" means important or noteworthy enough to have an effect or be worthy of attention. It suggests something is meaningful, impactful, or consequential in some way.\n\nSynonyms: important, meaningful, substantial, considerable, crucial.\n",
+        "exampleA": "The discovery of the new species was a significant event for the scientific community.",
+        "exampleB": "There has been a significant increase in the number of students applying to the university.",
+        "exampleC": "His contribution to the project was significant and greatly appreciated.",
+        "status": ""
+    },
+    {
+        "id": "e7f88b18-83bd-41d3-8701-1d2921a92ca5",
+        "word": "skill",
+        "persian": "\"Skill\" در فارسی می‌تواند به «مهارت»، «توانایی» یا «استعداد» ترجمه شود که هر کدام بسته به زمینه کاربرد، معنای دقیق‌تری را منتقل می‌کنند.\n",
+        "definition": "Skill refers to the learned ability to perform an action or task competently and efficiently. It's developed through practice, training, and experience, allowing someone to consistently achieve a desired outcome. Skills can be practical (like carpentry), technical (like coding), or interpersonal (like communication).\n\nSynonyms: aptitude, expertise, proficiency, talent, competence.\n",
+        "exampleA": "Her skill in playing the piano is truly remarkable.",
+        "exampleB": "Developing strong communication skill is essential for success in many professions.",
+        "exampleC": "The job requires a specific skill set that includes proficiency in Python and data analysis.",
+        "status": ""
+    },
+    {
+        "id": "c32dca35-c4d5-44f6-87ff-17f89894e89b",
+        "word": "social skills",
+        "persian": "مهارتهای اجتماعی",
+        "definition": "Social skills encompass the abilities needed to effectively and appropriately interact with others, navigate social situations, and build positive relationships. They involve verbal and nonverbal communication, empathy, active listening, cooperation, and the ability to understand and respect social cues and norms. Possessing strong social skills allows individuals to connect with others, resolve conflicts constructively, and function successfully in various social settings.\n\nSynonyms: interpersonal skills, soft skills, people skills, communication skills, emotional intelligence.\n",
+        "exampleA": "Developing strong social skills is crucial for building meaningful relationships.",
+        "exampleB": "The workshop focused on improving participants' social skills in professional settings.",
+        "exampleC": "Children with autism may require specialized support to develop their social skills.",
+        "status": "learned"
+    },
+    {
+        "id": "63bf698e-a9bd-41c9-8d65-a871ffbc26cc",
+        "word": "stage",
+        "persian": "مرحله",
+        "definition": "The word \"stage\" has multiple meanings, but most commonly refers to a raised platform or area where performances or presentations take place, especially in a theater or auditorium. Figuratively, it can also represent a phase or period in a process, development, or journey.\n\nSynonyms: platform, arena, phase, step, period.\n",
+        "exampleA": "The play will stage its premiere next week.",
+        "exampleB": "She is in the final stage of her recovery.",
+        "exampleC": "The band took the stage to a roaring applause.",
+        "status": "learned"
+    },
+    {
+        "id": "1cd1f3e9-a551-4c7f-9898-aa97be2ec175",
+        "word": "strict",
+        "persian": "سخت گیر",
+        "definition": "\"Strict\" means demanding that rules concerning behavior are obeyed and enforced, often to a high degree. It implies a firm adherence to standards and a lack of leniency in dealing with deviations.\n\nSynonyms: stringent, rigid, stern, rigorous, exacting.\n",
+        "exampleA": "an strict father",
+        "exampleB": "My parents were very strict about bedtime when I was a child.",
+        "exampleC": "The new regulations are quite strict and leave little room for interpretation.",
+        "status": "learned"
+    },
+    {
+        "id": "2440019b-1b4e-4fdc-888d-271fc99967fe",
+        "word": "tantrum",
+        "persian": "اوقات تلخی",
+        "definition": "A tantrum is an uncontrolled outburst of anger and frustration, typically characterized by yelling, crying, screaming, kicking, hitting, or breath-holding. It's often a way for someone, especially a young child, to express intense emotions or get attention when they lack the ability to articulate their feelings or desires effectively.\n\nSynonyms: fit, outburst, meltdown, frenzy, rage.\n",
+        "exampleA": "to throw/have a tantrum",
+        "exampleB": "The toddler threw a tantrum in the middle of the grocery store.",
+        "exampleC": "His boss's sudden outburst was more like a tantrum than a professional disagreement.",
+        "status": "learned"
+    },
+    {
+        "id": "ab2bb0e5-f8f6-42e4-b1fb-95330a1906dc",
+        "word": "teenager",
+        "persian": "نوجوان",
+        "definition": "A teenager is a person between the ages of 13 and 19, a period often associated with significant physical, emotional, and social development as they transition from childhood to adulthood. This stage of life is characterized by exploration, identity formation, and increased independence.\n\nSynonyms: adolescent, teen, youth, young person.\n",
+        "exampleA": "The teenager dreamed of becoming a famous musician.",
+        "exampleB": "My neighbor's teenager is learning to drive.",
+        "exampleC": "The movie is about a group of teenagers on a summer adventure.",
+        "status": "learned"
+    },
+    {
+        "id": "09a395b0-6823-41a3-b4fc-6f9519cdd960",
+        "word": "the elderly",
+        "persian": "افراد مسن",
+        "definition": "\"The elderly\" refers to people who are advanced in age, typically those who are at or near the end of their life expectancy. It's a general term used to describe individuals who have lived a long time and may be experiencing the effects of aging.\n\nSynonyms: seniors, aged, older adults, the aged, senior citizens.\n",
+        "exampleA": "The community center offers many programs specifically designed for the elderly.",
+        "exampleB": "Healthcare providers should be sensitive to the needs of the elderly.",
+        "exampleC": "The article discussed the challenges faced by the elderly in accessing affordable housing.",
+        "status": "learned"
+    },
+    {
+        "id": "531562d5-6375-4dc6-8fa1-7c50ce1bbb7f",
+        "word": "throw a tantrum",
+        "persian": "\"throw a tantrum\" در فارسی معمولاً به صورت \"قشقرق به پا کردن\"، \"جنجال به راه انداختن\" یا \"داد و بیداد کردن\" ترجمه می‌شود.\n",
+        "definition": "To \"throw a tantrum\" means to express anger and frustration in a wild, uncontrolled way, often involving screaming, crying, stomping feet, and sometimes physical violence. It's usually associated with children, but adults can also exhibit tantrum-like behavior.\n\nSynonyms: lose your temper, have a fit, blow a gasket, flip out, go ballistic.\n",
+        "exampleA": "The toddler started to throw a tantrum when his mother wouldn't buy him candy.",
+        "exampleB": "He threw a tantrum in the middle of the store, kicking and screaming.",
+        "exampleC": "If you don't get your way, you don't have to throw a tantrum; let's talk about it calmly.",
+        "status": ""
+    },
+    {
+        "id": "9732bc76-5498-41ab-903e-f61c62ddc040",
+        "word": "to be immature for sb's age",
+        "persian": "نسبت به سنش کوچکتر بودن",
+        "definition": "To be immature for one's age means to behave or act in a way that is more typical of someone younger. It suggests a lack of emotional or social development appropriate for their chronological age, often involving childish behaviors, poor decision-making, or a lack of responsibility.\n\nSynonyms: childish, infantile, juvenile, undeveloped, puerile\n",
+        "exampleA": "Despite being 16, he can sometimes to be immature for his age, especially when playing video games.",
+        "exampleB": "Her parents worried that she tended to be immature for her age and didn't take responsibilities seriously.",
+        "exampleC": "While generally well-behaved, the child could occasionally to be immature for his age, throwing tantrums when he didn't get his way.",
+        "status": "seen"
+    },
+    {
+        "id": "38f7999e-33c4-4ee9-bbfa-352dd3dbab19",
+        "word": "toddler",
+        "persian": "نوپا",
+        "definition": "A toddler is a young child, typically between the ages of one and three years old, who is beginning to walk and explore their surroundings independently. This stage is marked by rapid development in motor skills, language acquisition, and social-emotional understanding.\n\nSynonyms: toddler, tot, small child, young child, little one\n",
+        "exampleA": "The toddler ran giggling through the park, chasing after a butterfly.",
+        "exampleB": "My sister is exhausted from taking care of her energetic toddler all day.",
+        "exampleC": "This new children's book is aimed at toddlers aged two to four.",
+        "status": "learned"
+    },
+    {
+        "id": "ee63d1ba-3390-4fe2-8c6c-83309673be13",
+        "word": "tolerant",
+        "persian": "بامدارا، سازگار",
+        "definition": "\"Tolerant\" describes someone who is accepting of different views, beliefs, behaviors, or backgrounds than their own, even if they disagree with them. It implies a willingness to allow others to live and express themselves freely without prejudice or discrimination.\n\nSynonyms: accepting, open-minded, patient, forbearing, understanding.\n",
+        "exampleA": "tolerant OF sb,sth",
+        "exampleB": "She is very tolerant of other people's opinions, even when she disagrees.",
+        "exampleC": "The school has a tolerant atmosphere where students from all backgrounds feel welcome.",
+        "status": "learned"
+    },
+    {
+        "id": "20661cde-1dd2-4f96-8031-935c23bdb2d8",
+        "word": "transition",
+        "persian": "گذار، انتقال، تحول",
+        "definition": "Transition refers to a process or period of change from one state, condition, or situation to another. It often involves a shift in characteristics, habits, or ways of doing things. Think of it as a bridge between two distinct points in time or states of being.\n\nSynonyms: change, shift, conversion, transformation, passage.\n",
+        "exampleA": "transition from youth to adulthood",
+        "exampleB": "The smooth transition from summer to fall is always a welcome change.",
+        "exampleC": "The company is managing the transition to remote work quite well.",
+        "status": "learned"
+    },
+    {
+        "id": "c2512300-29fe-4eea-bbb2-a733d06bc127",
+        "word": "typically",
+        "persian": "بسته به متن، «معمولاً»، «به طور معمول»، «به طور کلی» یا «غالباً» ترجمه‌های مناسبی برای \"typically\" هستند.\n",
+        "definition": "\"Typically\" means in a way that is usual, normal, or characteristic. It describes something that happens frequently or is representative of a certain type of thing or behavior. In essence, it conveys what is generally expected or observed in a given situation.\n\nSynonyms: Usually, generally, normally, commonly, ordinarily.\n",
+        "exampleA": "She typically arrives at work around 8:00 AM.",
+        "exampleB": "The weather in July is typically hot and humid.",
+        "exampleC": "These types of problems typically require a lot of patience.",
+        "status": ""
+    },
+    {
+        "id": "2aa0ec44-8d0a-4a74-a91f-d80ba47100dc",
+        "word": "visualise",
+        "persian": "تجسم کردن",
+        "definition": "To visualise means to form a mental image of something; to imagine or see something in your mind's eye. It's the process of creating a picture of something, whether it's a physical object, a concept, or a future event.\n\nSynonyms: imagine, envision, picture, conceive, see.\n",
+        "exampleA": "I try to visualise the finished product before I start building.",
+        "exampleB": "Can you visualise what your life will be like in five years?",
+        "exampleC": "The architect used computer software to visualise the new building.",
+        "status": "learned"
+    },
+    {
+        "id": "ec0490cb-d8df-41c1-a1cd-e6853ca8b54f",
+        "word": "youth",
+        "persian": "\"Youth\" در فارسی می‌تواند بسته به زمینه به \"جوانی\"، \"نوجوان\"، \"جوانان\" یا \"نیروی جوان\" ترجمه شود.\n",
+        "definition": "adolescence",
+        "exampleA": "The programs are designed to help troubled youth.",
+        "exampleB": "She dedicated her life to protecting the innocence of youth.",
+        "exampleC": "Many of the nation's problems stem from a lack of opportunity for youth.",
+        "status": "learned"
+    }
+]

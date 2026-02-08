@@ -1,0 +1,822 @@
+[
+    {
+        "id": "8162f4bc-5905-49db-91cb-b9b9d19320f1",
+        "word": "academic",
+        "persian": "اکادمیک و دانشگاهی",
+        "definition": "\"Academic\" generally refers to things related to education, scholarship, learning, or the world of universities and colleges. It implies a focus on intellectual pursuits, theoretical knowledge, and rigorous study, often contrasted with practical or vocational skills. It can describe a style, subject, or person involved in these pursuits.\n\nSynonyms: Scholarly, intellectual, educational, collegiate, learned.\n",
+        "exampleA": "The conference provided an opportunity to discuss pressing academic issues.",
+        "exampleB": "Her academic record is truly impressive.",
+        "exampleC": "He plans to pursue an academic career after graduation.",
+        "status": "learned"
+    },
+    {
+        "id": "2c0b3e3e-3c16-44a6-bbd4-a18575e7aeba",
+        "word": "adopt (an approach)",
+        "persian": "\"اتخاذ کردن (یک رویکرد)\" یا \"در پیش گرفتن (یک رویکرد)\" بهترین ترجمه‌ها هستند.\n",
+        "definition": "To \"adopt an approach\" means to choose and begin to use a particular method, strategy, or way of thinking to deal with a situation or solve a problem. It signifies a conscious decision to embrace a specific course of action.\n\nSynonyms: employ, utilize, implement, embrace, take up, assume.\n",
+        "exampleA": "The company decided to adopt a new approach to marketing, focusing on social media engagement.",
+        "exampleB": "To solve the complex problem, we need to adopt an interdisciplinary approach that combines different fields of expertise.",
+        "exampleC": "Rather than sticking to tradition, the school will adopt a more innovative approach to teaching mathematics.",
+        "status": ""
+    },
+    {
+        "id": "9eb8fdf3-aee2-4770-9110-1bf7b249b2b1",
+        "word": "adopt an approach",
+        "persian": "اتخاذ کردن رویکرد",
+        "definition": "\"Adopt an approach\" means to choose and start using a particular method, strategy, or way of dealing with a situation or problem. It signifies a conscious decision to implement a specific plan of action.\n\nSynonyms: employ a method, utilize a strategy, implement an plan, take an avenue\n",
+        "exampleA": "We need to adopt an approach that prioritizes collaboration.",
+        "exampleB": "The company decided to adopt an approach based on data-driven decision-making.",
+        "exampleC": "To solve this complex problem, we must adopt an approach that is both innovative and practical.",
+        "status": "learned"
+    },
+    {
+        "id": "b817eef1-d6cf-4ff9-83ab-037d9d55e618",
+        "word": "analyse",
+        "persian": "تحلیل کردن",
+        "definition": "To analyse means to examine something methodically and in detail, typically for purposes of explanation and interpretation. It involves breaking down a complex topic or substance into smaller parts to gain a better understanding of its nature, function, and relationships.\n\nSynonyms: examine, investigate, dissect, scrutinize, evaluate.\n",
+        "exampleA": "The scientists will analyse the data to determine the cause of the anomaly.",
+        "exampleB": "Before making a decision, it's important to analyse the potential risks and benefits.",
+        "exampleC": "The literary critic will analyse the themes and symbolism in the novel.",
+        "status": "learned"
+    },
+    {
+        "id": "5ed1e564-f3e9-4de7-acc2-7fd1dbeac749",
+        "word": "area of specialization",
+        "persian": "زمینه تخصص",
+        "definition": "An \"area of specialization\" refers to a specific field of study, skill, or expertise that a person focuses on and develops in-depth knowledge and abilities in. It represents the particular domain where someone concentrates their efforts and becomes proficient, often leading to a career path or specific role.\n\nSynonyms: field of expertise, specialty, domain of expertise, area of focus, niche.\n",
+        "exampleA": "Her area of specialization is pediatric cardiology.",
+        "exampleB": "The job description requires someone with an area of specialization in data science.",
+        "exampleC": "My area of specialization within marketing is digital advertising.",
+        "status": "learned"
+    },
+    {
+        "id": "b603bc1a-ed1c-4164-9da3-22682f440b55",
+        "word": "ascertain",
+        "persian": "معلوم کردن، اطمینان حاصل کردن",
+        "definition": "To ascertain something means to find something out for certain; to discover or determine something with assurance, usually through investigation or experimentation. It implies a process of inquiry leading to definite knowledge.\n\nSynonyms: discover, determine, establish, verify, confirm.\n",
+        "exampleA": "The police have so far been unable to ascertain the cause of the explosion.",
+        "exampleB": "The detective worked diligently to ascertain the truth behind the mysterious disappearance.",
+        "exampleC": "Before making a decision, we need to ascertain all the relevant facts.",
+        "status": "learned"
+    },
+    {
+        "id": "83deba4f-d12d-4e44-99ac-14bd05cc9db0",
+        "word": "assignment",
+        "persian": "تکلیف",
+        "definition": "An assignment is a task or piece of work that is given to someone, typically as part of their job or studies, and which they are responsible for completing. It implies a duty or obligation to carry out the specified task to a required standard.\n\nSynonyms: task, project, undertaking, mission, responsibility.\n",
+        "exampleA": "I have a lot of reading assignments to complete before the end of term.",
+        "exampleB": "The teacher gave us a challenging assignment for homework.",
+        "exampleC": "Completing this assignment is crucial for passing the course.",
+        "status": "learned"
+    },
+    {
+        "id": "f9934500-c0a7-4cd7-8f61-eafb7e890841",
+        "word": "college",
+        "persian": "کالج، دانشگاه",
+        "definition": "\"College\" generally refers to an institution of higher education that offers undergraduate degrees, often a Bachelor's degree, and sometimes graduate degrees as well. It's a place where students pursue academic studies and gain professional skills to prepare for their future careers.\n\nSynonyms: university, higher education institution, academy, institute\n",
+        "exampleA": "She decided to attend college after taking a gap year.",
+        "exampleB": "The cost of college has been steadily increasing.",
+        "exampleC": "He met his best friends in college.",
+        "status": "learned"
+    },
+    {
+        "id": "3dd1a589-dd93-43b3-87ac-b3944c21c6ab",
+        "word": "compass",
+        "persian": "قطب نما، پرگار",
+        "definition": "A compass is a navigational instrument that uses a magnetized needle or card to align itself with the Earth's magnetic field, indicating the direction of magnetic north. It's primarily used for determining orientation and direction while traveling, especially where landmarks are scarce.\n\nSynonyms: Guide, lodestone, mariner's compass, direction finder, magnetic compass\n",
+        "exampleA": "The hiker used a compass to navigate through the dense forest.",
+        "exampleB": "Figuring out my passion in life feels like I'm looking for a compass to guide me.",
+        "exampleC": "Integrity should be your moral compass in all your dealings.",
+        "status": "learned"
+    },
+    {
+        "id": "32f032ba-dc36-4d3a-bf73-c6146550148a",
+        "word": "concentrate",
+        "persian": "،متمرکز شدن",
+        "definition": "To concentrate means to focus one's attention or efforts on a particular task, subject, or objective. It involves directing mental energy and excluding distractions to achieve a higher level of understanding or performance.\n\nSynonyms: focus, center, hone, zero in on, devote.\n",
+        "exampleA": "I need to concentrate on my studies if I want to pass the exam.",
+        "exampleB": "Please concentrate your efforts on finishing the report by Friday.",
+        "exampleC": "The aroma of coffee helps me concentrate in the morning.",
+        "status": "learned"
+    },
+    {
+        "id": "7ec34936-803b-4294-9040-d397503ab357",
+        "word": "conduct",
+        "persian": "اجرا کردن، هدایت کردن",
+        "definition": "\"Conduct\" refers to the way someone behaves, especially in a public or professional setting. It encompasses their actions, mannerisms, and overall deportment. It's often judged based on whether it aligns with established rules, expectations, or ethical standards.\n\nSynonyms: behavior, demeanor, deportment, comportment, manner.\n",
+        "exampleA": "The company will conduct a thorough investigation into the incident.",
+        "exampleB": "His conduct at the party was unacceptable and disrespectful.",
+        "exampleC": "We need to conduct more research to determine the effectiveness of the treatment.",
+        "status": "learned"
+    },
+    {
+        "id": "53cebd3d-8355-48ee-a24e-bb8f2c75c25b",
+        "word": "consider",
+        "persian": "بسته به متن و منظور، \"consider\" می‌تونه به این صورت‌ها ترجمه بشه:\n   در نظر گرفتن\n   فکر کردن به\n   بررسی کردن\n   توجه کردن به\n   محسوب کردن\n   به حساب آوردن\n",
+        "definition": "To \"consider\" means to think carefully about something, typically before making a decision or forming an opinion. It involves weighing different options, evaluating information, and reflecting on the potential consequences.\n\nSynonyms: contemplate, ponder, deliberate, weigh, reflect\n",
+        "exampleA": "Please consider my application for the position.",
+        "exampleB": "We need to consider all options before making a decision.",
+        "exampleC": "Did you consider the consequences of your actions?",
+        "status": ""
+    },
+    {
+        "id": "79a36100-801e-4d24-9c8d-2fd0457e0854",
+        "word": "controversy",
+        "persian": "بحث، مناقشه",
+        "definition": "Controversy refers to a prolonged public disagreement or heated argument involving strong opinions and differing viewpoints, often surrounding a sensitive or important topic. It typically involves a debate with significant opposing sides and can generate considerable discussion and debate.\n\nSynonyms: dispute, debate, argument, disagreement, contention.\n",
+        "exampleA": "The new policy sparked considerable controversy among the employees.",
+        "exampleB": "The artist's latest work is shrouded in controversy due to its provocative themes.",
+        "exampleC": "Despite the controversy, the company stood by its decision.",
+        "status": "learned"
+    },
+    {
+        "id": "3e1ac51e-6683-4542-9abf-8f080c5bc716",
+        "word": "curriculum",
+        "persian": "برنامه آموزشی",
+        "definition": "A curriculum refers to the planned and structured learning experiences offered to students by an educational institution. It encompasses the subjects taught, the content covered, the teaching methods employed, and the assessment strategies used. Essentially, it's the roadmap for student learning and achievement.\n\nSynonyms: syllabus, course of study, program of study, learning plan\n",
+        "exampleA": "The school is revising its curriculum to include more STEM subjects.",
+        "exampleB": "Our new curriculum focuses on project-based learning and collaboration.",
+        "exampleC": "The history curriculum covers a broad range of eras and civilizations.",
+        "status": "learned"
+    },
+    {
+        "id": "5923c9d6-7c59-4e8e-a42a-1520a0d803d5",
+        "word": "daunting",
+        "persian": "دلهره آور",
+        "definition": "\"Daunting\" describes something that is intimidating, discouraging, or likely to overwhelm someone with fear or apprehension. It often implies a challenging task, situation, or prospect that seems difficult and might make someone hesitant to proceed.\n\nSynonyms: intimidating, formidable, challenging, frightening, discouraging, overwhelming.\n",
+        "exampleA": "The sheer volume of work was a daunting task.",
+        "exampleB": "Climbing Mount Everest is a daunting challenge.",
+        "exampleC": "Speaking in front of a large crowd can be a daunting experience.",
+        "status": "learned"
+    },
+    {
+        "id": "4d13316c-da15-4a49-a0c7-30fd3a8ab87e",
+        "word": "dissertation",
+        "persian": "پایان نامه",
+        "definition": "A dissertation is a lengthy, formal research paper or treatise, typically written by candidates for a doctoral degree. It represents original research and demonstrates a deep understanding of a specific subject area. It is a significant academic undertaking requiring rigorous analysis, argumentation, and scholarly presentation and must be submitted for a degree or professional qualification.\n\nSynonyms: thesis, treatise, essay, study, paper, monograph\n",
+        "exampleA": "She spent months working on her dissertation, researching the effects of social media on political discourse.",
+        "exampleB": "The professor praised his student's dissertation for its originality and thorough analysis.",
+        "exampleC": "Writing a dissertation requires significant time management and dedication.",
+        "status": "learned"
+    },
+    {
+        "id": "f4137e7b-652c-420d-b311-27d0b6ec790f",
+        "word": "distraction",
+        "persian": "عامل حواس پرتی",
+        "definition": "A distraction is anything that diverts attention from the task at hand or prevents someone from concentrating. It can be something internal, like a wandering thought, or external, like a loud noise or a tempting notification. Distractions interrupt focus and hinder productivity by pulling mental resources away from what should be the priority.\n\nSynonyms: interruption, diversion, disturbance, interference, impediment.\n",
+        "exampleA": "The loud music was a major distraction, making it hard to concentrate.",
+        "exampleB": "He used humor as a distraction from the difficult topic.",
+        "exampleC": "Constant phone notifications are a common distraction in today's world.",
+        "status": "learned"
+    },
+    {
+        "id": "527faff0-7cdb-45e4-b229-7567f12c8b4e",
+        "word": "education",
+        "persian": "معادل‌های مختلفی برای education در فارسی وجود دارد، اما رایج‌ترین و جامع‌ترین ترجمه‌ها عبارتند از: \"آموزش\" و \"پرورش\". بسته به بافت جمله، می‌توان از این دو کلمه یا کلماتی مانند \"تحصیل\" و \"فراگیری\" نیز استفاده کرد.\n",
+        "definition": "Education is the process of acquiring knowledge, skills, values, morals, beliefs, habits, and personal development. It encompasses formal learning in schools, universities, and other institutions, as well as informal learning through experiences, interactions, and self-study, ultimately aiming to improve understanding and abilities.\n\nSynonyms: schooling, instruction, learning, training, pedagogy.\n",
+        "exampleA": "Education is the key to unlocking a brighter future.",
+        "exampleB": "She pursued her education with passion and dedication.",
+        "exampleC": "The government is committed to improving the quality of education for all citizens.",
+        "status": ""
+    },
+    {
+        "id": "1757bd06-c664-4210-9065-f725e07949d4",
+        "word": "eligible",
+        "persian": "واجد شرایط",
+        "definition": "\"Eligible\" means meeting the necessary requirements or qualifications to be chosen, selected, or permitted to do something. It implies having the right credentials or fulfilling the specified criteria to participate in a particular activity, receive a benefit, or hold a certain position.\n\nSynonyms: qualified, suitable, fit, entitled, acceptable\n",
+        "exampleA": "Only those with a valid driver's license are eligible to rent the car.",
+        "exampleB": "You must be under 18 to be eligible for the child discount.",
+        "exampleC": "After working at the company for a year, you become eligible for paid vacation time.",
+        "status": "learned"
+    },
+    {
+        "id": "4d384b14-b933-490d-857b-e2f151001b5e",
+        "word": "enrich",
+        "persian": "غنی ساختن، پرمایه شدن",
+        "definition": "To enrich something means to improve its quality, value, or abundance. It suggests adding elements that make something more full, satisfying, or complete. It often implies a positive transformation, making something better than it was before.\n\nSynonyms: enhance, augment, supplement, improve, elevate.\n",
+        "exampleA": "Travel can enrich your life in countless ways.",
+        "exampleB": "The author used vivid descriptions to enrich the story.",
+        "exampleC": "Adding compost to the soil will enrich it with nutrients.",
+        "status": "learned"
+    },
+    {
+        "id": "5dabb713-da2b-4be1-9049-7dfced3c8962",
+        "word": "exam",
+        "persian": "\"Exam\" در فارسی معمولاً به \"امتحان\" یا \"آزمون\" ترجمه می‌شود.\n",
+        "definition": "An exam is a formal assessment designed to evaluate a person's knowledge, understanding, or skills in a specific subject or area. It can take various forms, such as written tests, oral presentations, practical demonstrations, or projects, and is often used to measure academic progress or professional competence.\n\nSynonyms: test, assessment, evaluation, quiz\n",
+        "exampleA": "I need to study for the upcoming exam.",
+        "exampleB": "She aced the exam with flying colors.",
+        "exampleC": "The exam covered a wide range of topics.",
+        "status": ""
+    },
+    {
+        "id": "329d1424-821c-463b-bcb3-89ea47a53ca6",
+        "word": "field (of study)",
+        "persian": "\"رشته (تحصیلی)\" یا \"حوزه (مطالعاتی)\"\n",
+        "definition": "A field of study refers to a specific area of academic or professional focus, characterized by a defined body of knowledge, research methodologies, and practices. It's a particular domain within a larger subject area, such as biology being a field within the broader domain of science, or sociology being a field within social sciences.\n\nSynonyms: discipline, area of expertise, subject, specialty, domain.\n",
+        "exampleA": "Her field of study is astrophysics, focusing on black holes.",
+        "exampleB": "He decided to change his field of study from engineering to philosophy.",
+        "exampleC": "The university is renowned for its research in the field of study of artificial intelligence.",
+        "status": ""
+    },
+    {
+        "id": "3049d827-d045-4a6f-8cdb-542fded2c345",
+        "word": "findings",
+        "persian": "\"یافته‌ها\" یا \"نتایج\"\n",
+        "definition": "\"Findings\" refer to the results or conclusions reached after an investigation, experiment, or analysis. They represent the key observations, patterns, or data points that have been discovered and deemed significant. Synonyms include: results, discoveries, conclusions, observations, outcomes.\n",
+        "exampleA": "The study's findings suggest a strong correlation between exercise and improved mental health.",
+        "exampleB": "Based on the committee's findings, several policy changes were recommended.",
+        "exampleC": "The archaeological findings revealed a previously unknown civilization.",
+        "status": ""
+    },
+    {
+        "id": "7d524c41-0c2f-4e59-bd0c-80bdbfd5a57c",
+        "word": "find out",
+        "persian": "فهمیدن، پی بردن",
+        "definition": "\"Find out\" means to discover or learn something, usually through investigation, questioning, or experience. It implies gaining knowledge or uncovering information that was previously unknown.\n\nSynonyms: discover, learn, ascertain, determine, uncover.\n",
+        "exampleA": "I need to find out what time the movie starts.",
+        "exampleB": "She tried to find out his secret, but he wouldn't tell her.",
+        "exampleC": "We'll find out the results of the test next week.",
+        "status": "learned"
+    },
+    {
+        "id": "e50235eb-af5d-468f-afbc-4ead974c83f1",
+        "word": "from the very beginning",
+        "persian": "از همان ابتدای کار",
+        "definition": "\"From the very beginning\" means right at the start, from the initial point or moment something began. It emphasizes the entirety of the period, indicating that the subject has been relevant or involved since its inception.\n\nSynonyms: since the outset, from the get-go, from the start, initially, originally.\n",
+        "exampleA": "From the very beginning, I knew this project would be challenging.",
+        "exampleB": "She had been devoted to her art from the very beginning.",
+        "exampleC": "From the very beginning, they were destined to be together.",
+        "status": "learned"
+    },
+    {
+        "id": "9e987d7e-131a-48f2-ab07-3916f489616c",
+        "word": "funding",
+        "persian": "کمک مالی",
+        "definition": "Funding refers to the act of providing financial resources, typically money, to support a project, organization, or individual endeavor. It enables the undertaking of activities that would otherwise be impossible or difficult due to a lack of capital.\n\nSynonyms: financing, investment, backing, sponsorship, grants\n",
+        "exampleA": "The project was cancelled due to lack of funding.",
+        "exampleB": "Securing adequate funding is crucial for the company's expansion plans.",
+        "exampleC": "The university relies heavily on alumni donations for its funding.",
+        "status": "learned"
+    },
+    {
+        "id": "c6239bad-43ab-4ef9-96fa-9a108fd6f5ec",
+        "word": "geographer",
+        "persian": "جغرافیدان",
+        "definition": "A geographer is someone who studies the Earth's physical features, climate, population, resources, and human activities. They analyze spatial relationships and patterns to understand how people interact with their environment and how different places are connected. Geographers might study things like urban development, natural disasters, or the distribution of languages.\n\nSynonyms: Cartographer, Earth scientist, Spatial analyst.\n",
+        "exampleA": "The geographer used satellite imagery to study deforestation patterns.",
+        "exampleB": "As a geographer, she specialized in the study of urban environments.",
+        "exampleC": "The geographer's presentation focused on the impact of climate change on coastal communities.",
+        "status": "learned"
+    },
+    {
+        "id": "7de74dfe-ebad-4391-a393-9695461e94fd",
+        "word": "grade",
+        "persian": "نمره، پایه، درجه",
+        "definition": "\"Grade\" refers to a specific level of quality, rank, or class assigned to something, often based on a standardized system. It can describe the level of a student in school, the quality of a product, or the degree of inclination of a slope.\nSynonyms: level, rank, rating, class, mark.\n",
+        "exampleA": "What grade are you in this year?",
+        "exampleB": "The teacher promised to grade the exams by Friday.",
+        "exampleC": "This meat is high-grade and perfect for grilling.",
+        "status": "learned"
+    },
+    {
+        "id": "754867da-32a9-4263-9a9d-373d63b916f4",
+        "word": "graduate",
+        "persian": "فارسی رایج برای \"graduate\"، بسته به زمینه، می‌تونه این‌ها باشه: \"فارغ‌التحصیل شدن\"، \"فارغ‌التحصیل\" (به عنوان اسم)، یا \"دانش‌آموخته\".\n",
+        "definition": "To graduate means to successfully complete a course of study at a school, college, or university and receive a diploma or degree signifying that accomplishment. It marks a significant transition point, often signifying the end of formal education and the beginning of a new chapter in life.\n\nSynonyms: finish, complete, pass, qualify, be certified.\n",
+        "exampleA": "I plan to graduate in the spring with a degree in biology.",
+        "exampleB": "Many students struggle to find jobs after they graduate.",
+        "exampleC": "She will graduate at the top of her class.",
+        "status": ""
+    },
+    {
+        "id": "1ae27c1e-68bd-44c0-ad3c-caba9ad41470",
+        "word": "graduation",
+        "persian": "فراغت از تحصیل",
+        "definition": "Graduation is the successful completion of a course of study at a school, college, or university, marking a significant milestone in one's academic journey. It is often celebrated with a ceremony where diplomas or degrees are awarded, signifying the individual's achievement and readiness for the next chapter.\n\nSynonyms: commencement, passing out, completion of studies, degree conferral.\n",
+        "exampleA": "The graduation ceremony was held on a sunny afternoon.",
+        "exampleB": "She received a scholarship after her graduation from high school.",
+        "exampleC": "Graduation marks the end of one chapter and the beginning of another.",
+        "status": "learned"
+    },
+    {
+        "id": "8b6366ab-6440-45ae-9bc6-77ad54bfbc92",
+        "word": "grant",
+        "persian": "،کمک بلاعوض ،کمک دولتى",
+        "definition": "A grant is a sum of money or other resource given by an organization or government, typically to a recipient for a specific purpose, such as research, education, or community development. Unlike a loan, a grant doesn't usually need to be repaid, but often comes with conditions and accountability measures to ensure the funds are used as intended.\n\nSynonyms: subsidy, donation, endowment, contribution, award.\n",
+        "exampleA": "The university received a generous grant to fund its research program.",
+        "exampleB": "The city will grant permits for the construction of the new shopping center.",
+        "exampleC": "I grant you permission to use my car, but please be careful.",
+        "status": "learned"
+    },
+    {
+        "id": "73e63962-e17a-44f3-a170-2daa8db3b8ae",
+        "word": "high school",
+        "persian": "\"دبیرستان\" معادل مناسبی برای \"high school\" است.\n",
+        "definition": "High school is a secondary school institution that typically serves students between the ages of 14 and 18, offering an education leading to a diploma or certificate that prepares them for higher education or entry into the workforce. It's a crucial period of adolescence focused on academic learning, social development, and exploration of personal interests.\n\nSynonyms: secondary school, senior high, upper school, college preparatory school.\n",
+        "exampleA": "She excelled in both academics and sports throughout high school.",
+        "exampleB": "My best friends are all people I met in high school.",
+        "exampleC": "He's applying to colleges after graduating from high school.",
+        "status": ""
+    },
+    {
+        "id": "d4d5a41f-49de-43f8-8431-57c4eb7a3eee",
+        "word": "homework",
+        "persian": "\"Homework\" در فارسی معمولاً به «تکلیف خانه»، «مشق شب» یا به اختصار «مشق» ترجمه می‌شود.\n",
+        "definition": "Homework refers to tasks assigned to students by their teachers to be completed outside of the regular school day. It is intended to reinforce learning, practice skills, or prepare for future lessons.\n\nSynonyms: assignment, schoolwork, prep work, lesson.\n",
+        "exampleA": "I have a lot of homework to do tonight.",
+        "exampleB": "She always completes her homework on time.",
+        "exampleC": "The teacher assigned us a difficult homework assignment.",
+        "status": ""
+    },
+    {
+        "id": "834a5110-aa6f-4d01-b5e8-41fbb59c43b1",
+        "word": "junior school",
+        "persian": "\"Junior school\" در فارسی معمولاً به \"مدرسه راهنمایی\" یا \"دوره راهنمایی\" ترجمه می‌شود.\n",
+        "definition": "\"Junior school\" refers to a phase of education, typically following infant school or kindergarten and preceding secondary school. It usually caters to children in the age range of roughly 7 to 11 years old, focusing on developing fundamental skills in literacy, numeracy, and other basic subjects to prepare them for further education.\n\nSynonyms: elementary school, primary school, grade school.\n",
+        "exampleA": "My son will be starting junior school next year.",
+        "exampleB": "The junior school has a fantastic music program.",
+        "exampleC": "We live close to the junior school, which is very convenient.",
+        "status": ""
+    },
+    {
+        "id": "9c260a17-ed1d-46ba-93b3-1363241571ec",
+        "word": "kindergarten",
+        "persian": "مهدکودک",
+        "definition": "Kindergarten is a preschool educational approach primarily for children aged four to six, serving as a transition between home and formal schooling. It focuses on play-based learning, social development, and introducing foundational academic concepts to prepare children for first grade.\n\nSynonyms: preschool, nursery school, pre-K, early childhood education\n",
+        "exampleA": "My daughter is excited to start kindergarten next year.",
+        "exampleB": "The kindergarten teacher read a story about a very hungry caterpillar.",
+        "exampleC": "Many children learn their ABCs and 123s in kindergarten.",
+        "status": "learned"
+    },
+    {
+        "id": "152a15c8-a2f0-48b2-9596-ea3b11427546",
+        "word": "learn (about)",
+        "persian": "یاد گرفتن، آموختن، یا کسب اطلاعات (درباره‌ی)\n",
+        "definition": "\"Learn (about)\" signifies the act of gaining knowledge or understanding of a subject, topic, or skill through study, experience, or instruction. It involves acquiring information and comprehending its meaning. Synonyms include: discover, study, grasp, understand, and acquire knowledge.\n",
+        "exampleA": "I want to learn about the history of Ancient Rome.",
+        "exampleB": "She's eager to learn about coding and web development.",
+        "exampleC": "We need to learn about the new safety regulations before starting the project.",
+        "status": ""
+    },
+    {
+        "id": "3bd06eb3-eb26-4018-b0ca-904ce5d99b36",
+        "word": "learning disorder",
+        "persian": "اختلال یادگیری",
+        "definition": "A learning disorder, also known as a learning disability, is a neurological condition that affects a person's ability to acquire, process, store, or use information. These disorders can manifest in difficulties with reading, writing, mathematics, reasoning, listening, or speaking, despite having normal intelligence. Individuals with learning disorders require specialized instruction and support to reach their full potential.\n\nSynonyms: learning disability, specific learning difficulty, neurodevelopmental learning difference.\n",
+        "exampleA": "The student's struggles in reading and writing led to a diagnosis of a learning disorder.",
+        "exampleB": "Early intervention is crucial for children with a learning disorder to help them develop coping strategies.",
+        "exampleC": "Many successful people have overcome the challenges associated with a learning disorder.",
+        "status": "learned"
+    },
+    {
+        "id": "0704c41f-055f-4b9e-bbf3-12348f8a9dd6",
+        "word": "lecturer",
+        "persian": "استاد دانشگاه، مربی",
+        "definition": "A lecturer is a person who delivers lectures, typically at a university or college. They are responsible for presenting information on a specific subject to students in a classroom or lecture hall setting, often using prepared notes, slides, or other visual aids. Lecturers are educators who aim to convey knowledge and facilitate learning through their presentations.\n\nSynonyms: speaker, instructor, professor, presenter, academic, teacher.\n",
+        "exampleA": "The lecturer's insightful comments sparked a lively debate among the students.",
+        "exampleB": "Professor Davis is a renowned lecturer in the field of astrophysics.",
+        "exampleC": "As a guest lecturer, she shared her experiences working in international development.",
+        "status": "learned"
+    },
+    {
+        "id": "de2c7820-2c61-4ca6-84bc-6785a39a2273",
+        "word": "library",
+        "persian": "\"Library\" در فارسی می‌تواند به «کتابخانه» ترجمه شود که مکانی برای نگهداری و امانت دادن کتاب‌ها و سایر منابع اطلاعاتی است.\n",
+        "definition": "A library is a curated collection of resources, primarily books, but also including other forms of media like journals, newspapers, audio recordings, and videos, made accessible to a community for reading, study, or reference. It provides a space for individuals to access information and engage with intellectual and cultural materials.\n\nSynonyms: Atheneum, archive, collection, repository.\n",
+        "exampleA": "She spent hours in the library, surrounded by stacks of books.",
+        "exampleB": "The library is offering a free workshop on using their online resources.",
+        "exampleC": "He returned the overdue book to the library, hoping to avoid a fine.",
+        "status": ""
+    },
+    {
+        "id": "6d0af3c4-799a-4c9d-a994-77307fbcc435",
+        "word": "limits",
+        "persian": "\"محدودیت‌ها\"، \"مرزها\" یا \"حدود\" بسته به متن مورد نظر، می‌توانند معادل‌های مناسبی برای کلمه \"limits\" باشند.\n",
+        "definition": "\"Limits\" refer to a point or level beyond which something does not or may not extend or pass. They define boundaries, restrictions, or constraints that can be physical, conceptual, or self-imposed, dictating the scope or extent of something.\n\nSynonyms: boundaries, constraints, restrictions, confines, edges, perimeters.\n",
+        "exampleA": "The city has set limits on water usage during the drought.",
+        "exampleB": "There are limits to what I can tolerate.",
+        "exampleC": "She pushed the car to its limits on the racetrack.",
+        "status": ""
+    },
+    {
+        "id": "cbd8a095-35ae-4f88-aa6f-a5f4bc67c423",
+        "word": "linguist",
+        "persian": "زبانشناس ،متخصص زبان شناسى ،زبان دان",
+        "definition": "A linguist is someone who studies language, focusing on its structure, history, and how people use it. They might analyze grammar, phonetics, semantics, or even how languages change over time and relate to each other. Essentially, a linguist seeks to understand the science behind language.\n\nSynonyms: language scientist, philologist, glottologist.\n",
+        "exampleA": "The linguist studied the nuances of the ancient language.",
+        "exampleB": "As a trained linguist, she could speak five languages fluently.",
+        "exampleC": "The professor, a renowned linguist, lectured on the evolution of grammar.",
+        "status": "learned"
+    },
+    {
+        "id": "48552ad7-06c5-4f0d-a86a-5a57fc017bfb",
+        "word": "linguistic",
+        "persian": "زبانى ،وابسته به زبان شناسى",
+        "definition": "\"Linguistic\" refers to anything related to language, including its structure, history, acquisition, and use. It encompasses the study of how language works, how people learn and use it, and how it varies across different cultures and time periods.\n\nSynonyms: verbal, language-related, philological, glottal.\n",
+        "exampleA": "The student showed a strong aptitude for linguistic analysis.",
+        "exampleB": "Her research focused on the linguistic differences between dialects.",
+        "exampleC": "The professor's lecture explored the linguistic origins of the word.",
+        "status": "learned"
+    },
+    {
+        "id": "2b1d1b05-5382-47df-831b-43cee4eab216",
+        "word": "Masters",
+        "persian": "معنی دقیق \"Masters\" به بافتار (context) بستگی دارد. اما به طور کلی می توان آن را به صورت های زیر ترجمه کرد:\n\n   استادان: اگر منظور افراد متخصص و ماهر باشد.\n   کارشناسان ارشد: اگر منظور دارندگان مدرک کارشناسی ارشد باشد.\n   آقایان: اگر در خطاب به جمعی از مردان استفاده شود.\n   صاحبان: اگر منظور مالکان یا دارندگان چیزی باشد.\n",
+        "definition": "The term \"masters\" typically refers to individuals who have attained a high level of skill, knowledge, or authority in a particular field or discipline. It signifies expertise and command, often indicating a position of leadership, control, or deep understanding. They are proficient and accomplished practitioners who are often looked to for guidance and mentorship.\n\nSynonyms: experts, authorities, virtuosos, professionals, specialists\n",
+        "exampleA": "The Masters is one of the most prestigious golf tournaments in the world.",
+        "exampleB": "Many Renaissance painters aimed to become masters of their craft.",
+        "exampleC": "He has earned both his Bachelor's and Masters degrees in engineering.",
+        "status": ""
+    },
+    {
+        "id": "6af7b5c8-04a4-41ef-956b-68af397da580",
+        "word": "mathematician",
+        "persian": "ریاضیدان",
+        "definition": "A mathematician is a person who uses extensive knowledge of mathematics in their work, typically to solve problems, develop new theories, and advance the field. They might conduct research, teach, or apply mathematical principles in various fields like engineering, finance, or computer science.\n\nSynonyms: math expert, math whiz, number theorist, algebraist, geometer.\n",
+        "exampleA": "The mathematician dedicated his life to solving complex equations.",
+        "exampleB": "As a mathematician, she excelled in abstract algebra and number theory.",
+        "exampleC": "The renowned mathematician received an award for his groundbreaking research.",
+        "status": "learned"
+    },
+    {
+        "id": "8d8e9f53-d46e-4030-9633-cfdc6cf26471",
+        "word": "mixed",
+        "persian": "مختلط، مخلوط",
+        "definition": "\"Mixed\" generally describes something composed of different elements, ingredients, or qualities combined together. It suggests a blending or combination where the individual components are no longer distinctly separate but exist in a unified, often heterogeneous, whole.\n\nSynonyms: Blended, combined, mingled, assorted, heterogeneous.\n",
+        "exampleA": "The paint colors were mixed to create a custom shade of green.",
+        "exampleB": "The band played a mixed setlist of classic rock and modern pop songs.",
+        "exampleC": "The reviews for the movie were mixed, with some praising the acting and others criticizing the plot.",
+        "status": "learned"
+    },
+    {
+        "id": "f0e07712-31bc-4374-9203-a008d093d75d",
+        "word": "nursery",
+        "persian": "\"Nursery\" بسته به متن می‌تونه به معنی‌های مختلفی ترجمه بشه. رایج‌ترین معادل‌ها عبارتند از:\n   مهد کودک: مکانی برای نگهداری و مراقبت از کودکان خردسال.\n   گلخانه: مکانی برای پرورش و نگهداری گیاهان جوان.\n   اتاق نوزاد: اتاقی در خانه که برای نوزاد آماده شده است.\n",
+        "definition": "A nursery is a room or space dedicated to the care of babies and young children. It's typically equipped with items like cribs, changing tables, and toys to provide a safe and stimulating environment for childcare, whether at home or in a daycare setting.\n    \nSynonyms: daycare, creche, playgroup, preschool.\n",
+        "exampleA": "The new parents decorated the nursery with soft colors and playful animal motifs.",
+        "exampleB": "The plant nursery had a wide selection of flowers, shrubs, and trees.",
+        "exampleC": "During the church service, the young children were taken to the nursery for childcare.",
+        "status": ""
+    },
+    {
+        "id": "0ca308e8-7706-492d-8437-a516c3cac3bf",
+        "word": "nursery school",
+        "persian": "پیش دبستانی",
+        "definition": "A nursery school is a preschool educational institution for children typically between the ages of three and five. It provides a structured environment for social, emotional, and cognitive development through play-based learning, preparing them for formal schooling.\n\nSynonyms: Preschool, playschool, kindergarten, early learning center.\n",
+        "exampleA": "My youngest child started nursery school this year.",
+        "exampleB": "She made many friends at nursery school and learned to share.",
+        "exampleC": "The nursery school has a wonderful outdoor play area.",
+        "status": "learned"
+    },
+    {
+        "id": "18d45ed1-a1bd-4c20-80c3-97214b63e7a0",
+        "word": "on top of this",
+        "persian": "بر این اساس",
+        "definition": "\"On top of this\" is a transitional phrase used to introduce an additional piece of information that supports or builds upon a previous point. It signals that you are adding something further to what you've already said, often to strengthen your argument, provide further detail, or expand on the topic at hand.\n\nSynonyms: Furthermore, Moreover, In addition, Besides, Additionally.\n",
+        "exampleA": "On top of this, the project is also behind schedule.",
+        "exampleB": "The food was terrible, and on top of this, the service was slow.",
+        "exampleC": "He lost his job, and on top of this, his car broke down.",
+        "status": "learned"
+    },
+    {
+        "id": "8b0e2446-340c-471f-a067-e32e30bf2a8a",
+        "word": "organise",
+        "persian": "سازماندهی کردن",
+        "definition": "To organise means to arrange or structure something in a systematic way, bringing order out of chaos. It involves planning, arranging resources, and coordinating activities to achieve a specific goal or improve efficiency.\n\nSynonyms: arrange, coordinate, systematize, structure.\n",
+        "exampleA": "We need to organise the files in alphabetical order.",
+        "exampleB": "She will organise a surprise party for his birthday.",
+        "exampleC": "Let's organise a team to clean up the park.",
+        "status": "learned"
+    },
+    {
+        "id": "a425c34e-39c3-44e6-9f93-baa2b09576a6",
+        "word": "overcome",
+        "persian": "غلبه کردن ،چيره شدن",
+        "definition": "To overcome something means to successfully deal with or defeat a problem, challenge, or obstacle. It implies a sense of triumph and achievement after a period of difficulty or struggle.\n\nSynonyms: conquer, defeat, surmount, prevail over, get over, beat.\n",
+        "exampleA": "She had to overcome many obstacles to achieve her dream.",
+        "exampleB": "They worked together to overcome the challenges they faced.",
+        "exampleC": "With determination, he was able to overcome his fear of public speaking.",
+        "status": "learned"
+    },
+    {
+        "id": "f038f633-04e5-4b10-9ced-3e9d375757c6",
+        "word": "PhD",
+        "persian": "مخفف PhD در فارسی معمولاً به صورت «دکترا» یا «مدرک دکتری» ترجمه می‌شود.\n",
+        "definition": "A PhD, or Doctor of Philosophy, is the highest academic degree awarded by universities in most countries, signifying that the holder has conducted original research, made a significant contribution to their field of study, and demonstrated expertise through a dissertation or thesis. It's a postgraduate degree often pursued after a master's degree and is typically required for tenure-track professorships and senior research positions.\n\nSynonyms: Doctorate, Doctoral Degree, Terminal Degree.\n",
+        "exampleA": "She earned her PhD in astrophysics from Harvard University.",
+        "exampleB": "He is currently pursuing a PhD in computer science.",
+        "exampleC": "Having a PhD can open doors to many research and academic positions.",
+        "status": ""
+    },
+    {
+        "id": "13d97273-9b5d-459b-bc5b-f05305b37cab",
+        "word": "postgraduate",
+        "persian": "\"Postgraduate\" در فارسی معمولاً به عنوان \"فوق لیسانس\" یا \"تحصیلات تکمیلی\" ترجمه می‌شود که به مقاطع تحصیلی بالاتر از کارشناسی (لیسانس) اشاره دارد.\n",
+        "definition": "\"Postgraduate\" refers to academic study or research undertaken after completing a bachelor's degree or equivalent undergraduate qualification. It encompasses advanced degrees like Master's degrees and Doctoral (PhD) degrees, as well as other graduate certificates and diplomas aimed at deepening knowledge or skills in a specific field.\n\nSynonyms: Graduate, Doctoral, Post-baccalaureate, Advanced student\n",
+        "exampleA": "She is pursuing a postgraduate degree in astrophysics.",
+        "exampleB": "The university offers a wide range of postgraduate programs.",
+        "exampleC": "Many postgraduate students work as teaching assistants.",
+        "status": ""
+    },
+    {
+        "id": "3e2c4f8c-029c-4d06-b305-4e3fc600e600",
+        "word": "primary school",
+        "persian": "دبستان",
+        "definition": "\"Primary school\" refers to the first stage of compulsory education, typically following preschool or kindergarten and preceding secondary school. It's the level where children develop foundational literacy and numeracy skills, alongside other basic knowledge across various subjects, setting the stage for their future learning. Synonyms include: elementary school, grade school, junior school (in some regions).\n",
+        "exampleA": "She started learning to read in primary school.",
+        "exampleB": "The new primary school is located near the park.",
+        "exampleC": "Many parents volunteer at the primary school.",
+        "status": "learned"
+    },
+    {
+        "id": "34416b24-dbb4-4736-9a39-92da536bbe72",
+        "word": "program",
+        "persian": "«برنامه» معادل دقیقی برای \"program\" است و در بیشتر موارد کاربرد دارد. بسته به متن، می‌توان از کلماتی مانند «نرم‌افزار»، «طرح»، «دستورالعمل» یا «روال» نیز استفاده کرد.\n",
+        "definition": "A program is a set of instructions that a computer follows to perform a specific task. It essentially tells the computer what to do, step-by-step, to achieve a desired outcome, like running a game, processing data, or displaying a web page.\n\nSynonyms: code, software, application, routine.\n",
+        "exampleA": "I need to write a program to automate this task.",
+        "exampleB": "The television program was interrupted by a news bulletin.",
+        "exampleC": "She enrolled in a computer science program at the university.",
+        "status": ""
+    },
+    {
+        "id": "b61a3ec2-9caa-4161-bb30-8c79878b85eb",
+        "word": "project",
+        "persian": "\"پروژه\" رایج‌ترین و مناسب‌ترین ترجمه برای \"project\" است. بسته به متن، می‌توان از معادل‌هایی مانند \"طرح\" یا \"برنامه\" نیز استفاده کرد.\n",
+        "definition": "A project is a temporary endeavor undertaken to create a unique product, service, or result. It's a planned undertaking with a defined beginning and end, aiming to achieve specific goals and objectives, often involving a team and resources.\n\nSynonyms: task, assignment, undertaking, venture, initiative\n",
+        "exampleA": "The team worked tirelessly to complete the project ahead of schedule.",
+        "exampleB": "My next project involves developing a new marketing strategy.",
+        "exampleC": "The project manager presented the budget to the stakeholders.",
+        "status": ""
+    },
+    {
+        "id": "21d59849-0132-408f-b40a-b1886d3eb249",
+        "word": "protractor",
+        "persian": "نقاله",
+        "definition": "A protractor is a measuring instrument, typically semi-circular, used for measuring angles in degrees. It's a fundamental tool in geometry, drafting, and surveying for determining the degree of an angle or constructing an angle to a specified measurement.\n\nSynonyms: angle measurer, goniometer, angle finder.\n",
+        "exampleA": "The student used a protractor to measure the angle of the triangle.",
+        "exampleB": "She carefully aligned the protractor with the baseline before marking the angle.",
+        "exampleC": "The geometry set included a ruler, compass, and protractor.",
+        "status": "learned"
+    },
+    {
+        "id": "6f0e7b9d-25c8-4da8-90ae-9d06e649a1c5",
+        "word": "public school",
+        "persian": "مدرسه دولتی",
+        "definition": "The term \"public school\" refers to a school that is funded and operated by the government, making it free or heavily subsidized for students to attend. These schools are generally open to all children residing within a specific geographic area, regardless of their socioeconomic status.\n\nSynonyms: state school, government school, comprehensive school (in some contexts).\n",
+        "exampleA": "She attended public school from kindergarten through twelfth grade.",
+        "exampleB": "Funding for public school systems is often a topic of heated debate.",
+        "exampleC": "Many families choose public school because of its accessibility and affordability.",
+        "status": "learned"
+    },
+    {
+        "id": "35b777dd-870a-4b19-afb2-50639c8a6139",
+        "word": "relatively",
+        "persian": "\"نسبتا\"، \"به طور نسبی\" یا \"تا حدودی\" معادل‌های مناسبی برای کلمه relatively هستند. انتخاب بهترین معادل بستگی به متن دارد.\n",
+        "definition": "\"Relatively\" means in relation, comparison, or proportion to something else. It indicates that a statement is true only to a certain degree or within a specific context, and may not be universally applicable or absolutely true. It's used to suggest a limited or qualified sense of a term.\n\nSynonyms: comparatively, somewhat, fairly, moderately, quite.\n",
+        "exampleA": "The cost of living here is relatively low compared to other major cities.",
+        "exampleB": "Her performance was relatively strong, but there's still room for improvement.",
+        "exampleC": "The project was completed relatively quickly, considering the complexity of the task.",
+        "status": ""
+    },
+    {
+        "id": "b95adf9b-8c79-4352-a14c-ef21f4d6f53f",
+        "word": "relevant",
+        "persian": "مربوط،مناسب ،وابسته ،مطابق ،وارد",
+        "definition": "\"Relevant\" means closely connected or appropriate to the matter at hand. Something is relevant if it relates to the current topic, situation, or problem and is therefore helpful or important in understanding it or making a decision about it.\n\nSynonyms: pertinent, applicable, germane, apropos, related.\n",
+        "exampleA": "The evidence presented was not relevant to the case.",
+        "exampleB": "Please only include information that is relevant to the discussion.",
+        "exampleC": "Staying up-to-date with relevant industry news is crucial for career growth.",
+        "status": "learned"
+    },
+    {
+        "id": "774a2e2c-7d5f-472e-a3d4-b7572e2aac51",
+        "word": "research",
+        "persian": "\"تحقیق\" رایج‌ترین و مستقیم‌ترین ترجمه برای کلمه \"research\" است. بسته به زمینه، می‌توان از کلماتی مانند \"پژوهش\"، \"بررسی\" یا \"مطالعه\" نیز استفاده کرد.\n",
+        "definition": "Research is a systematic investigation into a subject or problem in order to discover or revise facts, theories, applications, etc. It involves careful study and analysis of a topic, often using experiments or surveys, to gain a deeper understanding and contribute new knowledge to a field.\n\nSynonyms: investigation, inquiry, study, exploration, analysis.\n",
+        "exampleA": "The team conducted extensive research on the effects of climate change.",
+        "exampleB": "Her research focused on developing new cancer treatments.",
+        "exampleC": "Further research is needed to fully understand the phenomenon.",
+        "status": ""
+    },
+    {
+        "id": "65ff8f32-2206-4f4b-9937-352329df3b62",
+        "word": "resources",
+        "persian": "بسته به متن، \"resources\" می‌تونه به منابع، امکانات، دارایی‌ها یا ذخایر ترجمه بشه.\n",
+        "definition": "\"Resources\" refer to anything that can be used to create something, fulfill a need, or achieve a goal. These can be tangible items like raw materials, equipment, or money, or intangible assets like skills, knowledge, time, or relationships. Effectively managing and utilizing resources is crucial for success in various aspects of life and business.\n\nSynonyms: assets, supplies, materials, capital, means\n",
+        "exampleA": "The company's success depends on efficient allocation of resources.",
+        "exampleB": "We need to conserve our natural resources for future generations.",
+        "exampleC": "The library provides valuable resources for students and researchers.",
+        "status": ""
+    },
+    {
+        "id": "59da25e0-49a0-4863-9c43-fa417762eac1",
+        "word": "results",
+        "persian": "\"نتایج\" یا \"دست‌آوردها\" بسته به متن و مفهوم مورد نظر.\n",
+        "definition": "\"Results\" refer to the outcome, effect, or consequence of a particular action, process, or event. It's the measurable or observable endpoint achieved after something has been done.\n\nSynonyms: Outcome, consequence, effect, product, conclusion, achievement.\n",
+        "exampleA": "The results of the experiment were inconclusive.",
+        "exampleB": "We are eagerly awaiting the results of the election.",
+        "exampleC": "Despite their best efforts, the results were disappointing.",
+        "status": ""
+    },
+    {
+        "id": "486973e6-2f55-422c-ba65-f6f5446f0314",
+        "word": "review",
+        "persian": "معنی review بستگی به متن داره، اما معمولاً به این معانی ترجمه میشه:\n\n   بررسی: وقتی که منظور ارزیابی و تحلیل چیزی باشه.\n   بازبینی: وقتی که منظور نگاه دوباره به چیزی برای اصلاح یا بهبود باشه.\n   نقد (کردن): وقتی که منظور نوشتن نظر و ارزیابی درباره یک اثر هنری، کتاب یا فیلم باشه.\n   مرور: وقتی که منظور یادآوری و مطالعه دوباره یک مطلب باشه.\n",
+        "definition": "A review is a critical assessment of something, such as a book, movie, play, product, or service, providing an opinion or judgment about its quality, worth, or suitability. It often summarizes key aspects and offers recommendations.\n\nSynonyms: critique, analysis, evaluation, assessment, commentary.\n",
+        "exampleA": "The customer left a glowing review of the restaurant.",
+        "exampleB": "I need to review the contract before signing it.",
+        "exampleC": "The movie received a mixed review from critics.",
+        "status": ""
+    },
+    {
+        "id": "9fa04f47-fee1-4067-b762-f45c2cfcd3b3",
+        "word": "revise",
+        "persian": "اصلاح کردن، تجدید نظر کردن",
+        "definition": "To revise means to carefully examine and improve something, typically a piece of writing or a plan, by making corrections or changes. It's about refining and perfecting the original work to better achieve its intended purpose or meet a higher standard.\n\nSynonyms: edit, amend, alter, modify, rework.\n",
+        "exampleA": "The author will revise the manuscript before submitting it to the publisher.",
+        "exampleB": "Please revise your essay to include more specific examples.",
+        "exampleC": "We need to revise our budget to account for the unexpected expenses.",
+        "status": "learned"
+    },
+    {
+        "id": "98a41971-9fa8-4512-8668-65ef116ba7c7",
+        "word": "scholarship",
+        "persian": "دانش ،کمک هزينه دانشجويى",
+        "definition": "A scholarship is financial aid awarded to a student to help them pursue their education. It's typically based on academic achievement, talent, need, or a combination of factors and doesn't have to be repaid. Scholarships are a valuable resource for students seeking to offset the costs of tuition, books, and other educational expenses.\n\nSynonyms: grant, fellowship, bursary, award, funding.\n",
+        "exampleA": "She received a scholarship to study at Oxford University.",
+        "exampleB": "Many students rely on scholarships to help pay for college.",
+        "exampleC": "The foundation offers scholarships to students pursuing careers in medicine.",
+        "status": "learned"
+    },
+    {
+        "id": "f1be7982-2536-4502-bfc2-b8913a9ea39f",
+        "word": "scope",
+        "persian": "\"Scope\" بسته به متن می‌تونه به \"دامنه\"، \"محدوده\"، \"گستره\" یا \"حوزه\" ترجمه بشه. انتخاب دقیق‌ترین معادل به معنی و کاربردش در جمله بستگی داره.\n",
+        "definition": "\"Scope\" refers to the extent or range of something, encompassing all that it includes, covers, or deals with. It defines the boundaries and limitations within which something operates, exists, or is relevant.\n\nSynonyms: extent, range, reach, breadth, compass, magnitude\n",
+        "exampleA": "The scope of the project was much larger than initially anticipated.",
+        "exampleB": "This policy falls outside the scope of our current regulations.",
+        "exampleC": "We need to narrow the scope of our research to make it more manageable.",
+        "status": ""
+    },
+    {
+        "id": "b016ad4a-a477-449f-9b21-c8d9110499e8",
+        "word": "secondary school",
+        "persian": "\"مدرسه راهنمایی\" یا \"دبیرستان\" بسته به نظام آموزشی مورد نظر.\n",
+        "definition": "\"Secondary school\" refers to the educational stage following primary school, designed for adolescents and typically encompassing grades 7-12 (though this can vary by country and system). It's where students receive a more specialized and comprehensive education, preparing them for higher education or vocational training.\n\nSynonyms: high school, grammar school, lyceum, senior school\n",
+        "exampleA": "She excelled in all subjects throughout her secondary school years.",
+        "exampleB": "The transition from primary to secondary school can be challenging for some students.",
+        "exampleC": "Our secondary school offers a wide range of extracurricular activities.",
+        "status": ""
+    },
+    {
+        "id": "e8eab141-db0a-4a60-8011-cee466a66199",
+        "word": "senior",
+        "persian": "سالمند،بزرگتر،مهتر،ارشد،بالاتر،بالارتبه ،قديمى",
+        "definition": "\"Senior\" generally refers to someone who is of a higher rank, longer experience, or greater age compared to others within a particular context. It often denotes authority, expertise, or a more advanced stage of development. For example, it can describe an older person, a high-ranking employee, or a student in their final year of school.\n\nSynonyms: Elder, Veteran, Superior, Experienced, Advanced.\n",
+        "exampleA": "The senior partner at the law firm offered valuable mentorship to the new associates.",
+        "exampleB": "My grandfather is a senior citizen and enjoys spending his afternoons gardening.",
+        "exampleC": "The senior class planned a memorable trip to celebrate their upcoming graduation.",
+        "status": "learned"
+    },
+    {
+        "id": "12a0d752-7380-447e-929e-c872566bf7fe",
+        "word": "single-sex",
+        "persian": "تک جنسیتی",
+        "definition": "\"Single-sex\" refers to environments, institutions, or activities that are exclusively for either males or females, not both. This typically applies to schools, clubs, or sometimes even social events where membership or participation is limited to one gender.\nSynonyms: same-sex, all-male, all-female, gender-segregated, sex-exclusive\n",
+        "exampleA": "The debate over single-sex schools continues to spark controversy.",
+        "exampleB": "She attended a single-sex boarding school in Switzerland.",
+        "exampleC": "Researchers are studying the impact of single-sex classrooms on academic performance.",
+        "status": "learned"
+    },
+    {
+        "id": "397846fe-e0c6-4b77-82da-ab03aec8d1b5",
+        "word": "sources",
+        "persian": "بسته به متن، \"sources\" می‌تونه به معانی مختلفی مثل «منابع»، «مأخذ»، «منشأ» یا «سرچشمه‌ها» ترجمه بشه. انتخاب دقیق‌ترین ترجمه به بافت جمله بستگی داره.\n",
+        "definition": "\"Sources\" refer to the origins from which information or materials are obtained. They are the foundation upon which knowledge, narratives, or creations are built, providing evidence, data, or inspiration for understanding a topic or creating something new. Think of them as the 'where' your information comes from.\n\nSynonyms: origins, resources, foundations, bases, authorities\n",
+        "exampleA": "The historian consulted a variety of sources to verify the accuracy of her claims.",
+        "exampleB": "Renewable energy sources are becoming increasingly important in the fight against climate change.",
+        "exampleC": "The journalist refused to reveal his sources to protect their anonymity.",
+        "status": ""
+    },
+    {
+        "id": "6c6947aa-90ba-4f86-9d19-f0bfd84cfd47",
+        "word": "struggle",
+        "persian": "تقلا کردن، کوشش کردن، دست و پنجه نرم کردن",
+        "definition": "\"Struggle\" refers to a forceful or violent effort to get free of restraint or resistance, or a difficult and prolonged effort to achieve something. It implies hardship, conflict, and persistence in the face of adversity.\n\nSynonyms: battle, conflict, fight, labor, strive.\n",
+        "exampleA": "struggle for survival, struggle against prolonged recession, struggle to free yourself.",
+        "exampleB": "Many families struggle to make ends meet in this economy.",
+        "exampleC": "He had to struggle against the urge to give up.",
+        "status": "learned"
+    },
+    {
+        "id": "ab98e78a-d0d8-4e09-835c-ef18840d2619",
+        "word": "studious",
+        "persian": "درس خوان و ساعی",
+        "definition": "\"Studious\" describes someone who is devoted to learning and spends a significant amount of time reading, studying, and pursuing knowledge. It implies a diligence and focus on academic or intellectual pursuits, often with the aim of understanding a subject deeply.\n\nSynonyms: scholarly, academic, diligent, assiduous, bookish.\n",
+        "exampleA": "The studious student spent hours in the library preparing for the exam.",
+        "exampleB": "Her studious approach to learning ensured she always achieved excellent grades.",
+        "exampleC": "He was a studious observer of human behavior, carefully noting every nuance.",
+        "status": "learned"
+    },
+    {
+        "id": "ff68f2e5-7575-4580-bc94-eae1f27fae0e",
+        "word": "syllabus",
+        "persian": "سرفصل دروس",
+        "definition": "A syllabus is essentially a roadmap for a course, providing students with a comprehensive overview of what to expect. It typically outlines the course's objectives, learning outcomes, required materials, grading policies, schedule of topics, and instructor contact information. Think of it as a contract between the instructor and the student, setting clear expectations for the semester.\n\nSynonyms: course outline, course description, prospectus, program of study\n",
+        "exampleA": "The professor distributed the syllabus on the first day of class.",
+        "exampleB": "I checked the syllabus to see the grading breakdown for the course.",
+        "exampleC": "The syllabus outlines the required readings and assignments for the semester.",
+        "status": "learned"
+    },
+    {
+        "id": "7c36337f-eda2-4935-b2d7-81c7e5195213",
+        "word": "take (a course)",
+        "persian": "\"Take a course\" بسته به بافتار می‌تونه معانی مختلفی داشته باشه، اما معمولاً به این صورت ترجمه میشه:\n\n   شرکت کردن در یک دوره: برای وقتی که منظور ثبت‌نام و حضور در یک کلاس یا دوره آموزشی باشه.\n   گذراندن یک دوره: وقتی که منظور تمام کردن و به پایان رسوندن یک دوره آموزشیه.\n   برداشتن یک دوره: بیشتر در محیط‌های دانشگاهی استفاده میشه و به معنی انتخاب و ثبت‌نام یک واحد درسیه.\n",
+        "definition": "To \"take a course\" means to enroll in and participate in a class or series of classes, usually for educational or training purposes. It implies attending lectures, completing assignments, and often taking exams to learn a specific subject or skill.\n\nSynonyms: enroll in, attend, participate in, study, undertake.\n",
+        "exampleA": "I plan to take a course in astrophysics next semester.",
+        "exampleB": "She decided to take a course online to improve her coding skills.",
+        "exampleC": "Did you take a course in first aid when you were younger?",
+        "status": ""
+    },
+    {
+        "id": "6b7e4f3b-0516-4d5b-9a39-c94a31c52562",
+        "word": "take a course",
+        "persian": "واحد درسی گرفتن",
+        "definition": "\"Take a course\" means to formally enroll in and participate in a structured learning program, typically offered by an educational institution or organization, with the aim of acquiring new knowledge or skills in a specific subject.\n\nSynonyms: enroll in, sign up for, attend, participate in, study.\n",
+        "exampleA": "I decided to take a course in web development to improve my skills.",
+        "exampleB": "She wants to take a course on Italian cooking next semester.",
+        "exampleC": "If you're interested in photography, you should take a course at the community college.",
+        "status": "learned"
+    },
+    {
+        "id": "06224c27-bbdc-4f1d-981d-0756d1e1750e",
+        "word": "task",
+        "persian": "بسته به متن، \"task\" می‌تونه به \"وظیفه\"، \"کار\"، \"تکلیف\"، یا \"مأموریت\" ترجمه بشه.\n",
+        "definition": "A task is a piece of work that needs to be done or undertaken, often as part of a larger project or assignment. It represents a specific and definable action that contributes to achieving a particular goal.\n\nSynonyms: assignment, chore, job, duty, undertaking.\n",
+        "exampleA": "Completing this task requires focus and dedication.",
+        "exampleB": "The assigned task was more challenging than expected.",
+        "exampleC": "He delegated the task to a more experienced team member.",
+        "status": ""
+    },
+    {
+        "id": "52d8617c-17be-468c-8a65-8adcc4a63fca",
+        "word": "theory",
+        "persian": "\"تئوری\" در فارسی به صورت‌های \"نظریه\"، \"فرضیه\" یا \"تئوری\" ترجمه می‌شود. انتخاب دقیق‌ترین معادل بستگی به متن و کاربرد آن دارد.\n",
+        "definition": "A theory is a well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experimentation. It is not a guess or a hunch, but rather a comprehensive framework that can be used to make predictions about future events and is subject to ongoing testing and refinement.\n\nSynonyms: Hypothesis, Model, Framework, Explanation, Principle.\n",
+        "exampleA": "The big bang is a widely accepted theory about the origin of the universe.",
+        "exampleB": "Her theory about the missing keys involved a mischievous cat.",
+        "exampleC": "Even though it's just a theory, it provides a framework for understanding the data.",
+        "status": ""
+    },
+    {
+        "id": "7d1d9cdf-10b8-41ef-b551-2a7a88640ac3",
+        "word": "thesis",
+        "persian": "\"Thesis\" در فارسی معمولاً به \"پایان‌نامه\"، \"رساله\" یا \"تز\" ترجمه می‌شود. بسته به متن و مقطع تحصیلی، یکی از این معادل‌ها مناسب‌تر خواهد بود.\n",
+        "definition": "A thesis is a statement or theory that is put forward as a premise to be maintained or proved. It is the central argument or main point that a writer or speaker intends to support and defend in a piece of writing or presentation. It's essentially the core idea that everything else revolves around.\n\nSynonyms: proposition, hypothesis, argument, contention, premise, assertion.\n",
+        "exampleA": "The student's thesis explored the impact of social media on political polarization.",
+        "exampleB": "Her master's thesis was a comprehensive analysis of Victorian literature.",
+        "exampleC": "The central thesis of the book argues that technological advancements are reshaping human consciousness.",
+        "status": ""
+    },
+    {
+        "id": "964ba659-3610-48ec-bbfd-c5519edc651f",
+        "word": "topic",
+        "persian": "موضوع",
+        "definition": "A topic is the subject or main idea that is being discussed, written about, or considered. It's the central theme that provides focus and direction to a conversation, text, or study.\n\nSynonyms: subject, theme, issue, matter, point.\n",
+        "exampleA": "The main topic of the discussion was the upcoming budget.",
+        "exampleB": "She is a leading expert on the topic of climate change.",
+        "exampleC": "Let's change the topic; this conversation is becoming uncomfortable.",
+        "status": "learned"
+    },
+    {
+        "id": "476cd8e6-efc6-4b68-8ff2-95855ad6b9c9",
+        "word": "tutor",
+        "persian": "معلم خصوصى ،استاد راهنما،",
+        "definition": "A tutor is someone who provides individualized instruction and academic support to a student, typically outside of a formal classroom setting. Their goal is to help the student improve their understanding of a subject, develop study skills, and achieve academic success through personalized guidance and reinforcement of concepts.\n\nSynonyms: instructor, mentor, coach, teacher, guide.\n",
+        "exampleA": "I hired a tutor to help me with calculus.",
+        "exampleB": "The writing center offers a free tutor for all students.",
+        "exampleC": "She worked as a math tutor during the summer to earn extra money.",
+        "status": "learned"
+    },
+    {
+        "id": "a8a79d4c-7681-41d9-ba95-168fc1280442",
+        "word": "university",
+        "persian": "دانشگاه\n",
+        "definition": "A university is an institution of higher learning that provides undergraduate and graduate education, conducts research, and often offers professional training. It's a complex organization focused on the advancement and dissemination of knowledge across a wide range of academic disciplines, culminating in the awarding of degrees.\n\nSynonyms: college, academy, institute, higher education institution, tertiary institution\n",
+        "exampleA": "She decided to attend the university after graduating high school.",
+        "exampleB": "The university offers a wide range of courses in the arts and sciences.",
+        "exampleC": "Research is a major focus for many faculty members at the university.",
+        "status": ""
+    },
+    {
+        "id": "399e0378-d975-4e43-8cad-dfb517d17fc0",
+        "word": "work-related",
+        "persian": "\"مرتبط با کار\" یا \"کاری\"\n",
+        "definition": "\"Work-related\" simply means connected to, caused by, or associated with one's job or employment. It encompasses anything that stems from or impacts the activities, responsibilities, or environment of the workplace.\n\nSynonyms: job-related, occupational, employment-related, professional.\n",
+        "exampleA": "The company picnic is considered a work-related event, so attendance is encouraged.",
+        "exampleB": "Stress is a common problem stemming from work-related issues.",
+        "exampleC": "She injured her back in a work-related accident.",
+        "status": ""
+    }
+]

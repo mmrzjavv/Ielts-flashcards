@@ -1,0 +1,902 @@
+[
+    {
+        "id": "f28f3a1d-444a-4ee4-a1d1-f3caa1206fa1",
+        "word": "access",
+        "persian": "\"Access\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: دسترسی، ورود، امکان استفاده و دسترسی داشتن.\n",
+        "definition": "\"Access\" refers to the ability or permission to enter, approach, or use something, whether it's a physical space, information, a service, or a system. It implies having the right or opportunity to get to or make use of something that might otherwise be restricted.\n\nSynonyms: entry, admittance, approach, availability, permission.\n",
+        "exampleA": "I need to access my bank account online.",
+        "exampleB": "The library provides free access to computers and the internet.",
+        "exampleC": "Only authorized personnel have access to the restricted area.",
+        "status": ""
+    },
+    {
+        "id": "5580dc77-f29a-4bdb-8e84-41a89cb22501",
+        "word": "access sth",
+        "persian": "دسترسی یافتن به چیزی",
+        "definition": "To \"access something\" means to gain entry to, or to be able to use or obtain something. It implies having the permission, right, or ability to get to and utilize that thing, whether it's information, a place, or a resource.\n\nSynonyms: Obtain, reach, attain, retrieve, connect to.\n",
+        "exampleA": "Users can access their voice mail remotely.",
+        "exampleB": "You need a password to access the system.",
+        "exampleC": "The hikers were able to access fresh water from a nearby stream.",
+        "status": "learned"
+    },
+    {
+        "id": "1098765a-3ee0-4151-a38b-462bac229849",
+        "word": "affect",
+        "persian": "\"Affect\" بسته به نقشی که در جمله داره می‌تونه معانی مختلفی داشته باشه. اگر فعل باشه، معمولاً به معنی \"تاثیر گذاشتن\"، \"اثر کردن\" یا \"متاثر کردن\" است. اگر اسم باشه، معمولاً در روانشناسی به معنی \"هیجان\"، \"احساس\" یا \"عاطفه\" به کار می‌رود.\n",
+        "definition": "\"Affect\" primarily means to have an influence on something or someone, causing a change or impact. It refers to the act of producing an effect.\n Synonyms: influence, impact, alter, modify, change.\n",
+        "exampleA": "The lack of sleep can affect your mood and concentration.",
+        "exampleB": "How will the new policy affect our sales?",
+        "exampleC": "The constant rain began to affect the crops.",
+        "status": ""
+    },
+    {
+        "id": "8d600e99-4d30-4542-9aa6-376fbd60222f",
+        "word": "alternative",
+        "persian": "\"جایگزین\"، \"گزینه دیگر\" یا \"بدیل\".\n",
+        "definition": "\"Alternative\" refers to something that is different from the usual, conventional, or established way of doing things; it's a choice or option that exists outside the mainstream. It suggests a departure from what is generally accepted or practiced.\n\nSynonyms: substitute, option, choice, other, different, unconventional.\n",
+        "exampleA": "We need to consider an alternative solution to this problem.",
+        "exampleB": "Solar power is an alternative to fossil fuels.",
+        "exampleC": "Is there an alternative route we can take to avoid the traffic?",
+        "status": ""
+    },
+    {
+        "id": "b354fd5f-03f0-408f-9e56-8aa41a34187b",
+        "word": "artificial",
+        "persian": "مصنوعی",
+        "definition": "\"Artificial\" means something that is made or produced by humans, rather than occurring naturally. It suggests something is created to imitate or replace something natural, often lacking the authenticity or inherent qualities of the real thing. Synonyms include synthetic, manufactured, man-made, simulated, and fake.\n",
+        "exampleA": "The artificial sweetener tasted nothing like real sugar.",
+        "exampleB": "The museum displayed an artificial replica of the famous statue.",
+        "exampleC": "Her artificial smile couldn't hide her disappointment.",
+        "status": "learned"
+    },
+    {
+        "id": "f7ebf687-94c0-4975-8ec7-95c948da121a",
+        "word": "attention-grabbing",
+        "persian": "جالب توجه",
+        "definition": "\"Attention-grabbing\" describes something that immediately captures and holds someone's interest. It possesses qualities that make it stand out and demand to be noticed, whether it's through novelty, excitement, or a compelling message. It's designed to draw focus and prevent being overlooked.\n\nSynonyms: captivating, eye-catching, striking, arresting, compelling.\n",
+        "exampleA": "The circus performer's entrance was truly attention-grabbing.",
+        "exampleB": "She designed an attention-grabbing advertisement that increased sales significantly.",
+        "exampleC": "He started his speech with an attention-grabbing anecdote to engage the audience.",
+        "status": "learned"
+    },
+    {
+        "id": "b42410bc-8d7b-44e3-82a6-2aebfa9583c4",
+        "word": "attitude",
+        "persian": "نگرش",
+        "definition": "Attitude refers to a settled way of thinking or feeling about someone or something, typically one that is reflected in a person's behavior. It's essentially a predisposition to respond positively or negatively to a particular object, person, place, thing, or event. It can be positive, negative, or neutral and significantly influences how we perceive and interact with the world around us.\n\nSynonyms: disposition, outlook, perspective, mindset, viewpoint.\n",
+        "exampleA": "Her positive attitude was contagious.",
+        "exampleB": "He needs to change his attitude if he wants to succeed.",
+        "exampleC": "The company's attitude towards customer service is excellent.",
+        "status": "learned"
+    },
+    {
+        "id": "10d98043-5a19-4200-ae4e-a3d8c5da5479",
+        "word": "author",
+        "persian": "مؤلف",
+        "definition": "An author is the originator or creator of a written work, such as a book, article, poem, or script. They are the individuals responsible for conceiving the ideas, conducting research (if necessary), and crafting the language and structure of the work. Essentially, they are the person who brought the piece of writing into existence.\n\nSynonyms: writer, creator, composer, originator, wordsmith.\n",
+        "exampleA": "The author signed copies of her new book at the bookstore.",
+        "exampleB": "The author's writing style is known for its vivid descriptions and complex characters.",
+        "exampleC": "We need to cite the author of this research paper in our bibliography.",
+        "status": "learned"
+    },
+    {
+        "id": "654a34b5-8df2-4f51-9ebc-af4ca04e4e56",
+        "word": "bias",
+        "persian": "تعصب، تمایل به یک طرف",
+        "definition": "Bias refers to a prejudice or inclination for or against something, someone, or a group, often based on preconceived notions, personal experiences, or cultural influences. It can manifest as favoritism, discrimination, or a lack of impartiality in judgment, opinions, or decisions, leading to unfair or skewed perspectives.\n\nSynonyms: prejudice, partiality, leaning, slant, predisposition.\n",
+        "exampleA": "The study was criticized for its inherent bias towards the pharmaceutical industry.",
+        "exampleB": "It's important to be aware of your own biases when evaluating information.",
+        "exampleC": "The algorithm showed a clear bias in favor of male applicants.",
+        "status": "seen"
+    },
+    {
+        "id": "bbfa14d7-6537-461a-b11b-135500d8728b",
+        "word": "biased",
+        "persian": "به شکل جانبدارانه عمل کردن",
+        "definition": "\"Biased\" means unfairly prejudiced for or against someone or something. It implies a lack of neutrality and an inclination towards a particular viewpoint or outcome, often based on personal opinions, beliefs, or experiences rather than objective facts.\n\nSynonyms: prejudiced, partial, unfair, slanted, skewed.\n",
+        "exampleA": "The study was criticized for being biased towards the pharmaceutical company that funded it.",
+        "exampleB": "The news report presented a biased view of the events, omitting key information.",
+        "exampleC": "It's important to recognize that everyone has biases, even if they are unconscious.",
+        "status": "seen"
+    },
+    {
+        "id": "f07d15b8-8de5-4c5c-9a1a-c89e3f12d0c8",
+        "word": "broadcast",
+        "persian": "پخش کردن در تلویزیون",
+        "definition": "To broadcast means to transmit information, news, or entertainment to a wide audience via radio, television, or the internet. It involves disseminating content from a single source to many recipients simultaneously. Essentially, it's making information widely available.\n\nSynonyms: air, transmit, disseminate, relay, publicize.\n",
+        "exampleA": "The news station will broadcast the president's speech live.",
+        "exampleB": "The radio station used a powerful antenna to broadcast its signal across the region.",
+        "exampleC": "Many streaming services broadcast sporting events and concerts.",
+        "status": "learned"
+    },
+    {
+        "id": "0286e177-ff2d-4eb1-bd9a-b71c0589b9c8",
+        "word": "celebrity",
+        "persian": "شخص نامدار، شهرت",
+        "definition": "A celebrity is a person who is widely recognized and draws public attention, often due to their talent, achievements, or prominence in a particular field, such as entertainment, sports, or politics. They are generally well-known to a significant portion of the population and are often the subject of media coverage and public interest.\n\nSynonyms: star, luminary, VIP, icon, public figure.\n",
+        "exampleA": "He's a national celebrity.",
+        "exampleB": "The celebrity was swarmed by paparazzi as they exited the restaurant.",
+        "exampleC": "She achieved celebrity status after her book became a bestseller.",
+        "status": "learned"
+    },
+    {
+        "id": "710469e0-e4bd-4314-995c-8525004c58cc",
+        "word": "censor",
+        "persian": "سانسور کردن",
+        "definition": "To censor means to examine and suppress or delete anything considered objectionable. This is often done by governments, organizations, or individuals to control information, limit expression, or maintain specific ideological viewpoints. The aim is usually to prevent the spread of ideas, images, or other content deemed harmful, immoral, or subversive.\n\nSynonyms: suppress, redact, expurgate, sanitize, filter.\n",
+        "exampleA": "The book was heavily censored when first published.",
+        "exampleB": "The government tried to censor the news reports coming out of the conflict zone.",
+        "exampleC": "Some argue that social media platforms censor opinions they disagree with.",
+        "status": "learned"
+    },
+    {
+        "id": "f210e0e7-45a3-4d00-a798-05f70f4b09bc",
+        "word": "censorship",
+        "persian": "سانسور",
+        "definition": "Censorship is the suppression or prohibition of speech, public communication, or other information that may be considered objectionable, harmful, sensitive, or politically incorrect as determined by governing bodies, media outlets, or other controlling groups. It involves restricting access to content based on the belief that it is dangerous, immoral, or a threat to the established order.\n\nSynonyms: suppression, restriction, control, proscription, embargo.\n",
+        "exampleA": "The government's strict censorship of the internet limits access to information.",
+        "exampleB": "Authors protested the publisher's censorship of their work.",
+        "exampleC": "Some argue that content moderation on social media platforms is a form of censorship.",
+        "status": "learned"
+    },
+    {
+        "id": "5e79b7b8-2481-4c0d-b821-1fa88c947f23",
+        "word": "challenge",
+        "persian": "\"Challenge\" بسته به متن می‌تونه به صورت‌های مختلفی ترجمه بشه، اما رایج‌ترین ترجمه‌ها عبارتند از: چالش، مسئله، معضل، یا به مبارزه طلبیدن.\n",
+        "definition": "A challenge is a situation presenting difficulty or a test of one's abilities, resources, or strength. It can be an obstacle to overcome, a task to achieve, or an invitation to compete or improve. It often implies an opportunity for growth or development, even in the face of adversity.\n\nSynonyms: difficulty, obstacle, test, problem, trial.\n",
+        "exampleA": "The company faces a significant challenge in adapting to the changing market.",
+        "exampleB": "Climbing Mount Everest is a physical and mental challenge.",
+        "exampleC": "I challenge you to a game of chess.",
+        "status": ""
+    },
+    {
+        "id": "6fecc575-0ade-4a05-9a06-0509bcb03f1f",
+        "word": "control",
+        "persian": "\"کنترل\" در فارسی می‌تواند به معانی مختلفی مانند \"مهار\"، \"نظارت\"، \"بازرسی\"، \"اداره\" یا \"تسلط\" به کار رود، بسته به متن و موقعیتی که در آن استفاده می‌شود.\n",
+        "definition": "\"Control\" refers to the power to influence or direct people's behavior or the course of events. It implies having authority or the ability to regulate, restrain, or manage something. Effectively, it's about dictating what happens and ensuring things proceed according to a plan or desire.\n\nSynonyms: command, authority, dominance, management, regulation.\n",
+        "exampleA": "The pilot struggled to regain control of the plane during the storm.",
+        "exampleB": "The government needs to control inflation to stabilize the economy.",
+        "exampleC": "She learned to control her anger through meditation and mindfulness.",
+        "status": ""
+    },
+    {
+        "id": "9761d1b3-28ba-42cc-9f24-2719eaa0d8d9",
+        "word": "controversial",
+        "persian": "بحث برانگیز",
+        "definition": "\"Controversial\" describes something that causes strong disagreement or public debate. It typically involves conflicting opinions and perspectives, often touching on sensitive or divisive topics. A controversial issue is one that sparks heated discussions and often remains unresolved due to fundamental differences in viewpoints.\n\nSynonyms: disputable, debatable, contentious, polemical.\n",
+        "exampleA": "The politician's stance on immigration was highly controversial.",
+        "exampleB": "Whether pineapple belongs on pizza remains a controversial topic.",
+        "exampleC": "The artist's latest sculpture sparked a controversial debate about its meaning.",
+        "status": "learned"
+    },
+    {
+        "id": "ccc1c8e8-1d55-4db0-8fb4-66d28f1d556b",
+        "word": "credibility",
+        "persian": "\"Credibility\" در فارسی به معنای \"اعتبار\"، \"مورد اعتماد بودن\" یا \"وثوق\" است.\n",
+        "definition": "Credibility refers to the quality of being believable or trustworthy. It's the perception that someone or something is honest, competent, and reliable, making others likely to accept their claims or actions as truthful and valid. A person or institution with high credibility is seen as a reliable source of information and a trustworthy authority.\n\nSynonyms: trustworthiness, reliability, believability, integrity, reputability.\n",
+        "exampleA": "The politician's credibility was damaged by the scandal.",
+        "exampleB": "Her extensive research lent credibility to her argument.",
+        "exampleC": "Establishing credibility is crucial for a new business.",
+        "status": ""
+    },
+    {
+        "id": "330573e6-02eb-4ef4-bc4d-0282fe23bbae",
+        "word": "current affairs",
+        "persian": "امور جاری، خبر روز",
+        "definition": "\"Current affairs\" refers to significant events happening in the world, particularly those concerning politics, economics, and social issues that are of general public interest and are occurring in the present or very recent past. Staying informed about current affairs is crucial for understanding the context of modern life and participating actively in civic discourse.\n\nSynonyms: News, current events, topical issues, world affairs.\n",
+        "exampleA": "She's very knowledgeable about current affairs.",
+        "exampleB": "The newspaper covers a wide range of current affairs topics.",
+        "exampleC": "Debates about current affairs are common in the political science club.",
+        "status": "seen"
+    },
+    {
+        "id": "b23a6a7c-dd1f-479c-8fda-4c93a30c1e9a",
+        "word": "distorted",
+        "persian": "مخدوش شده، از حالت اولیه خارج شده",
+        "definition": "\"Distorted\" means twisted, misshapen, or changed from its original or true form, often in a way that is unnatural or misleading. It implies a deviation from accuracy or reality, making something appear different than it actually is.\n\nSynonyms: warped, twisted, contorted, altered, misrepresented, falsified.\n",
+        "exampleA": "This report gives a somewhat distorted impression of what actually happened.",
+        "exampleB": "The funhouse mirror created a distorted image of my reflection.",
+        "exampleC": "The politician's words were distorted by the opposing party to damage his reputation.",
+        "status": "learned"
+    },
+    {
+        "id": "687bd8bd-8040-49bb-b188-72bff45fdf0b",
+        "word": "editor",
+        "persian": "ویراستار",
+        "definition": "An editor is a person who prepares written material for publication by correcting, revising, and arranging content. They ensure clarity, accuracy, consistency, and adherence to style guidelines, ultimately making the work more polished and effective for its intended audience.\n\nSynonyms: reviser, proofreader, copyeditor, compiler, curator.\n",
+        "exampleA": "The editor meticulously reviewed the manuscript for errors.",
+        "exampleB": "She works as an editor for a major publishing house.",
+        "exampleC": "He used the online code editor to write the program.",
+        "status": "learned"
+    },
+    {
+        "id": "01dd5a02-cb73-406e-bc0b-61a3250290de",
+        "word": "entertaining",
+        "persian": "«سرگرم‌کننده» یا «جذاب». بسته به متن، می‌تونید از این دو کلمه استفاده کنید.\n",
+        "definition": "\"Entertaining\" describes something that is amusing, interesting, or enjoyable, captivating the attention and providing pleasure or amusement to an audience or individual. It suggests a quality that holds one's interest and provides a pleasant diversion.\n\nSynonyms: amusing, diverting, engaging, captivating, enjoyable, delightful.\n",
+        "exampleA": "The comedian's act was incredibly entertaining, keeping the audience laughing throughout the night.",
+        "exampleB": "Despite its serious subject matter, the film was surprisingly entertaining and thought-provoking.",
+        "exampleC": "Reading a good book is a relaxing and entertaining way to spend an afternoon.",
+        "status": ""
+    },
+    {
+        "id": "05cfbe60-5673-4c7e-a3a0-1bebc390555f",
+        "word": "exploit",
+        "persian": "بهره برداری کردن، استثمار کردن",
+        "definition": "To exploit means to take unfair advantage of someone or something for personal gain, often by using them or it in an unethical or selfish way. It implies leveraging vulnerabilities or weaknesses to maximize profit or benefit, disregarding the potential harm or negative consequences inflicted on the exploited party.\n\nSynonyms: utilize, manipulate, capitalize on, abuse, milk.\n",
+        "exampleA": "to exploit the country's resources. Laws exist to stop companies exploiting their employees.",
+        "exampleB": "Cybercriminals often exploit vulnerabilities in software to gain unauthorized access.",
+        "exampleC": "The company was criticized for exploiting its workers with low wages and poor conditions.",
+        "status": "seen"
+    },
+    {
+        "id": "5880ef1b-9eb4-41b7-8fe4-8718320886aa",
+        "word": "expose",
+        "persian": "افشا کردن، در معرض گذاشتن",
+        "definition": "To \"expose\" something means to reveal or uncover it, often something that was previously hidden, secret, or considered shameful. It can involve making information public, uncovering wrongdoing, or showing something in its true light, even if that light is unflattering. Exposing something often implies a deliberate act intended to bring something to light.\n\nSynonyms: Uncover, reveal, unveil, disclose, unmask, lay bare.\n",
+        "exampleA": "The report\t exposes\t the\t weaknesses\t of modern medical practice.",
+        "exampleB": "The journalist aimed to expose the corruption within the government.",
+        "exampleC": "Leaving the film in direct sunlight will expose it to damage.",
+        "status": "learned"
+    },
+    {
+        "id": "5fb5871c-ecac-46e2-a162-88d1f9c6181e",
+        "word": "exposé",
+        "persian": "افشاگری، پرده‌برداری، برملا کردن، فاش‌سازی\n",
+        "definition": "An exposé is a comprehensive and often shocking revelation of something discreditable, such as a crime, scandal, or corporate wrongdoing, that was previously concealed or unknown to the public. It often involves detailed investigation and aims to expose the truth to a wider audience, typically through journalism or other forms of media.\n\nSynonyms: Revelation, disclosure, uncovering, unmasking, report.\n",
+        "exampleA": "The journalist published a devastating exposé on the corporation's illegal activities.",
+        "exampleB": "The tell-all memoir turned out to be a scandalous exposé of the author's former colleagues.",
+        "exampleC": "The documentary promised to be a groundbreaking exposé of the city's corrupt political system.",
+        "status": ""
+    },
+    {
+        "id": "9b75568d-461f-4e96-b054-301609a2da70",
+        "word": "expose of sb/sth",
+        "persian": "داستان افشاگرانه در خصوص کسی یا چیزی",
+        "definition": "An \"expose of someone or something\" is a public revelation or unmasking of something scandalous, unethical, or illegal, often involving investigative journalism. It aims to uncover hidden truths and bring them to light, usually with the intention of informing the public and holding the person or entity accountable.\n\nSynonyms: revelation, exposé, disclosure, unveiling, uncovering, denunciation.\n",
+        "exampleA": "Today's newspaper contains a searing exposé of police corruption.",
+        "exampleB": "The documentary offered a shocking expose of the company's illegal activities.",
+        "exampleC": "Her article was an expose of the senator's corrupt dealings.",
+        "status": "learned"
+    },
+    {
+        "id": "3584f260-24d0-4f27-8161-e3164c66e61a",
+        "word": "exposure",
+        "persian": "افشا",
+        "definition": "Exposure refers to the condition of being subjected to something, often something harmful or unwelcome, or the act of revealing something that was previously hidden. It can also refer to the amount of contact one has with something, like sunlight or an idea. In a business context, it often means the extent to which a company is vulnerable to risk.\n\nSynonyms: vulnerability, revelation, contact, subjection, endangerment\n",
+        "exampleA": "The exposure of the politician's love affair forced him to resign.",
+        "exampleB": "Repeated exposure to the sun can damage your skin.",
+        "exampleC": "The company's stock price plummeted after the exposure of its fraudulent accounting practices.",
+        "status": "learned"
+    },
+    {
+        "id": "1c0fa935-0dfb-45e6-b176-f337579db196",
+        "word": "factual",
+        "persian": "مبتنی بر واقعیت",
+        "definition": "\"Factual\" means based on or consisting of facts; something that can be proven or verified as true. It describes information, statements, or accounts that are objective and not influenced by personal opinions, feelings, or interpretations.\n\nSynonyms: true, accurate, verifiable, objective, authentic, correct.\n",
+        "exampleA": "Try to keep your account of events as factual as possible.",
+        "exampleB": "The historian presented a factual account of the events leading up to the war.",
+        "exampleC": "While the movie was entertaining, it wasn't entirely factual.",
+        "status": "learned"
+    },
+    {
+        "id": "364c4e73-a051-42df-8cc1-ee1df6eb9858",
+        "word": "fame",
+        "persian": "شهرت",
+        "definition": "Fame refers to the state of being widely known and recognized by many people, typically due to achievements, notoriety, or talent. It implies a high level of public attention and recognition, often accompanied by admiration or interest.\n\nSynonyms: renown, celebrity, notoriety, popularity, prestige.\n",
+        "exampleA": "She achieved international fame after winning the gold medal.",
+        "exampleB": "The fleeting nature of fame is often discussed in celebrity interviews.",
+        "exampleC": "He sacrificed his privacy in his relentless pursuit of fame.",
+        "status": "learned"
+    },
+    {
+        "id": "53efe873-e742-4907-9287-d683d7264664",
+        "word": "free press",
+        "persian": "مطبوعات آزاد",
+        "definition": "A free press refers to a news media landscape where journalists and news organizations can report on events and express opinions without censorship, interference, or control from the government or other powerful entities. It is a cornerstone of a democratic society, enabling informed public discourse and holding those in power accountable.\n\nSynonyms: independent press, unfettered press, open press, unrestricted press\n",
+        "exampleA": "A free press is essential for a functioning democracy.",
+        "exampleB": "The government's attempts to control information sparked concerns about the future of the free press.",
+        "exampleC": "Organizations dedicated to protecting journalists advocate for the continued existence of a free press worldwide.",
+        "status": "learned"
+    },
+    {
+        "id": "e8b5c49e-3df2-4d08-b2eb-1d916a8af48e",
+        "word": "free press",
+        "persian": "\"رسانه آزاد\" یا \"آزادی مطبوعات\".\n",
+        "definition": "A free press refers to a news media environment where journalists and news organizations can report information without fear of censorship, government interference, or legal repercussions. It is considered essential for a functioning democracy, as it allows for the public to be informed, hold power accountable, and engage in open debate. A free press safeguards the public's right to know and fosters transparency.\n\nSynonyms: independent media, unfettered press, liberated media, unmuzzled press.\n",
+        "exampleA": "A free press is essential for a functioning democracy.",
+        "exampleB": "The government's actions were scrutinized by a free press.",
+        "exampleC": "Protecting the free press is crucial for maintaining transparency and accountability.",
+        "status": ""
+    },
+    {
+        "id": "d5aee0fd-e302-4502-85e4-75906ed8d4c8",
+        "word": "free press",
+        "persian": "مطبوعات آزاد",
+        "definition": "A free press refers to a news media environment where journalists and news organizations can report information without fear of censorship, government interference, or intimidation. It's a cornerstone of democratic societies, allowing for the open flow of information and holding power accountable. This freedom is crucial for public awareness and informed decision-making.\n\nSynonyms: independent media, unfettered press, liberated press, open press.\n",
+        "exampleA": "A free press is essential for a healthy democracy.",
+        "exampleB": "The government was criticized for attempting to silence the free press.",
+        "exampleC": "She dedicated her career to defending the principles of a free press.",
+        "status": "learned"
+    },
+    {
+        "id": "d71a093b-adc8-4159-a214-d0bfd479db50",
+        "word": "glamorous",
+        "persian": "\"Glamorous\" در فارسی معمولاً به صورت \"فریبنده\"، \"پر زرق و برق\"، \"جذاب و مجلل\" یا \"باشکوه\" ترجمه می‌شود که بستگی به متن مورد نظر دارد.\n",
+        "definition": "attractive in an exciting and special way",
+        "exampleA": "The movie star arrived at the premiere in a glamorous gown.",
+        "exampleB": "The penthouse suite offered a glamorous view of the city skyline.",
+        "exampleC": "She always dreamed of living a glamorous life filled with travel and adventure.",
+        "status": "seen"
+    },
+    {
+        "id": "f5ce76d6-815d-4b2d-99ca-19988dc88d23",
+        "word": "harsh attack on sb/sth",
+        "persian": "حمله تند وتیز به کسی",
+        "definition": "A harsh attack on someone or something refers to a severe and critical assault, whether verbal, written, or even physical, intended to cause significant damage or harm to the target. It implies a strong and often unjustified level of aggression in the criticism or action.\n\nSynonyms: scathing critique, vitriolic assault, blistering condemnation, fierce onslaught.\n",
+        "exampleA": "The senator launched a harsh attack on the president's economic policies.",
+        "exampleB": "Her article was a harsh attack on the company's environmental record.",
+        "exampleC": "The critic's review was a harsh attack on the director's latest film.",
+        "status": "learned"
+    },
+    {
+        "id": "855b969f-efe3-46dd-9b4a-3143efd654f5",
+        "word": "ideology",
+        "persian": "ایدئولوژی، طرز تفکر",
+        "definition": "Ideology is a system of ideas and ideals, especially one which forms the basis of economic or political theory and policy. It's essentially a comprehensive worldview that shapes how individuals and groups understand and interact with the world, often influencing their beliefs, values, and actions.\n\nSynonyms: belief system, philosophy, doctrine, dogma, political program\n",
+        "exampleA": "The candidate's speech was heavily influenced by a specific political ideology.",
+        "exampleB": "Different religions often have conflicting ideologies about the nature of good and evil.",
+        "exampleC": "The company's core ideology is centered around sustainability and environmental responsibility.",
+        "status": "learned"
+    },
+    {
+        "id": "52b63e9c-7c06-4b86-b58d-4cf24ebf24c5",
+        "word": "ill-informed",
+        "persian": "ناآگاه، بدآگاه",
+        "definition": "\"Ill-informed\" means lacking knowledge or information about a particular subject or topic, often leading to incorrect assumptions or misguided opinions. It suggests a state of being poorly or inadequately educated on a matter.\n\nSynonyms: uninformed, uneducated, misinformed, ignorant, clueless\n",
+        "exampleA": "His ill-informed opinions on climate change were quickly dismissed.",
+        "exampleB": "The article was full of ill-informed statements and lacked proper research.",
+        "exampleC": "She made an ill-informed decision to invest all her money in a risky venture.",
+        "status": "learned"
+    },
+    {
+        "id": "cc27583e-1701-46f7-b1f6-66ca721f60da",
+        "word": "impartial",
+        "persian": "بیطرفانه",
+        "definition": "\"Impartial\" means treating all people and viewpoints equally and fairly, without any preconceived biases or favoritism. It describes a state of objectivity and neutrality in judgment and decision-making.\nSynonyms: unbiased, neutral, objective, equitable, fair.\n",
+        "exampleA": "A trial must be fair and impartial.",
+        "exampleB": "A judge must remain impartial when hearing a case.",
+        "exampleC": "The journalist aimed to provide an impartial account of the event.",
+        "status": "seen"
+    },
+    {
+        "id": "7461882d-88cf-497e-82c7-4f238f023ab6",
+        "word": "influence",
+        "persian": "\"Influence\" در فارسی معمولاً به صورت \"تاثیر\"، \"اثرگذاری\" یا \"نفوذ\" ترجمه می‌شود.\n",
+        "definition": "Influence is the capacity to have an effect on the character, development, or behavior of someone or something. It suggests a subtle or indirect power that shapes outcomes or opinions without necessarily resorting to force or direct command. This can manifest through persuasion, example, or even just the presence of someone or something.\n\nSynonyms: impact, affect, sway, mold, shape.\n",
+        "exampleA": "Her writing has a strong influence on young readers.",
+        "exampleB": "The environment can influence a person's behavior.",
+        "exampleC": "Political donations often seek to influence legislation.",
+        "status": ""
+    },
+    {
+        "id": "c17f6cc1-ffda-48f6-b1ec-abbf99a50260",
+        "word": "inform",
+        "persian": "مطلع ساختن",
+        "definition": "To inform means to give someone facts or information; to tell someone about something. It involves communicating knowledge or news so that the recipient becomes aware of it.\n\nSynonyms: advise, notify, apprise, brief, tell\n",
+        "exampleA": "Please inform me of any changes to the schedule.",
+        "exampleB": "The doctor will inform you of your test results.",
+        "exampleC": "It is my duty to inform you of the potential risks involved.",
+        "status": "learned"
+    },
+    {
+        "id": "468a880a-98d8-4f9d-a284-8be500835a01",
+        "word": "informative",
+        "persian": "آموزنده، حاوی اطلاعات مفید",
+        "definition": "\"Informative\" describes something that provides useful, interesting, or enlightening information. It implies that the subject or material being presented enhances one's knowledge or understanding. An informative piece is often factual, clear, and well-explained.\n\nSynonyms: educational, instructive, enlightening, revealing, illuminating.\n",
+        "exampleA": "The documentary was highly informative, covering a wide range of topics.",
+        "exampleB": "She gave an informative presentation on the latest marketing trends.",
+        "exampleC": "This website is designed to be informative and easy to navigate.",
+        "status": "seen"
+    },
+    {
+        "id": "7654dd41-50d8-4f1d-b906-bd2bf4882344",
+        "word": "intrude",
+        "persian": "مزاحمت ایجاد کردن",
+        "definition": "To intrude means to enter a place or situation where one is not welcome or invited; it implies a disruption or imposition on someone's space, privacy, or affairs. Essentially, it's about crossing a boundary uninvited.\n\nSynonyms: trespass, encroach, infringe, barge in, butt in.\n",
+        "exampleA": "I didn't mean to intrude on your conversation.",
+        "exampleB": "The loud music began to intrude upon my thoughts.",
+        "exampleC": "Please don't intrude into my personal life.",
+        "status": "seen"
+    },
+    {
+        "id": "b165940e-58b1-448c-8ab9-77b0867486e1",
+        "word": "intrusive",
+        "persian": "معادل‌های مختلفی برای intrusive وجود دارد، اما با توجه به بافت جمله می‌توان از کلماتی مانند \"مزاحم\"، \"فضولانه\"، \"سرزده\"، \"مداخله‌گر\" یا \"نفوذی\" استفاده کرد.\n",
+        "definition": "affecting someone's private life or interrupting them in an unwanted and annoying way",
+        "exampleA": "intrusive questioning./ intrusive lighting",
+        "exampleB": "The constant pop-up ads were incredibly intrusive and disrupted my browsing experience.",
+        "exampleC": "I felt the security cameras in the office were becoming too intrusive, monitoring our every move.",
+        "status": "seen"
+    },
+    {
+        "id": "b3af177f-50ad-47f2-83c8-ee7dbee65092",
+        "word": "invade",
+        "persian": "مورد تجاوز قرار دادن، تجاوز کردن",
+        "definition": "To invade means to enter a country or region with an armed force with the intention of occupying and controlling it. It often implies an act of aggression and hostility, violating the sovereignty of the invaded territory.\n\nSynonyms: attack, conquer, overrun, penetrate, storm.\n",
+        "exampleA": "Famous people often find their privacy is invaded by the press.",
+        "exampleB": "The army planned to invade the neighboring country at dawn.",
+        "exampleC": "Thoughts of doubt began to invade her mind.",
+        "status": "seen"
+    },
+    {
+        "id": "92aab85f-5d9c-4789-91a2-6ac25188d3da",
+        "word": "investigate",
+        "persian": "بررسی کردن",
+        "definition": "To investigate means to systematically examine and inquire into something, typically to discover and examine the facts of an incident, allegation, or claim in order to establish the truth. It involves gathering evidence, interviewing people, and analyzing information to arrive at a conclusion or understanding.\n\nSynonyms: examine, explore, scrutinize, research, delve into.\n",
+        "exampleA": "The police will investigate the crime scene thoroughly.",
+        "exampleB": "I need to investigate all possible options before making a decision.",
+        "exampleC": "Scientists are investigating the causes of climate change.",
+        "status": "learned"
+    },
+    {
+        "id": "15e61aeb-7be9-47a7-8fab-d3e66dcee4e8",
+        "word": "investigation",
+        "persian": "تحقیق و رسیدگی",
+        "definition": "An investigation is a systematic or formal inquiry to discover and examine the facts of an incident, allegation, or accusation in order to establish the truth. It aims to gather evidence, analyze information, and determine the cause and nature of what occurred, often with the goal of resolving a problem, uncovering wrongdoing, or informing future decisions.\n\nSynonyms: inquiry, probe, examination, study, exploration.\n",
+        "exampleA": "The police are conducting a thorough investigation into the robbery.",
+        "exampleB": "A formal investigation was launched after the allegations of misconduct surfaced.",
+        "exampleC": "Our team is dedicated to the investigation of new technologies.",
+        "status": "learned"
+    },
+    {
+        "id": "5507f45a-015b-4110-90be-c248e8896b6c",
+        "word": "investigative",
+        "persian": "تحلیلی، تحقیقی",
+        "definition": "\"Investigative\" describes something that involves a systematic and thorough examination or inquiry to discover and examine the facts of an incident, allegation, etc. It implies a careful, in-depth approach focused on uncovering hidden or complex information.\n\nSynonyms: probing, exploratory, analytical, scrutinizing, inquiring.\n",
+        "exampleA": "Children are encouraged to take an investigative approach to learning.",
+        "exampleB": "The journalist conducted an investigative report on the company's practices.",
+        "exampleC": "The police launched an investigative team to solve the complex crime.",
+        "status": "learned"
+    },
+    {
+        "id": "c39163a7-bc26-4aa5-a871-e96b6806a2af",
+        "word": "issue",
+        "persian": "\"Issue\" بسته به متن می‌تونه معانی مختلفی داشته باشه. رایج‌ترین ترجمه‌ها عبارتند از: \"مسئله\"، \"موضوع\"، \"مشکل\"، \"شماره\" (مثلاً شماره مجله) یا \"نشر\" (مثلاً نشر یک بیانیه).\n",
+        "definition": "a set of newspapers or magazines published at the same time or a single copy of a newspaper or magazine",
+        "exampleA": "The company is addressing the software issue with a patch.",
+        "exampleB": "We need to issue a statement regarding the recent events.",
+        "exampleC": "The editorial board discussed the controversial issue in depth.",
+        "status": "learned"
+    },
+    {
+        "id": "0e57d6ac-2f50-484b-90cc-4b64ea2f9bd6",
+        "word": "journal",
+        "persian": "معنی کلمه \"journal\" بسته به زمینه می‌تونه متفاوت باشه. اما رایج‌ترین معانی اون عبارتند از:\n\n   مجله: به ویژه مجله علمی یا تخصصی\n   روزنامه: به ویژه روزنامه نگاری\n   دفترچه خاطرات/یادداشت: به عنوان جایی برای نوشتن افکار و تجربیات شخصی\n",
+        "definition": "A journal is a personal record of experiences, ideas, or reflections kept on a regular basis. It can be a diary-like account of daily events, a space for brainstorming, or a tool for self-discovery and tracking progress.\n\nSynonyms: diary, log, notebook, chronicle, record.\n",
+        "exampleA": "She diligently maintained a travel journal during her backpacking trip across Europe.",
+        "exampleB": "The researcher published his findings in a reputable medical journal.",
+        "exampleC": "I find that writing in my journal helps me process my emotions and experiences.",
+        "status": ""
+    },
+    {
+        "id": "6a3669ff-0385-4d0e-aa28-42704e07c473",
+        "word": "journalism",
+        "persian": "\"ژورنالیسم\" در فارسی به «خبرنگاری»، «روزنامه‌نگاری» یا «خبرپراکنی» ترجمه می‌شود که همگی به فعالیت جمع‌آوری، نوشتن، ویرایش و انتشار اخبار و اطلاعات در رسانه‌های مختلف اشاره دارند.\n",
+        "definition": "Journalism is the practice of investigating, gathering, creating, and presenting news and information to the public. It aims to provide accurate, fair, and contextualized reporting on events, issues, and trends, often serving a watchdog role over power and holding individuals and institutions accountable.\n\nSynonyms: news reporting, news media, press, reportage, broadcasting.\n",
+        "exampleA": "Her passion for journalism led her to uncover important stories.",
+        "exampleB": "Investigative journalism plays a vital role in holding power accountable.",
+        "exampleC": "He studied journalism at a prestigious university.",
+        "status": ""
+    },
+    {
+        "id": "5c230ae6-e0d0-44eb-bce5-8e504922d69b",
+        "word": "mainstream",
+        "persian": "جریان حاکم، جریان غالب،",
+        "definition": "\"Mainstream\" refers to ideas, attitudes, or activities that are considered normal, conventional, and widely accepted or practiced by the majority of people in a society. It represents what is popular and dominant within a particular culture or group, often contrasting with more niche or alternative viewpoints.\n\nSynonyms: conventional, popular, prevalent, dominant, established, orthodox.\n",
+        "exampleA": "mainstream media/ mainstream schools",
+        "exampleB": "The band's new album is a departure from their mainstream sound.",
+        "exampleC": "That political opinion is now becoming increasingly mainstream.",
+        "status": "learned"
+    },
+    {
+        "id": "4f4dc9e0-fe43-4c36-b06d-14b563f21ddc",
+        "word": "mass media",
+        "persian": "رسانه های گروهی",
+        "definition": "Mass media refers to channels of communication designed to reach a large audience, often simultaneously. These platforms disseminate information, entertainment, and advertising widely, influencing public opinion and shaping cultural landscapes. Think of it as a one-to-many broadcast system designed for wide consumption.\n\nSynonyms: media, news media, popular press, public media.\n",
+        "exampleA": "Governments use a host of mass media to alert the public about risks.",
+        "exampleB": "The candidate used mass media to reach a wider audience during the campaign.",
+        "exampleC": "Exposure to violence in mass media has been linked to aggressive behavior in some studies.",
+        "status": "learned"
+    },
+    {
+        "id": "330510b6-4394-487d-974a-43dcf808605f",
+        "word": "media",
+        "persian": "رسانه",
+        "definition": "\"Media\" refers to the various channels of communication used to disseminate information, news, entertainment, and advertising to a wide audience. It encompasses a range of platforms, including television, radio, newspapers, magazines, the internet, and social media. In essence, media serves as a conduit connecting sources of information to the public.\n\nSynonyms: communication channels, news outlets, press, broadcasting, information providers.\n",
+        "exampleA": "The media often shapes public opinion on important issues.",
+        "exampleB": "Our company utilizes social media to connect with potential customers.",
+        "exampleC": "She has been working in the media industry for over a decade.",
+        "status": "learned"
+    },
+    {
+        "id": "6549d933-95a9-4ce6-89e5-4734d6cb9a3e",
+        "word": "media hype",
+        "persian": "جاروجنجال تبلیغاتی رسانه ای",
+        "definition": "Media hype refers to the excessive and sensationalized coverage of a particular event, person, or issue by the media. It often involves exaggerating the importance, drama, or impact of something to attract attention and generate public excitement, sometimes to the detriment of accuracy and balanced reporting.\n\nSynonyms: Media frenzy, media circus, overblown coverage, sensationalism, publicity blitz.\n",
+        "exampleA": "The new diet trend turned out to be mostly media hype.",
+        "exampleB": "Don't believe everything you read; a lot of it is just media hype.",
+        "exampleC": "The film's box office success was fueled by intense media hype.",
+        "status": "learned"
+    },
+    {
+        "id": "1f84d1ba-b09d-4c1c-be02-7bfea8abd59d",
+        "word": "network",
+        "persian": "\"شبکه\" معادل دقیقی برای کلمه \"network\" در فارسی است.\n",
+        "definition": "A network refers to a group of interconnected individuals, entities, or things that share information or resources, allowing for communication, collaboration, and the exchange of ideas or goods. It can be a social network of friends, a professional network for career advancement, or a technological network like the internet connecting computers and devices.\n\nSynonyms: web, system, infrastructure, grid, connection, alliance.\n",
+        "exampleA": "Our computer network allows us to share files easily.",
+        "exampleB": "She built a strong network of contacts in the industry.",
+        "exampleC": "The television network will be broadcasting the game live.",
+        "status": ""
+    },
+    {
+        "id": "c5deff79-6f86-47d0-bc67-41c68d21960b",
+        "word": "newspaper",
+        "persian": "روزنامه\n",
+        "definition": "A newspaper is a regularly published periodical, typically daily or weekly, that contains news articles, features, opinion pieces, advertisements, and other information of public interest. It serves as a primary source of information and a historical record of events for a community or region.\n\nSynonyms: periodical, journal, gazette, paper, news publication.\n",
+        "exampleA": "I read the newspaper every morning with my coffee.",
+        "exampleB": "The article appeared in the local newspaper last week.",
+        "exampleC": "He used the newspaper to wrap the fragile vase.",
+        "status": ""
+    },
+    {
+        "id": "4da4ef0e-3160-41fa-8291-a12750f4f2c0",
+        "word": "newsstand",
+        "persian": "دکه روزنامه فروشی",
+        "definition": "A newsstand is a small structure, often located on a street corner or in a public place, that is used for selling newspapers, magazines, and sometimes other items like snacks, tobacco products, or lottery tickets. It's essentially a retail outlet specializing in printed media and related goods for quick purchase by passersby.\n\nSynonyms: news kiosk, news agency, news stall.\n",
+        "exampleA": "He bought a newspaper at the newsstand before catching the train.",
+        "exampleB": "The magazine cover caught her eye as she walked past the newsstand.",
+        "exampleC": "The old newsstand on the corner was a fixture in the neighborhood.",
+        "status": "learned"
+    },
+    {
+        "id": "fe78a668-467e-43ec-8c61-c811814189c6",
+        "word": "opinion",
+        "persian": "نظر، عقیده، دیدگاه یا باور. انتخاب بهترین معادل بستگی به متن و لحن مورد نظر دارد.\n",
+        "definition": "An opinion is a personal belief, judgment, or viewpoint about something that isn't necessarily based on fact or proven knowledge. It reflects how someone feels or thinks about a particular topic and can vary widely from person to person. It's subjective rather than objective.\n\nSynonyms: view, perspective, sentiment, assessment, estimation.\n",
+        "exampleA": "In my opinion, the movie was overrated.",
+        "exampleB": "Everyone is entitled to their own opinion, even if I disagree.",
+        "exampleC": "The survey asked participants to share their opinion on the proposed changes.",
+        "status": ""
+    },
+    {
+        "id": "baf18676-e9aa-40ba-82b2-5dd0519a535a",
+        "word": "paparazzi",
+        "persian": "معادل دقیق و جا افتاده‌ای برای \"پاپاراتزی\" در فارسی وجود ندارد، اما می‌توان آن را به صورت «عکاسان مزاحم مشهور» یا «خبرنگاران سمج و جنجالی» ترجمه کرد که به عکاسانی گفته می‌شود که بدون اجازه از افراد مشهور عکس می‌گیرند و زندگی خصوصی آن‌ها را دنبال می‌کنند.\n",
+        "definition": "the photographers who follow famous people everywhere they go in order to take photographs of them for newspapers and magazines",
+        "exampleA": "The actress tried to shield her face from the paparazzi.",
+        "exampleB": "The constant attention from the paparazzi drove him to seclusion.",
+        "exampleC": "The restaurant was a popular spot because it offered privacy from the paparazzi.",
+        "status": "learned"
+    },
+    {
+        "id": "028ac1e5-40bc-4d49-8264-53934d71cae3",
+        "word": "pervasive",
+        "persian": "\"فراگیر\" یا \"نافذ\" بهترین معادل‌ها برای pervasive هستند، به این معنی که چیزی به طور گسترده در همه جا وجود دارد و تأثیر می‌گذارد.\n",
+        "definition": "\"Pervasive\" means spreading widely throughout an area or a group of people; it's something that seems to be everywhere or affects everything. It suggests a characteristic or influence that is widespread and difficult to avoid.\n\nSynonyms: widespread, prevalent, ubiquitous, omnipresent, permeating.\n",
+        "exampleA": "The influence of social media is pervasive in modern society.",
+        "exampleB": "Corruption was pervasive throughout the entire government system.",
+        "exampleC": "A sense of unease was pervasive in the empty house.",
+        "status": ""
+    },
+    {
+        "id": "8f2d5a92-3b6d-4e56-badb-c8f1a969c588",
+        "word": "press",
+        "persian": "معنی کلمه \"press\" بسته به متن می‌تونه متفاوت باشه. در اینجا چند تا از رایج‌ترین ترجمه‌هاش رو برات می‌نویسم:\n\n   فشار دادن/فشردن: وقتی صحبت از یک عمل فیزیکی باشه.\n   فشار: وقتی به صورت اسم و به معنی نیرو باشه.\n   رسانه‌ها/مطبوعات: وقتی اشاره به روزنامه‌ها، مجلات و سایر منابع خبری داشته باشه.\n   چاپ/انتشارات: وقتی مرتبط با صنعت چاپ و نشر باشه.\n",
+        "definition": "\"Press\" has several meanings, but generally refers to the act of applying sustained force or pressure to something. This can be physical, like pressing a button or ironing clothes, or figurative, such as applying pressure to someone to achieve a goal or feeling under duress. It also commonly refers to the media or news organizations collectively.\n\nSynonyms: squeeze, compress, urge, influence, media.\n",
+        "exampleA": "The company decided to hold a press conference to announce the new product.",
+        "exampleB": "The crowd began to press forward, eager to catch a glimpse of the celebrity.",
+        "exampleC": "I need to press these shirts before the meeting.",
+        "status": ""
+    },
+    {
+        "id": "c38a9c89-3421-4f47-8bf5-383bb02e4838",
+        "word": "pride yourself on sth",
+        "persian": "بر خود بالیدن بخاطر چیزی",
+        "definition": "To \"pride yourself on something\" means to be especially proud or satisfied with a particular quality, skill, or accomplishment that you possess or have achieved. It suggests taking pleasure in and valuing something about yourself.\n\nSynonyms: boast about, take pride in, glory in, revel in, be proud of\n",
+        "exampleA": "They pride themselves on providing excellent customer service.",
+        "exampleB": "He prides himself on his ability to fix anything.",
+        "exampleC": "We pride ourselves on using only the finest ingredients.",
+        "status": "learned"
+    },
+    {
+        "id": "ebe34cfb-fca5-421f-a8ac-12603c0f55c1",
+        "word": "privacy",
+        "persian": "حریم خصوصی یا حفظ اطلاعات شخصی.\n",
+        "definition": "Privacy refers to the right or condition of having control over one's personal information, thoughts, and activities, free from unwanted intrusion or observation. It encompasses the ability to keep certain aspects of oneself confidential and to determine when and how that information is shared with others.\n\nSynonyms: Seclusion, confidentiality, solitude, secrecy, discretion.\n",
+        "exampleA": "The new regulations aim to strengthen online privacy.",
+        "exampleB": "She values her privacy and rarely shares personal details.",
+        "exampleC": "The debate over data privacy is becoming increasingly important.",
+        "status": ""
+    },
+    {
+        "id": "1336f902-4282-4d68-b1e3-214a4f9f93fc",
+        "word": "publication",
+        "persian": "\"انتشار\" یا \"چاپ\"\n",
+        "definition": "Publication refers to the act of making information, literature, music, software, or other content available to the public for dissemination. It involves processes like preparing the material, printing or digitizing it, and distributing it through various channels so that it can be accessed by a wide audience.\n\nSynonyms: release, distribution, issue, launch, airing.\n",
+        "exampleA": "The journal is known for its rapid publication of cutting-edge research.",
+        "exampleB": "The author celebrated the publication of her debut novel.",
+        "exampleC": "Details of the agreement remained confidential until its official publication.",
+        "status": ""
+    },
+    {
+        "id": "b4be1df5-6d27-4e38-989e-7fd52e5915cb",
+        "word": "publicity",
+        "persian": "\"Publicity\" در فارسی معمولاً به صورت \"تبلیغات\"، \"شهرت\"، \"معروفیت\" یا \"برجسته‌سازی\" ترجمه می‌شود که بسته به متن و مفهوم مورد نظر، می‌توان از هر کدام استفاده کرد.\n",
+        "definition": "Publicity refers to the act of attracting public attention to a person, product, company, or cause through various channels of communication. It aims to create awareness and generate interest, often through media coverage, events, or other promotional activities. Good publicity can boost reputation and visibility, while negative publicity can damage it.\n\nSynonyms: exposure, promotion, hype, attention, buzz.\n",
+        "exampleA": "The band hoped the controversial music video would generate publicity.",
+        "exampleB": "She avoided the limelight and disliked the constant publicity surrounding her work.",
+        "exampleC": "The new initiative aimed to gain positive publicity for the company's environmental efforts.",
+        "status": ""
+    },
+    {
+        "id": "c5de66e6-3a4a-4cb8-8ff5-f36ddaef5b90",
+        "word": "publicize",
+        "persian": "به اطلاع عموم رساندن",
+        "definition": "To publicize means to make something widely known or accessible to the public, often through advertising, promotion, or other media channels. It involves spreading information, ideas, or events to a broad audience with the intention of raising awareness and generating interest.\n\nSynonyms: promote, advertise, announce, broadcast, disseminate.\n",
+        "exampleA": "The event was well publicized all over town.",
+        "exampleB": "The company decided to publicize their new product through a large marketing campaign.",
+        "exampleC": "They refused to publicize the details of the agreement due to confidentiality concerns.",
+        "status": "seen"
+    },
+    {
+        "id": "bafc3b7d-28ed-40ad-ad34-c55efb722d29",
+        "word": "publish",
+        "persian": "\"Publish\" در فارسی می‌تواند بسته به زمینه به معانی مختلفی ترجمه شود، اما رایج‌ترین معادل‌های آن عبارتند از: \"منتشر کردن\"، \"چاپ کردن\" و \"به چاپ رساندن\".\n",
+        "definition": "To publish means to prepare and distribute content, such as writing, music, or software, to the public for sale or for free. It involves making the content available through various channels like print, online platforms, or other media.\n\nSynonyms: release, issue, circulate, disseminate.\n",
+        "exampleA": "The author hopes to publish her novel next year.",
+        "exampleB": "The company plans to publish the research findings in a peer-reviewed journal.",
+        "exampleC": "They decided to publish the sensitive documents to expose the corruption.",
+        "status": ""
+    },
+    {
+        "id": "f10a9000-586b-43a6-ab23-dd1e198fd85c",
+        "word": "publisher",
+        "persian": "ناشر به شخص یا شرکتی گفته می‌شود که مسئولیت تولید و انتشار کتاب، مجله، روزنامه، موسیقی یا سایر آثار را بر عهده دارد و آن‌ها را به مخاطبان عرضه می‌کند.\n",
+        "definition": "A publisher is a company or individual responsible for the production and distribution of information or creative content, such as books, newspapers, magazines, music, or software. They oversee the process from acquisition and editing to design, printing (if applicable), marketing, and sales, aiming to bring the creator's work to a wider audience and generate profit.\n\nSynonyms: producer, distributor, editor, printer, media company\n",
+        "exampleA": "The publisher released a new edition of the classic novel.",
+        "exampleB": "She works as an editor for a major publishing house, a large publisher.",
+        "exampleC": "The author negotiated a favorable contract with the publisher.",
+        "status": ""
+    },
+    {
+        "id": "28d69d52-2d7e-48c0-8329-33acca528c3e",
+        "word": "realistic",
+        "persian": "واقع‌گرایانه، منطبق بر واقعیت، یا چیزی که شبیه به واقعیت است.\n",
+        "definition": "\"Realistic\" means closely resembling or representing real life, facts, or actual events. It implies authenticity and a lack of idealization or exaggeration. A realistic portrayal strives to depict things as they truly are, with both their positive and negative aspects.\n\nSynonyms: lifelike, genuine, authentic, true-to-life, naturalistic\n",
+        "exampleA": "The artist aimed for a realistic depiction of the landscape.",
+        "exampleB": "We need to set realistic goals for the project to avoid disappointment.",
+        "exampleC": "The movie's special effects made the dinosaurs look incredibly realistic.",
+        "status": ""
+    },
+    {
+        "id": "1c1aaf3f-d70e-432b-ba84-ef79f9434c61",
+        "word": "rectify",
+        "persian": "تصحیح کردن",
+        "definition": "\"Rectify\" means to correct something that is wrong, erroneous, or defective, thereby making it right or acceptable. It implies the act of adjusting or amending a situation to achieve a desired or proper state.\n\nSynonyms: correct, amend, remedy, fix, repair.\n",
+        "exampleA": "Every effort is made to rectify any errors/mistakes before the book is printed.",
+        "exampleB": "The hotel manager promised to rectify the billing error immediately.",
+        "exampleC": "We need to rectify the design flaw before we begin mass production.",
+        "status": "seen"
+    },
+    {
+        "id": "a7a184de-01af-4f6e-a94b-6ec523df076b",
+        "word": "relevance",
+        "persian": "ربط",
+        "definition": "Relevance signifies the quality of being closely connected or appropriate to the matter at hand. It implies a strong relationship between something and a particular subject, issue, or situation, making it important and applicable. When something is relevant, it is pertinent and contributes meaningfully to the understanding or resolution of the matter being considered.\n\nSynonyms: pertinence, applicability, significance, importance, relatedness.\n",
+        "exampleA": "What relevance does that point have to the discussion?",
+        "exampleB": "The relevance of his argument was immediately apparent to everyone in the room.",
+        "exampleC": "The speaker struggled to establish the relevance of her research to the audience's daily lives.",
+        "status": "learned"
+    },
+    {
+        "id": "5e811056-9388-48c3-bda1-7ff895e2be77",
+        "word": "report",
+        "persian": "بسته به متن، \"report\" می‌تونه به \"گزارش\"، \"گزارش دادن\"، \"خبر\"، \"اطلاع\" یا \"اظهار\" ترجمه بشه.\n",
+        "definition": "A report is a formal written or spoken account that presents information, findings, or recommendations based on observation, investigation, or analysis. It serves to inform a specific audience about a particular subject and often leads to decision-making or further action.\n\nSynonyms: account, document, study, analysis, presentation, summary.\n",
+        "exampleA": "The manager asked me to submit the sales report by the end of the day.",
+        "exampleB": "The news report detailed the aftermath of the hurricane.",
+        "exampleC": "I need to report the missing item to customer service.",
+        "status": ""
+    },
+    {
+        "id": "0866feaa-7af7-436b-a181-412aaba1b83f",
+        "word": "review",
+        "persian": "معنی review بستگی به متن داره، اما معمولاً به این معانی ترجمه میشه:\n\n   بررسی: وقتی که منظور ارزیابی و تحلیل چیزی باشه.\n   بازبینی: وقتی که منظور نگاه دوباره به چیزی برای اصلاح یا بهبود باشه.\n   نقد (کردن): وقتی که منظور نوشتن نظر و ارزیابی درباره یک اثر هنری، کتاب یا فیلم باشه.\n   مرور: وقتی که منظور یادآوری و مطالعه دوباره یک مطلب باشه.\n",
+        "definition": "A review is a critical assessment of something, such as a book, movie, play, product, or service, providing an opinion or judgment about its quality, worth, or suitability. It often summarizes key aspects and offers recommendations.\n\nSynonyms: critique, analysis, evaluation, assessment, commentary.\n",
+        "exampleA": "The customer left a glowing review of the restaurant.",
+        "exampleB": "I need to review the contract before signing it.",
+        "exampleC": "The movie received a mixed review from critics.",
+        "status": ""
+    },
+    {
+        "id": "f4ac7f75-f663-4932-85c9-b1e9783cd7e4",
+        "word": "safeguard",
+        "persian": "\"Safeguard\" بسته به متن می‌تونه به صورت‌های مختلفی ترجمه بشه، اما در حالت کلی به معنی \"محافظت کردن\"، \"حراست کردن\" یا \"صیانت کردن\" است.\n",
+        "definition": "To safeguard something means to protect it from harm or damage; it involves taking preventative measures to ensure its security and preservation. It implies a proactive effort to defend something valuable or important.\n\nSynonyms: protect, defend, preserve, secure, shield, guard.\n",
+        "exampleA": "The government implemented new regulations to safeguard the environment.",
+        "exampleB": "We need to safeguard our data from cyberattacks.",
+        "exampleC": "Parents should safeguard their children from online predators.",
+        "status": ""
+    },
+    {
+        "id": "e2bd517e-d803-4237-835b-d1696706ec41",
+        "word": "safeguards",
+        "persian": "تمهیدات",
+        "definition": "\"Safeguards\" refer to measures taken to protect something valuable or vulnerable from harm, damage, or unwanted access. They are preventative actions designed to ensure safety, security, and integrity.\n\nSynonyms: protections, precautions, defenses, security measures, safeguards.\n",
+        "exampleA": "International safeguards prevent the increase of nuclear weapons.",
+        "exampleB": "The company implemented new safeguards to protect customer data.",
+        "exampleC": "We need to establish adequate safeguards against potential financial risks.",
+        "status": "learned"
+    },
+    {
+        "id": "17f675df-0569-4715-83de-e24699eb2e3a",
+        "word": "sensationalist",
+        "persian": "بر انگیزنده احساسات",
+        "definition": "\"Sensationalist\" describes something or someone who presents information in a way that is intended to provoke excitement or public interest, often at the expense of accuracy or objectivity. It prioritizes drama, exaggeration, and emotional impact over factual reporting, aiming to shock, titillate, or scare the audience.\n\nSynonyms: Exaggerated, melodramatic, inflammatory, tabloid, yellow journalism.\n",
+        "exampleA": "There have been many sensationalist reports that are not supported by scientific data and studies",
+        "exampleB": "The newspaper was criticized for its sensationalist headlines that exaggerated the truth.",
+        "exampleC": "He accused the reporter of being sensationalist, focusing on drama rather than facts.",
+        "status": "seen"
+    },
+    {
+        "id": "7d915c37-8592-4c6f-a566-da2062804492",
+        "word": "sociology",
+        "persian": "جامعه شناسی",
+        "definition": "Sociology is the systematic study of human society and social interactions. It examines social structures, institutions, groups, and processes to understand how they influence individual behavior, attitudes, and experiences, as well as how societies change and develop over time.\n\nSynonyms: social science, social studies, social analysis, study of society.\n",
+        "exampleA": "She decided to major in sociology to better understand social structures.",
+        "exampleB": "The professor's research in sociology focuses on the impact of technology on human interaction.",
+        "exampleC": "Sociology provides valuable insights into the complexities of modern society.",
+        "status": "learned"
+    },
+    {
+        "id": "fa9a6b45-3eec-42cd-8001-9b2b80f947d2",
+        "word": "source",
+        "persian": "بسته به متن و کاربرد، \"source\" می‌تونه به معانی زیر ترجمه بشه:\n\n   منبع: رایج‌ترین و کلی‌ترین ترجمه.\n   مبدا: وقتی صحبت از سرچشمه یا نقطه شروع چیزی باشه.\n   مأخذ: در متون رسمی و دانشگاهی.\n   منشاء: وقتی به ریشه و اصل چیزی اشاره داره.\n   تأمین‌کننده: وقتی صحبت از فراهم کردن چیزی مثل کالا یا اطلاعات باشه.\n",
+        "definition": "\"Source\" refers to the origin or place from which something comes, arises, or is obtained. It can be a person, place, document, or thing that provides information, supplies resources, or starts a particular process. Essentially, it's where something begins or is derived from.\n\nSynonyms: origin, root, foundation, wellspring, cause.\n",
+        "exampleA": "The river is the source of drinking water for the town.",
+        "exampleB": "Please cite your source when using information from the internet.",
+        "exampleC": "Her inspiration was a surprising source of creativity.",
+        "status": ""
+    },
+    {
+        "id": "b8cba328-11cb-4c57-8ac0-325839d98225",
+        "word": "speculation",
+        "persian": "\"Speculation\" بسته به زمینه می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین ترجمه‌ها عبارتند از: گمانه‌زنی، سفته‌بازی، و حدس و گمان.\n",
+        "definition": "Speculation refers to the formation of a theory or conjecture without firm evidence, often based on incomplete information or a hunch. It involves making assumptions or drawing conclusions about something that is not yet known with certainty, typically venturing beyond what can be definitively proven.\n\nSynonyms: conjecture, guesswork, surmise, hypothesis, assumption.\n",
+        "exampleA": "The media was filled with speculation about the celebrity's sudden disappearance.",
+        "exampleB": "His investment strategy is based more on speculation than on solid research.",
+        "exampleC": "The rumor mill is running rampant with speculation about the company's future plans.",
+        "status": ""
+    },
+    {
+        "id": "4145ca43-410a-483f-9c97-db07a5d09709",
+        "word": "superficial",
+        "persian": "سطحی نگر، سطحی",
+        "definition": "Superficial refers to something that is concerned only with the surface or appearance, lacking depth or genuine substance. It describes a lack of thoroughness, understanding, or real feeling, often focusing on the trivial or easily observable aspects of something.\n\nSynonyms: shallow, skin-deep, trivial, flimsy, cursory.\n",
+        "exampleA": "The magazine article offered only a superficial analysis of the complex issue.",
+        "exampleB": "Her interest in politics seemed superficial, focused more on appearances than policies.",
+        "exampleC": "The wound was superficial and didn't require stitches.",
+        "status": "seen"
+    },
+    {
+        "id": "cad71fe9-e9df-4b6d-9b7e-99c2ca87ac8d",
+        "word": "tabloid",
+        "persian": "روزنامه یا مجله‌ای که بیشتر به جنجال‌ها، شایعات و اخبار زرد می‌پردازد و معمولاً عکس‌های بزرگ و مطالب سرگرم‌کننده دارد.\n",
+        "definition": "A tabloid is a newspaper, typically smaller in page size than broadsheet newspapers, that focuses on sensationalized news stories, often involving celebrities, crime, and scandal. They are known for their eye-catching headlines, dramatic photography, and often less rigorous standards of fact-checking than more traditional journalism.\n\nSynonyms: rag, gossip sheet, scandal sheet, sensationalist paper.\n",
+        "exampleA": "The tabloid splashed the celebrity's scandal across its front page.",
+        "exampleB": "I try to avoid reading tabloid magazines because they often contain inaccurate information.",
+        "exampleC": "He sued the tabloid for printing false and defamatory statements about him.",
+        "status": ""
+    },
+    {
+        "id": "bb1bdaa0-c4cc-44e6-9557-daee990192a7",
+        "word": "tabloid newspapers",
+        "persian": "روزنامه های زرد",
+        "definition": "Tabloid newspapers are newspapers characterized by their smaller page size, sensationalized reporting style, focus on celebrity gossip, crime, and human-interest stories, and often use of eye-catching headlines and photographs. They prioritize entertainment and emotional appeal over in-depth analysis or factual accuracy, often exaggerating or fabricating stories to boost sales.\n\nSynonyms: Rag, scandal sheet, gossip magazine, sensationalist paper, supermarket tabloid.\n",
+        "exampleA": "The story was sensationalized by tabloid newspapers.",
+        "exampleB": "I don't believe everything I read in tabloid newspapers.",
+        "exampleC": "Celebrities often complain about the invasive tactics of tabloid newspapers.",
+        "status": "seen"
+    },
+    {
+        "id": "eff43c5f-e8d1-42dc-a80d-8f654034f0c4",
+        "word": "the Internet",
+        "persian": "ترجمهٔ رایج و جاافتادهٔ \"the Internet\" به فارسی، «اینترنت» است.\n",
+        "definition": "The Internet is a global network connecting billions of computers and other electronic devices, enabling them to communicate and share information. It's the infrastructure that allows for the World Wide Web (websites), email, file sharing, and countless other online activities.\n\nSynonyms: World Wide Web, Net, Information Superhighway, Cyberspace.\n",
+        "exampleA": "The Internet has revolutionized the way we communicate.",
+        "exampleB": "Access to the Internet is now considered a basic human right in some countries.",
+        "exampleC": "She spends hours each day browsing the Internet.",
+        "status": ""
+    },
+    {
+        "id": "43a4e381-4328-4f2b-9ac7-b90ed8a8f227",
+        "word": "the news",
+        "persian": "\"The news\" بسته به بافتار می‌تونه به صورت‌های مختلفی ترجمه بشه، اما رایج‌ترین و کلی‌ترین ترجمه‌ها عبارتند از:\n   اخبار\n   خبر/اخبار\n   اطلاعات جدید\n",
+        "definition": "\"The news\" refers to information about current events, often reported through various media outlets like newspapers, television, radio, and the internet. It encompasses timely and factual accounts of happenings around the world, covering a wide range of topics such as politics, economics, social issues, and entertainment.\n\nSynonyms: reporting, current events, headlines, intelligence, tidings.\n",
+        "exampleA": "I heard the news about the company merger this morning.",
+        "exampleB": "Did you catch the news on the radio during your commute?",
+        "exampleC": "She was shocked when she heard the news of the accident.",
+        "status": ""
+    },
+    {
+        "id": "7f0f1d05-34f5-4a45-9c91-77c2cd0fd580",
+        "word": "the Web",
+        "persian": "عبارت \"the Web\" معمولاً به صورت «وب» یا «شبکه جهانی وب» به فارسی ترجمه می‌شود.\n",
+        "definition": "\"The Web,\" short for the World Wide Web, is a global information system that allows access to documents and other web resources through the internet. It's essentially a vast collection of interconnected websites, pages, images, videos, and other digital content, all linked together by hyperlinks and accessible through web browsers. Think of it as a massive, interactive library spanning the globe.\n\nSynonyms: World Wide Web, WWW, the Internet, Cyberspace, the Net\n",
+        "exampleA": "Navigating the Web can be overwhelming with so much information available.",
+        "exampleB": "The company's online presence is crucial for reaching customers through the Web.",
+        "exampleC": "I spent hours researching different travel destinations on the Web.",
+        "status": ""
+    },
+    {
+        "id": "9b58ab4e-fd91-4f97-a572-00cc68161734",
+        "word": "TV networks",
+        "persian": "شبکه های تلویزیونی",
+        "definition": "TV networks are organizations that create and distribute television programming across multiple local television stations. They essentially serve as the central content hub, providing shows, news, and other programs that local stations then broadcast to their viewers. They often control the overall schedule and branding of the affiliated stations.\n\nSynonyms: broadcasting networks, television broadcasters, media conglomerates, program providers\n",
+        "exampleA": "TV networks are increasingly facing competition from streaming services.",
+        "exampleB": "The success of a show often depends on the marketing strategies employed by TV networks.",
+        "exampleC": "Many viewers are cutting the cord and abandoning traditional TV networks altogether.",
+        "status": "learned"
+    },
+    {
+        "id": "ca53e1a0-ebfb-4b3b-9ba1-a9dbf75be2e0",
+        "word": "unbiased",
+        "persian": "بی عرض، بی تعصب",
+        "definition": "\"Unbiased\" means showing no prejudice, favoritism, or preconceived notions; it signifies being fair and objective in judgment or perspective. It implies neutrality and the absence of personal feelings or biases influencing one's opinion or action.\n\nSynonyms: impartial, objective, neutral, fair, equitable.\n",
+        "exampleA": "an unbiased opinion",
+        "exampleB": "The journalist aimed to provide an unbiased account of the events.",
+        "exampleC": "We need an unbiased judge to ensure a fair trial.",
+        "status": "seen"
+    },
+    {
+        "id": "ac9077d5-0def-4fd0-9c04-ff84b3a39d56",
+        "word": "underreport",
+        "persian": "کمتر گزارش کردن",
+        "definition": "\"Underreport\" means to report something as being less than it actually is, often intentionally. It suggests that the reported amount or quantity is lower than the true or accurate value. This can apply to various contexts, such as income, incidents, or sales figures.\n\nSynonyms: Undervalue, Minimize, Downplay, Conceal, Suppress.\n",
+        "exampleA": "He under-reported his income by $548,000.",
+        "exampleB": "Companies often underreport their carbon emissions to avoid scrutiny.",
+        "exampleC": "Studies suggest that cases of domestic violence are significantly underreported.",
+        "status": "learned"
+    },
+    {
+        "id": "069ebaaf-88f1-4db4-9282-68c5d36b38d9",
+        "word": "verify",
+        "persian": "صحت‌ و سقم‌ امری‌ را معلوم‌ کردن‌، بازبینی کردن",
+        "definition": "To verify something means to establish its truth, accuracy, or validity, often through investigation, examination, or comparison with evidence. It involves confirming that something is as it is claimed to be or that it meets a specific standard or requirement.\n\nSynonyms: confirm, authenticate, validate, substantiate, prove\n",
+        "exampleA": "Please verify your email address by clicking the link we sent you.",
+        "exampleB": "The accountant needs to verify the accuracy of the financial records.",
+        "exampleC": "Before publishing, it's important to verify the source of the information.",
+        "status": "learned"
+    },
+    {
+        "id": "105cf21c-7afc-4c35-9bd8-e8a1ae6758e1",
+        "word": "well-informed",
+        "persian": "مطلع، کاملا مطلع",
+        "definition": "\"Well-informed\" describes someone who possesses a good level of knowledge about a particular subject or a wide range of topics. They are generally up-to-date on current events and can discuss issues with a degree of understanding and accuracy. Being well-informed suggests a commitment to learning and staying abreast of relevant information.\n\nSynonyms: knowledgeable, erudite, au courant, conversant, enlightened.\n",
+        "exampleA": "She is a well-informed voter who always researches the candidates before an election.",
+        "exampleB": "The journalist was well-informed on the current political climate.",
+        "exampleC": "To make a good decision, you need to be well-informed about all your options.",
+        "status": "learned"
+    },
+    {
+        "id": "06360f74-35cf-45f6-b325-0430fd7091aa",
+        "word": "widening gap",
+        "persian": "شکاف در حال بزرگ شدن",
+        "definition": "\"Widening gap\" refers to the increasing difference or disparity between two things, often indicating a growing inequality or divergence. It suggests that what was once a small or manageable difference is expanding and becoming more significant.\n\nSynonyms: growing divide, expanding disparity, increasing gulf, broadening chasm\n",
+        "exampleA": "The widening gap between the rich and poor is a major societal concern.",
+        "exampleB": "There's a widening gap in understanding between the older and younger generations.",
+        "exampleC": "The company is trying to close the widening gap in performance compared to its competitors.",
+        "status": "seen"
+    }
+]

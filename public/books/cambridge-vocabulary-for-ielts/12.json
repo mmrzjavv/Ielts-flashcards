@@ -1,0 +1,582 @@
+[
+    {
+        "id": "9707d7d7-631c-4a71-85da-5d4d7e00661f",
+        "word": "access",
+        "persian": "\"Access\" بسته به متن می‌تونه به فارسی \"دسترسی\"، \"ورود\"، \"دسترسی داشتن\" یا \"امکان دسترسی\" ترجمه بشه.\n",
+        "definition": "to open a computer file",
+        "exampleA": "I need access to the database to update the records.",
+        "exampleB": "The only access to the island is by boat.",
+        "exampleC": "Students have access to the library resources online.",
+        "status": "learned"
+    },
+    {
+        "id": "43541020-bf6b-44cd-8cd8-7edbcd635f6a",
+        "word": "automatically",
+        "persian": "به صورت خودکار، اتوماتیک، خودبه‌خود، یا به طور خودکار\n",
+        "definition": "\"Automatically\" means something happens without conscious thought, human intervention, or manual operation. It implies that a process or action occurs on its own, triggered by a pre-programmed mechanism, set of instructions, or inherent property.\n\nSynonyms: spontaneously, mechanically, autonomously, instantly, inherently.\n",
+        "exampleA": "The door opens automatically when you approach it.",
+        "exampleB": "The system automatically backs up your files every night.",
+        "exampleC": "The plant waters itself automatically with its smart irrigation system.",
+        "status": ""
+    },
+    {
+        "id": "497cde3f-9b0b-48f3-82bc-6824a7a8512a",
+        "word": "automatic pilot",
+        "persian": "خلبان خودکار",
+        "definition": "\"Automatic pilot\" refers to a state of mind or behavior where someone performs actions or tasks without conscious thought or effort, relying on ingrained habits, routines, or pre-programmed responses. It can be useful for efficiency but can also lead to mistakes or missed opportunities due to a lack of awareness.\n\nSynonyms: autopilot, autopilot mode, subconscious, unthinking, mechanical.\n",
+        "exampleA": "After hours of driving, I felt like I was on automatic pilot.",
+        "exampleB": "The experienced pilot switched to automatic pilot during the long flight.",
+        "exampleC": "Sometimes I feel like I'm living my life on automatic pilot, just going through the motions.",
+        "status": "learned"
+    },
+    {
+        "id": "0feb3959-6d05-40a1-9728-7b81986d97c4",
+        "word": "blender",
+        "persian": "دستگاه هم زن",
+        "definition": "A blender is an electric kitchen appliance used to mix, purée, emulsify, or chop food and other substances. It typically consists of a motor and a spinning blade within a container, often glass or plastic.\nSynonyms: Liquidizer, food processor, mixer.\n",
+        "exampleA": "I used the blender to make a smoothie this morning.",
+        "exampleB": "Be careful when cleaning the blender blades.",
+        "exampleC": "The restaurant's signature drink is created in a high-powered blender.",
+        "status": "learned"
+    },
+    {
+        "id": "131b5d91-3afd-4224-80da-8924255f9195",
+        "word": "bulky",
+        "persian": "جاگیر",
+        "definition": "\"Bulky\" describes something that is large and takes up a lot of space, often in an ungainly or awkward way. It implies a size that is inconvenient or difficult to manage due to its mass or volume.\n\nSynonyms: cumbersome, unwieldy, massive, substantial, voluminous.\n",
+        "exampleA": "The package was surprisingly bulky, making it difficult to carry.",
+        "exampleB": "He preferred to wear a light jacket rather than a bulky coat.",
+        "exampleC": "The old computer was bulky and took up a lot of space on the desk.",
+        "status": "learned"
+    },
+    {
+        "id": "fc87a0f0-9c86-4f34-a3d4-6bf629f6b3e2",
+        "word": "compact",
+        "persian": "فشرده و کم حجم",
+        "definition": "\"Compact\" means closely and neatly packed together, taking up relatively little space. It describes something that is smaller or more condensed than usual, often for efficiency or convenience. Synonyms include: compressed, dense, concise, and streamlined.\n",
+        "exampleA": "This compact car is perfect for city driving.",
+        "exampleB": "The company developed a compact design for their new phone.",
+        "exampleC": "He packed a compact suitcase for his weekend trip.",
+        "status": "seen"
+    },
+    {
+        "id": "5f911074-9ab4-4b7c-b51b-960e539a25d8",
+        "word": "computer era",
+        "persian": "عصر کامپیتور",
+        "definition": "The \"computer era\" refers to the period in human history marked by the widespread adoption and integration of computers into nearly every aspect of life. This era is characterized by rapid technological advancements in computing power, accessibility, and connectivity, leading to significant social, economic, and cultural transformations. We are essentially living in an age heavily influenced and shaped by the presence and capabilities of computers.\n\nSynonyms: Digital Age, Information Age, Technological Era, Cyber Age.\n",
+        "exampleA": "The computer era has revolutionized communication and information access.",
+        "exampleB": "We are living in the computer era, where technology is constantly evolving.",
+        "exampleC": "The transition to the computer era brought about significant changes in the workplace.",
+        "status": "learned"
+    },
+    {
+        "id": "6fb9ba3c-e35f-4e2d-a32b-1423bdd586de",
+        "word": "computerisation",
+        "persian": "رایانه‌سازی یا کامپیوتری‌کردن\n",
+        "definition": "Computerisation refers to the process of converting manual or mechanical systems and processes to ones that are controlled, operated, or assisted by computers. It involves implementing computer technology to automate tasks, store and process information, and improve efficiency in various sectors like business, industry, and education.\n\nSynonyms: automation, digitization, computerization, mechanization, robotization.\n",
+        "exampleA": "The company invested heavily in computerisation to streamline its operations.",
+        "exampleB": "Computerisation has led to increased efficiency in many industries.",
+        "exampleC": "There are concerns about job losses due to widespread computerisation.",
+        "status": ""
+    },
+    {
+        "id": "98795a28-7f7f-44c8-913c-88993ebe84fe",
+        "word": "computerised",
+        "persian": "کامپیوتری شده",
+        "definition": "\"Computerized\" means to convert a process, system, or device to be controlled or operated by a computer. It implies automation, efficiency, and often, increased accuracy through the use of computing technology.\n\nSynonyms: automated, digitalized, automated, electronic, computerized, mechanized.\n",
+        "exampleA": "The library's catalog system is now fully computerised, making it easier to find books.",
+        "exampleB": "The factory has invested in computerised machinery to increase production efficiency.",
+        "exampleC": "All medical records are now computerised to improve data management and patient care.",
+        "status": "learned"
+    },
+    {
+        "id": "b039d911-9056-45bb-a0a9-33ae32156d39",
+        "word": "connect",
+        "persian": "\"Connect\" در فارسی می‌تواند بسته به متن، معانی مختلفی داشته باشد، اما به طور کلی می‌توان آن را \"وصل کردن\"، \"متصل شدن\"، \"ارتباط برقرار کردن\" یا \"مرتبط کردن\" ترجمه کرد.\n",
+        "definition": "\"Connect\" means to establish a relationship or link between two or more things, people, or ideas. It implies a sense of joining, association, or communication being formed.\n\nSynonyms: Join, link, unite, associate, relate, bond.\n",
+        "exampleA": "We need to connect the printer to the computer.",
+        "exampleB": "The company aims to connect with its customers on a deeper level.",
+        "exampleC": "I'm trying to connect the dots between these events.",
+        "status": ""
+    },
+    {
+        "id": "05161a60-f922-4fac-a170-fe394066f6ef",
+        "word": "connection",
+        "persian": "اتصال",
+        "definition": "\"Connection\" refers to a relationship or link between two or more things, people, or ideas. It implies a bond or association that allows for communication, interaction, or understanding. This can range from a physical link to a more abstract emotional or conceptual link.\nSynonyms: relationship, link, association, bond, tie.\n",
+        "exampleA": "The internet connection here is unreliable.",
+        "exampleB": "There was a strong connection between the two characters in the novel.",
+        "exampleC": "She felt an immediate connection with the new employee.",
+        "status": "learned"
+    },
+    {
+        "id": "b8c1239b-d995-4fcb-855c-06ba15435099",
+        "word": "cutting-edge",
+        "persian": "مدرن و پیشرفته",
+        "definition": "\"Cutting-edge\" refers to the most advanced, innovative, and up-to-date state of something, especially in technology, design, or any field of progress. It signifies being at the forefront of development and pushing the boundaries of what's currently known or accepted.\n\nSynonyms: state-of-the-art, leading-edge, advanced, innovative, groundbreaking\n",
+        "exampleA": "cutting-edge design/technology",
+        "exampleB": "The company invested heavily in cutting-edge technology to improve efficiency.",
+        "exampleC": "Her research is on the cutting-edge of artificial intelligence.",
+        "status": "learned"
+    },
+    {
+        "id": "f0949805-c66e-46e6-8338-6411b8bf8ce6",
+        "word": "cyber",
+        "persian": "«سایبر» در فارسی معمولاً به صورت «فضای مجازی»، «رایانه‌ای» یا «اینترنتی» ترجمه می‌شود و به هر چیزی که مربوط به دنیای دیجیتال، کامپیوترها و شبکه‌های ارتباطی باشد، اشاره دارد.\n",
+        "definition": "\"Cyber\" is a prefix relating to computers, information technology, virtual reality, and the internet. It often denotes something that exists or operates in the digital or online world, especially concerning networks, data, and related technologies.\n\nSynonyms: digital, online, virtual, networked, computer-based\n",
+        "exampleA": "The company invested heavily in cyber security after the recent data breach.",
+        "exampleB": "Cyber warfare is a growing concern for nations around the world.",
+        "exampleC": "She works as a cyber security analyst, protecting networks from threats.",
+        "status": ""
+    },
+    {
+        "id": "12262b22-1e93-49f5-b3a8-91ae02ae3370",
+        "word": "cyber space",
+        "persian": "فضای مجازی",
+        "definition": "Cyberspace refers to the notional environment in which communication over computer networks occurs. It's a digital world created and sustained by the global network of interconnected computing devices and digital infrastructure, encompassing the internet, the World Wide Web, and other digital communication mediums. It's where individuals and organizations interact, share information, conduct business, and engage in various online activities.\n\nSynonyms: virtual world, online environment, digital domain, internet, the net.\n",
+        "exampleA": "The internet can be referred to as cyber space.",
+        "exampleB": "Criminal activity in cyber space is a growing concern for governments worldwide.",
+        "exampleC": "Exploring new virtual worlds in cyber space has become a popular form of entertainment.",
+        "status": "learned"
+    },
+    {
+        "id": "b6c6ad4d-419a-4a6b-bb55-2f2a832d0140",
+        "word": "data",
+        "persian": "\"Data\" در فارسی معمولاً به \"داده\" یا \"اطلاعات\" ترجمه می‌شود، اما بسته به زمینه می‌تواند به \"آمار\" یا \"داده‌ها\" نیز اشاره داشته باشد.\n",
+        "definition": "\"Data\" refers to facts, figures, and other pieces of information that can be processed or stored by a computer. It represents raw, unorganized symbols or observations that can be analyzed and used to make decisions or draw conclusions. Think of it as the building blocks of knowledge.\n\nSynonyms: information, facts, statistics, figures, details.\n",
+        "exampleA": "The data clearly shows a significant increase in sales.",
+        "exampleB": "We need to analyze the data to identify the root cause of the problem.",
+        "exampleC": "The researcher collected a large amount of data for the study.",
+        "status": ""
+    },
+    {
+        "id": "e9e86f8f-59d1-4201-aa47-eeca22c41554",
+        "word": "dated",
+        "persian": "کهنه، قدیمی",
+        "definition": "\"Dated\" means something is old-fashioned, out of style, or no longer current. It suggests that something belongs to a past era and hasn't kept up with modern trends or advancements. It often implies a negative connotation of being behind the times or irrelevant.\n\nSynonyms: obsolete, antiquated, passé, old-fashioned, outmoded.\n",
+        "exampleA": "That hairstyle looks a bit dated now.",
+        "exampleB": "The report contained dated information, making it unreliable.",
+        "exampleC": "Their relationship felt dated and predictable.",
+        "status": "seen"
+    },
+    {
+        "id": "b188a6e5-1b80-4059-8f17-d8a7874dc559",
+        "word": "device",
+        "persian": "\"دستگاه\"، \"ابزار\" یا \"وسیله\" همگی ترجمه‌های مناسبی برای کلمه \"device\" هستند و انتخاب بین آن‌ها به بافت جمله بستگی دارد.\n",
+        "definition": "A device is a tool or piece of equipment created for a specific purpose or function. It's a broad term that encompasses anything from simple hand tools to complex electronic instruments. Devices are generally designed to make tasks easier, more efficient, or to achieve results that would be difficult or impossible to obtain otherwise.\n\nSynonyms: gadget, apparatus, instrument, contraption, mechanism.\n",
+        "exampleA": "I need to charge my device before the meeting.",
+        "exampleB": "This device is used to measure air quality.",
+        "exampleC": "The software update improved the device's performance.",
+        "status": ""
+    },
+    {
+        "id": "49c14a31-5c5a-4b2a-a7f2-e541b29691f6",
+        "word": "digital",
+        "persian": "\"دیجیتال\" در فارسی معمولاً به صورت «دیجیتال» یا «رقمی» ترجمه می‌شود.\n",
+        "definition": "\"Digital\" refers to information, technology, or processes that use discrete, discontinuous values, typically represented by binary digits (bits) of 0 and 1, to encode and transmit data. This contrasts with analog systems, which use continuous signals. Digital technologies enable the storage, processing, and transmission of vast amounts of information with accuracy and efficiency, underlying modern computing, communication, and entertainment systems.\n\nSynonyms: computerized, electronic, binary, virtual, online.\n",
+        "exampleA": "The company is undergoing a digital transformation to improve efficiency.",
+        "exampleB": "Digital art has become increasingly popular in recent years.",
+        "exampleC": "We rely on digital communication to stay connected with our global team.",
+        "status": ""
+    },
+    {
+        "id": "f96bba16-7d03-44f3-841b-77653f4d4733",
+        "word": "display",
+        "persian": "نمایش دادن",
+        "definition": "\"Display\" refers to the act of presenting something, often visually, in a way that is easily seen and understood. It involves arranging or exhibiting items, information, or abilities for others to observe and appreciate.\n\nSynonyms: exhibit, show, present, showcase, demonstrate.\n",
+        "exampleA": "The museum will display a collection of ancient artifacts.",
+        "exampleB": "My computer display is flickering, I think it needs to be replaced.",
+        "exampleC": "He tried to display confidence, even though he was nervous.",
+        "status": "learned"
+    },
+    {
+        "id": "927d1dcf-8506-47bf-a04e-74f8e8ccde7b",
+        "word": "download",
+        "persian": "\"دانلود\" در فارسی به معنای دریافت یا بارگیری اطلاعات از یک منبع راه دور (مانند اینترنت) به دستگاه خود است.\n",
+        "definition": "\"Download\" refers to the process of transferring data, such as files, software, or media, from a remote computer system (like a server or website) to a user's local device (like a computer, smartphone, or tablet). It essentially means copying data from one location to another, with the user's device being the destination.\n\nSynonyms: retrieve, copy, fetch, transfer, receive.\n",
+        "exampleA": "I need to download the new software update before I can use the application.",
+        "exampleB": "She decided to download the movie instead of streaming it online.",
+        "exampleC": "Be careful when you download files from unknown websites as they may contain viruses.",
+        "status": ""
+    },
+    {
+        "id": "af5684a6-1d5e-4b72-8c2a-0ae36232b833",
+        "word": "envisage",
+        "persian": "در نظر داشتن، در ذهن مجسم کردن",
+        "definition": "To \"envisage\" means to imagine or conceive of something as a future possibility, often with a degree of detail and mental imagery. It's about picturing something that isn't yet real, but could be.\n\nSynonyms: envision, foresee, anticipate, visualize, contemplate, predict\n",
+        "exampleA": "I envisage a future where renewable energy powers the entire world.",
+        "exampleB": "The architect asked us to envisage the building as a living, breathing organism.",
+        "exampleC": "It's difficult to envisage what life will be like in a hundred years.",
+        "status": "seen"
+    },
+    {
+        "id": "5b3cca17-3e68-4cdb-9349-25c06f67f05b",
+        "word": "equipped",
+        "persian": "تجهیز شده",
+        "definition": "\"Equipped\" means supplied with the necessary items for a particular purpose. It implies having the right tools, resources, or qualities to perform a task or function effectively.\n\nSynonyms: furnished, provided, outfitted, supplied, prepared.\n",
+        "exampleA": "The explorers were well-equipped for their journey into the jungle.",
+        "exampleB": "The new laboratory is equipped with state-of-the-art technology.",
+        "exampleC": "The car is equipped with a powerful engine and all-wheel drive.",
+        "status": "seen"
+    },
+    {
+        "id": "a75ead08-201b-492d-9a8a-91b190347a85",
+        "word": "function",
+        "persian": "تابع، یک قطعه کد است که یک وظیفه خاص را انجام می‌دهد و می‌تواند بارها در برنامه مورد استفاده قرار گیرد.\n",
+        "definition": "\"Function\" refers to the specific purpose or activity something is designed for or naturally performs. It describes what something does or what role it plays within a larger system or context. It can apply to physical objects, biological processes, mathematical concepts, or social roles.\n\nSynonyms: purpose, role, task, activity, operation\n",
+        "exampleA": "The main function of the heart is to pump blood throughout the body.",
+        "exampleB": "In programming, a function is a reusable block of code that performs a specific task.",
+        "exampleC": "His function as a manager is to oversee the team's performance and ensure project goals are met.",
+        "status": ""
+    },
+    {
+        "id": "d4922ad3-9405-4b0c-8123-c9fc812aae87",
+        "word": "gadget",
+        "persian": "معادل دقیقی برای \"gadget\" در فارسی وجود ندارد، اما می‌توان آن را به صورت «ابزارک»، «وسیله‌ی کوچک و کاربردی»، یا «گجت» (با تلفظ انگلیسی) ترجمه کرد. انتخاب بهترین معادل به بافت جمله بستگی دارد.\n",
+        "definition": "A gadget is a small, often novel or ingenious mechanical or electronic device or tool with a specific purpose. Gadgets are typically more complex than simple tools and are often associated with technology and convenience.\n\nSynonyms: device, gizmo, contraption, appliance, tool.\n",
+        "exampleA": "I love trying out new technology, especially if it's a clever gadget.",
+        "exampleB": "He's always tinkering with some electronic gadget in his workshop.",
+        "exampleC": "This universal remote is a handy gadget to control all my devices.",
+        "status": ""
+    },
+    {
+        "id": "b1e48c4f-955c-421c-978b-7bd1f091f319",
+        "word": "hairdryer",
+        "persian": "سشوار",
+        "definition": "A hairdryer is a handheld electric appliance that blows warm or hot air to dry wet hair. It works by using a fan to force air over a heating coil, which warms the air before it exits the nozzle and evaporates the water from the hair.\n\nSynonyms: blow dryer, hair dryer, blower.\n",
+        "exampleA": "She used the hairdryer to quickly dry her wet hair.",
+        "exampleB": "The hotel room had a hairdryer mounted on the wall in the bathroom.",
+        "exampleC": "I forgot to pack my hairdryer, so I had to buy a new one.",
+        "status": "learned"
+    },
+    {
+        "id": "a1d89830-d1b8-4bd3-8df6-41ccd6c52930",
+        "word": "keyboard",
+        "persian": "معادل فارسی \"keyboard\" به صورت کلی \"صفحه کلید\" است.\n",
+        "definition": "A keyboard is an input device arranged like a typewriter that allows a user to enter characters, commands, and other functions into a computer or other electronic device by pressing labeled keys. It is the primary way most people interact with computers for tasks like typing documents, browsing the internet, and playing games.\n\nSynonyms: Keypad, console, control panel, claviatura (less common).\n",
+        "exampleA": "I spilled coffee on my keyboard this morning, and now some of the keys are sticky.",
+        "exampleB": "She prefers using a mechanical keyboard for the tactile feedback and satisfying sound.",
+        "exampleC": "The ergonomic keyboard is designed to reduce strain on your wrists and hands.",
+        "status": ""
+    },
+    {
+        "id": "190c578f-d707-49fb-85c0-e9355a3049ce",
+        "word": "keypad",
+        "persian": "معادل فارسی keypad می‌تواند «صفحه کلید عددی»، «صفحه کلید کوچک» یا به طور ساده «کلیدهای عددی» باشد. انتخاب بهترین معادل بستگی به متن و کاربرد آن دارد.\n",
+        "definition": "A keypad is a small, typically rectangular input device featuring a set of buttons, often arranged in a numerical or alphabetical order, used to enter data into a device like a calculator, phone, or electronic lock. It's a simplified version of a full keyboard, designed for efficient entry of specific types of information.\n\nSynonyms: Number pad, numeric keypad, button panel.\n",
+        "exampleA": "She entered the building using the security keypad.",
+        "exampleB": "The technician replaced the faulty keypad on the ATM.",
+        "exampleC": "I had to memorize a complex code to use the keypad.",
+        "status": ""
+    },
+    {
+        "id": "7ddbe10b-5592-4e07-ad97-3da93c60dfbe",
+        "word": "labour",
+        "persian": "کار و زحمت، کارگر و حمال",
+        "definition": "\"Labour\" refers to physical or mental exertion, typically done for economic purposes or to accomplish a task. It encompasses the effort people put in to produce goods or services, and is a key component of any economy.\n\nSynonyms: work, toil, exertion, effort, industry.\n",
+        "exampleA": "The company is struggling with a shortage of skilled labour.",
+        "exampleB": "He believes strongly in the rights of labour unions.",
+        "exampleC": "Much of the construction was done by manual labour.",
+        "status": "learned"
+    },
+    {
+        "id": "7120f730-a396-4dad-a5f8-8a3f117d36f3",
+        "word": "labour-saving",
+        "persian": "\"صرفه‌جویی در کار\"، \"کاهش زحمت\" یا \"آسان‌کننده کار\" می‌توانند ترجمه‌های مناسبی برای این عبارت باشند. بسته به بافت جمله، می‌توانید یکی از این عبارات را انتخاب کنید.\n",
+        "definition": "describes a device or method that saves a lot of effort and time",
+        "exampleA": "The new dishwasher is a truly labour-saving device.",
+        "exampleB": "Many modern appliances are designed to be labour-saving.",
+        "exampleC": "Farmers have adopted labour-saving techniques to increase efficiency.",
+        "status": "learned"
+    },
+    {
+        "id": "1be01243-2128-462f-ba00-7a26d0ae277c",
+        "word": "laptop (computer)",
+        "persian": "لپ‌تاپ یا رایانهٔ کیفی\n",
+        "definition": "A laptop is a portable personal computer designed for mobile use. It integrates a display, keyboard, a pointing device (like a touchpad or trackpad), a processor, memory, and a battery into a single, compact unit, allowing users to work or play from various locations.\n\nSynonyms: notebook, portable computer, mobile workstation.\n",
+        "exampleA": "I need a new laptop (computer) for school.",
+        "exampleB": "My old laptop (computer) finally crashed after ten years of use.",
+        "exampleC": "She prefers a lightweight laptop (computer) for traveling.",
+        "status": ""
+    },
+    {
+        "id": "bb6a1eb9-eb45-4f33-9641-32456bf3f37a",
+        "word": "memory",
+        "persian": "بسته به متن، \"memory\" می‌تونه به صورت‌های زیر ترجمه بشه:\n\n   حافظه: رایج‌ترین و کلی‌ترین ترجمه.\n   خاطره: وقتی صحبت از یادآوری رویدادهای گذشته باشه.\n   یاد: در مواردی که به یادآوری یا یادبود اشاره داره.\n   حافطه (کامپیوتر): در مباحث مربوط به کامپیوتر و دستگاه‌های دیجیتال.\n",
+        "definition": "Memory refers to the cognitive processes involved in encoding, storing, and retrieving information, allowing us to learn from past experiences and utilize knowledge. It encompasses the ability to retain information, recall events, and recognize familiar people or objects.\n\nSynonyms: recollection, remembrance, recall, retention, cognition\n",
+        "exampleA": "The scent of lavender always triggers a vivid memory of my grandmother's garden.",
+        "exampleB": "Unfortunately, the computer's memory is full, so I can't save the new file.",
+        "exampleC": "She has an incredible memory for faces and names, which makes her excellent at networking.",
+        "status": ""
+    },
+    {
+        "id": "38598f8b-93ee-4e7e-b562-f8556079dbce",
+        "word": "monitor",
+        "persian": "مانیتور در فارسی می‌تواند به معانی مختلفی به کار رود، اما رایج‌ترین ترجمه‌های آن عبارتند از: صفحه نمایش (برای دستگاه‌های الکترونیکی) یا نظارت کردن (به عنوان فعل). در بعضی موارد، بسته به زمینه، می‌توان از معادل‌هایی مانند پایش کردن یا کنترل کردن هم استفاده کرد.\n",
+        "definition": "\"Monitor\" refers to the act of observing, supervising, or keeping track of something over a period of time. It often involves regularly checking for changes or irregularities to ensure proper functioning, safety, or progress. In essence, it's about keeping a watchful eye on something.\n\nSynonyms: observe, supervise, oversee, track, watch.\n",
+        "exampleA": "Please monitor the patient's vital signs closely.",
+        "exampleB": "The teacher uses the monitor to display presentations.",
+        "exampleC": "I need to monitor my spending more carefully.",
+        "status": ""
+    },
+    {
+        "id": "506ee6e1-cd61-43d9-9f75-53ba06462588",
+        "word": "operate",
+        "persian": "بسته به متن، \"operate\" می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: عمل کردن، کار کردن، به کار انداختن، اداره کردن، و جراحی کردن.\n",
+        "definition": "To operate means to control the functioning of a machine, process, or system. It often implies taking active steps to make something work or function in a desired way.\n\nSynonyms: function, run, manage, utilize, employ.\n",
+        "exampleA": "I don't know how to operate this machine.",
+        "exampleB": "The hospital needs more surgeons to operate.",
+        "exampleC": "This company plans to operate in multiple countries.",
+        "status": ""
+    },
+    {
+        "id": "a61c0938-a368-45b1-930e-9b688716edc7",
+        "word": "patent",
+        "persian": "ثبت اختراع",
+        "definition": "A patent is a government-granted right that excludes others from making, using, selling, or importing an invention for a specific period, usually 20 years from the filing date. It essentially grants the inventor a temporary monopoly over their creation in exchange for publicly disclosing the invention.\n\nSynonyms: copyright, trademark, intellectual property protection, exclusive right.\n",
+        "exampleA": "The company applied for a patent on their new invention.",
+        "exampleB": "The software is protected by a patent.",
+        "exampleC": "The patent for the design expired last year.",
+        "status": "seen"
+    },
+    {
+        "id": "10652226-0e51-44d3-b1bd-4af690c01fc7",
+        "word": "portable",
+        "persian": "\"Portable\" در فارسی معمولاً به صورت \"قابل حمل\"، \"همراه\"، یا \"کوچک و قابل جابجایی\" ترجمه می‌شود. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "\"Portable\" means easily carried or moved, especially due to being lightweight and compact. It describes something designed for convenient transportation.\n\nSynonyms: transportable, mobile, lightweight, compact, handy\n",
+        "exampleA": "The laptop is lightweight and portable, making it easy to carry around.",
+        "exampleB": "A portable charger is essential for long trips.",
+        "exampleC": "We need a portable generator for the camping trip.",
+        "status": ""
+    },
+    {
+        "id": "e4982868-c470-4d22-9d96-c494940d297b",
+        "word": "program",
+        "persian": "«برنامه» معادل دقیقی برای \"program\" است و در بیشتر موارد کاربرد دارد. بسته به متن، می‌توان از کلماتی مانند «نرم‌افزار»، «طرح»، «دستورالعمل» یا «روال» نیز استفاده کرد.\n",
+        "definition": "A program is a set of instructions that a computer follows to perform a specific task. It essentially tells the computer what to do, step-by-step, to achieve a desired outcome, like running a game, processing data, or displaying a web page.\n\nSynonyms: code, software, application, routine.\n",
+        "exampleA": "I need to write a program to automate this task.",
+        "exampleB": "The television program was interrupted by a news bulletin.",
+        "exampleC": "She enrolled in a computer science program at the university.",
+        "status": ""
+    },
+    {
+        "id": "a1a477f2-42c2-4aaf-9bb9-660f6783152e",
+        "word": "prototype",
+        "persian": "نمونه اولیه",
+        "definition": "A prototype is an early sample, model, or release of a product built to test a concept or process. It allows designers and users to evaluate the design, functionality, and usability of an idea before investing heavily in full production. Prototypes can range from simple paper sketches to functional, albeit unfinished, versions of the final product.\n\nSynonyms: model, sample, mock-up, pilot, blueprint\n",
+        "exampleA": "a prototype for/of a new car",
+        "exampleB": "The company is testing a prototype of their new electric car.",
+        "exampleC": "This prototype illustrates the basic functionality of the software.",
+        "status": "learned"
+    },
+    {
+        "id": "b6796b48-f56d-41e7-941f-1d9645dcabda",
+        "word": "remote control",
+        "persian": "«کنترل از راه دور» یا «ریموت کنترل» هر دو ترجمه‌های رایج و قابل قبولی برای عبارت \"remote control\" هستند.\n",
+        "definition": "\"Remote control\" refers to the ability to operate a device from a distance, typically using a handheld device that transmits signals (usually infrared or radio frequency) to the equipment being controlled. This allows users to adjust settings, turn devices on or off, and perform other functions without physically interacting with the equipment itself.\n\nSynonyms: clicker, zapper, controller, remote.\n",
+        "exampleA": "I can't find the remote control anywhere, so I can't change the channel.",
+        "exampleB": "She uses a remote control to operate the drone from a safe distance.",
+        "exampleC": "My son is always playing with the remote control, turning the volume up and down.",
+        "status": ""
+    },
+    {
+        "id": "7626b778-2c14-4998-8b61-a94270636df8",
+        "word": "revolutionise",
+        "persian": "تغییر اساسی ایجاد کردن، انقلاب ایجاد کردن",
+        "definition": "To revolutionize means to completely transform or fundamentally change something, often in a dramatic and impactful way. It implies a radical departure from existing norms, processes, or systems, leading to significant advancements or disruptions.\nSynonyms: transform, overhaul, revamp, innovate, reform\n",
+        "exampleA": "The internet has helped to revolutionise communication across the globe.",
+        "exampleB": "New farming techniques promise to revolutionise agriculture in the region.",
+        "exampleC": "Electric vehicles could revolutionise the transportation industry.",
+        "status": "learned"
+    },
+    {
+        "id": "726b34da-80de-4ed2-b3e4-4de0bb8bfcd9",
+        "word": "scroll",
+        "persian": "\"Scroll\" بسته به زمینه می‌تونه به \"پیمایش (صفحه)\" یا \"طومار\" ترجمه بشه.\n",
+        "definition": "to move text or other information on a computer screen in order to see a different part of it:",
+        "exampleA": "Scroll to the end of the document.",
+        "exampleB": "He used the mouse wheel to scroll down the page.",
+        "exampleC": "The ancient scroll contained forgotten knowledge.",
+        "status": "learned"
+    },
+    {
+        "id": "4309f86d-eea6-40d3-9644-93c33de0661e",
+        "word": "silicon chip",
+        "persian": "تراشه سیلیکونی",
+        "definition": "A silicon chip, also known as an integrated circuit (IC), is a miniature electronic circuit etched onto a small piece of silicon. It contains billions of transistors and other components that perform various functions, from processing data in computers to controlling appliances. These chips are the fundamental building blocks of modern electronics.\n\nSynonyms: microchip, integrated circuit, IC, chip.\n",
+        "exampleA": "The new smartphone boasts a powerful silicon chip for improved performance.",
+        "exampleB": "Manufacturing defects in the silicon chip can lead to device malfunctions.",
+        "exampleC": "Advancements in nanotechnology are constantly pushing the boundaries of silicon chip design.",
+        "status": "learned"
+    },
+    {
+        "id": "1a74708a-e73f-4c43-8680-cdd25433613c",
+        "word": "speculate",
+        "persian": "گمان کردن",
+        "definition": "To speculate means to form a theory or conjecture about a subject without firm evidence. It often involves making guesses or inferences about something unknown, especially in financial or business contexts where one might risk money or resources on a venture with an uncertain outcome.\n\nSynonyms: conjecture, hypothesize, surmise, guess, ponder\n",
+        "exampleA": "I don't want to speculate on the reasons for his sudden departure.",
+        "exampleB": "Analysts speculate that the company's stock price will rise.",
+        "exampleC": "It's pointless to speculate about what might have been.",
+        "status": "seen"
+    },
+    {
+        "id": "8d3a66d2-9242-43a2-bed9-8afb74bb7f54",
+        "word": "state-of-the-art",
+        "persian": "\"State-of-the-art\" معمولاً به صورت \"پیشرفته‌ترین\"، \"به روزترین\"، \"مدرن‌ترین\" یا \"آخرین فناوری\" ترجمه می‌شود و به معنی بالاترین سطح توسعه یا فناوری موجود در زمان حاضر است.\n",
+        "definition": "\"State-of-the-art\" refers to the highest level of development or technology currently available, representing the most advanced and sophisticated version of something. It signifies cutting-edge innovation and often implies superior performance and capabilities compared to previous iterations or competing products.\n\nSynonyms: Cutting-edge, leading-edge, advanced, modern, top-of-the-line.\n",
+        "exampleA": "The new research facility is equipped with state-of-the-art technology.",
+        "exampleB": "This museum boasts a state-of-the-art sound system for its audio tours.",
+        "exampleC": "The hospital invested in state-of-the-art diagnostic equipment to improve patient care.",
+        "status": ""
+    },
+    {
+        "id": "4bf6250f-cfa3-4892-b2b8-06ea6eb173e8",
+        "word": "store",
+        "persian": "ذخیره کردن",
+        "definition": "A store is a place, typically a building or part of a building, where goods or services are offered for sale to customers. It's a retail outlet designed for people to browse and purchase items they need or want.\n\nSynonyms: shop, market, boutique, outlet, emporium\n",
+        "exampleA": "I need to go to the store to buy groceries.",
+        "exampleB": "The store is having a big sale this weekend.",
+        "exampleC": "He opened a new store downtown selling vintage clothing.",
+        "status": "learned"
+    },
+    {
+        "id": "08da5095-7290-4dc9-9af9-62de00075c2d",
+        "word": "surpass",
+        "persian": "پیشی گرفتن، پیش افتادن از",
+        "definition": "To surpass means to go beyond, exceed, or be better than something or someone else. It implies achieving a higher level, performance, or quality compared to a benchmark or competitor.\n\nSynonyms: exceed, outdo, excel, transcend, outstrip\n",
+        "exampleA": "The book's success has surpassed everyone's expectations.",
+        "exampleB": "Her athletic ability will likely surpass all expectations.",
+        "exampleC": "The company's profits continue to surpass previous records.",
+        "status": "seen"
+    },
+    {
+        "id": "dc5f8752-ca7c-4f8a-b6d0-18d2896ee029",
+        "word": "technological era",
+        "persian": "عصر تکنولوژی",
+        "definition": "The \"technological era\" refers to a period in history defined by rapid advancements and widespread adoption of technology, significantly impacting various aspects of human life, including communication, work, entertainment, and society as a whole. It's characterized by innovation, automation, and the increasing reliance on digital tools and systems.\n\nSynonyms: digital age, information age, tech era, modern era, new technological age\n",
+        "exampleA": "We are living in a technological era, where advancements are happening at an unprecedented pace.",
+        "exampleB": "The challenges of the technological era require us to rethink education and skills development.",
+        "exampleC": "Businesses that fail to adapt to the technological era risk becoming obsolete.",
+        "status": "learned"
+    },
+    {
+        "id": "0d0df206-54b7-4291-ba2f-78eb9c8fb51e",
+        "word": "technology",
+        "persian": "معادل‌های متعددی برای کلمه \"technology\" در فارسی وجود دارد که با توجه بهcontext  می‌توان از آن‌ها استفاده کرد. رایج‌ترین ترجمه‌ها عبارتند از:\n   فناوری: این واژه پرکاربردترین و عمومی‌ترین معادل برای \"technology\" است و به طور کلی به کاربرد علم در صنعت و زندگی روزمره اشاره دارد.\n   تکنولوژی: این واژه شکل فرانسوی‌ شده‌ی \"technology\" است و در فارسی نیز به کار می‌رود، اما استفاده از \"فناوری\" رایج‌تر است.\n   فن‌آوری: این واژه نیز معادل \"فناوری\" است و به فنون و روش‌های به‌کارگیری علم اشاره دارد.\n   فن: در برخی موارد، بسته به متن، می‌توان از کلمه \"فن\" نیز به جای \"technology\" استفاده کرد، به خصوص زمانی که منظور مهارت یا روش خاصی باشد.\n",
+        "definition": "\"Technology\" refers to the application of scientific knowledge for practical purposes, particularly in industry, to create tools, processes, and systems that solve problems and improve efficiency. It encompasses both the tangible products, like machines and devices, and the intangible methods and techniques used to create them.\n\nSynonyms: innovation, engineering, applied science, technique\n",
+        "exampleA": "Technology is rapidly changing the way we communicate.",
+        "exampleB": "The company invests heavily in research and development of new technology.",
+        "exampleC": "Access to technology can help bridge the educational gap.",
+        "status": ""
+    },
+    {
+        "id": "bbfbfea3-00ff-474e-b707-0e93b4403ea3",
+        "word": "telecommunication",
+        "persian": "مخابرات، ارتباط از راه دور",
+        "definition": "Telecommunication refers to the transmission of information over a distance, typically using electronic signals or electromagnetic waves. It encompasses various technologies and methods for sending messages, data, voice, and video between two or more points. Essentially, it's the art and science of communicating at a distance.\n\nSynonyms: communication, data transmission, networking, media transfer\n",
+        "exampleA": "The development of telecommunication technologies has revolutionized global communication.",
+        "exampleB": "Our company relies heavily on telecommunication systems for internal and external correspondence.",
+        "exampleC": "Advances in telecommunication have made it easier to connect with people across vast distances.",
+        "status": "learned"
+    },
+    {
+        "id": "4bb218b6-404c-4d75-b845-30c5d464a42f",
+        "word": "telecommunications",
+        "persian": "مخابرات، به معنی فن‌آوری و دانش انتقال اطلاعات از راه دور با استفاده از وسایلی مانند تلفن، تلگراف، رادیو و اینترنت است.\n",
+        "definition": "Telecommunications refers to the communication of information over a distance using electronic means. It encompasses a broad range of technologies and techniques used to transmit voice, data, video, and other types of information between two or more locations. This includes devices like telephones, radios, televisions, and computer networks, as well as the infrastructure that supports them.\n\nSynonyms: Communication, networking, connectivity, data transmission.\n",
+        "exampleA": "The rapid advancement of telecommunications has revolutionized global communication.",
+        "exampleB": "She works for a large company in the telecommunications industry.",
+        "exampleC": "Reliable telecommunications infrastructure is crucial for economic development.",
+        "status": ""
+    },
+    {
+        "id": "c9029e43-9c1e-4688-a663-3b060e60a8b0",
+        "word": "the Internet",
+        "persian": "ترجمهٔ رایج و جاافتادهٔ \"the Internet\" به فارسی، «اینترنت» است.\n",
+        "definition": "The Internet is a global network connecting billions of computers and other electronic devices, enabling them to communicate and share information. It's the infrastructure that allows for the World Wide Web (websites), email, file sharing, and countless other online activities.\n\nSynonyms: World Wide Web, Net, Information Superhighway, Cyberspace.\n",
+        "exampleA": "The Internet has revolutionized the way we communicate.",
+        "exampleB": "Access to the Internet is now considered a basic human right in some countries.",
+        "exampleC": "She spends hours each day browsing the Internet.",
+        "status": ""
+    },
+    {
+        "id": "38d349f5-7746-4631-a151-6d1b831c63bc",
+        "word": "the latest",
+        "persian": "\"آخرین\"، \"جدیدترین\" یا \"به روزترین\" با توجه به متن.\n",
+        "definition": "\"The latest\" refers to the most recent, newest, or up-to-date version or iteration of something. It signifies that something is the current standard, representing the most advanced or most current state of affairs.\n\nSynonyms: newest, most recent, up-to-date, current, latest generation.\n",
+        "exampleA": "The company unveiled the latest version of its software.",
+        "exampleB": "Have you heard the latest gossip about the new manager?",
+        "exampleC": "The museum is showcasing the latest trends in contemporary art.",
+        "status": ""
+    },
+    {
+        "id": "d921045f-ee2c-443d-ba4c-97d575705df8",
+        "word": "tricky",
+        "persian": "سخت و مشکل",
+        "definition": "\"Tricky\" describes something or someone that is difficult to deal with, often because it's complex, deceptive, or requires careful handling. It implies a need for cleverness or caution to navigate a situation successfully.\n\nSynonyms: difficult, challenging, complicated, delicate, cunning, deceptive.\n",
+        "exampleA": "The instructions were deliberately tricky to see if we were paying attention.",
+        "exampleB": "Negotiating a salary can be a tricky situation, requiring careful planning.",
+        "exampleC": "Disarming the bomb proved to be a tricky task, even for the experts.",
+        "status": "learned"
+    },
+    {
+        "id": "1d20c6f4-6597-4687-841c-7aab7e5f76d8",
+        "word": "up-to-date",
+        "persian": "\"Up-to-date\" به فارسی می‌تونه به معنی \"به‌روز\"، \"جدیدترین\"، \"امروزی\" یا \"مدرن\" باشه، بسته به context جمله.\n",
+        "definition": "\"Up-to-date\" means current, modern, and reflecting the latest information or advancements. It signifies something is not obsolete or outdated, and is in accordance with the present time and standards.\n\nSynonyms: Current, contemporary, modern, state-of-the-art, fashionable, trendy.\n",
+        "exampleA": "Make sure your software is up-to-date to protect against the latest security threats.",
+        "exampleB": "The librarian works hard to keep the collection of books and journals up-to-date.",
+        "exampleC": "We need an up-to-date report on the project's progress before the meeting.",
+        "status": ""
+    },
+    {
+        "id": "06dd598c-98ff-4145-919c-86a056c8f8ef",
+        "word": "user-friendly",
+        "persian": "کاربر پسند",
+        "definition": "\"User-friendly\" describes something, typically a product, system, or interface, that is easy to use, understand, and navigate. It implies a design that minimizes confusion and frustration, making it accessible to users with varying levels of technical expertise.\n\nSynonyms: intuitive, accessible, easy-to-use, straightforward, simple.\n",
+        "exampleA": "The new software is incredibly user-friendly, even for beginners.",
+        "exampleB": "We designed the website to be user-friendly on all devices.",
+        "exampleC": "The instruction manual was surprisingly user-friendly and easy to understand.",
+        "status": "learned"
+    },
+    {
+        "id": "8730c7c6-3eab-430f-a813-32f28aacecd4",
+        "word": "virtual",
+        "persian": "مجازی",
+        "definition": "\"Virtual\" generally means something that exists or functions in a simulated or digital environment, rather than in the physical world. It mimics or represents something real, often using computer technology. Think of virtual reality headsets creating an experience that feels real, or virtual meetings connecting people remotely.\n\nSynonyms: simulated, digital, online, artificial, computerized.\n",
+        "exampleA": "The company held a virtual meeting to discuss the new project.",
+        "exampleB": "She created a virtual world where she could explore her imagination.",
+        "exampleC": "He attended a virtual conference on artificial intelligence.",
+        "status": "learned"
+    },
+    {
+        "id": "541eb34d-2272-44ff-bf6f-94600fdb5b92",
+        "word": "vision",
+        "persian": "\"Vision\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: دیدگاه، چشم‌انداز، بینش، یا تصور. انتخاب دقیق‌ترین واژه بستگی به این داره که vision در چه زمینه‌ای استفاده شده.\n",
+        "definition": "\"Vision\" refers to the ability to think about or plan the future with imagination or wisdom. It's the capacity to see beyond the present and anticipate future trends, needs, or possibilities, often inspiring and guiding actions. It's about having a clear mental image of what could be and striving to achieve it.\n\nSynonyms: foresight, insight, perspective, imagination, far-sightedness.\n",
+        "exampleA": "The company's vision is to become a global leader in sustainable energy solutions.",
+        "exampleB": "She has a clear vision for the future of the organization.",
+        "exampleC": "His blurred vision made it difficult to read the road signs.",
+        "status": ""
+    },
+    {
+        "id": "8a0f708d-8f87-4238-b7b9-d9a8e552ff05",
+        "word": "wireless connection",
+        "persian": "اتصال بی‌سیم\n",
+        "definition": "A wireless connection enables devices to communicate and exchange data without the use of physical cables. It relies on radio waves, infrared signals, or other electromagnetic waves to transmit information between devices, allowing for mobility and flexibility.\n\nSynonyms: WiFi, wireless network, WLAN, radio connection.\n",
+        "exampleA": "My laptop requires a stable wireless connection for video conferencing.",
+        "exampleB": "The library offers a free wireless connection to all visitors.",
+        "exampleC": "Troubleshooting the wireless connection can sometimes be frustrating.",
+        "status": ""
+    },
+    {
+        "id": "9ce968be-b6d9-4583-b9c3-3adae9ab86af",
+        "word": "wireless connection compact",
+        "persian": "اتصال بی‌سیم فشرده / جمع‌وجور\n",
+        "definition": "\"Wireless connection compact\" refers to a small, portable device or system that allows for wireless internet or network access. The term emphasizes both the wireless functionality and its compact size, making it easily transportable and convenient to use in various locations.\n\nSynonyms: portable hotspot, pocket Wi-Fi, travel router, wireless dongle.\n",
+        "exampleA": "This portable speaker offers a strong wireless connection compact enough to fit in your backpack.",
+        "exampleB": "For travelers, finding a reliable wireless connection compact enough to use on the go is essential.",
+        "exampleC": "The new device boasts a secure wireless connection compact in size and easy to install.",
+        "status": ""
+    }
+]

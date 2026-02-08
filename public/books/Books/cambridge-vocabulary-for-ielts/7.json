@@ -1,0 +1,702 @@
+[
+    {
+        "id": "09b24838-7e76-436b-81ff-0e47fdc3c4c0",
+        "word": "accommodation",
+        "persian": "\"Accommodation\" بسته به متن می‌تونه معانی مختلفی داشته باشه. در حالت کلی می‌شه اون رو به صورت \"اقامتگاه\"، \"محل اقامت\"، \"اسکان\" یا \"تسهیلات\" ترجمه کرد.\n",
+        "definition": "Accommodation refers to the process of adapting or adjusting to new circumstances, needs, or differences. It can involve making changes to one's behavior, beliefs, or environment to better fit a specific situation or to be more inclusive of others. It emphasizes flexibility and compromise in order to facilitate positive interactions and avoid conflict.\n\nSynonyms: Adjustment, adaptation, modification, compromise, conciliation.\n",
+        "exampleA": "The hotel provided excellent accommodation for the conference attendees.",
+        "exampleB": "We had to make accommodation for his dietary restrictions.",
+        "exampleC": "The company is seeking accommodation with the union to resolve the dispute.",
+        "status": ""
+    },
+    {
+        "id": "da2a05bd-b677-4985-83db-0f63af31e58e",
+        "word": "adventurous",
+        "persian": "ماجراجویانه، ماجراجو",
+        "definition": "\"Adventurous\" describes someone or something that is willing to take risks and try new, daring, or exciting experiences. It suggests a spirit of exploration, courage, and a willingness to step outside of one's comfort zone to embrace the unknown.\n\nSynonyms: daring, bold, intrepid, venturesome, exploratory\n",
+        "exampleA": "The adventurous traveler explored remote corners of the globe.",
+        "exampleB": "She had an adventurous spirit and was always trying new things.",
+        "exampleC": "Hiking through the jungle was an adventurous undertaking.",
+        "status": "learned"
+    },
+    {
+        "id": "0fcaefa3-5023-4e9e-a1c9-eceb2b24d722",
+        "word": "affect",
+        "persian": "\"Affect\" بسته به نقشی که در جمله داره می‌تونه معانی مختلفی داشته باشه. اگر فعل باشه، معمولاً به معنی \"تاثیر گذاشتن\"، \"اثر کردن\" یا \"متاثر کردن\" است. اگر اسم باشه، معمولاً در روانشناسی به معنی \"هیجان\"، \"احساس\" یا \"عاطفه\" به کار می‌رود.\n",
+        "definition": "\"Affect\" primarily means to have an influence on something or someone, causing a change or impact. It refers to the act of producing an effect.\n Synonyms: influence, impact, alter, modify, change.\n",
+        "exampleA": "The lack of sleep can affect your mood and concentration.",
+        "exampleB": "How will the new policy affect our sales?",
+        "exampleC": "The constant rain began to affect the crops.",
+        "status": ""
+    },
+    {
+        "id": "c7a2abd5-8a9d-4f24-8841-51d310f0515e",
+        "word": "attraction",
+        "persian": "جذابیت، جاذبه",
+        "definition": "Attraction refers to the power or quality of evoking interest, pleasure, or liking in someone or something. It can describe a physical or romantic pull between individuals, a captivating feature of a place or object, or even the magnetic pull of gravity. Fundamentally, attraction represents the force or characteristic that draws people or things together.\n\nSynonyms: allure, charm, appeal, magnetism, fascination.\n",
+        "exampleA": "tourist attractions",
+        "exampleB": "The amusement park's new roller coaster is its main attraction.",
+        "exampleC": "Her intelligence and wit were a powerful attraction for him.",
+        "status": "learned"
+    },
+    {
+        "id": "8907633a-f70e-446f-bb50-03a41d894e48",
+        "word": "breathtaking",
+        "persian": "\"Breathtaking\" در فارسی می‌تواند به صورت‌های مختلفی ترجمه شود که بستگی به بافت جمله دارد، اما معادل‌های رایج آن عبارتند از:\n\n   نفس‌گیر\n   حیرت‌انگیز\n   مسحورکننده\n   با شکوه\n   دیدنی\n   فوق‌العاده",
+        "definition": "extremely exciting, beautiful, or surprising:",
+        "exampleA": "The view from the top of the mountain is breathtaking.",
+        "exampleB": "The view from the mountaintop was breathtaking.",
+        "exampleC": "Her performance was a breathtaking display of talent.",
+        "status": "seen"
+    },
+    {
+        "id": "c2ed160b-d62c-4cbc-b604-e2aa7eb13a42",
+        "word": "budget",
+        "persian": "بودجه، به معنی تخمین درآمدها و هزینه‌های یک دوره زمانی مشخص (مثلاً یک سال) و برنامه‌ریزی برای نحوه استفاده از منابع مالی است.\n",
+        "definition": "very cheap",
+        "exampleA": "a budget holiday/hotel/price",
+        "exampleB": "The department's budget was significantly reduced this year.",
+        "exampleC": "We need to budget our time carefully to meet the deadline.",
+        "status": "learned"
+    },
+    {
+        "id": "16e9435f-9de9-414b-ba33-08c33a5cf4d1",
+        "word": "coastal",
+        "persian": "ساحلی",
+        "definition": "\"Coastal\" refers to anything located on or near a coast, which is the land bordering an ocean or sea. It generally describes geographical features, environments, communities, or activities associated with the area where land meets the ocean.\n\nSynonyms: littoral, shoreline, seaside, maritime, oceanic.\n",
+        "exampleA": "The coastal breeze carried the scent of salt and seaweed.",
+        "exampleB": "Many people choose to live in coastal areas for their access to the ocean.",
+        "exampleC": "Conservation efforts are crucial to protect vulnerable coastal ecosystems.",
+        "status": "learned"
+    },
+    {
+        "id": "abc57782-85c1-428a-b8ef-91f8fbcce411",
+        "word": "community",
+        "persian": "\"Community\" بسته به متن می‌تونه به \"جامعه\"، \"انجمن\"، \"گروه\" یا \"هم‌محلی‌ها\" ترجمه بشه.\n",
+        "definition": "\"Community\" refers to a group of people living in the same place or having a particular characteristic in common, or a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals. It emphasizes a sense of belonging, shared identity, and often mutual support among its members.\n\nSynonyms: society, group, fellowship, network, collective\n",
+        "exampleA": "The community rallied together to support the family after the fire.",
+        "exampleB": "Building a strong community is essential for a thriving society.",
+        "exampleC": "Our online community provides a platform for sharing knowledge and experiences.",
+        "status": ""
+    },
+    {
+        "id": "e4ed540e-bf0a-4b1a-a233-36558c8e2287",
+        "word": "cosmopolitan",
+        "persian": "شهر چندملیتی. بین المللی",
+        "definition": "\"Cosmopolitan\" describes someone or something that is familiar with and at ease in many different countries and cultures. It implies a broad-mindedness, sophistication, and openness to the world, often associated with being well-traveled and understanding diverse perspectives. A cosmopolitan person feels comfortable interacting with people from different backgrounds and embraces the global perspective.\n\nSynonyms: worldly, sophisticated, cultured, international, urbane.\n",
+        "exampleA": "New York is a highly cosmopolitan city.",
+        "exampleB": "New York City is known for its cosmopolitan atmosphere, attracting people from all over the world.",
+        "exampleC": "She had a cosmopolitan outlook, embracing different cultures and perspectives.",
+        "status": "learned"
+    },
+    {
+        "id": "84124728-23dd-4a67-8c1c-c772c04fbb0d",
+        "word": "countryside",
+        "persian": "بیرون شهر",
+        "definition": "The countryside refers to the rural areas of a region or country, encompassing the land, natural features, and small settlements located outside of cities and towns. It's generally characterized by farms, fields, forests, hills, and other natural landscapes.\nSynonyms: rural area, farmland, backwoods, hinterland\n",
+        "exampleA": "The mansion is set in 90 acres of beautiful, unspoilt countryside.",
+        "exampleB": "They decided to move to the countryside for a more peaceful life.",
+        "exampleC": "The painter captured the beauty of the countryside in his landscape.",
+        "status": "learned"
+    },
+    {
+        "id": "dd04beed-7dcb-4bbb-bb0d-b5be747982cb",
+        "word": "crisp",
+        "persian": "کلمه \"crisp\" بسته به بافتار، معانی مختلفی داره. اما رایج‌ترین ترجمه‌ها این‌ها هستند:\n\n   ترد: برای توصیف بافت غذاهایی مثل چیپس یا نان سوخاری.\n   تازه و شاداب: برای توصیف هوا یا سبزیجات.\n   واضح و رسا: برای توصیف صدا یا تصویر.\n",
+        "definition": "describes air that is cold, dry, and fresh",
+        "exampleA": "I breathed in deeply the crisp mountain air.",
+        "exampleB": "The autumn air was crisp and invigorating.",
+        "exampleC": "She took a bite of the apple, enjoying its crisp texture.",
+        "status": "learned"
+    },
+    {
+        "id": "ab07d74b-2c2b-4d17-8c39-e4f8b11828de",
+        "word": "crystal clear",
+        "persian": "خیلی شفاف",
+        "definition": "\"Crystal clear\" describes something that is exceptionally easy to understand or perceive, leaving no room for confusion or doubt. It suggests perfect clarity and transparency, making the subject matter readily accessible.\n\nSynonyms: unambiguous, explicit, lucid, obvious, transparent.\n",
+        "exampleA": "The instructions were crystal clear, so even a beginner could understand them.",
+        "exampleB": "Her explanation of the complex topic was crystal clear, making it easy to grasp.",
+        "exampleC": "After the software update, the interface was crystal clear and much more user-friendly.",
+        "status": "seen"
+    },
+    {
+        "id": "f8ff8b25-5f40-4dc9-bfcb-2188563409b1",
+        "word": "destination",
+        "persian": "مقصد",
+        "definition": "A destination is the place someone is going or aiming for; it's the intended end point of a journey, trip, or endeavor. It represents the final location or objective that one sets out to reach.\n\nSynonyms: goal, target, aim, endpoint, objective.\n",
+        "exampleA": "The Caribbean is a popular holiday (US vacation) destination.",
+        "exampleB": "Our final destination on the road trip was the Grand Canyon.",
+        "exampleC": "Please enter the delivery destination in the online form.",
+        "status": "learned"
+    },
+    {
+        "id": "921c9d28-3abd-4a95-a906-8ca443d1c131",
+        "word": "diverse",
+        "persian": "متنوع",
+        "definition": "\"Diverse\" means showing a great deal of variety; being composed of different elements or qualities. It suggests a collection of things that are distinct from one another, creating richness and complexity.\n\nSynonyms: varied, assorted, heterogeneous, multifaceted, eclectic.\n",
+        "exampleA": "New York is a very culturally/ethnically diverse city.",
+        "exampleB": "The university boasts a student body from diverse backgrounds and cultures.",
+        "exampleC": "The city's economy is strong due to its diverse range of industries.",
+        "status": "learned"
+    },
+    {
+        "id": "aee0be27-015a-46e0-91e7-cb7d97669408",
+        "word": "downside",
+        "persian": "\"downside\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما به طور کلی به معنی جنبه منفی، نقطه ضعف، یا معایب هست.\n",
+        "definition": "a disadvantage or problem",
+        "exampleA": "The downside of living in a big city is the high cost of living.",
+        "exampleB": "Every opportunity has a downside, you just need to weigh the pros and cons.",
+        "exampleC": "The only downside to the new software is that it requires more training.",
+        "status": "seen"
+    },
+    {
+        "id": "bddd1673-5d68-4770-a1fc-02ab3c0be867",
+        "word": "drought",
+        "persian": "خشکسالی",
+        "definition": "Drought refers to a prolonged period of abnormally low rainfall, leading to a shortage of water. This deficiency can significantly impact ecosystems, agriculture, and human populations, causing widespread issues like crop failure, water restrictions, and increased risk of wildfires.\nSynonyms: aridity, dryness, water scarcity, desiccation.\n",
+        "exampleA": "The prolonged drought caused widespread crop failures.",
+        "exampleB": "California is facing a severe drought this year.",
+        "exampleC": "The drought conditions led to water restrictions for residents.",
+        "status": "learned"
+    },
+    {
+        "id": "f627c7c3-a82f-4a00-b4ff-3e087a366695",
+        "word": "eco-tourism",
+        "persian": "صنعت گردشگری",
+        "definition": "Eco-tourism is a form of tourism that focuses on responsible travel to natural areas, conserving the environment, and improving the well-being of local people. It aims to minimize the negative impacts of tourism while contributing to the protection of ecosystems and empowering local communities economically and socially.\n\nSynonyms: Sustainable tourism, nature tourism, responsible tourism.\n",
+        "exampleA": "The small island relies heavily on eco-tourism to sustain its economy.",
+        "exampleB": "Many national parks now offer guided tours that promote eco-tourism and conservation.",
+        "exampleC": "We chose an eco-tourism resort that focused on minimizing its environmental impact.",
+        "status": "learned"
+    },
+    {
+        "id": "3598dd65-86e2-4f1f-902e-4bf89e0b6037",
+        "word": "effect",
+        "persian": "\"Effect\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین ترجمه‌ها عبارتند از: اثر، نتیجه، تاثیر.\n",
+        "definition": "\"Effect\" refers to a change, result, or consequence that is produced by a cause or agent. It is the outcome or impact of something happening.\nSynonyms: result, consequence, impact, outcome, aftermath.\n",
+        "exampleA": "The medication had a positive effect on her health.",
+        "exampleB": "The special effects in the movie were truly impressive.",
+        "exampleC": "What effect will these changes have on the company's profits?",
+        "status": ""
+    },
+    {
+        "id": "e77d8507-8fe4-4c54-87f2-cd948d347851",
+        "word": "facilities",
+        "persian": "تسهیلات",
+        "definition": "\"Facilities\" refers to physical spaces or equipment made available for a specific purpose. It encompasses buildings, utilities (like water and electricity), and resources designed to make certain activities easier or more convenient. Essentially, it's anything that provides a service or helps to support a function.\n\nSynonyms: amenities, resources, installations, infrastructure, services.\n",
+        "exampleA": "The hotel boasts excellent facilities, including a gym and swimming pool.",
+        "exampleB": "Upgrading the school's facilities is crucial for improving the students' learning environment.",
+        "exampleC": "Access to modern medical facilities is a priority in rural areas.",
+        "status": "learned"
+    },
+    {
+        "id": "1e988b79-1224-432a-8108-86ebc417d2e0",
+        "word": "fall to a low",
+        "persian": "به حداقل رسیدن",
+        "definition": "\"Fall to a low\" means to reach a particularly undesirable or disappointing state, level, or point in something like performance, behavior, or condition. It implies a decline from a previous, more acceptable level.\n\nSynonyms: hit rock bottom, sink to a new low, reach nadir, stoop.\n",
+        "exampleA": "The company's stock price continued to fall to a low after the disappointing earnings report.",
+        "exampleB": "After weeks of steady decline, the river finally began to fall to a low, exposing the riverbed.",
+        "exampleC": "His spirits would often fall to a low during the long, dark winter months.",
+        "status": "learned"
+    },
+    {
+        "id": "5fc4bdd7-2386-4896-a85b-72f48281766f",
+        "word": "ferry",
+        "persian": "لنج، قایق مسافرکش",
+        "definition": "A ferry is a boat or ship used to transport passengers, and sometimes vehicles and cargo, across a body of water, typically over a relatively short distance as a regular service. It essentially acts as a floating bridge, connecting two points separated by water.\n\nSynonyms: boat, ship, shuttle, barge, watercraft.\n",
+        "exampleA": "We took the ferry to the island for a weekend getaway.",
+        "exampleB": "The ferry was delayed due to the heavy fog.",
+        "exampleC": "Cars lined up to board the ferry to cross the river.",
+        "status": "learned"
+    },
+    {
+        "id": "f7d7ffa5-e272-49d5-83c4-370753d6b012",
+        "word": "flexible",
+        "persian": "\"انعطاف‌پذیر\" یا \"قابل انعطاف\" بهترین معادل‌ها برای کلمه \"flexible\" هستند. بسته به متن، می‌توان از کلماتی مانند \"سازگار\"، \"منعطف\"، یا \"قابل تغییر\" هم استفاده کرد.\n",
+        "definition": "\"Flexible\" means able to bend, adapt, or change easily without breaking or becoming damaged. It implies a willingness to adjust to new circumstances, ideas, or requirements, making it a valuable trait in various contexts from physical objects to personal attitudes.\n\nSynonyms: adaptable, pliable, versatile, malleable, resilient.\n",
+        "exampleA": "The company offers flexible working hours to accommodate employees' needs.",
+        "exampleB": "Yoga can help improve your flexibility and balance.",
+        "exampleC": "A flexible budget allows for adjustments based on unexpected expenses.",
+        "status": ""
+    },
+    {
+        "id": "9b3443d5-a74f-458f-998c-0b95cc1093e9",
+        "word": "fluctuate",
+        "persian": "نوسان داشتن",
+        "definition": "\"Fluctuate\" means to rise and fall irregularly in number or amount, or to vary or waver between different conditions or levels. It suggests an unsteady or unstable movement, rather than a consistent or predictable trend.\n\nSynonyms: Vary, oscillate, waver, undulate, vacillate.\n",
+        "exampleA": "The stock market can fluctuate wildly depending on investor confidence.",
+        "exampleB": "Her weight tends to fluctuate with the seasons.",
+        "exampleC": "The water temperature will fluctuate throughout the day.",
+        "status": "learned"
+    },
+    {
+        "id": "660bf93c-6492-40ed-b68b-61d623a812c4",
+        "word": "foreign",
+        "persian": "بسته به متن، \"foreign\" می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌های اون در فارسی عبارتند از: خارجی، بیگانه، فرنگی، و وارداتی.\n",
+        "definition": "\"Foreign\" refers to something that originates from or is characteristic of a country or culture other than one's own. It implies being unfamiliar, alien, or external to a specific place, person, or group. It can describe people, languages, goods, customs, or ideas that come from abroad.\n\nSynonyms: alien, exotic, non-native, overseas, external, unfamiliar.\n",
+        "exampleA": "She had a beautiful foreign accent that captivated everyone.",
+        "exampleB": "The company faced challenges when expanding into foreign markets.",
+        "exampleC": "He felt like a stranger in a foreign land, disconnected from the culture.",
+        "status": ""
+    },
+    {
+        "id": "f81028ac-5508-4fcd-a5bc-615c5570b2d2",
+        "word": "fountain",
+        "persian": "فواره",
+        "definition": "A fountain is a decorative structure, typically man-made, that jets water into the air or spills it into a basin. It's often found in public spaces like parks or gardens, serving as both an aesthetic feature and a source of amusement.\n\nSynonyms: water feature, water jet, spray, jet d'eau.\n",
+        "exampleA": "The children splashed in the cool water of the fountain on the hot summer day.",
+        "exampleB": "She tossed a coin into the fountain, making a wish for good luck.",
+        "exampleC": "The town square was centered around a beautiful marble fountain.",
+        "status": "learned"
+    },
+    {
+        "id": "f340ca00-795c-4af3-92ab-a685faeea24c",
+        "word": "harbour",
+        "persian": "بندر",
+        "definition": "\"Harbour\" refers to a sheltered body of water, natural or artificial, deep enough to provide anchorage for ships. It offers protection from waves, currents, and storms, making it a safe haven for vessels to load, unload, repair, or simply wait out unfavorable conditions.\n\nSynonyms: port, haven, dock, anchorage, marina.\n",
+        "exampleA": "The small fishing boats bobbed gently in the harbour.",
+        "exampleB": "This policy might harbour unintended consequences.",
+        "exampleC": "The city's deep natural harbour made it a prime location for trade.",
+        "status": "learned"
+    },
+    {
+        "id": "caa81086-1da1-43cd-bc7f-e60bbb91af4f",
+        "word": "identification",
+        "persian": "شناسایی",
+        "definition": "Identification is the process of establishing or proving who or what someone or something is. It involves recognizing, verifying, or determining the identity of a person, object, or concept. It can also refer to the feeling of being similar to or connected with someone or something.\n\nSynonyms: Recognition, verification, establishment, pinpointing, affiliation.\n",
+        "exampleA": "Most of the bodies were badly burned, making identification almost impossible.",
+        "exampleB": "The police asked for identification before allowing him to pass.",
+        "exampleC": "Accurate species identification is crucial for effective conservation efforts.",
+        "status": "learned"
+    },
+    {
+        "id": "cafb71bf-eb66-4897-bd93-888ee3e8996b",
+        "word": "inhabitant",
+        "persian": "ساکن",
+        "definition": "An inhabitant is a person or animal that lives in or occupies a particular place. It implies a degree of permanence or habitual residence in that specific location.\n\nSynonyms: resident, dweller, occupant, denizen\n",
+        "exampleA": "a city of five million inhabitants",
+        "exampleB": "The island's only inhabitant was a hermit who had lived there for decades.",
+        "exampleC": "New York City is a vibrant metropolis with millions of inhabitants.",
+        "status": "learned"
+    },
+    {
+        "id": "8d11b09f-59a3-4980-9da5-2969ee5509fe",
+        "word": "itinerary",
+        "persian": "برنامه سفر",
+        "definition": "An itinerary is a detailed plan for a journey or trip, outlining the schedule of activities, locations to be visited, and transportation arrangements. It serves as a roadmap, ensuring that travelers make the most of their time and experience all the planned highlights.\n\nSynonyms: schedule, agenda, plan, program, timetable\n",
+        "exampleA": "The tour operator will arrange transport and plan your itinerary.",
+        "exampleB": "The travel agent prepared a detailed itinerary for our trip to Italy.",
+        "exampleC": "The conference itinerary included workshops, keynote speakers, and networking events.",
+        "status": "seen"
+    },
+    {
+        "id": "77d309fc-a7b9-4f63-8a68-a253e2208407",
+        "word": "journey",
+        "persian": "\"Journey\" بسته به متن می‌تونه به \"سفر\"، \"مسافرت\"، \"سیر\"، \"طی طریق\" یا \"گذر\" ترجمه بشه.\n",
+        "definition": "the act of travelling from one place to another, especially in a vehicle",
+        "exampleA": "Have a safe journey!",
+        "exampleB": "The long journey across the desert tested their endurance.",
+        "exampleC": "Her journey of self-discovery led her to a more fulfilling life.",
+        "status": "learned"
+    },
+    {
+        "id": "087336f2-5d3d-419f-bad1-8cc4450b54cc",
+        "word": "landscape",
+        "persian": "منظره",
+        "definition": "A landscape refers to all the visible features of an area of land, often including its physical elements like mountains, hills, plains, and bodies of water, along with living elements like vegetation, and human elements including built structures and activities. It encompasses the overall character and appearance of a place, shaping its visual identity and impacting human perception.\n\nSynonyms: scenery, vista, terrain, panorama, environment.\n",
+        "exampleA": "The artist painted a breathtaking landscape of the rolling hills.",
+        "exampleB": "Urban planning often overlooks the impact on the natural landscape.",
+        "exampleC": "After the fire, the landscape was completely transformed.",
+        "status": "learned"
+    },
+    {
+        "id": "745c6a30-32cf-40a9-8e3d-6ac9352a5a2a",
+        "word": "local",
+        "persian": "معنی کلمه \"local\" بسته به متن می‌تونه متفاوت باشه، اما معمولاً به معنی «محلی»، «بومی»، یا «منطقه‌ای» هست.\n",
+        "definition": "\"Local\" refers to something belonging to or characteristic of a particular place or area, especially the place where one lives or is located. It emphasizes the proximity and connection to a specific geographic region, often highlighting community ties and resources within that area.\n\nSynonyms: regional, community, neighborhood, indigenous, endemic.\n",
+        "exampleA": "We support our local farmers by buying fresh produce at the farmers market.",
+        "exampleB": "The band gained a loyal following through their performances at local pubs.",
+        "exampleC": "She is a local expert on the history of the town.",
+        "status": ""
+    },
+    {
+        "id": "4a03d9b3-479c-4aac-b1b5-e199bb6b2a62",
+        "word": "local produce",
+        "persian": "محصول محلی",
+        "definition": "\"Local produce\" refers to agricultural products, like fruits, vegetables, and sometimes dairy or meat, that are grown or raised in a specific, limited geographic area, typically within a certain radius of where they are sold or consumed. This emphasizes freshness, supports local farmers and economies, and often reduces the environmental impact associated with long-distance transportation.\n\nSynonyms: Farm-fresh food, regionally sourced food, locally grown food, community supported agriculture (CSA).\n",
+        "exampleA": "dairy/fresh/agricultural produce",
+        "exampleB": "The restaurant prides itself on using only local produce in its dishes.",
+        "exampleC": "Supporting farmers markets is a great way to access fresh, local produce.",
+        "status": "learned"
+    },
+    {
+        "id": "25e3a67f-aa2e-4d5a-aaaf-8a8b7cb92a2c",
+        "word": "luggage",
+        "persian": "اثاثیه، توشه",
+        "definition": "Luggage refers to the bags, suitcases, and containers used to carry a traveler's personal belongings during a journey. It encompasses items like clothes, toiletries, and other necessities needed for travel.\n\nSynonyms: baggage, baggage, suitcases, bags, packs\n",
+        "exampleA": "I packed my luggage for the trip to Europe.",
+        "exampleB": "The airline lost my luggage during the layover.",
+        "exampleC": "We struggled to fit all the luggage into the car.",
+        "status": "seen"
+    },
+    {
+        "id": "f8ad1afe-d2a1-4981-9207-99fee23b0ccf",
+        "word": "luxurious",
+        "persian": "مجلل",
+        "definition": "\"Luxurious\" describes something that is extremely comfortable, elegant, or enjoyable, often involving great expense. It evokes a sense of opulence, indulgence, and a high quality of life or experience, suggesting a surplus of comfort and pleasure beyond what is necessary.\n\nSynonyms: opulent, lavish, sumptuous, extravagant, deluxe.\n",
+        "exampleA": "The hotel room was incredibly luxurious, with a private balcony overlooking the ocean.",
+        "exampleB": "She treated herself to a luxurious spa day to unwind after a long week.",
+        "exampleC": "They purchased a luxurious car with all the latest features.",
+        "status": "learned"
+    },
+    {
+        "id": "8c6434f7-4d15-4f61-b92a-2080124ab94f",
+        "word": "mountainous",
+        "persian": "کوهستانی",
+        "definition": "\"Mountainous\" describes a landscape or region that is dominated by mountains, or that has a great many mountains. It implies a rugged and elevated terrain, often characterized by steep slopes and dramatic peaks.\n\nSynonyms: hilly, alpine, rugged, towering, elevated.\n",
+        "exampleA": "The road wound precariously through the mountainous terrain.",
+        "exampleB": "We spent our summer vacation hiking in the mountainous region of Switzerland.",
+        "exampleC": "The view from the summit was breathtaking, showcasing the vast and mountainous landscape.",
+        "status": "learned"
+    },
+    {
+        "id": "6dbf8213-3d29-4232-bac7-6194db05f267",
+        "word": "northern",
+        "persian": "شمالی",
+        "definition": "\"Northern\" refers to a position or direction located towards the north, typically used geographically or to describe characteristics associated with northern regions. It denotes a direction opposite to south and can also imply qualities like coldness, remoteness, or a connection to cultures or landscapes found in the north.\n\nSynonyms: northerly, boreal, arctic, septentrional.\n",
+        "exampleA": "The northern lights danced across the sky, a breathtaking display of nature's beauty.",
+        "exampleB": "They lived in the northern part of the state, far from the bustling city.",
+        "exampleC": "The northern wind brought a chill that cut right through our coats.",
+        "status": "learned"
+    },
+    {
+        "id": "ab9a2ba1-d834-4a66-b9a4-2833e01319b6",
+        "word": "overseas",
+        "persian": "خارجی",
+        "definition": "\"Overseas\" means in or to a foreign country or countries, typically those separated from one's own by an ocean. It generally implies a journey or location across a body of water.\n\nSynonyms: abroad, internationally, foreign, across the sea, beyond national borders.\n",
+        "exampleA": "overseas investment/investors",
+        "exampleB": "She accepted a job offer to work overseas in Singapore.",
+        "exampleC": "The company imports a large quantity of its products from overseas.",
+        "status": "learned"
+    },
+    {
+        "id": "3c5d44f3-d0c2-4d62-a7a1-b6e3e3b31a40",
+        "word": "peaceful",
+        "persian": "\"Peaceful\" در فارسی می‌تواند به معانی مختلفی ترجمه شود، اما رایج‌ترین و نزدیک‌ترین معادل‌ها عبارتند از: آرام، صلح‌آمیز، بی‌دغدغه، و آسوده. انتخاب بهترین معادل بستگی به متن و مفهوم مورد نظر دارد.\n",
+        "definition": "quiet and calm",
+        "exampleA": "The lake was so peaceful in the early morning light.",
+        "exampleB": "She found the sound of the ocean to be incredibly peaceful.",
+        "exampleC": "We spent a peaceful afternoon reading in the garden.",
+        "status": "learned"
+    },
+    {
+        "id": "ec26b502-b85f-42e9-a4de-f2a7a5a15513",
+        "word": "peak",
+        "persian": "اوج",
+        "definition": "\"Peak\" refers to the highest point or level of something, whether it's a mountain, a period of success, or the maximum intensity of an experience. It signifies the culmination or apex.\n\nSynonyms: summit, apex, crest, zenith, climax\n",
+        "exampleA": "Holiday flights reach a peak during August.",
+        "exampleB": "We reached the mountain's peak just as the sun began to rise.",
+        "exampleC": "The athlete was performing at his peak during the championship game.",
+        "status": "learned"
+    },
+    {
+        "id": "798ee320-6d5b-409f-93c9-2194035cf926",
+        "word": "picturesque",
+        "persian": "خوش منظره، زیبا (مربوط به ساختمان یا مکان)",
+        "definition": "Picturesque describes something visually charming or attractive, resembling a picture or painting. It evokes a sense of beauty, tranquility, and quaintness, often referring to landscapes, villages, or scenes that are pleasing to the eye and possess a certain rustic or idealized quality.\n\nSynonyms: scenic, charming, beautiful, lovely, quaint.\n",
+        "exampleA": "The small village nestled in the valley was incredibly picturesque.",
+        "exampleB": "We spent the afternoon sketching the picturesque harbor filled with colorful fishing boats.",
+        "exampleC": "The winding road offered a picturesque view of the snow-capped mountains.",
+        "status": "seen"
+    },
+    {
+        "id": "1dc21d64-598f-4b00-8ab1-aebeb465eec1",
+        "word": "polluted",
+        "persian": "آلوده",
+        "definition": "\"Polluted\" means to make something impure or harmful, especially by adding unwanted or dangerous substances. It describes a state where the natural environment (air, water, soil) or something else has been contaminated, making it unsafe or unhealthy for use.\n\nSynonyms: contaminated, tainted, defiled, corrupted, dirtied.\n",
+        "exampleA": "The river was heavily polluted with industrial waste.",
+        "exampleB": "Air quality in the city is severely polluted, causing respiratory problems.",
+        "exampleC": "The once pristine beach is now polluted with litter and debris.",
+        "status": "learned"
+    },
+    {
+        "id": "5c8e5d7d-74e8-4968-ae63-a22094525f59",
+        "word": "quaint",
+        "persian": "\"Quaint\" در فارسی می‌تواند به معانی مختلفی ترجمه شود، اما معمولاً به معنی \"دلنشین و غیرمعمول\"، \"جذاب و قدیمی\"، یا \"با صفا و خاص\" است. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "attractive because of being unusual and especially old-fashioned:",
+        "exampleA": "quaint country cottages",
+        "exampleB": "The village was quaint, with cobblestone streets and charming little shops.",
+        "exampleC": "We stayed in a quaint bed and breakfast during our trip to the countryside.",
+        "status": "seen"
+    },
+    {
+        "id": "ac04a991-e4f5-46e0-ac36-a8eafa8cc96d",
+        "word": "reach a peak",
+        "persian": "به حداکثر رسیدن",
+        "definition": "To \"reach a peak\" means to attain the highest or most successful point or level possible. It implies a culmination of effort or a culmination of a trend, resulting in the maximum achievement in a particular context.\n\nSynonyms: culminate, climax, top out, reach the summit, peak.\n",
+        "exampleA": "The athlete's career seemed to reach a peak with her Olympic gold medal.",
+        "exampleB": "Property values in the city reached a peak last summer before beginning to decline.",
+        "exampleC": "Interest in the new technology reached a peak shortly after its initial release.",
+        "status": "learned"
+    },
+    {
+        "id": "456b0a51-5b87-4fe0-8b82-8a307ae7a1ba",
+        "word": "remote",
+        "persian": "دورافتاده",
+        "definition": "\"Remote\" generally describes something that is distant in location, time, or relationship. It suggests a lack of immediate proximity or connection. Something remote might be far away physically, like a remote island, or figuratively, like a remote possibility.\n\nSynonyms: distant, secluded, isolated, far-off, inaccessible.\n",
+        "exampleA": "a remote mountain village",
+        "exampleB": "I work remotely, so I can live anywhere with a good internet connection.",
+        "exampleC": "The remote village was difficult to reach due to the lack of roads.",
+        "status": "learned"
+    },
+    {
+        "id": "32def53e-5f99-42a4-8743-b1116acf00f0",
+        "word": "rough",
+        "persian": "ناهموار، زبر و زمخت",
+        "definition": "\"Rough\" describes something that is not smooth or refined. It can refer to a physical texture, like a rough surface, or to a quality of being unpolished, raw, or even violent. Essentially, it signifies a lack of gentleness or smoothness.\n\nSynonyms: coarse, uneven, rugged, harsh, crude.\n",
+        "exampleA": "It was a rough mountain road, full of stones and huge holes.",
+        "exampleB": "The carpenter sanded the wood to remove the rough edges.",
+        "exampleC": "He had a rough day at work dealing with difficult clients.",
+        "status": "learned"
+    },
+    {
+        "id": "a711cbc3-664e-49a7-85a2-b6a2b217f8d1",
+        "word": "rural",
+        "persian": "روستایی",
+        "definition": "\"Rural\" refers to geographic areas located outside of towns and cities, typically characterized by low population density, agricultural landscapes, and a focus on natural resources. It encompasses countryside settings where the pace of life is often slower and communities are smaller, and infrastructure and services might be less readily available than in urban areas.\n\nSynonyms: country, rustic, pastoral, agrarian.\n",
+        "exampleA": "The rural landscape was dotted with farms and pastures.",
+        "exampleB": "Many people are moving from urban centers to rural areas seeking a quieter life.",
+        "exampleC": "Access to healthcare can be limited in some rural communities.",
+        "status": "seen"
+    },
+    {
+        "id": "071429d1-21f1-49ee-8ada-07b0d9c89770",
+        "word": "scenic",
+        "persian": "دیدنی",
+        "definition": "\"Scenic\" describes something that is visually beautiful and picturesque, often referring to natural landscapes. It evokes a sense of awe and appreciation for the aesthetic qualities of a place or view. Think of a stunning mountain range, a serene coastline, or a lush forest.\n\nSynonyms: picturesque, beautiful, breathtaking, stunning, panoramic.\n",
+        "exampleA": "the scenic route from Florence to Siena",
+        "exampleB": "The drive along the coast was incredibly scenic, with breathtaking views of the ocean.",
+        "exampleC": "We chose a scenic hiking trail that wound through the mountains.",
+        "status": "learned"
+    },
+    {
+        "id": "d46c7da9-3a78-40b7-bddc-ff35cceccd07",
+        "word": "scuba diving",
+        "persian": "غواصی",
+        "definition": "Scuba diving is a recreational and professional activity involving underwater swimming while using self-contained underwater breathing apparatus (SCUBA), which allows the diver to breathe independently of the surface. It's often done to explore marine life, conduct underwater research, or perform underwater maintenance.\n\nSynonyms: underwater diving, freediving (though different, related), diving.\n",
+        "exampleA": "I went scuba diving in the Great Barrier Reef last summer.",
+        "exampleB": "Scuba diving requires specialized training and equipment.",
+        "exampleC": "The documentary showcased the vibrant marine life that can be seen while scuba diving.",
+        "status": "seen"
+    },
+    {
+        "id": "a35d0507-0131-4e5f-a970-9e64cfd204e8",
+        "word": "sleepy",
+        "persian": "\"Sleepy\" بسته به زمینه می‌تونه به فارسی \"خواب‌آلود\"، \"پُف‌آلود\" (برای چشم‌ها) یا \"کِسِل\" ترجمه بشه.\n",
+        "definition": "A place which is quiet and without much activity or excitement",
+        "exampleA": "a sleepy little village in the west of Yorkshire.",
+        "exampleB": "The sleepy kitten curled up on the warm rug.",
+        "exampleC": "After a long day of hiking, I felt completely sleepy.",
+        "status": "learned"
+    },
+    {
+        "id": "ddd80dc5-ab7b-4673-b4c8-f18eaf20f913",
+        "word": "snorkelling",
+        "persian": "اسنورکلینگ در فارسی به غواصی سطحی با لوله تنفس (اسنورکل) و ماسک ترجمه می‌شود.\n",
+        "definition": "the activity of swimming while using a snorkel",
+        "exampleA": "We went snorkelling in the crystal-clear waters of the coral reef.",
+        "exampleB": "She enjoys snorkelling more than scuba diving because it's less equipment-intensive.",
+        "exampleC": "The snorkelling gear allowed him to observe the colorful fish up close.",
+        "status": "seen"
+    },
+    {
+        "id": "0d48a467-514f-48b9-9b20-9389163063a9",
+        "word": "southern",
+        "persian": "جنوبی",
+        "definition": "\"Southern\" refers to a geographic region located in the southern part of a country, continent, or other defined area. It often implies not just location but also distinct cultural, historical, or economic characteristics associated with that region. For example, the Southern United States is known for its history of agriculture, specific cuisine, and distinct social customs.\n\nSynonyms: southerly, meridional, austral\n",
+        "exampleA": "The southern coast is known for its beautiful beaches.",
+        "exampleB": "He spoke with a distinct southern accent.",
+        "exampleC": "We enjoyed a delicious southern meal of fried chicken and collard greens.",
+        "status": "learned"
+    },
+    {
+        "id": "d120e7a1-ad95-4899-a5fc-03d889dee439",
+        "word": "spectacular",
+        "persian": "تماشایی",
+        "definition": "\"Spectacular\" describes something that is dramatically impressive, grand, or eye-catching in a way that elicits awe and admiration. It goes beyond simply being good or impressive; it suggests a display of something remarkable and memorable.\n\nSynonyms: breathtaking, stunning, magnificent, impressive, remarkable.\n",
+        "exampleA": "He scored a spectacular goal in the second half.",
+        "exampleB": "The fireworks display over the harbor was truly spectacular.",
+        "exampleC": "The mountain range offered a spectacular view from the summit.",
+        "status": "learned"
+    },
+    {
+        "id": "48363669-bfb6-4312-9c73-545b03da1c7d",
+        "word": "stunning",
+        "persian": "خیره کننده",
+        "definition": "\"Stunning\" describes something that is strikingly beautiful, impressive, or astonishing. It suggests a level of visual appeal or impact that is so great it almost takes your breath away. It implies a sense of awe and wonder in response to what is being observed.\n\nSynonyms: breathtaking, gorgeous, dazzling, remarkable, impressive.\n",
+        "exampleA": "The actress looked stunning in her red gown.",
+        "exampleB": "The sunset over the ocean was absolutely stunning.",
+        "exampleC": "Her performance in the play was simply stunning.",
+        "status": "learned"
+    },
+    {
+        "id": "478c05d7-3b17-4e66-9487-7bae7a512004",
+        "word": "theme park",
+        "persian": "شهربازی",
+        "definition": "A theme park is a large-scale amusement park where attractions and rides are based on a unifying theme or concept, such as movies, historical periods, or fantasy worlds. These parks aim to create an immersive and cohesive experience for visitors, going beyond just offering individual rides to fostering a specific atmosphere.\n\nSynonyms: amusement park, entertainment park, resort park.\n",
+        "exampleA": "We spent the whole day riding roller coasters at the theme park.",
+        "exampleB": "The new theme park is expected to bring many tourists to the city.",
+        "exampleC": "My favorite part of visiting a theme park is the atmosphere and the themed shows.",
+        "status": "learned"
+    },
+    {
+        "id": "5689e9bb-2aaf-4dc0-807b-728200e28932",
+        "word": "tough",
+        "persian": "سفت، سخت، سرسخت",
+        "definition": "\"Tough\" describes something or someone that is strong, resilient, and able to withstand hardship or difficulty. It implies a quality of being unyielding, durable, or difficult to break or defeat, either physically or emotionally.\n\nSynonyms: resilient, sturdy, durable, strong, resilient.\n",
+        "exampleA": "These toys are made from tough plastic. You have to be tough to be successful in politics.",
+        "exampleB": "That was a tough exam, I'm not sure I passed.",
+        "exampleC": "He had a tough childhood, but he never gave up.",
+        "status": "learned"
+    },
+    {
+        "id": "a44a2d87-03b7-47c9-8b76-92aa58a1c71c",
+        "word": "tourism",
+        "persian": "گردشگری",
+        "definition": "Tourism encompasses the activities of people traveling to and staying in places outside their usual environment for leisure, business, or other purposes. It involves the temporary movement of individuals, their accommodation, and the various services that cater to their needs during their stay, contributing significantly to local economies and cultural exchange.\n\nSynonyms: Travel, vacationing, sightseeing, touring, exploration.\n",
+        "exampleA": "The island's economy relies heavily on tourism.",
+        "exampleB": "Sustainable tourism practices are crucial for preserving natural environments.",
+        "exampleC": "They are studying the impact of tourism on local communities.",
+        "status": "learned"
+    },
+    {
+        "id": "68c14f97-dad5-4cf6-9f37-7490eb7c6672",
+        "word": "tourist",
+        "persian": "گردشگر",
+        "definition": "A tourist is someone who travels away from their usual place of residence for leisure, recreation, or business purposes, typically staying for a short period. They often visit places of interest, historical sites, or natural attractions, spending money on accommodation, food, activities, and souvenirs.\n\nSynonyms: vacationer, traveler, sightseer, visitor.\n",
+        "exampleA": "The tourist took pictures of the Eiffel Tower.",
+        "exampleB": "Local businesses rely heavily on the tourist trade.",
+        "exampleC": "He was easily identifiable as a tourist due to his map and camera.",
+        "status": "learned"
+    },
+    {
+        "id": "477ea388-a75c-4804-b3ed-f96bf8cc6146",
+        "word": "traditional",
+        "persian": "سنتی",
+        "definition": "\"Traditional\" refers to something that has been passed down through generations, often a custom, belief, or way of doing things. It emphasizes continuity and connection to the past, valuing established practices over innovation or modernity. It implies a sense of heritage and a resistance to significant change.\n\nSynonyms: conventional, established, time-honored, customary, classic.\n",
+        "exampleA": "The village still maintains a traditional way of life, largely untouched by modern technology.",
+        "exampleB": "She opted for a traditional wedding dress with lace and a long veil.",
+        "exampleC": "My grandmother's traditional apple pie recipe has been passed down for generations.",
+        "status": "learned"
+    },
+    {
+        "id": "f69b80fc-2518-454e-aae4-aa877c81a45b",
+        "word": "transport",
+        "persian": "جابجایی، حمل و نقل",
+        "definition": "\"Transport\" refers to the act or means of moving people or goods from one location to another. It encompasses the entire process of conveyance, whether it's across a room, a city, or an ocean.\n\nSynonyms: convey, carry, move, transfer, ship, deliver.\n",
+        "exampleA": "The city needs to improve its public transport system to reduce traffic congestion.",
+        "exampleB": "The company specializes in the transport of hazardous materials.",
+        "exampleC": "Blood helps transport oxygen throughout the body.",
+        "status": "learned"
+    },
+    {
+        "id": "745d4923-893b-49ee-b7d1-ca8157b12662",
+        "word": "travel",
+        "persian": "\"Travel\" در فارسی می‌تواند بسته بهContext  به «سفر»، «مسافرت» یا «گردشگری» ترجمه شود.\n",
+        "definition": "\"Travel\" broadly refers to the act of going from one place to another, whether locally or globally, for any purpose. It encompasses the journey itself, the experiences encountered, and the destinations reached. Travel can be for leisure, business, education, or exploration, and it often involves crossing geographical boundaries.\n\nSynonyms: journey, voyage, trip, excursion, tour, commute.\n",
+        "exampleA": "I plan to travel to Europe next summer.",
+        "exampleB": "Travel broadens your perspective on the world.",
+        "exampleC": "Business travel can be exhausting, but it's often necessary.",
+        "status": ""
+    },
+    {
+        "id": "51306472-b47f-4ecd-bc99-beef503ebe7f",
+        "word": "travelling",
+        "persian": "\"سفر کردن\"، \"مسافرت\"، یا \"در حال سفر\" بسته به بافت جمله می‌توانند ترجمه‌های مناسبی برای این کلمه باشند.\n",
+        "definition": "\"Travelling\" refers to the act of moving from one place to another, typically over a distance, for any purpose, whether it be for leisure, business, or exploration. It encompasses the journey itself, the experience of visiting new places, and the process of getting from an origin to a destination.\n\nSynonyms: journeying, touring, voyaging, tripping, roaming.\n",
+        "exampleA": "I enjoy travelling to different countries and experiencing new cultures.",
+        "exampleB": "She's been travelling around Southeast Asia for the past six months.",
+        "exampleC": "Travelling by train is often more relaxing than driving.",
+        "status": ""
+    },
+    {
+        "id": "4fe2b822-fed6-4bc7-bc86-c7f681dc1cbf",
+        "word": "treacherous",
+        "persian": "\"Treacherous\" بسته به زمینه می‌تونه به معانی مختلفی ترجمه بشه، اما در کل به معنای خائنانه، فریبنده، خطرناک و غیرقابل اعتماد هست.\n",
+        "definition": "(of ground, water, conditions, etc.) presenting hidden or unpredictable dangers",
+        "exampleA": "Snow and ice have left many roads treacherous, and motorists are warned to drive slowly.",
+        "exampleB": "The mountain pass was treacherous, with hidden crevices and unpredictable weather.",
+        "exampleC": "He was a treacherous friend, always ready to betray a confidence for his own gain.",
+        "status": "seen"
+    },
+    {
+        "id": "823e15d1-f430-425f-b253-2415f3bc504c",
+        "word": "trend",
+        "persian": "روند، گرایش",
+        "definition": "A trend is a general direction in which something is developing or changing. It represents a popular style, activity, or development that a lot of people are interested in or are following at a particular time. It suggests a pattern of change or movement towards a specific state.\n\nSynonyms: fad, vogue, fashion, tendency, current.\n",
+        "exampleA": "The trend at the moment is for a more natural and less made-up look.",
+        "exampleB": "The fashion industry is always chasing the latest trend.",
+        "exampleC": "There's a growing trend towards healthier eating habits.",
+        "status": "learned"
+    },
+    {
+        "id": "a1722274-dae4-456d-ba6b-945a5af9c81b",
+        "word": "trip",
+        "persian": "مسافرت",
+        "definition": "A \"trip\" generally refers to an act of going to and returning from a place, especially for pleasure or a specific purpose. It implies a journey, often involving travel to a location away from one's usual environment and then returning home.\n\nSynonyms: journey, excursion, voyage, tour, outing\n",
+        "exampleA": "We can't afford another trip abroad this year.",
+        "exampleB": "I'm planning a trip to Italy next summer.",
+        "exampleC": "He tripped on the uneven pavement and fell.",
+        "status": "learned"
+    },
+    {
+        "id": "9bdae7ab-413d-4c06-84ff-1377a45c42fc",
+        "word": "unspoilt",
+        "persian": "بکر و دست نخورده",
+        "definition": "\"Unspoilt\" describes something, usually a place, that remains in its natural or original state, untouched by human interference or development. It implies a pristine quality, free from commercialization, pollution, or excessive alteration. Synonyms include: pristine, untouched, pristine, intact, preserved.\n",
+        "exampleA": "an island with clean, unspoiled beaches",
+        "exampleB": "The island's beaches remain unspoilt, attracting tourists seeking natural beauty.",
+        "exampleC": "We hiked through the unspoilt wilderness, far from any signs of civilization.",
+        "status": "learned"
+    },
+    {
+        "id": "274b8e63-97fb-4827-aa2a-15891c100368",
+        "word": "urban",
+        "persian": "شهری",
+        "definition": "\"Urban\" generally refers to something related to or characteristic of a city or town, especially in contrast to rural areas. It encompasses the built environment, the lifestyle, and the culture prevalent in densely populated areas. Urban areas often feature high concentrations of buildings, infrastructure, economic activity, and diverse populations.\n\nSynonyms: metropolitan, city, municipal, built-up, town.\n",
+        "exampleA": "The urban sprawl continued for miles in every direction.",
+        "exampleB": "She preferred the energy of the urban environment to the quiet countryside.",
+        "exampleC": "Urban planning is crucial for managing growth and resources.",
+        "status": "learned"
+    },
+    {
+        "id": "42fc1b06-1906-489b-977d-389f599fda33",
+        "word": "village",
+        "persian": "روستا",
+        "definition": "A village is a small, rural settlement, typically smaller than a town and characterized by a close-knit community and an economy based on agriculture or other primary industries. It's a place where social connections are often strong and everyone knows everyone else, a peaceful contrast to the bustle of urban life.\n\nSynonyms: hamlet, settlement, rural community, countryside.\n",
+        "exampleA": "The small village was nestled in a valley, surrounded by rolling hills.",
+        "exampleB": "The villagers worked together to rebuild after the storm devastated their village.",
+        "exampleC": "Stories of the old village and its traditions were passed down through generations.",
+        "status": "learned"
+    },
+    {
+        "id": "43353891-5f3f-4362-ad85-69c3a3bf08fe",
+        "word": "winding",
+        "persian": "مارپیچ (مربوط به جاده، رودخانه)ه",
+        "definition": "\"Winding\" describes something that moves in a twisting, turning, or curving path rather than a straight line. It often implies a meandering or circuitous route that lacks directness.\n\nSynonyms: twisting, curving, meandering, sinuous, spiral.\n",
+        "exampleA": "There's a very long, winding path leading up to the house.",
+        "exampleB": "The winding road through the mountains offered breathtaking views.",
+        "exampleC": "She enjoyed the winding plot of the mystery novel.",
+        "status": "learned"
+    },
+    {
+        "id": "53cd8fbb-8d9d-41ce-94a1-4f88cf96b6f8",
+        "word": "worthy",
+        "persian": "شایسته، لایق",
+        "definition": "\"Worthy\" describes someone or something that possesses admirable qualities and merits respect, recognition, or reward. It implies deservingness based on character, achievements, or inherent value. In essence, something worthy holds value and is considered appropriate or suitable.\n\nSynonyms: deserving, admirable, commendable, meritorious, valuable\n",
+        "exampleA": "a teacher who is worthy of respect",
+        "exampleB": "Her dedication to the project made her a worthy candidate for the promotion.",
+        "exampleC": "The old car was no longer worthy of the repairs it required.",
+        "status": "learned"
+    }
+]

@@ -1,0 +1,582 @@
+[
+    {
+        "id": "a427997b-69be-42d9-8120-808d704b9fd2",
+        "word": "acupuncture",
+        "persian": "طب سوزنی",
+        "definition": "Acupuncture is a traditional Chinese medicine technique involving the insertion of thin needles into specific points on the body, believed to stimulate energy flow (Qi) and promote natural healing. It's often used to relieve pain, manage stress, and treat various conditions by influencing the nervous and immune systems.\nSynonyms: Needle therapy, acupressure (though different in technique), dry needling.\n",
+        "exampleA": "She found relief from her chronic back pain through regular acupuncture sessions.",
+        "exampleB": "Many people are skeptical of acupuncture, but it has been used for centuries in traditional Chinese medicine.",
+        "exampleC": "The study investigated the effectiveness of acupuncture in reducing nausea associated with chemotherapy.",
+        "status": "seen"
+    },
+    {
+        "id": "565bd206-fb67-4863-b6a0-7ea55804df97",
+        "word": "age",
+        "persian": "معنی کلمه \"age\" بسته به متن می‌تونه متفاوت باشه، اما رایج‌ترین معانی اون عبارتند از:\n\n   سن: به معنی مدت زمانی که یک فرد یا چیز زنده بوده یا وجود داشته.\n   عصر: به معنی یک دوره زمانی مشخص در تاریخ.\n   پیر شدن: به معنی فرآیند مسن شدن.\n",
+        "definition": "\"Age\" refers to the length of time someone or something has existed, or a particular period in history characterized by certain features. It can describe the duration of life, a stage of development, or a significant era.\n\nSynonyms: period, era, epoch, generation, time, duration.\n",
+        "exampleA": "What is your age?",
+        "exampleB": "The age of the dinosaurs is long past.",
+        "exampleC": "He's at the age where he's starting to drive.",
+        "status": ""
+    },
+    {
+        "id": "9e8d6ed2-38e8-4e91-ad01-bb02d5f0effa",
+        "word": "ancient",
+        "persian": "باستانی",
+        "definition": "\"Ancient\" refers to something belonging to the distant past, especially before the end of the Roman Empire. It often evokes a sense of great age, historical significance, and a connection to civilizations long gone.\nSynonyms: archaic, antique, bygone, prehistoric, venerable.\n",
+        "exampleA": "The museum displayed artifacts from an ancient civilization.",
+        "exampleB": "Ancient trees towered over the forest floor, their roots gnarled and deep.",
+        "exampleC": "She studied ancient languages in order to better understand their culture.",
+        "status": "learned"
+    },
+    {
+        "id": "7c18346a-71b7-48ac-bf95-5356f5c6b9b6",
+        "word": "antiquated",
+        "persian": "منسوخ",
+        "definition": "\"Antiquated\" describes something that is old-fashioned, out of date, or no longer useful or relevant in modern society. It implies that the item or idea has been surpassed by newer, more advanced, or more suitable alternatives.\n\nSynonyms: obsolete, archaic, outdated, antiquated, passé\n",
+        "exampleA": "antiquated laws/machinery/technology",
+        "exampleB": "The company's technology was so antiquated that it struggled to compete in the modern market.",
+        "exampleC": "My grandmother's antiquated typewriter sat gathering dust in the attic, a relic of a bygone era.",
+        "status": "seen"
+    },
+    {
+        "id": "ead8d504-8aeb-42f5-b1d6-c84c37ae6de0",
+        "word": "antique",
+        "persian": "عتیقه",
+        "definition": "\"Antique\" refers to an object with a high value because of its considerable age, often representing a previous era or style. Antiques are typically at least 100 years old and are collected, admired, and often considered valuable due to their historical significance, rarity, craftsmanship, and aesthetic appeal.\n\nSynonyms: vintage, heirloom, relic, artifact.\n",
+        "exampleA": "My mother collects antiques.",
+        "exampleB": "She inherited an antique clock from her grandmother.",
+        "exampleC": "The shop specialized in selling antique furniture and collectibles.",
+        "status": "seen"
+    },
+    {
+        "id": "fcf37a3c-a991-46c1-8ea7-dd71b2de08c1",
+        "word": "archaeologist",
+        "persian": "باستان‌شناس، کسی که به کاوش و مطالعه آثار و بقایای تمدن‌های گذشته می‌پردازد.\n",
+        "definition": "An archaeologist is a scientist who studies human history and prehistory by excavating sites and analyzing artifacts and other physical remains. They piece together past cultures and societies by examining tools, pottery, buildings, and other objects left behind.\n\nSynonyms: antiquarian, paleoanthropologist, excavator, digger.\n",
+        "exampleA": "The archaeologist carefully brushed away the dirt, revealing an ancient artifact.",
+        "exampleB": "She always dreamed of becoming an archaeologist and uncovering lost civilizations.",
+        "exampleC": "The archaeologist used ground-penetrating radar to identify potential burial sites.",
+        "status": ""
+    },
+    {
+        "id": "c7041fd6-9380-4d7d-bf89-07f9cadb54fa",
+        "word": "artefact",
+        "persian": "دست ساخته، اثر، اثر باستانی",
+        "definition": "An artefact is any object made or modified by a human being, typically one of cultural or historical interest. It serves as tangible evidence of past human activity and can provide insights into the technology, culture, and daily life of those who created or used it.\n\nSynonyms: artifact, relic, artifact, antiquity, historical object.\n",
+        "exampleA": "The museum displayed a fascinating artefact from the Roman era.",
+        "exampleB": "This ancient artefact provides valuable insight into the lives of our ancestors.",
+        "exampleC": "Researchers carefully documented each artefact they unearthed at the archaeological dig.",
+        "status": "seen"
+    },
+    {
+        "id": "d91e50a3-963c-43b2-b764-ecb0a65114c2",
+        "word": "century",
+        "persian": "قرن ، سده",
+        "definition": "A century refers to a period of one hundred years. It's a common unit of time used to mark significant eras, milestones, or durations in history and current events.\n\nSynonyms: hectad, hundred years, era\n",
+        "exampleA": "The Eiffel Tower was constructed in the late 19th century.",
+        "exampleB": "Scientists are working to solve global challenges in this century.",
+        "exampleC": "That ancient artifact is believed to be from the first century AD.",
+        "status": "seen"
+    },
+    {
+        "id": "d0b84ed5-b648-41f3-b128-0c7092cb2134",
+        "word": "chronological",
+        "persian": "ترتیب زمانی وقایع ، زمانی",
+        "definition": "\"Chronological\" means arranged in the order of time, from the earliest to the most recent. It's a way of organizing events, data, or information based on when they happened.\n\nSynonyms: sequential, temporal, ordered, time-based.\n",
+        "exampleA": "The historian arranged the documents in chronological order.",
+        "exampleB": "Please list your work experience in chronological order, starting with your most recent job.",
+        "exampleC": "The biography followed a chronological account of the subject's life.",
+        "status": "seen"
+    },
+    {
+        "id": "da737d0a-66de-452b-99cc-625dde254dd6",
+        "word": "chronologically",
+        "persian": "به ترتیب زمانی یا بر اساس ترتیب وقوع.\n",
+        "definition": "\"Chronologically\" means arranging events, items, or actions in the order in which they occurred, from the earliest to the latest. It emphasizes a timeline-based organization where the sequence is dictated by the order of occurrence.\nSynonyms: sequentially, in sequence, in order, successively, historically.\n",
+        "exampleA": "The events were listed chronologically, starting with the earliest.",
+        "exampleB": "Please arrange these files chronologically by date.",
+        "exampleC": "The book tells the story of his life chronologically, from birth to present day.",
+        "status": ""
+    },
+    {
+        "id": "6eef4f8b-2954-4c7c-a5ef-0ec80083b5de",
+        "word": "civilization",
+        "persian": "تمدن",
+        "definition": "Civilization refers to a complex and organized society characterized by advancements in arts, science, technology, government, and culture. It often includes features like urban development, social stratification, specialized labor, and systems of record-keeping. It signifies a state of human social development that is considered more advanced than a more primitive state.\n\nSynonyms: culture, society, development, progress, refinement.\n",
+        "exampleA": "The rise and fall of civilizations is a recurring theme throughout history.",
+        "exampleB": "Modern civilization is heavily reliant on technology and global communication.",
+        "exampleC": "Archaeologists study ancient artifacts to learn more about past civilizations.",
+        "status": "learned"
+    },
+    {
+        "id": "4223b1c2-9f8b-4564-ba08-3300d3c55749",
+        "word": "consecutive",
+        "persian": "پشت سر هم",
+        "definition": "\"Consecutive\" means following one after the other in uninterrupted order or sequence. It implies that there are no gaps or breaks between the items or events in question.\n\nSynonyms: successive, sequential, following, in a row, uninterrupted.\n",
+        "exampleA": "This is the fifth consecutive weekend that I've spent working, and I'm a bit fed up with it.",
+        "exampleB": "The team won seven consecutive games, setting a new league record.",
+        "exampleC": "The code had several consecutive errors, making it difficult to debug.",
+        "status": "seen"
+    },
+    {
+        "id": "dd25b9e9-1f7b-42b1-ab1a-e14931e411f2",
+        "word": "decade",
+        "persian": "دهه ، ده سال",
+        "definition": "A decade is a period of ten years. It's a common unit of time used to mark significant eras, historical periods, or simply to measure the progression of years. We often refer to things happening \"in the 80s\" or \"the last decade\" using this measurement.\n\nSynonyms: decennium, ten years, period of ten years\n",
+        "exampleA": "The company experienced rapid growth over the past decade.",
+        "exampleB": "Fashion trends from each decade are often revisited and reimagined.",
+        "exampleC": "He dedicated a decade of his life to researching this rare disease.",
+        "status": "learned"
+    },
+    {
+        "id": "ede7abdd-2b9a-43e7-a2e9-9b148a59f4fc",
+        "word": "engross",
+        "persian": "غرق در چیزی شدن",
+        "definition": "To engross means to completely absorb the attention or interest of someone. It describes a state where one is so fascinated or occupied that they are oblivious to everything else around them. It's a feeling of being deeply immersed in something.\n\nSynonyms: captivate, absorb, fascinate, immerse, occupy.\n",
+        "exampleA": "What is it about Harry Potter that so engrosses children?",
+        "exampleB": "The captivating novel completely engrossed her, making her forget about the world around her.",
+        "exampleC": "The speaker's passionate presentation engrossed the audience, holding their attention from beginning to end.",
+        "status": "seen"
+    },
+    {
+        "id": "a2645674-0789-4165-9b14-9fe70f6da7ea",
+        "word": "engrossed (with/by/in sth)",
+        "persian": "مجذوب و غرق شده در چیزی",
+        "definition": "\"Engrossed\" means being completely absorbed or preoccupied by something, so much so that you lose awareness of your surroundings. It suggests a state of deep concentration and captivated attention.\n\nSynonyms: absorbed, immersed, captivated, preoccupied, enthralled.\n",
+        "exampleA": "They were so engrossed in/with what they were doing that they didn't hear me come in.",
+        "exampleB": "She was engrossed in a fascinating book and didn't notice me enter the room.",
+        "exampleC": "The children were completely engrossed with the new video game.",
+        "status": "seen"
+    },
+    {
+        "id": "6be0ad49-ff3b-4a83-98c9-e7915fb975cd",
+        "word": "era",
+        "persian": "دوران، عصر",
+        "definition": "An \"era\" refers to a distinct period in history or someone's life marked by particular characteristics, events, or circumstances. It suggests a span of time that is recognized as having unique or defining features that differentiate it from other periods.\n\nSynonyms: age, epoch, period, time, stage\n",
+        "exampleA": "the post-war era",
+        "exampleB": "The Victorian era was a time of great social change.",
+        "exampleC": "We are entering a new era of space exploration.",
+        "status": "seen"
+    },
+    {
+        "id": "69e666cb-65b6-4d08-8ba1-8726e3486b1b",
+        "word": "erode",
+        "persian": "فرسایش یافتن، خورده شدن",
+        "definition": "To erode means to gradually wear away or diminish something, typically by the action of natural forces like water, wind, or ice, but it can also describe the weakening or destruction of abstract things like trust or confidence. It implies a slow and persistent process of destruction or decay.\n\nSynonyms: wear away, deteriorate, corrode, diminish, undermine.\n",
+        "exampleA": "The constant rain began to erode the hillside.",
+        "exampleB": "Years of neglect had started to erode his confidence.",
+        "exampleC": "The scandal threatened to erode public trust in the government.",
+        "status": "seen"
+    },
+    {
+        "id": "0ac482a0-01fe-46d1-91e6-b86dc79ce489",
+        "word": "evidence",
+        "persian": "شواهد، مدارک، قرائن یا نشانه‌ها، همگی می‌توانند به عنوان ترجمه فارسی \"evidence\" به کار روند. انتخاب دقیق‌ترین کلمه به بافت جمله بستگی دارد.\n",
+        "definition": "Evidence is any form of information, such as documents, testimony, or physical objects, that is presented to support a claim or belief, and used to determine the truth of a matter, especially in a legal or investigative context. It serves as proof to persuade someone of something's validity or existence.\n\nSynonyms: proof, confirmation, verification, indication, testimony.\n",
+        "exampleA": "The police gathered evidence at the crime scene.",
+        "exampleB": "There is overwhelming evidence to support his claim.",
+        "exampleC": "The lawyer presented compelling evidence during the trial.",
+        "status": ""
+    },
+    {
+        "id": "0c59d727-12fe-4010-adaf-6e108f78504c",
+        "word": "excavation",
+        "persian": "حفاری، خاک برداری",
+        "definition": "Excavation refers to the process of digging and removing earth, rock, or other materials from the ground. This is often done for construction, mining, archaeological purposes, or to create holes or trenches. Essentially, it's about creating a cavity or exposing something that was previously buried.\n\nSynonyms: digging, trenching, unearthing, quarrying, delving.\n",
+        "exampleA": "The archaeological excavation revealed artifacts dating back to the Roman Empire.",
+        "exampleB": "The construction crew began the excavation for the new building's foundation.",
+        "exampleC": "Heavy rainfall hampered the progress of the excavation at the ancient burial site.",
+        "status": "seen"
+    },
+    {
+        "id": "bb90860d-f1f1-4eaa-99c7-6a94fa8a01d9",
+        "word": "formerly",
+        "persian": "\"قبلاً\"، \"پیشین\" یا \"سابقاً\"\n",
+        "definition": "\"Formerly\" means in the past; at a previous time or in a previous condition. It indicates something was true or existed before, but is no longer the case.\n\nSynonyms: previously, earlier, once, heretofore, erstwhile.\n",
+        "exampleA": "The building, formerly a warehouse, has been converted into luxury apartments.",
+        "exampleB": "She was formerly employed as a teacher, but now works as a librarian.",
+        "exampleC": "This area was formerly farmland, but is now a thriving suburban development.",
+        "status": ""
+    },
+    {
+        "id": "8df03b18-c0ec-401d-b3c5-89cdf1013ecf",
+        "word": "generation",
+        "persian": "نسل",
+        "definition": "\"Generation\" refers to a group of individuals born and living around the same time, who share similar experiences, values, and often cultural touchstones shaped by the era they've lived through. They are often linked by shared historical events, technological advancements, and social trends that distinguish them from those who came before and after.\n\nSynonyms: age group, cohort, peer group, contemporaries, progeny.\n",
+        "exampleA": "Each generation faces unique challenges and opportunities.",
+        "exampleB": "My grandmother's generation lived through the Great Depression.",
+        "exampleC": "The latest generation of smartphones boasts impressive features.",
+        "status": "learned"
+    },
+    {
+        "id": "f4ae7976-4cea-456f-8a3f-fe9e4f87b36d",
+        "word": "go back in time",
+        "persian": "در گذشته سیر کردن",
+        "definition": "\"Go back in time\" refers to the act of traveling or returning to a period in the past, typically through hypothetical means like time travel. It implies a shift in temporal position, allowing one to witness or interact with events that have already occurred.\n\nSynonyms: time travel, rewind time, revisit the past, journey to the past, travel back in time.\n",
+        "exampleA": "If I could go back in time, I would invest in Apple.",
+        "exampleB": "The movie is about a scientist who invents a machine to go back in time and change history.",
+        "exampleC": "Sometimes I wish I could go back in time to relive certain moments.",
+        "status": "learned"
+    },
+    {
+        "id": "dc1b448e-56a8-47c8-8184-c2af8aabc7e0",
+        "word": "historical",
+        "persian": "\"Historical\" بسته به متن می‌تونه به صورت \"تاریخی\"، \"باستانی\"، \"گذشته\" یا \"مربوط به تاریخ\" ترجمه بشه.\n",
+        "definition": "\"Historical\" refers to something related to the past, particularly past events, periods, or figures that are considered significant or noteworthy. It can describe something that actually happened in the past or something that is about the study or representation of the past. It implies a connection to recorded or remembered events and is often used to denote something of importance for understanding the present or shaping the future.\n\nSynonyms: past, ancient, bygone, chronicled, documented.\n",
+        "exampleA": "The museum features a fascinating collection of historical artifacts.",
+        "exampleB": "Understanding the historical context is crucial for interpreting the novel.",
+        "exampleC": "The city is known for its beautiful historical architecture.",
+        "status": ""
+    },
+    {
+        "id": "f98d124a-210d-4725-a4f9-48359cc04867",
+        "word": "I'm in a hurry",
+        "persian": "عجله دارم",
+        "definition": "\"I'm in a hurry\" means that the speaker is short on time and needs to do something or go somewhere quickly. It implies a need for speed and a sense of urgency to avoid being late or missing a deadline.\n\nSynonyms: I'm rushed, I'm pressed for time, I'm in a rush, I'm short on time.\n",
+        "exampleA": "I can't stop to chat, I'm in a hurry.",
+        "exampleB": "I'm in a hurry, so let's make this quick.",
+        "exampleC": "Sorry, I'm in a hurry and need to catch my train.",
+        "status": "seen"
+    },
+    {
+        "id": "1a7a01f3-adb1-4199-b8db-b1a919627bd6",
+        "word": "imminent",
+        "persian": "قریب الوقوع",
+        "definition": "\"Imminent\" describes something that is about to happen very soon, often suggesting a sense of impending danger or inevitability. It signifies that an event is close at hand and practically certain to occur.\nSynonyms: impending, forthcoming, approaching, looming, nigh.\n",
+        "exampleA": "A strike is imminent.",
+        "exampleB": "The dark clouds suggested that rain was imminent.",
+        "exampleC": "Despite the peace talks, the threat of war felt imminent.",
+        "status": "seen"
+    },
+    {
+        "id": "0855ffa3-bb1d-44fa-80f1-06dd77f7d905",
+        "word": "infer",
+        "persian": "معنی کلمه \"infer\" در فارسی، استنباط کردن، نتیجه‌گیری کردن یا برداشت کردن است.\n",
+        "definition": "To infer means to deduce or conclude something from evidence and reasoning rather than from explicit statements. It's about reading between the lines and drawing a logical conclusion based on available information. Essentially, you're forming an educated guess based on what you know.\n\nSynonyms: deduce, conclude, surmise, gather, speculate, understand.\n",
+        "exampleA": "From the data, we can infer that sales will increase next quarter.",
+        "exampleB": "The detective was able to infer the suspect's motive based on the evidence.",
+        "exampleC": "Don't infer that I'm angry just because I raised my voice.",
+        "status": ""
+    },
+    {
+        "id": "88a06dd2-c130-414f-8ef8-cc7cd55b1452",
+        "word": "infer (from sth)",
+        "persian": "استنباط کردن",
+        "definition": "To infer (from something) means to reach a conclusion or form a judgment about something based on evidence and reasoning rather than explicit statements. It's essentially drawing a logical conclusion based on available information. You're not directly told something, but you figure it out based on what you already know or observe.\n\nSynonyms: deduce, conclude, gather, surmise, glean\n",
+        "exampleA": "What do you infer from her refusal?",
+        "exampleB": "We can infer from her expression that she's unhappy.",
+        "exampleC": "I infer from your silence that you disagree.",
+        "status": "seen"
+    },
+    {
+        "id": "52b09b9f-2e9e-40f0-9765-8a31ed2db7fe",
+        "word": "in time",
+        "persian": "بسته به متن، \"in time\" می‌تونه به این صورت‌ها ترجمه بشه:\n\n   به موقع: اگه منظور رسیدن یا انجام کاری قبل از دیر شدن باشه.\n   به مرور زمان: اگه منظور اتفاق افتادن چیزی در طول زمان باشه.\n   در نهایت: اگه منظور بعد از یه مدت طولانی باشه.\n   سرانجام: مشابه \"در نهایت\".\n   به زودی: اگه منظور اتفاق افتادن چیزی در آینده نزدیک باشه.\n",
+        "definition": "\"In time\" means at some point in the future, eventually, or with sufficient time remaining before a deadline or negative consequence occurs. It suggests that something will happen or be completed within a suitable timeframe.\n\nSynonyms: Eventually, sooner or later, ultimately, before long, in due course.\n",
+        "exampleA": "The ambulance arrived in time to save the patient's life.",
+        "exampleB": "If we leave now, we should get there in time for the concert.",
+        "exampleC": "He finished the project just in time to meet the deadline.",
+        "status": ""
+    },
+    {
+        "id": "a21a5c11-aa45-4980-897d-a3242744c680",
+        "word": "lose track of sth",
+        "persian": "حساب چیزی از دست در رفتن",
+        "definition": "\"Lose track of something\" means to no longer have knowledge or awareness of something, often because you are distracted or the thing has changed. It implies a gradual forgetting or a failure to maintain connection with that thing.\n\nSynonyms: forget about, lose sight of, be unaware of, be out of touch with.\n",
+        "exampleA": "I've lost track of the number of times he's asked me to lend him money.",
+        "exampleB": "I lose track of time whenever I'm absorbed in a good book.",
+        "exampleC": "It's easy to lose track of expenses when you're traveling.",
+        "status": "learned"
+    },
+    {
+        "id": "b062e48f-1c76-4d82-a820-fa181264eb83",
+        "word": "lose track of time",
+        "persian": "زمان از دست در رفتن",
+        "definition": "\"Losing track of time\" means becoming so engrossed in an activity or thought that you become unaware of how much time has passed. It implies a lack of attention to the clock or the general passage of time, often resulting in being late for other commitments or simply realizing a significant amount of time has vanished without you noticing.\n\nSynonyms: forget the time, time flies, be absorbed, get lost in, be engrossed.\n",
+        "exampleA": "I often lose track of time when I'm engrossed in a good book.",
+        "exampleB": "We were having so much fun at the beach that we completely lost track of time.",
+        "exampleC": "Working on this project, it's easy to lose track of time and forget to eat lunch.",
+        "status": "learned"
+    },
+    {
+        "id": "5a554710-3268-422c-aef8-8eef6e9d5414",
+        "word": "middle-aged",
+        "persian": "میان سال",
+        "definition": "\"Middle-aged\" refers to the period of life typically between young adulthood and old age, generally considered to be from around 40 to 60 years old. It's a time often associated with established careers, raising families, and navigating personal and professional transitions.\n\nSynonyms: midlife, prime of life, in one's middle years.\n",
+        "exampleA": "The middle-aged man wore a slightly too-tight cycling jersey.",
+        "exampleB": "She felt like a different person than the young woman she used to be, now that she was middle-aged.",
+        "exampleC": "Many middle-aged people are concerned about saving for retirement.",
+        "status": "learned"
+    },
+    {
+        "id": "aedca73f-df93-410f-a6ee-2bdc156399ec",
+        "word": "millennia",
+        "persian": "«هزاره‌ها» یا «چندین هزاره» معادل‌های مناسبی برای کلمه \"millennia\" در فارسی هستند.\n",
+        "definition": "\"Millennia\" refers to a period of one thousand years. It's often used to describe very long stretches of time, particularly in historical or geological contexts when discussing gradual changes or processes unfolding over vast durations.\n\nSynonyms: millenniums, eons, ages, long periods, vast stretches of time.\n",
+        "exampleA": "The pyramids have stood for millennia, testaments to ancient civilizations.",
+        "exampleB": "Changes in the Earth's climate occur over millennia, not just decades.",
+        "exampleC": "The development of language took place over millennia, evolving into its current form.",
+        "status": ""
+    },
+    {
+        "id": "36e2dbd9-e44f-4106-86b1-8109b3b6420c",
+        "word": "millennium",
+        "persian": "هزاره",
+        "definition": "A millennium is a period of one thousand years. It's often associated with the transition from one epoch to another and sometimes carries a sense of anticipation or societal change.\n\nSynonyms: chiliad, thousand years, decade of centuries\n",
+        "exampleA": "The Roman Empire lasted for almost a millennium.",
+        "exampleB": "Scientists predict a significant rise in sea levels by the end of the millennium.",
+        "exampleC": "The museum showcased artifacts spanning a millennium of human history.",
+        "status": "seen"
+    },
+    {
+        "id": "7669ae4c-3462-402a-bd26-84f862c68e2b",
+        "word": "minute",
+        "persian": "ریز، خرد، کوچک",
+        "definition": "The word \"minute\" can have two distinct meanings. As a noun, \"minute\" refers to a unit of time equal to sixty seconds. As an adjective, \"minute\" means extremely small or tiny.\n\nSynonyms for \"minute\" (adjective): tiny, minuscule, diminutive, infinitesimal, microscopic\n",
+        "exampleA": "The documentary showed an eye operation in minute detail",
+        "exampleB": "I'll be there in a minute.",
+        "exampleC": "The minute hand on the clock is moving quickly.",
+        "status": "seen"
+    },
+    {
+        "id": "d89b82b2-d523-4cf8-84ee-93f73b6f8a06",
+        "word": "nostalgic",
+        "persian": "دلتنگی مربوط به خاطرات و وقایع گذشته",
+        "definition": "\"Nostalgic\" describes a sentimental longing or wistful affection for the past, typically for a period or place with happy personal associations. It evokes a bittersweet feeling of wanting to return to a time that is gone.\n\nSynonyms: sentimental, wistful, yearning, homesick, reminiscent\n",
+        "exampleA": "Talking about our old family holidays has made me feel quite nostalgic.",
+        "exampleB": "The old photographs made her feel nostalgic for her childhood.",
+        "exampleC": "He felt a nostalgic longing for the music of his youth.",
+        "status": "learned"
+    },
+    {
+        "id": "2520d767-7a67-4ca5-a5e4-099225c216eb",
+        "word": "on time",
+        "persian": "\"On time\" بسته به متن می‌تونه به صورت‌های «به موقع»، «سر وقت»، یا «در زمان مقرر» ترجمه بشه.\n",
+        "definition": "\"On time\" means arriving or completing something at the exact scheduled or expected time, neither early nor late. It signifies punctuality and adherence to a designated timeframe.\n\nSynonyms: punctual, prompt, timely, on schedule.\n",
+        "exampleA": "The train arrived on time, much to everyone's relief.",
+        "exampleB": "It's important to submit your assignments on time to avoid late penalties.",
+        "exampleC": "She's always on time for her appointments, which I really appreciate.",
+        "status": ""
+    },
+    {
+        "id": "bf01932d-3eed-4a4d-ae8e-97783bf1015e",
+        "word": "period",
+        "persian": "بسته به متن، \"period\" می‌تونه معانی مختلفی داشته باشه. رایج‌ترین ترجمه‌ها عبارتند از:\n\n   دوره: (برای اشاره به یک بازه زمانی مشخص)\n   فصل: (برای اشاره به یک بازه زمانی مشخص، مثل دوره تاریخی)\n   عادت ماهانه/پریود: (در زمینه مسائل زنان)\n   نقطه: (در نگارش)\n   دوران: (برای اشاره به یک بازه زمانی مهم و تاثیرگذار)\n\nبرای ترجمه دقیق‌تر، به متن و زمینه‌ای که کلمه در آن استفاده شده، نیاز است.\n",
+        "definition": "\"Period\" has multiple meanings, but generally refers to a specific length or portion of time. It can be a defined interval, a historical era, or a stage in a process. It also refers to punctuation mark (.) at the end of a sentence.\n\nSynonyms: duration, interval, epoch, era, stage, full stop.\n",
+        "exampleA": "She lived in France for a period of five years.",
+        "exampleB": "The punctuation mark at the end of a sentence is called a period.",
+        "exampleC": "The Victorian period was known for its elaborate fashions.",
+        "status": ""
+    },
+    {
+        "id": "d77ee389-7188-4916-b7dd-99e5a587e037",
+        "word": "phase",
+        "persian": "\"Phase\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین ترجمه‌ها عبارتند از: \"مرحله\"، \"فاز\"، \"دوره\" یا \"وجه\".\n",
+        "definition": "A phase refers to a distinct period or stage in a process or development, characterized by specific features or conditions. It's a recognizable part of a larger cycle or progression, often marking a transition between different states.\n\nSynonyms: stage, period, chapter, step, point.\n",
+        "exampleA": "The project is currently in its initial phase.",
+        "exampleB": "The moon is in its waning gibbous phase.",
+        "exampleC": "She is going through a difficult phase in her life.",
+        "status": ""
+    },
+    {
+        "id": "e2de46f6-7a25-428a-bb88-157af6e0c534",
+        "word": "pioneer",
+        "persian": "پیشگام",
+        "definition": "A pioneer is someone who is among the first to explore or settle a new country or area, or who is among the first to research or develop a new field of knowledge or activity. They are innovators who pave the way for others through their groundbreaking efforts and often face challenges and risks in the process.\n\nSynonyms: trailblazer, innovator, groundbreaker, forerunner, founder.\n",
+        "exampleA": "one of the pioneers of modern science",
+        "exampleB": "She was a pioneer in the field of medical research, developing innovative treatments for cancer.",
+        "exampleC": "The settlers were pioneers, bravely venturing into uncharted territory.",
+        "status": "seen"
+    },
+    {
+        "id": "cbcb2bf8-fb63-4771-83cc-b133184e6acd",
+        "word": "plague (sb)",
+        "persian": "بستوه آوردن، آزار دادن",
+        "definition": "To \"plague someone\" means to repeatedly bother, annoy, or trouble them over a period of time. It suggests a persistent and often irritating or distressing experience for the person being plagued. This can manifest as constant demands, persistent questions, or ongoing problems that keep weighing on the person.\n\nSynonyms: harass, torment, pester, hound, bedevil.\n",
+        "exampleA": "The children plagued him with questions all through lunch./My shoulder's been plaguing me all week.",
+        "exampleB": "The constant anxiety seemed to plague him, making it difficult to focus.",
+        "exampleC": "Memories of the accident continue to plague her dreams.",
+        "status": "seen"
+    },
+    {
+        "id": "6c95a37b-ae55-46db-9ada-928f886844a4",
+        "word": "plait",
+        "persian": "بافتن گیسو",
+        "definition": "A plait is a structure or length of something that's formed by interlacing three or more strands of a flexible material, most commonly hair. It's a method of braiding or weaving strands together in a regular pattern.\n\nSynonyms: braid, weave, interlace, intertwine.\n",
+        "exampleA": "She plaited the horse's tail.",
+        "exampleB": "She wore her hair in a long, intricate plait down her back.",
+        "exampleC": "He helped his daughter plait her doll's hair.",
+        "status": "seen"
+    },
+    {
+        "id": "226c6fe9-a7cc-45de-84a8-23c1efa2c76a",
+        "word": "pole",
+        "persian": "تیرک، تیر",
+        "definition": "A \"pole\" is a long, slender piece of wood, metal, or other material, typically used for support, as a lever, or for measuring. It can also refer to a geographical point, such as the North Pole or South Pole.\nSynonyms: rod, staff, stake, post, shaft, spar.\n",
+        "exampleA": "a telegraph/electricity pole",
+        "exampleB": "The flag flew proudly atop the tall pole.",
+        "exampleC": "He expertly navigated the boat around the mooring pole.",
+        "status": "seen"
+    },
+    {
+        "id": "57f22fc3-4938-4955-be49-f14d4e8803e8",
+        "word": "predate",
+        "persian": "قبل از موقع بخصوص واقع شدن",
+        "definition": "\"Predate\" means to exist or occur at a date earlier than something else. It implies that the thing doing the predating came into being or happened before the later thing.\n\nSynonyms: precede, antedate, antecede, pre-exist.\n",
+        "exampleA": "These cave paintings predate any others which are known.",
+        "exampleB": "Fossils of early reptiles predate those of mammals by millions of years.",
+        "exampleC": "The ancient ruins predate any written records of the civilization.",
+        "status": "seen"
+    },
+    {
+        "id": "f790a94f-7433-498e-a088-47a507747c7b",
+        "word": "prehistoric",
+        "persian": "ماقبل تاریخ",
+        "definition": "Prehistoric refers to the period of time before written records existed. It encompasses the vast span of human history and the Earth's development prior to the invention of writing systems, relying on archaeological evidence, fossils, and other non-written sources to understand the past.\n\nSynonyms: preliterate, primeval, ancient, antediluvian.\n",
+        "exampleA": "Fossil evidence provides clues about prehistoric life.",
+        "exampleB": "The museum features tools and artifacts from prehistoric cultures.",
+        "exampleC": "Cave paintings offer a glimpse into the prehistoric human mind.",
+        "status": "learned"
+    },
+    {
+        "id": "fa1707e5-89f7-4586-84f7-9b5493356066",
+        "word": "previously",
+        "persian": "بسته به متن، معادل‌های مختلفی برای \"previously\" وجود دارد، اما در یک ترجمه عمومی می‌توان از کلمات زیر استفاده کرد:\n\n   قبلاً\n   پیش از این\n   پیشتر",
+        "definition": "\"Previously\" means occurring or existing before a particular time or event. It refers to something that happened in the past, prior to the current situation or subject being discussed.\n\nSynonyms: Before, formerly, earlier, prior, in the past.\n",
+        "exampleA": "The house had previously been owned by a famous musician.",
+        "exampleB": "She previously worked as a software engineer before becoming a teacher.",
+        "exampleC": "The data was previously analyzed using a different method.",
+        "status": ""
+    },
+    {
+        "id": "ba6bfced-9c3e-421f-8322-e4f2af4344d5",
+        "word": "prior (to)",
+        "persian": "پیش از",
+        "definition": "\"Prior to\" simply means \"before\" or \"earlier than\" a specific time, event, or situation. It indicates a sequence where one thing happens or exists before another.\n\nSynonyms: before, preceding, previous to, ahead of.\n",
+        "exampleA": "the weeks prior to her death",
+        "exampleB": "Prior to the meeting, please review the agenda.",
+        "exampleC": "The application must be submitted prior to the deadline.",
+        "status": "seen"
+    },
+    {
+        "id": "2a42b548-d096-497e-81d2-d2a6ebd95a33",
+        "word": "punctual",
+        "persian": "وقت شناس",
+        "definition": "Being punctual means arriving or doing something at the expected or correct time. It signifies valuing other people's time and adhering to schedules diligently. A punctual person is reliable and demonstrates respect through their commitment to timeliness.\n\nSynonyms: on time, prompt, timely, prompt.\n",
+        "exampleA": "She is always punctual for her appointments.",
+        "exampleB": "The train was surprisingly punctual, arriving right on time.",
+        "exampleC": "A punctual employee is highly valued in this company.",
+        "status": "seen"
+    },
+    {
+        "id": "f4639df9-df81-4583-8091-2e8cf9cf1ebe",
+        "word": "save time",
+        "persian": "صرف جویی در زمان کردن",
+        "definition": "\"Save time\" means to use methods, strategies, or tools that allow you to accomplish a task or achieve a goal in less time than it would typically take. It implies reducing the duration needed for an activity, thereby freeing up time for other pursuits or increasing overall productivity.\n\nSynonyms: expedite, accelerate, streamline, economize on time, cut down on time.\n",
+        "exampleA": "Using online banking can save time by eliminating trips to the bank.",
+        "exampleB": "The new software is designed to save time on data entry.",
+        "exampleC": "Meal prepping on the weekend can save time during the busy work week.",
+        "status": "learned"
+    },
+    {
+        "id": "f0b9f0b2-ffed-4ab1-a04e-2af9580c2b6b",
+        "word": "span",
+        "persian": "\"Span\" بسته به زمینه می‌تونه معانی مختلفی داشته باشه، اما به طور کلی به \"دامنه\"، \"گستره\"، \"فاصله\" یا \"طول بازه\" ترجمه میشه. در زمینه‌های فنی مثل برنامه‌نویسی، معمولاً به معنی \"بازه\" یا \"محدوده\" است.\n",
+        "definition": "to exist or continue for a particular length of time",
+        "exampleA": "Tennis has a history spanning several centuries.",
+        "exampleB": "The bridge has a large span, allowing ships to pass underneath.",
+        "exampleC": "Her career spanned several decades of innovation and discovery.",
+        "status": "seen"
+    },
+    {
+        "id": "465c0609-1953-49c0-bc4d-df5874060f6b",
+        "word": "spend time",
+        "persian": "وقت گذراندن",
+        "definition": "\"Spend time\" refers to the act of allocating or dedicating one's time to a particular activity, person, or purpose. It implies that the time is being used or occupied in some way, whether actively engaging in something or simply being present and attentive.\n\nSynonyms: devote time, invest time, pass time, while away time, allocate time.\n",
+        "exampleA": "I like to spend time reading in the park.",
+        "exampleB": "We need to spend time planning our vacation.",
+        "exampleC": "It's important to spend time with family and friends.",
+        "status": "learned"
+    },
+    {
+        "id": "09aa032d-3b97-475f-bc0c-924bb1b85a8e",
+        "word": "subsequently",
+        "persian": "\"Subsequently\" در فارسی معمولاً به صورت \"متعاقباً\"، \"پس از آن\"، \"در ادامه\" یا \"بعداً\" ترجمه می‌شود. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "\"Subsequently\" means happening or coming after something else in time or order. It indicates a chronological sequence where one event follows another. It's a transitional word used to show the relationship between events that occur one after the other.\n\nSynonyms: afterward, later, following, thereafter, accordingly.\n",
+        "exampleA": "The rain started, and subsequently, the picnic was cancelled.",
+        "exampleB": "He failed the first exam; subsequently, he decided to study harder.",
+        "exampleC": "The company announced layoffs, and subsequently, the stock price plummeted.",
+        "status": ""
+    },
+    {
+        "id": "0a7e1420-45d3-47b7-9b89-adc386cf577f",
+        "word": "take so long",
+        "persian": "خیلی طول کشیدن/وقت گیر بودن\n",
+        "definition": "\"Take so long\" means that something requires an unexpectedly or excessively lengthy duration to complete or occur. It implies that the time spent on the task, activity, or event is considered too much and often causes frustration or impatience.\n\nSynonyms: Drag on, linger, protract, take forever, be delayed\n",
+        "exampleA": "Why does it always take so long to download files?",
+        "exampleB": "The meeting seemed to take so long, I thought it would never end.",
+        "exampleC": "Don't take so long getting ready, we're going to be late!",
+        "status": ""
+    },
+    {
+        "id": "3c74b465-3e9c-4b11-93ee-737c00ae31eb",
+        "word": "take so long time",
+        "persian": "زمان زیادی بردن",
+        "definition": "\"Take so long time\" means that something requires a considerable or excessive duration to complete or occur. It emphasizes the drawn-out or lengthy nature of a process, task, or event.\n\nSynonyms: Prolong, delay, tarry, linger, drag on.\n",
+        "exampleA": "Why does it always take so long time to get through airport security?",
+        "exampleB": "I didn't expect the repair to take so long time.",
+        "exampleC": "It can take so long time to master a new language.",
+        "status": "learned"
+    },
+    {
+        "id": "aba7e0c7-886d-4fb6-9c21-41e383a7d16d",
+        "word": "the Middle Ages",
+        "persian": "قرون وسطی",
+        "definition": "The Middle Ages, also known as the medieval period, broadly refers to the time in European history between the fall of the Roman Empire (around 476 AD) and the beginning of the Renaissance (around the 14th or 15th century). It was a time of significant social, political, and economic change, characterized by feudalism, the rise of the Church, and numerous conflicts.\n\nSynonyms: Medieval Period, Dark Ages, Medieval Times, Age of Faith.\n",
+        "exampleA": "Many castles still standing today were built during the Middle Ages.",
+        "exampleB": "The bubonic plague devastated Europe in the Late Middle Ages.",
+        "exampleC": "Studying art from the Middle Ages provides insights into the beliefs of the time.",
+        "status": "learned"
+    },
+    {
+        "id": "f67aedb4-89b6-4e49-8f10-474719dca378",
+        "word": "the modern age",
+        "persian": "عصر مدرن",
+        "definition": "\"The modern age\" generally refers to the period of history beginning in the late 19th or early 20th century, characterized by rapid industrialization, technological advancements, urbanization, and significant social and political changes that differentiate it from pre-industrial or pre-modern times. It emphasizes a break from tradition and a focus on progress, reason, and individual freedom.\n\nSynonyms: contemporary era, present day, technological age, information age.\n",
+        "exampleA": "The rapid technological advancements define the modern age.",
+        "exampleB": "Many historical events shaped the social landscape of the modern age.",
+        "exampleC": "Philosophers continue to grapple with the ethical dilemmas presented by the modern age.",
+        "status": "learned"
+    },
+    {
+        "id": "44a65546-9255-4e28-867c-a6a527abbd58",
+        "word": "the right time",
+        "persian": "زمان دقیق و صحیح",
+        "definition": "\"The right time\" refers to the opportune or most suitable moment for something to happen or for an action to be taken, maximizing the chances of success or desired outcome. It implies that circumstances are favorable, conditions are aligned, and the timing is optimal.\n\nSynonyms: opportune moment, perfect timing, auspicious occasion, golden opportunity.\n",
+        "exampleA": "I'll tell you when it's the right time to invest.",
+        "exampleB": "He knew it wasn't the right time to bring up the sensitive topic.",
+        "exampleC": "Patience is key; wait for the right time to act.",
+        "status": "learned"
+    },
+    {
+        "id": "02c98ac2-f836-4458-968a-ab18fdbc4405",
+        "word": "time-consuming",
+        "persian": "زمان بر",
+        "definition": "\"Time-consuming\" describes an activity or task that requires a significant amount of time to complete, often more than anticipated or desired. It implies that the process is lengthy and may feel tedious or inefficient.\n\nSynonyms: lengthy, protracted, laborious, tedious, slow, drawn-out\n",
+        "exampleA": "The process of manually backing up all the data was incredibly time-consuming.",
+        "exampleB": "While effective, the research project proved to be far more time-consuming than initially anticipated.",
+        "exampleC": "Developing a strong social media presence can be time-consuming, but it's often worth the effort.",
+        "status": "learned"
+    },
+    {
+        "id": "79c169a4-1047-498f-891f-78d55fa0b0de",
+        "word": "timeline",
+        "persian": "خط زمان، طول زمان",
+        "definition": "A timeline is a visual representation of events in chronological order, typically displayed along a line or graph. It helps illustrate the sequence of occurrences, the duration of activities, and the relationships between different events over a specific period. Timelines are used in various fields, including history, project management, and personal planning, to organize information and understand the progression of happenings.\n\nSynonyms: Chronology, schedule, sequence of events, historical record, roadmap.\n",
+        "exampleA": "The project timeline extends until the end of the year.",
+        "exampleB": "We need to create a detailed timeline of events leading up to the incident.",
+        "exampleC": "The museum exhibit follows a chronological timeline, starting with the earliest artifacts.",
+        "status": "learned"
+    }
+]

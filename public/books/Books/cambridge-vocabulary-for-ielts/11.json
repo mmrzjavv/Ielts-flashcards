@@ -1,0 +1,862 @@
+[
+    {
+        "id": "bd7c9a5e-8b60-4ffe-afde-86cc7e70b9a1",
+        "word": "activate",
+        "persian": "فعال کردن",
+        "definition": "To activate means to make something operative, functional, or effective. It implies initiating a process or bringing a system, device, or even a person into a state of action or readiness. It's about triggering something to start working or become enabled.\n\nSynonyms: start, initiate, trigger, enable, commence, launch\n",
+        "exampleA": "Please activate your account by clicking the link in the email.",
+        "exampleB": "The burglar tried to activate the alarm system.",
+        "exampleC": "The new policy will activate on January 1st.",
+        "status": "learned"
+    },
+    {
+        "id": "b873aab7-ea5c-405a-b6d4-839bbba5dfab",
+        "word": "airy",
+        "persian": "دلباز و روشن، جنس آبکی و بی کیفیت",
+        "definition": "\"Airy\" describes something that is light, spacious, and well-ventilated, often conveying a sense of freedom, lightness, or delicacy. It can refer to a physical space, like a room with high ceilings and plenty of windows, or a more abstract quality, like a light and whimsical personality or a delicate texture.\n\nSynonyms: light, spacious, breezy, ethereal, delicate.\n",
+        "exampleA": "The new offices are light and airy.",
+        "exampleB": "The bakery had an airy, welcoming atmosphere with the scent of fresh bread.",
+        "exampleC": "She wore an airy summer dress that billowed in the gentle breeze.",
+        "status": "seen"
+    },
+    {
+        "id": "153ec806-3769-455c-9cdc-b90289e5469b",
+        "word": "automate",
+        "persian": "بصورت خودکار در آوردن",
+        "definition": "To automate means to convert a process or task to operate automatically, typically using technology or machinery, thereby reducing or eliminating human intervention. It involves using systems and software to perform repetitive or complex actions without the need for manual input, increasing efficiency, accuracy, and speed.\n\nSynonyms: Mechanize, computerize, streamline, robotize.\n",
+        "exampleA": "Massive investment is needed to automate the production process.",
+        "exampleB": "The factory decided to automate the assembly line to increase production.",
+        "exampleC": "We need to automate the process of sending out invoices to save time.",
+        "status": "learned"
+    },
+    {
+        "id": "28962998-73f4-4934-9543-9c32a1b6823d",
+        "word": "balcony",
+        "persian": "بالکن، تراس",
+        "definition": "A balcony is a platform projecting from the wall of a building, typically accessible from a room on an upper floor, and enclosed by a railing or balustrade. It offers an outdoor space to enjoy views, fresh air, or simply relax.\n\nSynonyms: terrace, veranda, porch, deck, gallery.\n",
+        "exampleA": "We enjoyed our morning coffee on the balcony, watching the sunrise.",
+        "exampleB": "The apartment had a small balcony overlooking the courtyard.",
+        "exampleC": "She waved to us from the balcony as we left.",
+        "status": "learned"
+    },
+    {
+        "id": "8190a636-4506-4e7e-95d7-25ad69067742",
+        "word": "brick",
+        "persian": "آجر",
+        "definition": "A \"brick\" is a rectangular block of hardened clay, typically fired in a kiln, used in building construction. It's a fundamental component for creating walls, pavements, and other structures due to its durability and standardized size.\n\nSynonyms: block, building block, adobe, clinker.\n",
+        "exampleA": "a large brick building",
+        "exampleB": "The old brick building stood as a testament to the city's history.",
+        "exampleC": "He used a brick to prop open the heavy door.",
+        "status": "seen"
+    },
+    {
+        "id": "bd0d4abe-170b-49e4-b84d-e8b7e584d545",
+        "word": "build",
+        "persian": "بسته به متن، \"build\" می‌تونه به معنی ساختن، ایجاد کردن، توسعه دادن، بنا کردن یا تشکیل دادن باشه.\n",
+        "definition": "\"Build\" generally means to construct or create something, typically a physical structure or a more abstract system. It implies assembling parts, often following a plan or design, to bring something new into existence or improve upon something that already exists.\n\nSynonyms: construct, create, establish, develop, assemble.\n",
+        "exampleA": "They plan to build a new school next year.",
+        "exampleB": "The company is trying to build a strong reputation.",
+        "exampleC": "You need to build a solid foundation before adding more complex features.",
+        "status": ""
+    },
+    {
+        "id": "da207d89-acfc-405f-972c-790a7e374b56",
+        "word": "builder",
+        "persian": "ساختمان ساز",
+        "definition": "A builder is a person or company that constructs or renovates buildings and other structures. They oversee the building process, often working from blueprints or architectural plans, and coordinating with various tradespeople to bring a design to life.\n\nSynonyms: constructor, contractor, developer, architect (in some contexts)\n",
+        "exampleA": "The software company hired a new builder to lead the development team.",
+        "exampleB": "He is a home builder with over 20 years of experience.",
+        "exampleC": "This Lego set lets you become a master builder and create your own designs.",
+        "status": "learned"
+    },
+    {
+        "id": "7e691323-181c-4a5d-8c8c-125e09b68563",
+        "word": "building",
+        "persian": "ساختمان",
+        "definition": "A building is a structure with walls and a roof, erected to provide shelter or space for a variety of human activities, such as living, working, or storage. It can range from a simple shed to a complex skyscraper and is generally a permanent or semi-permanent construction.\n\nSynonyms: structure, edifice, construction, establishment.\n",
+        "exampleA": "The building was evacuated due to a fire alarm.",
+        "exampleB": "They are building a new skyscraper downtown.",
+        "exampleC": "The architect presented the building's blueprints to the committee.",
+        "status": "learned"
+    },
+    {
+        "id": "bd7e56e0-5119-4ad0-b26a-e1c76df2cb2d",
+        "word": "build up",
+        "persian": "ساختن و افزایش نیرو دادن",
+        "definition": "\"Build up\" generally means to gradually increase something in size, quantity, strength, or intensity over time. It implies a process of accumulation or development leading to a larger or more significant result. Think of it as adding layers or increments to something until it reaches a desired level.\n\nSynonyms: accumulate, develop, escalate, intensify, augment.\n",
+        "exampleA": "The team worked hard to build up their lead in the second half.",
+        "exampleB": "He tried to build up her confidence before the big presentation.",
+        "exampleC": "Years of neglect had allowed the dust to build up on the furniture.",
+        "status": "learned"
+    },
+    {
+        "id": "9072661c-055b-4dbd-8f6c-fbe1e84c39a9",
+        "word": "ceiling",
+        "persian": "سقف",
+        "definition": "The \"ceiling\" is the overhead interior surface that covers the upper limit of a room or other enclosed space. It serves as a structural element, often concealing the floor above, and can also contribute to the room's aesthetics and acoustics.\n\nSynonyms: roof, top, vault, canopy, covering\n",
+        "exampleA": "The water stain on the ceiling suggested a leak from the apartment above.",
+        "exampleB": "She stared at the ceiling, unable to fall asleep.",
+        "exampleC": "The artist painted a beautiful mural on the ceiling of the chapel.",
+        "status": "learned"
+    },
+    {
+        "id": "cc134e44-225c-4fa4-a307-d14e6f428450",
+        "word": "concrete",
+        "persian": "بتن",
+        "definition": "\"Concrete\" means existing in a material or physical form; real or solid; not abstract. It refers to something that can be perceived by the senses, something specific and tangible rather than a general idea or concept.\n\nSynonyms: tangible, palpable, real, solid, specific, definite.\n",
+        "exampleA": "a grey concrete building",
+        "exampleB": "The sidewalk was made of concrete.",
+        "exampleC": "Her argument lacked concrete evidence.",
+        "status": "seen"
+    },
+    {
+        "id": "5e7f58af-86b1-4907-9a5d-5cc8b139222e",
+        "word": "condemn",
+        "persian": "محکوم کردن (از لحاظ اخلاقی و اجتماعی)، رای به غیرقانونی بودن ساختمان دادن",
+        "definition": "To condemn means to express strong disapproval of something, often publicly and formally. It can also mean to sentence someone to a particular punishment, especially death, in a court of law. Essentially, it implies a judgment of something or someone as being wrong, bad, or deserving of punishment.\n\nSynonyms: denounce, criticize, censure, damn, convict\n",
+        "exampleA": "The international community strongly condemned the violence.",
+        "exampleB": "Many people condemn his actions as unethical.",
+        "exampleC": "The report condemned the company's lack of safety measures.",
+        "status": "seen"
+    },
+    {
+        "id": "0363bc29-2866-4642-b803-8864ae89ef41",
+        "word": "construct",
+        "persian": "ساختن، احداث کردن",
+        "definition": "\"Construct\" means to build or create something, often a physical structure like a building or a bridge, but it can also refer to forming something abstract, such as an argument or a theory. It implies a deliberate and organized process of putting elements together.\n\nSynonyms: build, create, form, fabricate, assemble\n",
+        "exampleA": "The engineers will construct a new bridge across the river.",
+        "exampleB": "They plan to construct a modern art museum in the city center.",
+        "exampleC": "It's important to construct a logical argument supported by evidence.",
+        "status": "learned"
+    },
+    {
+        "id": "2273f344-ec76-4f88-b91e-dd264be8caf8",
+        "word": "construction",
+        "persian": "سازه، ساختار، ساختمان سازی",
+        "definition": "\"Construction\" refers to the process of building or assembling something, typically a structure like a house, bridge, or road. It encompasses all the activities involved, from planning and design to physical labor and material procurement, ultimately resulting in a finished product.\nSynonyms: building, fabrication, erection, assembly, development.\n",
+        "exampleA": "The road construction caused significant traffic delays.",
+        "exampleB": "New construction is booming in the downtown area.",
+        "exampleC": "The bridge is a marvel of modern construction.",
+        "status": "learned"
+    },
+    {
+        "id": "6d24eae1-a623-42b3-9e8a-b5fe7b9ec898",
+        "word": "construction worker",
+        "persian": "کارگر ساختمانی",
+        "definition": "A construction worker is a person employed to build, repair, or maintain structures like buildings, roads, bridges, and tunnels. They perform various manual labor tasks often involving heavy equipment, materials, and adherence to safety protocols to ensure the successful completion of a construction project.\n\nSynonyms: builder, laborer, tradesperson, construction professional.\n",
+        "exampleA": "The construction worker wore a hard hat and safety vest.",
+        "exampleB": "My neighbor is a construction worker who builds houses.",
+        "exampleC": "The construction worker skillfully operated the heavy machinery.",
+        "status": "learned"
+    },
+    {
+        "id": "5b35baf7-5dcd-451c-bc5e-5a86c9f3db06",
+        "word": "conventional",
+        "persian": "مرسوم",
+        "definition": "\"Conventional\" refers to something that is based on or conforms to what is generally done or believed; it aligns with established norms, customs, or traditions. It often implies a lack of originality or a tendency to follow accepted practices.\n\nSynonyms: traditional, customary, standard, typical, orthodox, mainstream.\n",
+        "exampleA": "The artist challenged conventional notions of beauty in her abstract paintings.",
+        "exampleB": "Conventional wisdom suggests that you should start saving for retirement early.",
+        "exampleC": "They opted for a less conventional wedding, foregoing a formal reception for a backyard barbecue.",
+        "status": "seen"
+    },
+    {
+        "id": "bf98a69f-7c0c-48ca-8de4-cbedc8bc9d7e",
+        "word": "cosy",
+        "persian": "گرم و نرم، دنج",
+        "definition": "\"Cosy\" describes a feeling of warmth, comfort, and relaxation, often associated with a sense of intimacy and security. It suggests a space or situation that is welcoming and invites you to unwind and feel content.\n\nSynonyms: snug, comfortable, homely, inviting, restful.\n",
+        "exampleA": "This room is nice and cosy in the winter.",
+        "exampleB": "The small cottage felt very cosy with its fireplace and soft blankets.",
+        "exampleC": "We spent a cosy evening at home, reading books and drinking hot chocolate.",
+        "status": "learned"
+    },
+    {
+        "id": "aee44816-0bdf-4099-9462-e355f005b5fc",
+        "word": "cottage",
+        "persian": "کلبه",
+        "definition": "A cottage is a small, typically cozy and quaint house, often located in a rural or semi-rural area. It evokes feelings of warmth, simplicity, and a connection to nature.\n\nSynonyms: cabin, hut, lodge, chalet.\n",
+        "exampleA": "They spent their summer vacation in a cozy cottage by the sea.",
+        "exampleB": "The antique furniture perfectly complemented the rustic charm of the cottage.",
+        "exampleC": "She dreamed of retiring to a small cottage surrounded by a beautiful garden.",
+        "status": "seen"
+    },
+    {
+        "id": "f5a42386-b063-4d25-89d5-3e9f765ba76b",
+        "word": "cramped",
+        "persian": "دلگیر و تنگ",
+        "definition": "\"Cramped\" describes a space that is uncomfortably small and confined, leaving little room for movement or comfort. It suggests a feeling of being restricted and squeezed. Synonyms include: confined, constricted, restricted, tight, and cramped.\n",
+        "exampleA": "a cramped room/house",
+        "exampleB": "The apartment was small and cramped, barely fitting all of our furniture.",
+        "exampleC": "After hours in the cramped airplane seat, I was desperate to stretch my legs.",
+        "status": "seen"
+    },
+    {
+        "id": "06eb217f-87c5-492b-9034-aa7a07fbf4f3",
+        "word": "curved",
+        "persian": "خمیده",
+        "definition": "\"Curved\" describes something that deviates smoothly from a straight line or flat surface. It implies a bending or arching form, lacking sharp angles. In essence, it suggests a non-linear shape.\n\nSynonyms: Arched, Bent, Bowed, Rounded, Crooked.\n",
+        "exampleA": "The curved road made it difficult to see oncoming traffic.",
+        "exampleB": "The artist carefully shaped the clay into a beautifully curved vase.",
+        "exampleC": "She admired the curved lines of the antique chair.",
+        "status": "seen"
+    },
+    {
+        "id": "cec3e34b-96bb-4d0e-af98-cb60ccde675b",
+        "word": "decorate",
+        "persian": "تزئئین کردن",
+        "definition": "To decorate means to make something more attractive by adding ornaments or other embellishments. It involves enhancing the appearance of a space, object, or person to make it more visually appealing or festive, often for a special occasion or to reflect personal style.\n\nSynonyms: embellish, adorn, ornament, garnish, beautify.\n",
+        "exampleA": "We will decorate the Christmas tree with colorful ornaments.",
+        "exampleB": "She plans to decorate her new apartment in a modern style.",
+        "exampleC": "The children wanted to decorate their bicycles for the parade.",
+        "status": "seen"
+    },
+    {
+        "id": "b52c4873-8c6e-474a-a9d6-168ea6cc1c24",
+        "word": "demolish",
+        "persian": "ویران کردن ساختمان",
+        "definition": "To demolish means to completely destroy or tear down a structure or object, often deliberately and forcefully. It implies reducing something to rubble or fragments, rendering it unusable or nonexistent.\nSynonyms: raze, obliterate, dismantle, wreck, destroy.\n",
+        "exampleA": "The construction crew will demolish the old building next week.",
+        "exampleB": "His arguments completely demolish her claims.",
+        "exampleC": "The storm threatened to demolish the small coastal town.",
+        "status": "seen"
+    },
+    {
+        "id": "d4a42d8e-dfc0-4d90-9277-16a9f933613d",
+        "word": "design",
+        "persian": "طراحی",
+        "definition": "\"Design\" refers to the process of creating a plan or specification for the construction of an object or system, or for the implementation of an activity or process. It involves problem-solving, innovation, and aesthetic considerations to achieve a desired outcome.\n\nSynonyms: plan, blueprint, layout, conception, pattern.\n",
+        "exampleA": "The architect presented a modern design for the new museum.",
+        "exampleB": "She chose to design her own wedding invitations.",
+        "exampleC": "The software's user interface needs a complete redesign.",
+        "status": "learned"
+    },
+    {
+        "id": "a3584b66-136f-4e12-b4d7-86500dddc266",
+        "word": "design",
+        "persian": "طراحی کردن",
+        "definition": "\"Design\" encompasses the process of planning and creating something with a specific purpose and intention. It involves problem-solving, creativity, and technical expertise to develop a functional and aesthetically pleasing solution, whether it's a physical object, a system, or a communication strategy. Essentially, it's about crafting a deliberate and thoughtful outcome.\n\nSynonyms: plan, create, invent, develop, formulate.\n",
+        "exampleA": "The architect presented a detailed design for the new museum.",
+        "exampleB": "Her dress was a unique design, unlike anything I'd seen before.",
+        "exampleC": "The company plans to design a more user-friendly interface for their software.",
+        "status": "learned"
+    },
+    {
+        "id": "9a306294-08f9-4690-84a3-7c8ef130ab2f",
+        "word": "design",
+        "persian": "\"Design\" در فارسی می‌تواند بسته به متن، به «طراحی»، «طرح»، «نقشه»، «دیزاین» یا «مهندسی» ترجمه شود.\n",
+        "definition": "\"Design\" refers to the process of creating a plan or specification for the construction of an object or system, or for the implementation of an activity or process. It involves problem-solving, creativity, and technical skill to achieve a desired outcome, whether it's a physical product, a digital interface, or a strategic plan.\n\nSynonyms: blueprint, plan, layout, scheme, strategy\n",
+        "exampleA": "The architect presented a modern design for the new museum.",
+        "exampleB": "She has a natural talent for design and creating beautiful spaces.",
+        "exampleC": "The engineers worked collaboratively to design a more efficient engine.",
+        "status": ""
+    },
+    {
+        "id": "37d2baf7-c53d-4f6f-ba6d-a431357ad69f",
+        "word": "design",
+        "persian": "\"Design\" در فارسی می‌تواند بسته به متن، به «طراحی»، «طرح»، «نقشه»، «دیزاین» یا «مهندسی» ترجمه شود.\n",
+        "definition": "\"Design\" refers to the process of creating a plan or specification for the construction of an object or system, or for the implementation of an activity or process. It involves problem-solving, creativity, and technical skill to achieve a desired outcome, whether it's a physical product, a digital interface, or a strategic plan.\n\nSynonyms: blueprint, plan, layout, scheme, strategy\n",
+        "exampleA": "The architect presented a modern design for the new museum.",
+        "exampleB": "She has a natural talent for design and creating beautiful spaces.",
+        "exampleC": "The engineers worked collaboratively to design a more efficient engine.",
+        "status": ""
+    },
+    {
+        "id": "72e9db85-69ce-41df-b2c2-cfbd9049c8f8",
+        "word": "develop",
+        "persian": "\"Develop\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین معادل‌های اون در فارسی عبارتند از: \"توسعه دادن\"، \"ایجاد کردن\"، \"پرورش دادن\"، \"به وجود آوردن\" و \"رشد دادن\".\n",
+        "definition": "To develop means to grow, expand, or evolve gradually over time, often by adding details, improving quality, or becoming more complex. It can refer to a physical process, like developing a photograph, or an abstract one, like developing a skill.\n\nSynonyms: evolve, mature, progress, cultivate, generate.\n",
+        "exampleA": "The company plans to develop a new line of electric vehicles.",
+        "exampleB": "Reading regularly can help develop a stronger vocabulary.",
+        "exampleC": "Scientists are working hard to develop a vaccine for the disease.",
+        "status": ""
+    },
+    {
+        "id": "710e942d-3feb-4a87-a11d-5f49da9faaed",
+        "word": "device",
+        "persian": "ابزار، تجهیزات",
+        "definition": "A device is a tool or piece of equipment created for a specific purpose or function. It's typically something tangible and often utilizes mechanical or electronic components to achieve its goal.\n\nSynonyms: instrument, gadget, apparatus, mechanism, tool.\n",
+        "exampleA": "My phone is my most important device.",
+        "exampleB": "The doctor used a special device to monitor my heart.",
+        "exampleC": "This device can translate languages in real time.",
+        "status": "learned"
+    },
+    {
+        "id": "3bc3941c-a13d-439b-a352-71dd6edb6ebc",
+        "word": "devise",
+        "persian": "ابداع کردن",
+        "definition": "To \"devise\" means to plan, create, or invent a complex procedure, system, or mechanism by careful thought and effort. It implies ingenuity and a degree of complexity in the solution or plan being developed.\n\nSynonyms: formulate, concoct, invent, design, contrive.\n",
+        "exampleA": "The team had to devise a new strategy to overcome the unexpected challenge.",
+        "exampleB": "Scientists are working to devise a more efficient solar panel.",
+        "exampleC": "She tried to devise a plan to surprise her best friend.",
+        "status": "seen"
+    },
+    {
+        "id": "a1db8082-0248-4f4c-9542-d51396b3a105",
+        "word": "disposable",
+        "persian": "یکبارمصرف",
+        "definition": "\"Disposable\" refers to something designed to be used once or a limited number of times and then thrown away. It emphasizes convenience and hygiene by avoiding the need for cleaning or maintenance. The intent is for easy disposal after use.\n\nSynonyms: throwaway, single-use, expendable, non-reusable.\n",
+        "exampleA": "The company is trying to reduce its reliance on disposable plastics.",
+        "exampleB": "He felt like a disposable tool, used and then discarded.",
+        "exampleC": "Disposable income allows families to spend money on non-essential items.",
+        "status": "learned"
+    },
+    {
+        "id": "ef0134eb-1bb9-4d95-905d-2c669a16687e",
+        "word": "domestic",
+        "persian": "خانگی، وطنی و داخلی، اهلی",
+        "definition": "\"Domestic\" refers to something related to one's home, household, or country. It can describe activities, goods, or even animals that are associated with or originate within a specific nation or are kept as pets or livestock. The term often contrasts with \"foreign\" or \"wild.\"\n\nSynonyms: home, household, national, internal, tame.\n",
+        "exampleA": "The company focuses on domestic sales rather than international exports.",
+        "exampleB": "She prefers domestic cats to other types of pets.",
+        "exampleC": "Rising domestic inflation is a major concern for the government.",
+        "status": "seen"
+    },
+    {
+        "id": "c580aa4d-4df2-4a94-9d77-4fa62cc19c64",
+        "word": "downstairs",
+        "persian": "طبقه پایینی",
+        "definition": "\"Downstairs\" refers to the lower level or floor of a building, typically the ground floor or a floor below the main entrance. It's the direction or location considered to be on a lower level than where one currently is.\n\nSynonyms: below, ground floor, lower level, basement (sometimes), cellar (sometimes).\n",
+        "exampleA": "I heard a noise downstairs, and I'm afraid to investigate.",
+        "exampleB": "The laundry room is located downstairs, next to the guest bathroom.",
+        "exampleC": "She told him to wait downstairs while she finished getting ready.",
+        "status": "learned"
+    },
+    {
+        "id": "27b84e51-d615-428f-af7e-b36c582bc745",
+        "word": "elevator",
+        "persian": "آسانسور",
+        "definition": "An elevator is a vertical transportation device used to move people or goods between floors in a building or structure. It operates using a hoisting mechanism, typically ropes or cables, within a shaft, allowing for efficient and convenient travel between different levels.\n\nSynonyms: lift, hoist, dumbwaiter\n",
+        "exampleA": "The elevator was out of service, so we had to take the stairs.",
+        "exampleB": "She was stuck in the elevator for an hour during the power outage.",
+        "exampleC": "He pressed the button for the tenth floor in the elevator.",
+        "status": "learned"
+    },
+    {
+        "id": "0c382e63-3e06-46dc-866a-d3ae48ae783b",
+        "word": "engineering",
+        "persian": "معادل‌های مختلفی برای «engineering» در فارسی وجود دارد، اما رایج‌ترین و کلی‌ترین ترجمه آن مهندسی است.\n",
+        "definition": "Engineering is the application of scientific and mathematical principles to design, build, and maintain structures, machines, devices, systems, and processes. It involves problem-solving, innovation, and the efficient use of resources to create solutions that benefit society.\n\nSynonyms: Applied science, technology, technical design, construction, development.\n",
+        "exampleA": "She studied engineering at a prestigious university.",
+        "exampleB": "The bridge was a remarkable feat of engineering.",
+        "exampleC": "Software engineering is a rapidly growing field.",
+        "status": ""
+    },
+    {
+        "id": "f7a87caa-0a3e-4552-9a4d-b490a8079c87",
+        "word": "exterior",
+        "persian": "مربوط به خارج ساختمان، خارجی",
+        "definition": "The exterior refers to the outer part or surface of something. It's what's visible or apparent on the outside, often in contrast to the interior or inner workings. Think of it as the external appearance or outermost layer.\n\nSynonyms: outside, surface, façade, shell, outward appearance.\n",
+        "exampleA": "The exterior of the house was painted a vibrant blue.",
+        "exampleB": "We examined the exterior of the car for any scratches or dents.",
+        "exampleC": "The building's exterior was designed in a modern, minimalist style.",
+        "status": "seen"
+    },
+    {
+        "id": "b6b95210-cfa1-4ca9-91af-97e3fc8583f7",
+        "word": "flat",
+        "persian": "خانه آپارتمانی",
+        "definition": "\"Flat\" generally describes something lacking curvature, elevation, or depth. It can refer to a level surface, a deflated object, a dull or lifeless quality, or even a musical note lowered in pitch. The precise meaning depends on the context in which it's used.\n\nSynonyms: level, even, horizontal, deflated, dull, boring, monotone.\n",
+        "exampleA": "The tire went flat after driving over a nail.",
+        "exampleB": "The landscape was surprisingly flat, stretching out for miles.",
+        "exampleC": "She painted the wall with a flat, matte finish.",
+        "status": "learned"
+    },
+    {
+        "id": "45e79bfa-8a24-498c-bc28-86c7d402fa68",
+        "word": "frame",
+        "persian": "قاب",
+        "definition": "A \"frame\" is a supporting structure or boundary around something, both literally and figuratively. Literally, it's the border that holds a picture or the chassis of a vehicle. Figuratively, it refers to a perspective, context, or structure of thought within which something is understood or interpreted.\n\nSynonyms: structure, border, framework, context, perspective.\n",
+        "exampleA": "a picture frame",
+        "exampleB": "The artist carefully chose a frame to complement the painting.",
+        "exampleC": "They had to frame the issue carefully to avoid upsetting anyone.",
+        "status": "learned"
+    },
+    {
+        "id": "fe8acf56-3de5-4128-b508-abdc37a590ac",
+        "word": "functional",
+        "persian": "\"Functional\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما به طور کلی می‌شه اون رو \"کاربردی\"، \"عملکردی\"، یا \"مفید\" ترجمه کرد.\n",
+        "definition": "designed to be practical and useful rather than attractive:",
+        "exampleA": "The new software update made the application more functional and user-friendly.",
+        "exampleB": "While aesthetically pleasing, the design was not very functional for everyday use.",
+        "exampleC": "The functional MRI showed increased activity in the prefrontal cortex during the task.",
+        "status": "learned"
+    },
+    {
+        "id": "f15c761e-f17b-47c2-a608-cdd81dd4c48c",
+        "word": "futuristic",
+        "persian": "مربوط به اینده، خیلی پیشرفته",
+        "definition": "\"Futuristic\" describes something that appears to belong to or be inspired by the future, often incorporating advanced technology, sleek designs, and novel concepts. It suggests a world that is beyond the present, imagined with innovation and progress.\n\nSynonyms: advanced, visionary, cutting-edge, state-of-the-art, forward-looking.\n",
+        "exampleA": "The city's architecture was strikingly futuristic, with towering skyscrapers of glass and steel.",
+        "exampleB": "Her fashion sense was always ahead of its time, incorporating futuristic elements like metallic fabrics and geometric shapes.",
+        "exampleC": "The novel painted a dark and dystopian picture of a futuristic society controlled by technology.",
+        "status": "seen"
+    },
+    {
+        "id": "a8138436-17bc-4fa6-8afe-a6b6a8687f77",
+        "word": "gadget",
+        "persian": "ابزار",
+        "definition": "A gadget is a small, often ingenious, and relatively simple piece of equipment or device created for a specific purpose, often a novel or technological one. It's usually more complex than a tool but smaller and less functional than a machine.\n\nSynonyms: device, appliance, contraption, gizmo, widget.\n",
+        "exampleA": "Have you seen this handy little gadget - it's for separating egg yolks from whites.",
+        "exampleB": "I can't live without my new kitchen gadget.",
+        "exampleC": "He's always buying the latest electronic gadget.",
+        "status": "learned"
+    },
+    {
+        "id": "f6a2e9ee-bcf6-4018-99d0-a0eed7f45ded",
+        "word": "haul",
+        "persian": "\"Haul\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما به طور کلی می‌شه اون رو به صورت زیر ترجمه کرد:\n\n   کشیدن/حمل کردن (بار سنگین)\n   به دست آوردن/غارت کردن (وقتی در مورد دزدی یا سود زیاد صحبت می‌کنیم)\n   مسافتی که طی شده (در این حالت می‌تونه به معنی \"مسافت\" یا \"مسیر\" باشه)\n",
+        "definition": "to pull something heavy slowly and with difficulty",
+        "exampleA": "They hauled the boat out of the water.",
+        "exampleB": "The fishermen were excited about the large haul they brought in.",
+        "exampleC": "We had to haul the heavy boxes up three flights of stairs.",
+        "status": "seen"
+    },
+    {
+        "id": "37dff432-a19a-4daa-a1a8-9e044896c9f7",
+        "word": "high-rise",
+        "persian": "\"High-rise\" به فارسی معمولاً به صورت \"ساختمان بلندمرتبه\" یا \"برج\" ترجمه می‌شود.\n",
+        "definition": "a tall modern building with many floors",
+        "exampleA": "The new high-rise apartment building dominates the city skyline.",
+        "exampleB": "She works on the 30th floor of a high-rise office tower.",
+        "exampleC": "Living in a high-rise offers stunning views but can feel disconnected from the ground.",
+        "status": "seen"
+    },
+    {
+        "id": "748427ff-bc9f-42d5-bc03-ba1b69e1c808",
+        "word": "hoist",
+        "persian": "معنی \"hoist\" به فارسی، بسته به زمینه می‌تونه \"بالا کشیدن\"، \"بلند کردن\"، \"بالا بردن\" یا \"کشیدن\" باشه.\n",
+        "definition": "to lift something heavy, sometimes using ropes or a machine",
+        "exampleA": "A helicopter hoisted the final section of the bridge into place.",
+        "exampleB": "The sailors worked together to hoist the mainsail.",
+        "exampleC": "They had to hoist the car up to change the tire.",
+        "status": "seen"
+    },
+    {
+        "id": "56f5e6d4-1fb6-4258-a502-b3beed2b81e6",
+        "word": "housing",
+        "persian": "مسکن",
+        "definition": "Housing refers to the process or activity of providing shelter and accommodation for people. It encompasses the planning, development, construction, management, and financing of residential buildings and communities. Good housing provides safety, security, privacy, and a foundation for personal and social well-being.\n\nSynonyms: Accommodation, dwelling, residence, lodging, shelter\n",
+        "exampleA": "There's a shortage of cheap housing in the region.",
+        "exampleB": "The city is facing a severe housing shortage, making it difficult for young families to find affordable homes.",
+        "exampleC": "New housing developments are planned to address the growing population in the region.",
+        "status": "learned"
+    },
+    {
+        "id": "059aad9d-a708-461f-86be-fbb6e5e374de",
+        "word": "innovation",
+        "persian": "نوآوری",
+        "definition": "Innovation refers to the creation and implementation of a new or significantly improved product, process, service, or business model that results in enhanced effectiveness, efficiency, or competitive advantage. It goes beyond mere invention by requiring the practical application and successful adoption of the novel idea.\nSynonyms: Creativity, novelty, originality, invention, modernization, advancement.\n",
+        "exampleA": "The company's success is largely attributed to its commitment to innovation.",
+        "exampleB": "This project requires a high degree of innovation to overcome the existing challenges.",
+        "exampleC": "We need to foster a culture of innovation to stay competitive in the market.",
+        "status": "learned"
+    },
+    {
+        "id": "ffd13904-e02c-4b3a-91af-b48064cc7ec5",
+        "word": "innovative",
+        "persian": "نوآورانه",
+        "definition": "\"Innovative\" describes something new, original, and significantly improved or different from what already exists. It implies the introduction of novel ideas, methods, or products that bring about positive change or advancement. In essence, it's about creating something groundbreaking and impactful.\n\nSynonyms: inventive, creative, pioneering, ingenious, original.\n",
+        "exampleA": "The company is known for its innovative approach to problem-solving.",
+        "exampleB": "She received an award for her innovative design of the new building.",
+        "exampleC": "We need innovative solutions to address the challenges of climate change.",
+        "status": "learned"
+    },
+    {
+        "id": "db408edb-2ecc-4ad7-9a89-979943b8029a",
+        "word": "internal",
+        "persian": "مربوط به داخل ساختمان، داخلی",
+        "definition": "\"Internal\" refers to something that exists or is situated on the inside, within a particular entity, organization, or individual. It contrasts with external or outside forces and often relates to inner workings, processes, or characteristics.\n\nSynonyms: inner, intrinsic, inherent, inward, domestic.\n",
+        "exampleA": "The company conducted an internal investigation into the data breach.",
+        "exampleB": "She has a strong internal drive to succeed.",
+        "exampleC": "The software's internal architecture is complex.",
+        "status": "learned"
+    },
+    {
+        "id": "6078bf9a-12b9-4caf-a0ca-624494d93464",
+        "word": "invent",
+        "persian": "اختراع کردن",
+        "definition": "To invent means to create or design something that has not existed before, often a device, process, or idea. It involves original thought, ingenuity, and the bringing into being of something novel.\n\nSynonyms: create, devise, originate, conceive, formulate.\n",
+        "exampleA": "Did you invent a new type of engine?",
+        "exampleB": "The company plans to invent a more efficient solar panel.",
+        "exampleC": "I want to invent a device that will help people communicate across languages.",
+        "status": "learned"
+    },
+    {
+        "id": "a102b14c-3388-4373-a460-65be639a3f2f",
+        "word": "invention",
+        "persian": "اختراع",
+        "definition": "Invention refers to the creation of something entirely new, a device, process, or idea that did not exist before. It typically involves ingenuity, experimentation, and the successful application of a novel concept.\n\nSynonyms: Innovation, creation, contrivance, discovery, brainchild.\n",
+        "exampleA": "The invention of the printing press revolutionized the spread of information.",
+        "exampleB": "Her latest invention is a self-cleaning coffee maker.",
+        "exampleC": "The light bulb is often cited as one of history's most important inventions.",
+        "status": "learned"
+    },
+    {
+        "id": "9095976d-1b3f-43fc-b9c8-beca35151310",
+        "word": "landmark",
+        "persian": "علامت مشخصه، نقطه عطف",
+        "definition": "A landmark is a prominent or easily recognizable feature, either natural or man-made, that stands out in its surroundings and can be used for navigation or as a point of reference. It also signifies a significant or historic event, achievement, or change that marks a turning point or important stage in something.\n\nSynonyms: milestone, watershed, turning point, monument, beacon.\n",
+        "exampleA": "The Eiffel Tower is a famous landmark in Paris.",
+        "exampleB": "The Supreme Court decision was a landmark case for civil rights.",
+        "exampleC": "We used the old oak tree as a landmark to find our way back.",
+        "status": "learned"
+    },
+    {
+        "id": "c2e8b0cc-b756-498e-aac7-0e4a00922753",
+        "word": "lift",
+        "persian": "بالا بر",
+        "definition": "\"Lift\" generally means to raise or elevate something to a higher position. It can refer to physically raising an object, increasing morale or spirits, or improving a situation. It implies an upward movement or a positive change in state.\n\nSynonyms: raise, elevate, hoist, boost, uplift.\n",
+        "exampleA": "Could you give me a lift to the airport?",
+        "exampleB": "The construction workers used a crane to lift the heavy beams.",
+        "exampleC": "He felt a lift in his spirits after hearing the good news.",
+        "status": "learned"
+    },
+    {
+        "id": "de2c6344-9c14-47b7-8b44-275c9b384482",
+        "word": "lift shaft",
+        "persian": "محور بالابر",
+        "definition": "A lift shaft is a vertical, enclosed space within a building specifically designed to accommodate and guide the movement of a lift (elevator) car. It provides the structural support, protection, and running clearance necessary for the safe and efficient operation of the lift system.\n\nSynonyms: elevator shaft, hoistway, lift well, elevator well.\n",
+        "exampleA": "The maintenance crew was working inside the lift shaft.",
+        "exampleB": "Construction workers used the lift shaft to transport materials.",
+        "exampleC": "A safety inspection of the lift shaft is required annually.",
+        "status": "seen"
+    },
+    {
+        "id": "309ad241-dd11-4f78-b369-000b268ce24a",
+        "word": "living room",
+        "persian": "اتاق نشیمن",
+        "definition": "A living room is a common space in a house or apartment primarily used for relaxing, socializing, and entertaining guests. It's often furnished with comfortable seating like sofas and armchairs, and may include a television, coffee table, and other decorative items. It's a space meant for everyday living and shared activities.\n\nSynonyms: sitting room, lounge, family room, front room, parlor\n",
+        "exampleA": "We gathered in the living room to watch a movie.",
+        "exampleB": "The new rug really brightened up the living room.",
+        "exampleC": "She decorated the living room with plants and cozy furniture.",
+        "status": "learned"
+    },
+    {
+        "id": "33914ba0-5397-480c-9c9e-f712236dff0d",
+        "word": "maintain",
+        "persian": "نگهداری کردن از وسیله یا ساختمان",
+        "definition": "To \"maintain\" means to keep something in its existing state or condition, often through consistent effort and care. It implies preventing decline or deterioration and ensuring that something continues to function properly or remain at a desired level.\n\nSynonyms: preserve, uphold, sustain, retain, conserve.\n",
+        "exampleA": "The company worked hard to maintain its market share.",
+        "exampleB": "Regular exercise is crucial to maintain good health.",
+        "exampleC": "It's important to maintain a positive attitude, even when things get tough.",
+        "status": "seen"
+    },
+    {
+        "id": "bac6ee2c-cb8c-417a-a88f-ecbaa3fb8883",
+        "word": "mass-produced",
+        "persian": "تولید انبوه شده",
+        "definition": "\"Mass-produced\" refers to the manufacture of standardized goods in large quantities, typically using assembly line techniques. This process prioritizes efficiency and volume, often resulting in lower costs but potentially sacrificing customization or artistry. The goal is to make products widely available and affordable.\n\nSynonyms: mass-manufactured, factory-made, assembly-line produced, standardized.\n",
+        "exampleA": "mass-produced souvenirs",
+        "exampleB": "The factory churned out mass-produced toys for the holiday season.",
+        "exampleC": "She preferred unique, handcrafted items over mass-produced goods.",
+        "status": "seen"
+    },
+    {
+        "id": "91288de7-9ed9-4dc3-9431-bdc5a149bb58",
+        "word": "modern",
+        "persian": "مدرن به فارسی میتونه معادل \"امروزی\"، \"نوین\"، \"جدید\" یا \"معاصر\" باشه. انتخاب دقیق کلمه به بافت جمله بستگی داره.\n",
+        "definition": "\"Modern\" generally refers to something relating to the present or recent times, often characterized by new ideas, styles, or technology that deviate from traditional norms. It encompasses contemporary culture, design, and thought processes, emphasizing innovation and progress.\n\nSynonyms: contemporary, current, up-to-date, new, recent.\n",
+        "exampleA": "The architect designed a modern building with clean lines and open spaces.",
+        "exampleB": "Modern medicine has made great strides in treating previously incurable diseases.",
+        "exampleC": "She prefers the modern approach to project management, using collaborative software and agile methodologies.",
+        "status": ""
+    },
+    {
+        "id": "9819160b-c29e-4620-ac87-6b13c3eb3f4e",
+        "word": "multi-storey",
+        "persian": "چندطبقه",
+        "definition": "\"Multi-storey\" describes a building that has more than one story or floor. It's a common way to refer to structures that rise vertically, allowing for more efficient use of land.\nSynonyms: high-rise, multi-level, tall building.\n",
+        "exampleA": "The new shopping centre is a multi-storey complex with a wide variety of shops.",
+        "exampleB": "Firefighters battled the blaze in the multi-storey car park for several hours.",
+        "exampleC": "They live in a multi-storey apartment building overlooking the park.",
+        "status": "seen"
+    },
+    {
+        "id": "4dfd581b-93e7-4c9f-b094-4b7eb5c5e222",
+        "word": "nail",
+        "persian": "میخ",
+        "definition": "\"Nail\" refers to a small metal spike used to fasten pieces of wood or other materials together by being hammered into them. It can also refer to the hard, protective plate at the end of fingers and toes.\n\nSynonyms: tack, brad, fastener, claw, unguis\n",
+        "exampleA": "Hammer a nail into the wall and we'll hang the mirror from it.",
+        "exampleB": "She hammered the nail into the wall to hang the picture.",
+        "exampleC": "He bit his fingernails nervously before the big presentation.",
+        "status": "seen"
+    },
+    {
+        "id": "fb828fd6-202b-43a5-84ba-8ee37f826ced",
+        "word": "occupant",
+        "persian": "ساکن خانه، اشغالگر",
+        "definition": "An occupant is a person who resides in or is present in a particular place, such as a house, building, or vehicle. It emphasizes the state of inhabiting or being in a location at a given time.\n\nSynonyms: resident, inhabitant, tenant, dweller, user.\n",
+        "exampleA": "The previous occupants were an Italian family.",
+        "exampleB": "The new occupant of the apartment seems friendly.",
+        "exampleC": "The car's occupant was unharmed in the accident.",
+        "status": "seen"
+    },
+    {
+        "id": "93ce25c0-218e-466d-a978-8845febdca09",
+        "word": "occupy",
+        "persian": "اشغال کردن، پر کردن",
+        "definition": "\"Occupy\" means to take control of a place, often a building or land, and establish a presence there, especially by military force or as a protest. It signifies a state of being in possession and control, potentially against the will of the original inhabitants or authorities.\n\nSynonyms: seize, possess, inhabit, dwell, colonize\n",
+        "exampleA": "Protesters continue to occupy the park despite repeated warnings from the police.",
+        "exampleB": "The old furniture will occupy too much space in the small apartment.",
+        "exampleC": "What thoughts occupy your mind when you're alone?",
+        "status": "learned"
+    },
+    {
+        "id": "5863c152-83ce-4ac6-b924-dc3bac4ca0b8",
+        "word": "old-fashioned",
+        "persian": "از مد افتاده",
+        "definition": "\"Old-fashioned\" describes something that is no longer considered modern or current and is characteristic of a past era. It often implies that something is out of date, out of style, or clinging to traditions that are no longer widely accepted.\n\nSynonyms: outdated, antiquated, obsolete, passé, vintage\n",
+        "exampleA": "His old-fashioned manners always impressed her parents.",
+        "exampleB": "That restaurant's decor is a bit old-fashioned, but the food is excellent.",
+        "exampleC": "Using a typewriter seems quite old-fashioned in the age of computers.",
+        "status": "learned"
+    },
+    {
+        "id": "0e4dabe8-d424-4836-8e0d-b457460dcb35",
+        "word": "ornate",
+        "persian": "\"Ornate\" در فارسی معمولاً به معنای \"مزین\"، \"آذین‌بندی‌شده\"، \"پرنقش و نگار\"، یا \"مجمل\" ترجمه می‌شود. این کلمه برای توصیف چیزی به کار می‌رود که با جزئیات زیاد و اغلب به صورت فاخر و پر زرق و برق تزئین شده باشد.\n",
+        "definition": "having a lot of complicated decoration",
+        "exampleA": "an ornate gold mirror,/ ornate ceiling",
+        "exampleB": "The bride wore an ornate gown covered in lace and pearls.",
+        "exampleC": "The museum showcased an ornate clock, intricately carved with scenes from mythology.",
+        "status": "seen"
+    },
+    {
+        "id": "7863a8c3-3ade-4698-a34f-d3fd3b08a9a9",
+        "word": "platform",
+        "persian": "سکو",
+        "definition": "\"Platform\" refers to a raised level surface, often used for a stage or a place to stand. More broadly, it signifies a base or foundation upon which something is built or operated, whether physically or figuratively. It can describe a set of shared ideas or principles, a technological infrastructure, or a means of expressing oneself.\n    \nSynonyms: stage, foundation, base, forum, framework\n",
+        "exampleA": "The company is building a new platform for online education.",
+        "exampleB": "Her speech provided a platform for discussing important social issues.",
+        "exampleC": "We need a stable platform to launch our new software.",
+        "status": "learned"
+    },
+    {
+        "id": "8a208ed4-1a81-4972-9704-38447b0d6eb9",
+        "word": "prefabricated",
+        "persian": "پیش ساخته",
+        "definition": "\"Prefabricated\" refers to components or entire structures that are manufactured in a factory or off-site location and then transported to the final construction site for assembly. This process allows for faster construction times, better quality control, and often reduced costs compared to traditional on-site building methods.\n\nSynonyms: pre-made, pre-assembled, modular, factory-built, ready-made\n",
+        "exampleA": "The company specializes in prefabricated homes that can be assembled quickly on-site.",
+        "exampleB": "They opted for a prefabricated bridge to minimize disruption to traffic flow during construction.",
+        "exampleC": "The modular design allowed for the use of prefabricated components, significantly reducing costs.",
+        "status": "learned"
+    },
+    {
+        "id": "76f24c3a-ae24-45a8-9876-c99983130869",
+        "word": "quarry",
+        "persian": "معدن سنگ و شن",
+        "definition": "A quarry is a place, typically a large open pit, where stone, rock, sand, gravel, or other materials are extracted from the earth. It's essentially a mine that's open to the surface. The term can also refer to the animal or person being hunted or pursued.\n\nSynonyms: mine, pit, excavation, prey, victim, target.\n",
+        "exampleA": "The police continued to quarry the suspect about his whereabouts on the night of the crime.",
+        "exampleB": "The old stone quarry had been abandoned for decades.",
+        "exampleC": "After hours of searching, the hunting dog finally located its quarry.",
+        "status": "seen"
+    },
+    {
+        "id": "ac0040f0-51cd-45bf-a5ae-3d54e8180d8f",
+        "word": "ratchet",
+        "persian": "چرخ ضامن دار، ضامن",
+        "definition": "\"Ratchet\" can refer to a device that allows movement in one direction only, preventing backward motion. It's a mechanical component with a toothed wheel or bar that engages with a pawl or similar device. Figuratively, \"ratchet\" or \"ratcheted up\" can mean to gradually increase or intensify something, such as tension, pressure, or effort.\n\nSynonyms: increment, advance, escalate, intensify, step up.\n",
+        "exampleA": "The mechanic used a ratchet to tighten the bolt.",
+        "exampleB": "That song is a ratchet anthem.",
+        "exampleC": "She used a ratchet wrench to fix the pipe.",
+        "status": "seen"
+    },
+    {
+        "id": "b2c0972e-b526-4d96-a7e9-a892a9fd9744",
+        "word": "reconstruct",
+        "persian": "بازسازی کردن",
+        "definition": "To reconstruct means to build or create something again, typically after it has been damaged, destroyed, or dismantled. It involves piecing together existing elements or creating new ones based on available information or a prior design. It can refer to physical structures like buildings or abstract concepts like historical events or personal narratives.\n\nSynonyms: rebuild, restore, recreate, revamp, reassemble\n",
+        "exampleA": "The team will reconstruct the building after the earthquake.",
+        "exampleB": "Archaeologists worked for years to reconstruct the ancient vase.",
+        "exampleC": "Detectives tried to reconstruct the events leading up to the crime.",
+        "status": "seen"
+    },
+    {
+        "id": "a1b10131-4bad-45fc-b4a9-01571a2907f7",
+        "word": "renovate",
+        "persian": "نوسازی کردن",
+        "definition": "To renovate means to restore something old or damaged to a good state of repair. It typically involves improving or updating a structure, building, or object by repairing, remodeling, or adding new elements. The goal of renovation is often to refresh the appearance, functionality, or value of the item being worked on.\n\nSynonyms: refurbish, remodel, restore, revamp, modernize.\n",
+        "exampleA": "They plan to renovate the old house next year.",
+        "exampleB": "The city decided to renovate the park to make it more accessible.",
+        "exampleC": "We need to renovate our kitchen; it's outdated and inefficient.",
+        "status": "seen"
+    },
+    {
+        "id": "36a5986d-f455-4034-adfa-d0b4d3cea28e",
+        "word": "residence",
+        "persian": "اقامت، اقامتگاه",
+        "definition": "\"Residence\" refers to the place where someone lives or resides, typically used to denote a dwelling or home in a more formal or official context. It implies a sense of permanence or at least a settled place of living.\n\nSynonyms: Home, dwelling, abode, domicile, habitation.\n",
+        "exampleA": "Rome was his main place of residence",
+        "exampleB": "The ambassador's residence was heavily guarded.",
+        "exampleC": "Her primary residence is in the countryside, but she also has an apartment in the city.",
+        "status": "learned"
+    },
+    {
+        "id": "eb112e2e-5c40-426a-89e0-d70f2013b11f",
+        "word": "single-storey",
+        "persian": "یک طبقه",
+        "definition": "\"Single-storey\" describes a building that has only one floor or level. It indicates a structure without any upstairs rooms or multiple levels stacked vertically. The entirety of the building's usable space exists on a single ground-level floor.\n\nSynonyms: One-story, Bungalow, Ranch-style, Single-level.\n",
+        "exampleA": "The retirement village consisted of neat, single-storey bungalows.",
+        "exampleB": "They decided to build a single-storey extension onto the back of their house.",
+        "exampleC": "The school was a single-storey building, making it easily accessible for all students.",
+        "status": "seen"
+    },
+    {
+        "id": "0dd77af5-69d7-4d5a-941d-bd6213ab8143",
+        "word": "skyscraper",
+        "persian": "\"skyscraper\" در فارسی معمولاً به «آسمان‌خراش» ترجمه می‌شود که به ساختمان‌های بسیار بلندمرتبه اشاره دارد.\n",
+        "definition": "A skyscraper is a very tall, continuously habitable building having multiple floors. They are generally used for offices, commercial spaces, or residential apartments, and are distinguished by their height and prominence in a city's skyline.\nSynonyms: high-rise, tower, multistory building.\n",
+        "exampleA": "The Empire State Building is a famous skyscraper in New York City.",
+        "exampleB": "Looking up at the skyscraper, I felt incredibly small.",
+        "exampleC": "Many skyscrapers feature innovative green technologies to reduce their environmental impact.",
+        "status": ""
+    },
+    {
+        "id": "6b4c1116-ba2e-40d2-868a-65c067f927dc",
+        "word": "spacious",
+        "persian": "جادار",
+        "definition": "\"Spacious\" describes something, typically a room or building, that has a large amount of open space inside, making it feel roomy and uncluttered. It suggests there is ample room to move around and that the area doesn't feel confined or cramped.\n\nSynonyms: roomy, ample, commodious, expansive, generous.\n",
+        "exampleA": "a spacious house/living room",
+        "exampleB": "The new apartment was surprisingly spacious, easily accommodating all of our furniture.",
+        "exampleC": "The museum's spacious halls allowed visitors to admire the artwork without feeling crowded.",
+        "status": "seen"
+    },
+    {
+        "id": "e294079b-cd05-441b-a824-9e5687007779",
+        "word": "staircase",
+        "persian": "راه پله",
+        "definition": "A staircase is a constructed series of steps leading from one level or floor of a building to another. It provides a means of vertical circulation, allowing people to easily move between different areas within a structure.\n\nSynonyms: stairway, flight of stairs, set of steps, escalier (French)\n",
+        "exampleA": "The old house had a grand staircase that creaked with every step.",
+        "exampleB": "She tripped on the bottom step of the staircase and twisted her ankle.",
+        "exampleC": "He painted the staircase a bright, cheerful yellow.",
+        "status": "seen"
+    },
+    {
+        "id": "d25a54bb-a797-4986-b2b3-97d33adbe130",
+        "word": "state-of-the-art",
+        "persian": "به روز و مدرن",
+        "definition": "\"State-of-the-art\" describes something that is the most advanced or innovative currently available. It represents the highest level of development in a particular field or technology at a specific point in time. It implies utilizing the newest ideas, methods, or features to achieve the best possible outcome.\n\nSynonyms: cutting-edge, advanced, leading-edge, modern, top-of-the-line.\n",
+        "exampleA": "The new research facility boasts state-of-the-art equipment.",
+        "exampleB": "Their security system is state-of-the-art, ensuring complete protection.",
+        "exampleC": "This state-of-the-art software has revolutionized the industry.",
+        "status": "learned"
+    },
+    {
+        "id": "8f3f9f29-2dfe-4881-8acc-e86c762acb03",
+        "word": "steel",
+        "persian": "فولاد",
+        "definition": "\"Steel\" is a strong, hard, and durable alloy primarily composed of iron, with carbon added in small amounts to improve its strength and fracture resistance compared to pure iron. It's a widely used material in construction, manufacturing, and various other industries due to its versatile properties.\n\nSynonyms: alloy, iron, metal, hard metal, ferrous metal.\n",
+        "exampleA": "a steel helmet",
+        "exampleB": "The bridge was constructed with strong steel beams.",
+        "exampleC": "He worked at the steel mill for many years.",
+        "status": "seen"
+    },
+    {
+        "id": "551a1329-874d-4dbe-b3fc-b57a94290a1c",
+        "word": "storage",
+        "persian": "ذخیره سازی،",
+        "definition": "\"Storage\" refers to the act of keeping or accumulating something for future use. It implies holding onto materials, information, or resources in a safe and organized manner, whether physically or digitally. Think of it as putting something away with the intention of retrieving it later.\n\nSynonyms: safekeeping, warehousing, retention, repository, archiving\n",
+        "exampleA": "We've had to build some cupboards to give us more storage space",
+        "exampleB": "The company needed more storage for their growing data archives.",
+        "exampleC": "The phone has 128GB of storage, enough for all my photos and videos.",
+        "status": "learned"
+    },
+    {
+        "id": "a26dd793-b079-4747-b707-bcfc21887214",
+        "word": "structure",
+        "persian": "ساختار",
+        "definition": "\"Structure\" refers to the way something is organized or arranged, giving it a particular form or shape. It's the framework or system that holds something together and determines how its parts relate to one another.\n\nSynonyms: arrangement, framework, organization, composition, configuration\n",
+        "exampleA": "The bridge's structure was an engineering marvel.",
+        "exampleB": "We need to structure the project timeline more effectively.",
+        "exampleC": "The company's organizational structure is very hierarchical.",
+        "status": "learned"
+    },
+    {
+        "id": "b8ab912a-d276-4b05-b755-0b7e34ac0ca2",
+        "word": "support",
+        "persian": "حمایت و پشتیبانی کردن",
+        "definition": "\"Support\" means to provide assistance, encouragement, or resources to someone or something, enabling them to succeed, function properly, or withstand difficulty. It can take many forms, from offering emotional comfort to providing financial backing or physical aid.\n\nSynonyms: aid, assist, bolster, encourage, help, sustain.\n",
+        "exampleA": "I need your support to finish this project.",
+        "exampleB": "The bridge's pillars provide strong support.",
+        "exampleC": "She has a great support system of friends and family.",
+        "status": "learned"
+    },
+    {
+        "id": "9e370557-2e08-43b0-98c2-df65a5e3d604",
+        "word": "tenant",
+        "persian": "مستاجر",
+        "definition": "A tenant is a person or group who rents and occupies property, such as a house, apartment, or land, from a landlord or owner for a specified period under a lease or rental agreement. They have the right to exclusive possession of the property during the rental period, provided they abide by the terms of the agreement.\n\nSynonyms: renter, lessee, occupant, resident, leaseholder.\n",
+        "exampleA": "The tenant signed a lease agreement for a year.",
+        "exampleB": "The landlord is responsible for maintaining the property, while the tenant is responsible for keeping it clean.",
+        "exampleC": "After several months of unpaid rent, the landlord began eviction proceedings against the tenant.",
+        "status": "seen"
+    },
+    {
+        "id": "7f932bd0-cd28-46b0-b708-872a3e967c08",
+        "word": "tension",
+        "persian": "کشش، تنش، فشار عصبی",
+        "definition": "Tension refers to a state of strained relations, either between people, groups, or within oneself. It often involves feelings of anxiety, stress, and unease due to conflicting interests, potential conflict, or anticipation of something unpleasant. It can manifest as a feeling of tightness, pressure, or strain.\n\nSynonyms: stress, pressure, strain, anxiety, unease\n",
+        "exampleA": "The political tension in the region is palpable.",
+        "exampleB": "The tightrope walker felt the tension in the wire beneath his feet.",
+        "exampleC": "A sudden silence filled the room, thick with tension.",
+        "status": "seen"
+    },
+    {
+        "id": "ebbeed59-14e4-45ee-87e7-76b28470e53a",
+        "word": "timber",
+        "persian": "الوار و تخته",
+        "definition": "\"Timber\" refers to wood that has been prepared for use in building and carpentry, essentially sawn wood or lumber. It's the processed product of felled trees, ready to be used in construction, furniture making, or other woodworking projects.\nSynonyms: lumber, wood, planks, beams, timberwood\n",
+        "exampleA": "The old cabin was built with sturdy timber.",
+        "exampleB": "The sound of 'timber!' echoed through the forest as the tree fell.",
+        "exampleC": "The price of timber has increased due to high demand.",
+        "status": "learned"
+    },
+    {
+        "id": "ddf6a8bb-1900-432d-b629-54eb30b967a9",
+        "word": "traditional",
+        "persian": "بسته به متن، \"traditional\" را می‌توان به صورت‌های زیر ترجمه کرد:\n\n   سنتی (رایج‌ترین و عمومی‌ترین ترجمه)\n   مرسوم\n   قدیمی\n   باستانی\n   رایج\n   متداول\n   عرفی\n   کهن\n",
+        "definition": "\"Traditional\" refers to customs, beliefs, or practices passed down from generation to generation, often embodying a sense of history, culture, and continuity. It typically implies resistance to change and adherence to established norms and values.\n    \nSynonyms: conventional, established, time-honored, customary.\n",
+        "exampleA": "The museum displayed a collection of traditional Japanese woodblock prints.",
+        "exampleB": "She prefers traditional recipes passed down through her family.",
+        "exampleC": "The ceremony followed traditional customs and rituals.",
+        "status": ""
+    },
+    {
+        "id": "b67e5211-e3c6-491d-bb5b-e0acbdda3247",
+        "word": "trigger",
+        "persian": "تحریک کردن، به جریان انداختن",
+        "definition": "A trigger is something that initiates or sets off a particular event, process, or reaction. It's the catalyst that causes something else to happen, often quickly or automatically. It can refer to a physical mechanism like the trigger of a gun, but is also commonly used to describe things that provoke emotional or psychological responses.\n\nSynonyms: cause, spark, initiate, activate, prompt, instigate.\n",
+        "exampleA": "Loud noises can trigger my anxiety.",
+        "exampleB": "The news report contained graphic images that might trigger some viewers.",
+        "exampleC": "What was the trigger for the argument?",
+        "status": "learned"
+    },
+    {
+        "id": "373f5dce-bd93-43a6-9a24-9ddabdcdfd87",
+        "word": "two-storey",
+        "persian": "دو طبقه",
+        "definition": "\"Two-storey\" describes a building that has two floors or levels. It's a common architectural style offering more living space than a single-story building without the complexity of higher-rise structures.\n\nSynonyms: Two-story, double-story, multi-story, duplex (sometimes used loosely)\n",
+        "exampleA": "They lived in a charming two-storey house with a white picket fence.",
+        "exampleB": "The fire quickly engulfed the entire two-storey building.",
+        "exampleC": "From the balcony of our two-storey apartment, we had a fantastic view of the city.",
+        "status": "learned"
+    },
+    {
+        "id": "63882ed4-a733-444a-ae55-b66a13c4ef4b",
+        "word": "typical",
+        "persian": "\"Typical\" بسته به متن می‌تونه به «معمولی»، «رایج»، «نمونه‌وار»، «خاص»، یا «متداول» ترجمه بشه. انتخاب دقیق‌ترین معادل بستگی به این داره که توی چه جمله‌ای به کار رفته.\n",
+        "definition": "\"Typical\" means conforming to a usual type or pattern; representing the characteristics most commonly associated with a particular thing or group. It describes something that is ordinary, expected, and not unusual or remarkable.\n\nSynonyms: common, normal, standard, average, usual, characteristic.\n",
+        "exampleA": "It was a typical Monday morning, with everyone rushing to work.",
+        "exampleB": "The dish had a typical Italian flavor, rich with herbs and tomatoes.",
+        "exampleC": "He's a typical teenager, always on his phone and sleeping late.",
+        "status": ""
+    },
+    {
+        "id": "63092721-a6d0-421e-8245-f9c6c3b47889",
+        "word": "ultra-modern",
+        "persian": "فوق مدرن",
+        "definition": "\"Ultra-modern\" describes something that is extremely contemporary, advanced, and represents the very latest trends in design, technology, or style. It goes beyond simply being modern and suggests a cutting-edge, futuristic aesthetic that often embraces innovative materials and concepts.\n\nSynonyms: Cutting-edge, state-of-the-art, futuristic, avant-garde, contemporary.\n",
+        "exampleA": "The ultra-modern architecture of the new museum was breathtaking.",
+        "exampleB": "Her ultra-modern kitchen featured stainless steel appliances and minimalist design.",
+        "exampleC": "The boutique hotel boasted ultra-modern rooms with smart technology and sleek furnishings.",
+        "status": "learned"
+    }
+]

@@ -1,0 +1,902 @@
+[
+    {
+        "id": "2b08a228-602d-4248-8200-b1b41ed53a55",
+        "word": "advertisement",
+        "persian": "آگهی",
+        "definition": "An advertisement is a public notice or announcement, typically paid for, designed to promote a product, service, or event to a target audience with the goal of increasing awareness, generating interest, and ultimately driving sales or influencing behavior.\n\nSynonyms: commercial, promotion, publicity, advert, campaign, announcement.\n",
+        "exampleA": "The advertisement for the new car was very persuasive.",
+        "exampleB": "She got the job after seeing an advertisement online.",
+        "exampleC": "I ignored the pop-up advertisement on the website.",
+        "status": "learned"
+    },
+    {
+        "id": "d06e6faf-01f0-4755-be78-5aace56d49af",
+        "word": "advertising",
+        "persian": "صنعت تبلیغات",
+        "definition": "Advertising is the process of promoting a product, service, or idea to a target audience through various paid channels with the aim of raising awareness, generating interest, and ultimately driving sales or influencing behavior. It's a form of marketing communication designed to persuade potential customers to take a desired action.\n\nSynonyms: Promotion, marketing, publicity, campaigning, branding.\n",
+        "exampleA": "The company's advertising campaign significantly increased brand awareness.",
+        "exampleB": "She works in advertising, creating compelling visuals and copy.",
+        "exampleC": "The effectiveness of online advertising is often measured through click-through rates.",
+        "status": "learned"
+    },
+    {
+        "id": "8b3d38fd-e4de-43ad-899e-2fc9e8529824",
+        "word": "apply",
+        "persian": "\"Apply\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین معادل‌هاش این‌ها هستن:\n\n   درخواست دادن (برای شغل، بورسیه، و غیره)\n   استفاده کردن (از یک روش، یک تکنیک، و غیره)\n   اعمال کردن (یک قانون، یک نیرو، و غیره)\n   مالیدن (کرم، دارو، و غیره)\n",
+        "definition": "\"Apply\" means to formally request something, such as a job, a program, or admission to a school. It also means to put something into action or to use something for a specific purpose. Essentially, it's about making a request or putting something into practical use.\n\nSynonyms: request, utilize, employ, implement, petition\n",
+        "exampleA": "You should apply sunscreen before going outside.",
+        "exampleB": "I plan to apply for that job next week.",
+        "exampleC": "These rules apply to everyone in the club.",
+        "status": ""
+    },
+    {
+        "id": "4555f842-a31d-46d6-96c4-fa4096db0b3b",
+        "word": "be made redundant",
+        "persian": "از کار بر کنار شدن",
+        "definition": "To be made redundant means to lose your job because your employer no longer needs your role or services. This is usually due to restructuring, downsizing, or technological advancements making the position obsolete, rather than because of any fault of the employee.\n\nSynonyms: laid off, let go, terminated, downsized.\n",
+        "exampleA": "She was made redundant from the company after eight years.",
+        "exampleB": "Due to the company restructuring, several employees will be made redundant.",
+        "exampleC": "She was made redundant after working at the firm for over 20 years.",
+        "status": "seen"
+    },
+    {
+        "id": "f53021f3-6e80-42fb-b656-dc40e19039ed",
+        "word": "boss",
+        "persian": "رئیس",
+        "definition": "\"Boss\" refers to a person who has authority and responsibility for overseeing and directing the work of others in an organization. They typically make decisions, delegate tasks, and provide guidance to ensure that goals are achieved. In essence, a boss is a leader who manages and supervises employees.\n\nSynonyms: supervisor, manager, director, chief, head.\n",
+        "exampleA": "I'll have to ask my boss for a day off.",
+        "exampleB": "The boss approved my vacation request.",
+        "exampleC": "She's a tough but fair boss.",
+        "status": "learned"
+    },
+    {
+        "id": "dc0615fb-9ba1-423c-845b-9d946fd765e3",
+        "word": "campaign",
+        "persian": "«کمپین» در فارسی معمولاً به «کارزار» یا «پویش» ترجمه می‌شود، اما بسته به زمینه می‌تواند به معنای «فعالیت تبلیغاتی»، «اقدام هماهنگ» یا «برنامه تبلیغاتی» هم باشد.\n",
+        "definition": "A campaign is a coordinated and organized series of actions or activities designed to achieve a specific goal, often in politics, business, or public awareness. It typically involves strategic planning, resource allocation, communication, and outreach to influence a target audience and achieve a desired outcome within a defined timeframe.\n\nSynonyms: drive, initiative, crusade, operation, movement.\n",
+        "exampleA": "The company launched an aggressive marketing campaign to promote its new product.",
+        "exampleB": "He ran a successful campaign for mayor, focusing on local issues.",
+        "exampleC": "The environmental group organized a campaign to raise awareness about climate change.",
+        "status": ""
+    },
+    {
+        "id": "e526fe1e-7b7a-4720-a79a-ac1e9b1df011",
+        "word": "candidate",
+        "persian": "معادل‌های مختلفی برای candidate در فارسی وجود دارد که بسته به متن می‌توان از آن‌ها استفاده کرد، اما رایج‌ترین و کلی‌ترین ترجمه‌ها عبارتند از: نامزد، داوطلب.\n",
+        "definition": "A candidate is a person who applies for a job, position, or is nominated for an election. They are under consideration for a role and their qualifications and experience are being assessed against other applicants or contenders.\n\nSynonyms: applicant, nominee, contender, aspirant\n",
+        "exampleA": "The candidate outlined their plan for improving the local economy.",
+        "exampleB": "Several candidates debated the merits of the proposed education reform.",
+        "exampleC": "She emerged as the strongest candidate in the final round of interviews.",
+        "status": ""
+    },
+    {
+        "id": "9837192c-d3e3-4c52-9613-a0a38e2f1f5c",
+        "word": "career",
+        "persian": "کار؛ کاری که در طول عمر قرار است انجام داد",
+        "definition": "A career encompasses the entirety of an individual's working life, including all jobs, positions, and experiences undertaken over a significant period. It's not just a job, but a progression, often involving skill development, increased responsibility, and personal growth within a particular field or across various sectors. It implies a long-term commitment to professional development and can be seen as a person's chosen path or vocation.\n\nSynonyms: vocation, profession, occupation, life's work, calling.\n",
+        "exampleA": "I'm interested in a career in television.",
+        "exampleB": "She decided to pursue a career in medicine after volunteering at a local hospital.",
+        "exampleC": "His career as a software engineer spanned over thirty years.",
+        "status": "learned"
+    },
+    {
+        "id": "36ecb49d-94a3-4b39-a1f9-bd2e16f3c347",
+        "word": "casual",
+        "persian": "پیمانی و موقت (مربوط به کار)ه",
+        "definition": "\"Casual\" generally refers to something relaxed, informal, or not planned. It can describe attire that is comfortable and suitable for everyday wear, a demeanor that is easygoing and unceremonious, or an approach that is relaxed and lacking strictness. Essentially, it suggests a lack of formality or special effort.\n\nSynonyms: informal, relaxed, easygoing, nonchalant, effortless.\n",
+        "exampleA": "casual work/jobs/labour",
+        "exampleB": "He prefers to wear casual clothes, like jeans and a t-shirt.",
+        "exampleC": "The restaurant had a casual atmosphere, perfect for a relaxed evening.",
+        "status": "learned"
+    },
+    {
+        "id": "1815dd81-5784-4bfe-bcca-d77d635fb152",
+        "word": "clerk",
+        "persian": "کارمند دفتری",
+        "definition": "A clerk is a person employed in an office or shop to perform tasks such as keeping records, filing documents, handling correspondence, and dealing with customers. Essentially, they provide administrative or sales support in a business or organization.\n\nSynonyms: office worker, administrator, receptionist, salesperson, cashier.\n",
+        "exampleA": "The clerk at the DMV was incredibly helpful and efficient.",
+        "exampleB": "The bank clerk processed my deposit quickly and accurately.",
+        "exampleC": "She started her career as a file clerk and worked her way up.",
+        "status": "learned"
+    },
+    {
+        "id": "7192f238-67a3-4818-be16-1f3085d33793",
+        "word": "client",
+        "persian": "ارباب رجوع",
+        "definition": "A client is an individual or organization that receives services, advice, or goods from another individual or organization, typically in exchange for payment. The relationship is often characterized by a professional setting where the client relies on the expertise of the service provider.\n\nSynonyms: customer, patient, patron, consumer\n",
+        "exampleA": "The client was very happy with the final design.",
+        "exampleB": "Our firm specializes in representing clients in corporate law.",
+        "exampleC": "We need to understand the client's needs before proceeding.",
+        "status": "learned"
+    },
+    {
+        "id": "ecec844d-224c-4af3-b71d-61600ab500ef",
+        "word": "colleague",
+        "persian": "همکار",
+        "definition": "A colleague is someone you work with, typically in a professional setting. It implies a shared workplace or profession and suggests a degree of mutual respect and cooperation. Colleagues can be peers at the same level, superiors, or subordinates.\nSynonyms: coworker, associate, teammate, fellow worker.\n",
+        "exampleA": "My colleague and I are working on a new project together.",
+        "exampleB": "I admire my colleague's dedication to their work.",
+        "exampleC": "The team celebrated our colleague's promotion with a lunch.",
+        "status": "learned"
+    },
+    {
+        "id": "5c5ccbcd-caa8-41c1-802a-e9d315178be0",
+        "word": "company",
+        "persian": "\"Company\" بسته به متن می‌تونه به \"شرکت\"، \"مؤسسه\"، \"همراهی\" یا \"مجلس\" ترجمه بشه.\n",
+        "definition": "\"Company\" has multiple meanings. Most commonly, it refers to a group of people working together in a structured way for a shared purpose, usually to make a profit. It is a business organization that engages in economic activities like producing goods or providing services.\n\nSynonyms: firm, corporation, enterprise, organization, business.\n",
+        "exampleA": "The company announced record profits this quarter.",
+        "exampleB": "She has been with the company for over ten years.",
+        "exampleC": "He hopes to start his own company someday.",
+        "status": ""
+    },
+    {
+        "id": "a84205ee-e152-4718-a5dd-f5a6e65ee29d",
+        "word": "compete",
+        "persian": "رقابت کردن، مسابقه دادن، یا تلاش برای پیشی گرفتن از دیگران.\n",
+        "definition": "To compete means to strive or struggle against others to achieve a goal, prize, or superior position. It involves actively trying to win or outperform rivals in a contest, game, business, or any other area of endeavor.\nSynonyms: contend, vie, challenge, rival, battle.\n",
+        "exampleA": "Several companies compete fiercely in the smartphone market.",
+        "exampleB": "The athletes will compete for a gold medal at the Olympics.",
+        "exampleC": "Local businesses often struggle to compete with larger corporations.",
+        "status": ""
+    },
+    {
+        "id": "607bb997-25de-4a10-9b3f-be016b60d7e0",
+        "word": "consumer",
+        "persian": "مصرف کننده",
+        "definition": "A consumer is an individual or entity who purchases and uses goods or services to satisfy personal needs or wants. They are the end users in the supply chain and are vital to the economy as their demand drives production and innovation.\n\nSynonyms: buyer, purchaser, customer, user, end-user.\n",
+        "exampleA": "The consumer is always looking for the best deal.",
+        "exampleB": "Consumer spending is a key indicator of economic health.",
+        "exampleC": "Companies must understand the needs and wants of the consumer.",
+        "status": "learned"
+    },
+    {
+        "id": "7fd80d76-9c04-4f0f-bf03-126df7185eb0",
+        "word": "cosmetics",
+        "persian": "مواد آرایشی",
+        "definition": "Cosmetics are products applied to the body to cleanse, beautify, promote attractiveness, or alter appearance without affecting the body's structure or functions. They generally include items like makeup, skincare products, and fragrances.\n\nSynonyms: Makeup, toiletries, beauty products, personal care products.\n",
+        "exampleA": "She spent hours applying her cosmetics before the party.",
+        "exampleB": "The cosmetics industry is constantly releasing new products.",
+        "exampleC": "Some people are allergic to certain ingredients in cosmetics.",
+        "status": "learned"
+    },
+    {
+        "id": "c1d198d5-7cbf-4569-8efc-b3a6fc19c91b",
+        "word": "credibility",
+        "persian": "the quality of being trusted and believed in، اعتبار",
+        "definition": "Credibility refers to the quality of being believable and trustworthy. It encompasses factors like honesty, expertise, and reliability that make someone or something worthy of confidence and acceptance. In essence, credibility is about possessing the characteristics that inspire faith and conviction in others.\n\nSynonyms: trustworthiness, believability, reliability, integrity, reputability\n",
+        "exampleA": "There are serious questions about the credibility of these reports.",
+        "exampleB": "The politician's past actions severely damaged his credibility with voters.",
+        "exampleC": "The research paper lacked credibility due to its small sample size and biased methodology.",
+        "status": "learned"
+    },
+    {
+        "id": "9eb810fc-59cf-4746-a560-19be305070f5",
+        "word": "customer",
+        "persian": "مشتری",
+        "definition": "A customer is an individual or entity who purchases goods or services from a business or organization. They are the lifeblood of any commercial enterprise, as their patronage directly contributes to revenue and sustainability. Without customers, businesses would not be able to operate.\n\nSynonyms: client, consumer, patron, buyer, purchaser.\n",
+        "exampleA": "The customer is always right.",
+        "exampleB": "We value each customer and strive to provide excellent service.",
+        "exampleC": "Our data shows a high rate of customer satisfaction.",
+        "status": "learned"
+    },
+    {
+        "id": "d71fd8e6-c6f3-4f65-9c3e-5adb61dae4f8",
+        "word": "day labourer",
+        "persian": "کارگر روزمزد",
+        "definition": "A day labourer is a person who is hired and paid on a daily basis for short-term, often unskilled or semi-skilled, physical work. They typically find employment through informal channels and lack the job security and benefits of permanent employment.\n\nSynonyms: casual worker, daily hire, temporary worker, odd-jobber, piece worker.\n",
+        "exampleA": "As a day labourer, he never knew where his next job would come from.",
+        "exampleB": "The construction site employed several day labourers for the heavy lifting.",
+        "exampleC": "Many immigrants find work as day labourers, hoping to earn enough to support their families.",
+        "status": "learned"
+    },
+    {
+        "id": "552b3d96-e0f4-4a85-9aa0-9fbcfd5411a1",
+        "word": "demanding",
+        "persian": "طاقت فرسا",
+        "definition": "\"Demanding\" describes something or someone that requires a great deal of effort, skill, or attention. It implies a high level of difficulty and often pushes individuals or resources to their limits. A demanding task might require long hours and intense focus, while a demanding person might have high expectations and be difficult to please.\n\nSynonyms: exacting, challenging, arduous, taxing, strenuous.\n",
+        "exampleA": "The project manager was known for being demanding, but fair.",
+        "exampleB": "Ballet is a demanding art form, requiring years of dedication and practice.",
+        "exampleC": "The customer had a demanding list of requirements for the software.",
+        "status": "seen"
+    },
+    {
+        "id": "e58040df-e4ab-4b35-a316-b0da8942aabe",
+        "word": "earn",
+        "persian": "\"Earn\" در فارسی می‌تواند بسته به context به معانی مختلفی ترجمه شود، اما رایج‌ترین معادل‌های آن عبارتند از:\n\n   کسب کردن: به دست آوردن چیزی با تلاش و کوشش.\n   به دست آوردن: به دست آوردن چیزی (معمولاً پول یا اعتبار) در ازای انجام کاری.\n   درآمد داشتن: داشتن درآمد از یک منبع خاص.\n   کسب درآمد کردن: فعالیت برای به دست آوردن پول.\n",
+        "definition": "To earn means to acquire something, typically money or a good reputation, through effort, work, or merit. It implies a process where something is deserved or rightfully gained because of contributions made.\n\nSynonyms: acquire, obtain, gain, deserve, merit.\n",
+        "exampleA": "She hopes to earn a promotion with her hard work.",
+        "exampleB": "You can earn extra money by working overtime.",
+        "exampleC": "He needs to earn the trust of his teammates.",
+        "status": ""
+    },
+    {
+        "id": "6f84951f-29b4-454c-8055-53c0bfb76e76",
+        "word": "earnings",
+        "persian": "دریافتی",
+        "definition": "\"Earnings\" refers to the financial compensation or profit received in exchange for labor, services, or investments. It represents the net income remaining after deducting business expenses from revenue, or the wages, salaries, or profits received by an individual. In simpler terms, it's the money you gain from your work or investments.\n\nSynonyms: income, revenue, profits, wages, salary, pay.\n",
+        "exampleA": "The company's earnings for the quarter exceeded analysts' expectations.",
+        "exampleB": "She uses a portion of her earnings to invest in the stock market.",
+        "exampleC": "He supplemented his disability payments with small earnings from freelance work.",
+        "status": "learned"
+    },
+    {
+        "id": "de13c73a-b0e3-4953-b24e-7d9e074b5a41",
+        "word": "economic",
+        "persian": "اقتصادی",
+        "definition": "\"Economic\" broadly relates to the production, distribution, and consumption of goods and services, and how resources are managed within a society or entity. It encompasses activities involving money, wealth, trade, and investment, and the systems that govern them.\n\nSynonyms: financial, fiscal, monetary, budgetary, commercial\n",
+        "exampleA": "The country is facing a severe economic crisis.",
+        "exampleB": "Investing in education is vital for economic growth.",
+        "exampleC": "We need to analyze the economic impact of the new policy.",
+        "status": "learned"
+    },
+    {
+        "id": "e2a57289-e059-43ea-9e60-7c2d5b1af2fb",
+        "word": "economical",
+        "persian": "به صرفه",
+        "definition": "\"Economical\" means using resources carefully and avoiding waste. It implies efficiency and thriftiness in spending or utilizing something like money, energy, or time. Being economical often involves getting the most value for the least cost.\n\nSynonyms: frugal, thrifty, saving, prudent, cost-effective.\n",
+        "exampleA": "Buying a used car is often a more economical choice than buying a new one.",
+        "exampleB": "The restaurant offers an economical lunch menu for students.",
+        "exampleC": "LED light bulbs are an economical way to reduce your electricity bill.",
+        "status": "learned"
+    },
+    {
+        "id": "e54285ce-0404-40e2-9cf4-a8ca665b0856",
+        "word": "employee",
+        "persian": "کارمند",
+        "definition": "An employee is an individual hired by a company or organization to perform specific tasks or duties in exchange for wages or a salary. They work under the direction of a supervisor or manager and are subject to the employer's policies and procedures. The relationship is typically defined by a formal or informal employment agreement.\n\nSynonyms: worker, staff member, team member, personnel.\n",
+        "exampleA": "The company values each employee's contribution to its success.",
+        "exampleB": "The new employee is still undergoing training.",
+        "exampleC": "The employee received a promotion for outstanding performance.",
+        "status": "learned"
+    },
+    {
+        "id": "c011b9ed-3400-4beb-b395-41c84b173786",
+        "word": "employer",
+        "persian": "کارفرما",
+        "definition": "An employer is a person or organization that hires employees, paying them wages or a salary in exchange for their labor and services. They are responsible for providing a workplace and managing the employee's work.\n\nSynonyms: boss, manager, company, firm, organization, hirer.\n",
+        "exampleA": "My employer offers excellent health insurance benefits.",
+        "exampleB": "The potential employer was impressed with her skills and experience.",
+        "exampleC": "As an employer, he valued hard work and dedication.",
+        "status": "learned"
+    },
+    {
+        "id": "9795ed8a-7358-477b-a6a8-63697b4c0d51",
+        "word": "employment",
+        "persian": "\"اشتغال\" یا \"کار\" معادل‌های مناسبی برای کلمه \"employment\" هستند.\n",
+        "definition": "Employment refers to the state of having a job or being engaged in work for which one receives payment or compensation. It signifies a relationship where an individual provides labor or services to an employer in exchange for wages, salary, or other benefits. Essentially, it's being gainfully occupied in a productive activity.\n\nSynonyms: occupation, job, work, livelihood, profession\n",
+        "exampleA": "The company offers excellent opportunities for employment.",
+        "exampleB": "Gaining relevant skills is crucial for future employment prospects.",
+        "exampleC": "The government is working to increase employment rates in the region.",
+        "status": ""
+    },
+    {
+        "id": "d0f55c46-64b4-4ef6-9344-b1b3b59c1465",
+        "word": "endorse",
+        "persian": "\"Endorse\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما در بیشتر موارد به معنی \"تأیید کردن\"، \"حمایت کردن\" یا \"پشتیبانی کردن\" هست.\n",
+        "definition": "if a famous person endorses a product or service, they say in an advertisement that they use and like it",
+        "exampleA": "The celebrity decided to endorse the new brand of coffee.",
+        "exampleB": "My doctor wouldn't endorse that kind of treatment.",
+        "exampleC": "The committee voted to endorse the proposed changes to the policy.",
+        "status": "learned"
+    },
+    {
+        "id": "fe35393b-a9f0-4b1a-962c-8978ecced1dd",
+        "word": "exhausting",
+        "persian": "فرسوده کننده",
+        "definition": "\"Exhausting\" describes something that drains a person's physical or mental energy, leaving them feeling tired, depleted, and often overwhelmed. It implies a significant expenditure of resources, whether it's physical effort, emotional labor, or mental concentration. Synonyms include tiring, draining, wearying, fatiguing.\n",
+        "exampleA": "The marathon was an exhausting experience.",
+        "exampleB": "Caring for a newborn can be incredibly exhausting.",
+        "exampleC": "The constant meetings and deadlines made the project exhausting.",
+        "status": "learned"
+    },
+    {
+        "id": "b4f4dbe3-69fb-41ae-bd91-08130ae0af6f",
+        "word": "experience",
+        "persian": "\"تجربه\" در فارسی به معنای رویدادها، مهارت‌ها و دانش‌هایی است که فرد در طول زندگی از طریق مواجهه با موقعیت‌های مختلف به دست می‌آورد.\n",
+        "definition": "\"Experience\" refers to the knowledge, skills, or understanding gained from engaging in activities, encountering events, or living through situations. It's the process of learning and developing through direct observation and participation, shaping our perspectives and capabilities.\n\nSynonyms: exposure, expertise, background, involvement, familiarity.\n",
+        "exampleA": "Her experience in customer service made her a valuable asset to the team.",
+        "exampleB": "The trip to Europe was an unforgettable experience.",
+        "exampleC": "I lack the experience necessary for this demanding job.",
+        "status": ""
+    },
+    {
+        "id": "1f97090b-2c7e-46b9-9162-e1692259c75e",
+        "word": "goods",
+        "persian": "اجناس",
+        "definition": "\"Goods\" refers to tangible items that are produced for sale or use. They are physical objects that can be purchased, possessed, and used by consumers or businesses. Essentially, goods are anything that can be traded or exchanged in an economy.\n\nSynonyms: merchandise, commodities, products, wares, stock.\n",
+        "exampleA": "The store offers a wide variety of goods.",
+        "exampleB": "These goods are subject to import duties.",
+        "exampleC": "We need to transport the goods to the warehouse.",
+        "status": "learned"
+    },
+    {
+        "id": "496700a0-beca-45db-a1fc-31915889766a",
+        "word": "hospitality",
+        "persian": "صنعت مهمان داری",
+        "definition": "Hospitality refers to the friendly and generous reception and entertainment of guests, visitors, or strangers. It encompasses making people feel welcome, comfortable, and valued, often including the provision of food, drink, and lodging. Ultimately, it's about creating a warm and positive experience for others.\n\nSynonyms: welcoming, generosity, friendliness, graciousness, conviviality.\n",
+        "exampleA": "The hotel's exceptional hospitality made our stay truly memorable.",
+        "exampleB": "They showed us incredible hospitality, welcoming us into their home like family.",
+        "exampleC": "The company prides itself on the hospitality it extends to its clients.",
+        "status": "learned"
+    },
+    {
+        "id": "7e1d6e0e-8ac4-417d-99c7-b7d5296d2dd9",
+        "word": "income",
+        "persian": "درآمد",
+        "definition": "Income refers to the money or other benefits received by an individual or organization in exchange for labor, services, or the sale of goods, or as profit from investments. It represents the total earnings or inflow of resources over a specific period and is the foundation for financial stability and spending.\n\nSynonyms: Earnings, Revenue, Pay, Salary, Wages, Proceeds, Return.\n",
+        "exampleA": "Her income increased significantly after the promotion.",
+        "exampleB": "They rely on social security as their primary source of income.",
+        "exampleC": "Investment income can be a valuable supplement to your regular salary.",
+        "status": "learned"
+    },
+    {
+        "id": "b0743e74-eae7-4d1c-9c7e-5d45f8d7745a",
+        "word": "industry",
+        "persian": "صنعت\n",
+        "definition": "\"Industry\" generally refers to a group of companies or organizations that are engaged in a similar type of business or that produce similar products or services. It can also refer to the overall economic activity of a country or region, especially the production of goods.\n\nSynonyms: sector, field, trade, business, commerce\n",
+        "exampleA": "The automotive industry is undergoing a significant transformation with the rise of electric vehicles.",
+        "exampleB": "She has worked in the fashion industry for over a decade, gaining extensive experience.",
+        "exampleC": "The tourism industry contributes significantly to the local economy.",
+        "status": ""
+    },
+    {
+        "id": "596c34d3-a981-4aea-80ec-49a4106b6480",
+        "word": "interview",
+        "persian": "\"Interview\" در فارسی می‌تواند به صورت «مصاحبه» یا «گفت‌وگو» ترجمه شود.\n",
+        "definition": "An interview is a structured conversation where one person or a group of people asks questions of another person to gather information, assess their qualifications, or understand their perspective. It's a common tool used for job applications, research, journalism, and performance evaluations.\n\nSynonyms: meeting, discussion, interrogation, audition, Q&A.\n",
+        "exampleA": "I have an interview for a marketing position next week.",
+        "exampleB": "The journalist secured an exclusive interview with the celebrity.",
+        "exampleC": "The interview process consisted of three rounds.",
+        "status": ""
+    },
+    {
+        "id": "767bf92f-6505-482e-ba1e-2b3b7e95e244",
+        "word": "invest (in)",
+        "persian": "سرمایه‌گذاری (کردن) در\n",
+        "definition": "To invest (in) something means to allocate resources, typically money, time, or effort, with the expectation of receiving a future benefit or return. This benefit could be financial gain, increased knowledge, improved health, or any other form of positive outcome. It implies a commitment to something, believing that it will grow or develop in value.\n\nSynonyms: allocate, dedicate, commit, entrust, put in\n",
+        "exampleA": "I want to invest in renewable energy sources.",
+        "exampleB": "The company decided to invest in new technologies to improve efficiency.",
+        "exampleC": "It's wise to invest in yourself and your personal growth.",
+        "status": ""
+    },
+    {
+        "id": "5d92eb88-2ce7-448e-a734-b869a1b1a68b",
+        "word": "job",
+        "persian": "بسته به متن و منظور، \"job\" در فارسی می‌تونه به معانی مختلفی مثل شغل، کار، وظیفه یا ماموریت ترجمه بشه.\n",
+        "definition": "A \"job\" refers to a specific task, duty, or function that a person regularly performs, typically in exchange for payment. It's often associated with a particular role, position, or employment within a company or organization, and encompasses a set of responsibilities and skills.\n\nSynonyms: occupation, profession, career, employment, vocation, work.\n",
+        "exampleA": "She landed her dream job at the advertising agency.",
+        "exampleB": "The economic downturn made it difficult to find a stable job.",
+        "exampleC": "His job responsibilities include managing the team and overseeing projects.",
+        "status": ""
+    },
+    {
+        "id": "fb9e23f9-7464-4721-9d5b-93382a92ce81",
+        "word": "job satisfaction",
+        "persian": "رضایت شغلی",
+        "definition": "Job satisfaction refers to an individual's overall feeling of contentment and fulfillment derived from their work. It's a subjective evaluation encompassing various aspects of the job, such as the nature of the tasks, the work environment, relationships with colleagues, compensation, and opportunities for growth. A high level of job satisfaction typically leads to increased productivity, motivation, and reduced employee turnover.\n\nSynonyms: work contentment, job fulfillment, employee morale, happiness at work\n",
+        "exampleA": "High job satisfaction can lead to increased productivity and employee retention.",
+        "exampleB": "The company conducted a survey to measure employee job satisfaction and identify areas for improvement.",
+        "exampleC": "Despite the demanding workload, she maintained a high level of job satisfaction because she felt valued and appreciated.",
+        "status": "learned"
+    },
+    {
+        "id": "4684d366-70ed-40a2-8a8f-603f3371ecf1",
+        "word": "labourer",
+        "persian": "کارگر ساده، عمله",
+        "definition": "A \"labourer\" is a person who performs manual labor, typically involving physical strength and often working in fields like construction, agriculture, or manufacturing. They are typically employed for their physical work rather than skilled knowledge.\n    \nSynonyms: worker, manual worker, blue-collar worker, hand, toiler.\n",
+        "exampleA": "The labourer wiped the sweat from his brow after a long day in the fields.",
+        "exampleB": "The company was criticized for its poor treatment of its labourer.",
+        "exampleC": "My grandfather started as a labourer and worked his way up to a management position.",
+        "status": "learned"
+    },
+    {
+        "id": "8f9d54d3-ecc8-4674-8f14-a1c5aedbe829",
+        "word": "management",
+        "persian": "معادل‌های متعددی برای \"management\" در فارسی وجود دارد که بسته به زمینه می‌توان از آن‌ها استفاده کرد، از جمله: مدیریت، اداره، سرپرستی، سازماندهی و رهبری.\n",
+        "definition": "Management is the process of planning, organizing, leading, and controlling resources (human, financial, physical, and informational) to achieve organizational goals effectively and efficiently. It involves setting objectives, developing strategies, coordinating activities, and motivating employees to work together towards a common purpose.\n\nSynonyms: administration, leadership, direction, supervision, governance\n",
+        "exampleA": "Effective management is crucial for the success of any organization.",
+        "exampleB": "The company implemented new management strategies to improve productivity.",
+        "exampleC": "She climbed the corporate ladder quickly, eventually reaching a position in management.",
+        "status": ""
+    },
+    {
+        "id": "8a8bd7c6-8a41-488c-9562-9caade779ed0",
+        "word": "manual work",
+        "persian": "کار یدی",
+        "definition": "\"Manual work\" refers to physical labor performed primarily by hand or with the use of tools, often involving repetitive tasks and physical exertion. It typically contrasts with intellectual or automated work.\n\nSynonyms: physical labor, handiwork, blue-collar work, manual labor.\n",
+        "exampleA": "He found manual work more fulfilling than his office job.",
+        "exampleB": "The factory relies heavily on manual work due to the lack of automation.",
+        "exampleC": "Many people are seeking alternatives to manual work that is physically demanding.",
+        "status": "learned"
+    },
+    {
+        "id": "83b4fea1-e276-4c58-ab57-10ba6bad0f9e",
+        "word": "market",
+        "persian": "بازار کسب و کار، بازار",
+        "definition": "A market is a place or system where buyers and sellers interact to exchange goods, services, or information. It's driven by supply and demand, and can be physical (like a farmers market) or virtual (like an online marketplace). The interaction determines the price and quantity of goods or services transacted.\n\nSynonyms: marketplace, exchange, bazaar, emporium, trading center.\n",
+        "exampleA": "We went to the farmers market to buy fresh produce.",
+        "exampleB": "The stock market experienced a significant downturn this week.",
+        "exampleC": "Our company is conducting market research to understand consumer preferences.",
+        "status": "learned"
+    },
+    {
+        "id": "8aba38ba-36d5-4ab2-be8d-db375061a7a0",
+        "word": "marketing",
+        "persian": "«مارکتینگ» در فارسی به معنای «بازاریابی» است که شامل فعالیت‌هایی برای شناساندن، جذب و نگهداری مشتریان و در نهایت فروش کالا یا خدمات می‌شود.\n",
+        "definition": "Marketing encompasses all activities a company undertakes to promote and sell products or services. It involves researching the market to understand customer needs, developing products or services that meet those needs, pricing them competitively, distributing them effectively, and communicating their value through advertising, public relations, and other promotional efforts. Ultimately, marketing aims to create value for customers and build strong relationships that lead to sales and long-term business success.\n\nSynonyms: advertising, promotion, sales, merchandising, branding.\n",
+        "exampleA": "The company invested heavily in marketing to reach a wider audience.",
+        "exampleB": "She has a degree in marketing and is passionate about consumer behavior.",
+        "exampleC": "Our marketing team is developing a new campaign to promote the product.",
+        "status": ""
+    },
+    {
+        "id": "5ac5fc91-8e23-4101-aa35-d5cfe53f6a1b",
+        "word": "meeting",
+        "persian": "بسته به متن و کاربرد، \"meeting\" می‌تونه به فارسی به صورت‌های زیر ترجمه بشه:\n\n   جلسه: رایج‌ترین و عمومی‌ترین ترجمه\n   دیدار: برای ملاقات‌های دوستانه یا غیررسمی\n   نشست: برای جلسات رسمی و تخصصی\n   ملاقات: برای ملاقات‌های کاری یا شخصی\n   گردهمایی: برای رویدادهایی که افراد زیادی در آن شرکت می‌کنند\n",
+        "definition": "A meeting is a gathering of two or more people, typically pre-arranged, for the purpose of discussion, decision-making, information sharing, or collaborative work on a specific topic or task. It's a structured interaction aimed at achieving a common objective.\n\nSynonyms: conference, assembly, session, get-together, summit.\n",
+        "exampleA": "The meeting is scheduled for next Tuesday.",
+        "exampleB": "I have a meeting with the client at 3 PM.",
+        "exampleC": "The meeting was very productive.",
+        "status": ""
+    },
+    {
+        "id": "f0c5c4a6-9957-4339-8150-b9de1f052fb3",
+        "word": "money",
+        "persian": "معادل فارسی کلمه \"money\"، «پول» است.\n",
+        "definition": "Money is a medium of exchange accepted as payment for goods, services, and debts within a given socioeconomic context or country. It serves as a store of value and a unit of account, facilitating trade and economic activity.\n\nSynonyms: currency, funds, capital, cash, wealth\n",
+        "exampleA": "She needed money to pay her rent.",
+        "exampleB": "He invested his money in the stock market.",
+        "exampleC": "The company donated money to the local charity.",
+        "status": ""
+    },
+    {
+        "id": "31e5d62f-4f74-48ca-99f9-948023488e4f",
+        "word": "monotonous",
+        "persian": "یکنواخت",
+        "definition": "\"Monotonous\" describes something that is repetitive, dull, and lacking in variety, often leading to boredom or tedium. It lacks any exciting or interesting features, maintaining a consistent and unchanging quality that can be quite tiresome.\n\nSynonyms: tedious, repetitive, humdrum, unvarying, lackluster\n",
+        "exampleA": "The data entry job was incredibly monotonous, day after day.",
+        "exampleB": "The monotonous drone of the engine lulled me to sleep.",
+        "exampleC": "He found the constant repetition of the same tasks monotonous and unfulfilling.",
+        "status": "seen"
+    },
+    {
+        "id": "27d19dd3-5c12-4c2f-9f18-ba9dda07a372",
+        "word": "next to nothing",
+        "persian": "\"تقریباً هیچ\"، \"ناچیز\"، یا \"خیلی کم\" معادل‌های مناسبی برای عبارت \"next to nothing\" هستند.\n",
+        "definition": "almost nothing",
+        "exampleA": "I knew next to nothing about farming",
+        "exampleB": "The antique store was selling the vase for next to nothing, so I had to buy it.",
+        "exampleC": "After the fire, they had next to nothing left of their possessions.",
+        "status": "learned"
+    },
+    {
+        "id": "9a13874d-d0b9-475f-98bd-037f452d57ec",
+        "word": "niche",
+        "persian": "جایگاه شغلی، جا",
+        "definition": "A niche refers to a specialized segment of the market for a particular kind of product or service. It's a well-defined group of customers with specific needs and preferences that are not being fully addressed by mainstream offerings. Businesses targeting a niche often tailor their products and marketing strategies to appeal directly to this smaller, more focused audience.\n\nSynonyms: market segment, specialty, area, focus, segment\n",
+        "exampleA": "She found her niche in the art world creating miniature sculptures.",
+        "exampleB": "This product caters to a very specific niche market.",
+        "exampleC": "He carved out a niche for himself as a travel blogger focusing on eco-tourism.",
+        "status": "seen"
+    },
+    {
+        "id": "72034596-c693-4980-b2f0-ee0ddd580c48",
+        "word": "occupation",
+        "persian": "اشتغال (کاربرد در فرمهای رسمی و نه در محاوره)ه",
+        "definition": "Occupation refers to a person's regular work or profession, the main way they earn a living. It encompasses the skills, knowledge, and responsibilities associated with that job, often reflecting a person's role in society and contributing to their identity.\n\nSynonyms: job, profession, career, employment, vocation\n",
+        "exampleA": "What is your primary occupation?",
+        "exampleB": "Her occupation as a doctor is demanding.",
+        "exampleC": "He listed his occupation as 'retired'.",
+        "status": "learned"
+    },
+    {
+        "id": "ae5d7321-5a06-46fe-a21a-7d519f3b2998",
+        "word": "office",
+        "persian": "معنی اصلی \"office\" در فارسی «دفتر» است، اما بسته به زمینه می‌تونه به «اداره»، «محل کار» یا «سازمان» هم ترجمه بشه.\n",
+        "definition": "An office is a room or building where administrative or professional activities are conducted, serving as a central location for employees to perform their work, manage business operations, and collaborate on projects. It's a space dedicated to facilitating tasks like communication, record-keeping, and decision-making within an organization.\n\nSynonyms: workplace, bureau, headquarters, suite, studio.\n",
+        "exampleA": "I need to go to the office early tomorrow.",
+        "exampleB": "The new office building has a great view.",
+        "exampleC": "She works in the accounting office.",
+        "status": ""
+    },
+    {
+        "id": "c93edad1-cb7d-4950-9516-f268febc9e8f",
+        "word": "overtime",
+        "persian": "اضافه کاری",
+        "definition": "Overtime refers to the hours an employee works beyond their normal or legally mandated working hours, typically resulting in a higher rate of pay. It compensates employees for the extra time and effort they put in to meet deadlines, handle increased workloads, or cover staffing shortages.\n\nSynonyms: extra hours, extended work hours, time-and-a-half, after-hours work.\n",
+        "exampleA": "The pay is $7.75 per hour; $11.75 for overtime.",
+        "exampleB": "She worked overtime to meet the project deadline.",
+        "exampleC": "The contract includes a clause regarding payment for overtime.",
+        "status": "learned"
+    },
+    {
+        "id": "9014ec86-19a7-47f0-af80-e06ea09ce38a",
+        "word": "packaging",
+        "persian": "بسته بندی",
+        "definition": "Packaging refers to the process of designing and producing containers or wrapping for products, encompassing everything from materials and graphics to structural design. Its primary function is to protect the product during storage, transportation, and sale, while also providing information, attracting consumers, and sometimes even offering convenience features. Effective packaging can significantly influence brand perception and purchasing decisions.\n\nSynonyms: wrapping, encasement, boxing, containerization.\n",
+        "exampleA": "The company invested in new packaging to make their product more appealing.",
+        "exampleB": "Sustainable packaging is becoming increasingly important to consumers.",
+        "exampleC": "We need to review the current packaging process to identify areas for improvement.",
+        "status": "learned"
+    },
+    {
+        "id": "0286e79d-7789-4b68-bd02-d8dbd73b483d",
+        "word": "part-time",
+        "persian": "\"Part-time\" در فارسی معمولاً به صورت \"پاره‌وقت\" یا \"نیمه‌وقت\" ترجمه می‌شود.\n",
+        "definition": "\"Part-time\" refers to work performed for fewer hours per week than what is considered full-time employment, typically less than 35 or 40 hours. It allows for greater flexibility and often involves reduced benefits compared to full-time positions.\n\nSynonyms: flexitime, reduced hours, fractional employment, casual employment\n",
+        "exampleA": "She works part-time at the library while attending college.",
+        "exampleB": "He took a part-time job to earn some extra money.",
+        "exampleC": "The company is hiring part-time employees for the summer season.",
+        "status": ""
+    },
+    {
+        "id": "d4973eed-2009-4a83-9e3b-bb3ad6471cc0",
+        "word": "pay",
+        "persian": "پرداختی",
+        "definition": "\"Pay\" refers to the act of giving someone money or another form of compensation in exchange for goods, services, or labor provided. It signifies the fulfillment of a financial obligation or agreement.\n\nSynonyms: compensate, remunerate, reimburse, settle, disburse.\n",
+        "exampleA": "I need to pay my bills this week.",
+        "exampleB": "What is the hourly pay for this job?",
+        "exampleC": "Did you pay attention in class today?",
+        "status": "learned"
+    },
+    {
+        "id": "6a971f5f-101c-488a-95dc-216272d4522c",
+        "word": "perk",
+        "persian": "مزایا، امتیازات، یا تسهیلات جانبی که معمولاً علاوه بر حقوق و دستمزد به کارمندان ارائه می‌شوند.\n",
+        "definition": "A perk is a benefit that comes with a job or situation, typically something additional to the regular salary or wages. It's often non-monetary and designed to improve employee satisfaction or make a position more attractive.\n\nSynonyms: benefit, advantage, bonus, fringe benefit, incentive.\n",
+        "exampleA": "A company car is a common perk for senior executives.",
+        "exampleB": "One perk of working from home is the flexible schedule.",
+        "exampleC": "Free coffee is a small perk that employees appreciate.",
+        "status": ""
+    },
+    {
+        "id": "5ea96678-c71d-40c2-9294-d91e8174c9ef",
+        "word": "perks",
+        "persian": "مزایای کاری",
+        "definition": "\"Perks\" refer to extra benefits or advantages offered in addition to regular compensation, like a salary or wages. They're often non-monetary and designed to improve employee satisfaction, attract talent, or foster a positive work environment.\n\nSynonyms: benefits, advantages, privileges, extras, fringe benefits\n",
+        "exampleA": "The travelling is definitely a perk of the job for me.",
+        "exampleB": "The company offers a variety of perks, including free lunches and gym memberships.",
+        "exampleC": "One of the perks of working from home is the flexibility it provides.",
+        "status": "seen"
+    },
+    {
+        "id": "6c9e5cbd-33df-463d-b1a9-02d751e3aabd",
+        "word": "persuade",
+        "persian": "\"Persuade\" به فارسی می‌شه \"متقاعد کردن\"، \"مجاب کردن\" یا \"وادار کردن\".\n",
+        "definition": "To persuade means to convince someone to do or believe something through reasoning or argument. It involves influencing their thoughts or actions, often by appealing to their emotions, logic, or values. Synonyms include: convince, influence, induce, coax, sway.\n",
+        "exampleA": "The lawyer tried to persuade the jury of his client's innocence.",
+        "exampleB": "I couldn't persuade him to change his mind about the project.",
+        "exampleC": "She used her charm to persuade the shopkeeper to give her a discount.",
+        "status": ""
+    },
+    {
+        "id": "b6dc3f2e-7c6c-4def-9f5c-50777e36ca97",
+        "word": "product",
+        "persian": "\"Product\" در فارسی معمولاً به صورت \"محصول\" ترجمه می‌شود، اما بسته به زمینه می‌تواند به \"فرآورده\" یا \"تولید\" نیز ترجمه شود.\n",
+        "definition": "A product is essentially anything that is created through a process, either natural or manufactured, that is offered for sale or use. It can be a tangible good like a car or a phone, an intangible service like consulting or banking, or even an idea that is commercialized. Products aim to satisfy a need or want of a consumer or other entity.\n\nSynonyms: commodity, merchandise, output, ware, item.\n",
+        "exampleA": "The company launched a new product last quarter.",
+        "exampleB": "This product is designed for ease of use.",
+        "exampleC": "Customer feedback is essential for improving our product.",
+        "status": ""
+    },
+    {
+        "id": "7cb36a4b-8988-47af-ac83-695450dc0508",
+        "word": "profession",
+        "persian": "حرفه",
+        "definition": "A profession is a vocation or occupation requiring specialized knowledge, often involving prolonged academic training, formal qualification, and adherence to a specific code of ethics. It typically demands a high level of skill and expertise used to serve the public good or specific client needs.\n\nSynonyms: career, occupation, vocation, calling, trade, craft.\n",
+        "exampleA": "Medicine is a demanding but rewarding profession.",
+        "exampleB": "What is your chosen profession and why did you select it?",
+        "exampleC": "The ethics of the legal profession are often debated.",
+        "status": "learned"
+    },
+    {
+        "id": "f22ce414-dd3a-4e7a-8b37-0d8c48aa4b20",
+        "word": "prospects",
+        "persian": "\"Prospects\" بسته به متن می‌تونه به \"چشم‌اندازها\"، \"امکانات\"، \"آینده‌نگری‌ها\" یا \"فرصت‌ها\" ترجمه بشه.\n",
+        "definition": "the possibility of being successful in the future",
+        "exampleA": "I had no job, no education, and\t no prospects.",
+        "exampleB": "The company's prospects for growth look promising given the new market opportunities.",
+        "exampleC": "Despite the initial setbacks, the young athlete still has bright prospects for a successful career.",
+        "status": "learned"
+    },
+    {
+        "id": "a53ea761-3338-46b8-8731-66d463c3aff2",
+        "word": "purse",
+        "persian": "کیف پول",
+        "definition": "A purse is a small bag or pouch used for carrying money and small personal items like cards and identification. It is typically used by women and often kept in a handbag or carried separately.\n\nSynonyms: handbag, wallet, pouch, coin purse, clutch.\n",
+        "exampleA": "She rummaged in her purse for her keys.",
+        "exampleB": "He offered to pay, but she insisted on reaching for her purse.",
+        "exampleC": "The thief snatched her purse and ran down the street.",
+        "status": "seen"
+    },
+    {
+        "id": "eee25b2f-4aa1-4403-aa60-4e3e606d7f96",
+        "word": "qualification",
+        "persian": "گواهی کسب مهارت، گواهی، شرایط ورود به کار، شایستگی",
+        "definition": "A qualification is a formal recognition of competence, knowledge, or skill achieved through education, training, or experience. It serves as evidence that someone meets a specific standard or requirement for a particular job, task, or activity. Having a qualification typically increases one's chances of employment and career advancement.\n\nSynonyms: credential, certification, diploma, degree, accreditation\n",
+        "exampleA": "She lacked the necessary qualification for the job.",
+        "exampleB": "His main qualification for the role was his years of experience.",
+        "exampleC": "Having a master's degree is often seen as a key qualification in this field.",
+        "status": "learned"
+    },
+    {
+        "id": "2ebedb1f-14a6-4cd8-9343-a7ff5e3448f6",
+        "word": "qualifications",
+        "persian": "\"Qualifications\" بسته به متن می‌تونه به «صلاحیت‌ها»، «شایستگی‌ها»، «مدارک» یا «توانایی‌ها» ترجمه بشه.\n",
+        "definition": "\"Qualifications\" refer to the skills, knowledge, experience, and attributes that make someone suitable for a particular job, task, or role. They represent the credentials and abilities an individual possesses that demonstrate their competence and preparedness to perform specified duties effectively.\n\nSynonyms: skills, expertise, credentials, competencies, aptitude.\n",
+        "exampleA": "The job posting clearly outlined the necessary qualifications for the position.",
+        "exampleB": "Her extensive experience and academic qualifications made her a strong candidate.",
+        "exampleC": "Despite his lack of formal qualifications, his demonstrated skills were impressive.",
+        "status": ""
+    },
+    {
+        "id": "a31005dd-7834-47bd-8e31-6fd501118fa8",
+        "word": "redundant",
+        "persian": "از کار برکنار شده",
+        "definition": "\"Redundant\" means exceeding what is necessary or normal; it describes something that is superfluous and no longer needed because it's repetitive or already covered by something else. It often implies that the extra element is unnecessary and potentially wasteful.\n\nSynonyms: superfluous, unnecessary, surplus, excess, repetitive, extra.\n",
+        "exampleA": "The report was excessively long and contained a lot of redundant information.",
+        "exampleB": "Using both 'past history' is redundant, as 'history' already implies the past.",
+        "exampleC": "Cutting the same paragraph twice was redundant, he only needed to delete it once.",
+        "status": "seen"
+    },
+    {
+        "id": "d6431a51-7399-46e1-93e8-f9eae63c4f9b",
+        "word": "request",
+        "persian": "بسته به متن، \"request\" می‌تونه به معنی \"درخواست\"، \"تقاضا\"، \"خواستن\"، یا \"مطالبه\" باشه.\n",
+        "definition": "A request is an act of asking politely or formally for something. It can be a plea, a demand, or simply a desire expressed to someone in the hope that they will grant it.\n\nSynonyms: petition, appeal, plea, entreaty, solicitation.\n",
+        "exampleA": "I'd like to make a request for additional information regarding the project.",
+        "exampleB": "The customer's request was immediately processed by the support team.",
+        "exampleC": "The manager approved the employee's request for vacation time.",
+        "status": ""
+    },
+    {
+        "id": "9fc043fb-830b-474b-b192-e55071d35276",
+        "word": "retail",
+        "persian": "خرده فروشی",
+        "definition": "Retail refers to the process of selling goods or services directly to consumers for their personal or household use, typically in small quantities. It encompasses the activities involved in presenting products, providing customer service, and facilitating the final purchase.\n\nSynonyms: selling, merchandising, distribution, trade, sales\n",
+        "exampleA": "The retail sector is facing increased competition from online marketplaces.",
+        "exampleB": "She has years of experience working in retail management.",
+        "exampleC": "This store offers a wide range of retail products at discounted prices.",
+        "status": "seen"
+    },
+    {
+        "id": "3cf19d77-28ab-4d4f-b984-4b801d1f2a9e",
+        "word": "retire",
+        "persian": "معنی اصلی \"retire\" در فارسی «بازنشسته شدن» است، یعنی دست کشیدن از کار و شغل به دلیل رسیدن به سن یا شرایط خاص. اما بسته به متن، می‌تونه معانی دیگه‌ای مثل «کناره‌گیری کردن» یا «عقب‌نشینی کردن» هم داشته باشه.\n",
+        "definition": "To retire generally means to withdraw from one's active working life or occupation, typically due to age or health, and begin living on a pension or savings. It signifies a transition to a period of reduced or complete cessation of paid work and often involves pursuing hobbies, traveling, or spending more time with family.\n\nSynonyms: Withdraw, cease work, go into retirement, give up work.\n",
+        "exampleA": "He plans to retire next year after 30 years of service.",
+        "exampleB": "Many people dream of the day they can retire and travel the world.",
+        "exampleC": "The company offered a generous package to encourage employees to retire early.",
+        "status": ""
+    },
+    {
+        "id": "ce5a01cf-305a-4deb-b723-73347d699691",
+        "word": "retirement",
+        "persian": "بازنشستگی",
+        "definition": "Retirement is the act of permanently withdrawing from one's active working life, typically upon reaching a certain age or after accumulating sufficient savings. It generally involves ceasing regular employment and transitioning to a lifestyle focused on leisure, hobbies, personal interests, or volunteer work, often supported by accumulated pensions, savings, or investments.\n\nSynonyms: withdrawal, retiring, pensioning off, cessation of work.\n",
+        "exampleA": "She is eagerly anticipating her retirement and plans to travel the world.",
+        "exampleB": "The company held a party to celebrate his retirement after 30 years of service.",
+        "exampleC": "Concerns about financial security are common when planning for retirement.",
+        "status": "learned"
+    },
+    {
+        "id": "1446f11b-1bf2-4f14-a576-9bed37f96b9f",
+        "word": "rewarding",
+        "persian": "\"Rewarding\" در فارسی می‌تونه به صورت‌های مختلفی ترجمه بشه، اما بسته به متن، معادل‌های \"ارزشمند\"، \"پاداش‌دهنده\"، \"رضایت‌بخش\" یا \"پرمنفعت\" می‌تونن مناسب باشن.\n",
+        "definition": "\"Rewarding\" describes something that provides a feeling of satisfaction, fulfillment, and personal worth. It often implies that effort or dedication has led to a positive outcome that makes the time or energy invested feel worthwhile. It is something that gives you a sense of accomplishment and happiness.\n\nSynonyms: fulfilling, gratifying, satisfying, enriching, valuable.\n",
+        "exampleA": "Volunteering at the animal shelter was a surprisingly rewarding experience.",
+        "exampleB": "Teaching children to read is an incredibly rewarding job.",
+        "exampleC": "The challenging hike to the summit was incredibly rewarding when we saw the breathtaking view.",
+        "status": ""
+    },
+    {
+        "id": "dfd18372-7b83-40f2-94d5-a893882ddb8d",
+        "word": "salary",
+        "persian": "حقوق",
+        "definition": "A salary is a fixed, regular payment, typically paid on a monthly or bi-weekly basis, that an employer pays to an employee in exchange for their work. It represents a set amount agreed upon regardless of the hours worked, unlike an hourly wage.\n\nSynonyms: wage, pay, compensation, remuneration, earnings.\n",
+        "exampleA": "Her starting salary was higher than expected.",
+        "exampleB": "He negotiated a significant raise to his current salary.",
+        "exampleC": "The job posting listed the salary range as $50,000 to $60,000 annually.",
+        "status": "learned"
+    },
+    {
+        "id": "15154110-e9e1-4054-a2e1-b92c37341fc0",
+        "word": "Save up for sth",
+        "persian": "پول جمع کردن برای چیزی",
+        "definition": "\"Save up for something\" means to gradually accumulate money specifically for a particular future purchase or goal. It implies discipline and delaying gratification to afford something desired later on.\n\nSynonyms: Put aside money for, accumulate funds for, set aside for, sock away for.\n",
+        "exampleA": "I'm going to save up for a new car.",
+        "exampleB": "They're saving up for a down payment on a house.",
+        "exampleC": "She's trying to save up for a trip to Europe next year.",
+        "status": "learned"
+    },
+    {
+        "id": "e6ac0e2b-c63c-4434-bf14-54df25f7f060",
+        "word": "shares",
+        "persian": "سهام",
+        "definition": "\"Shares,\" in the context of finance and ownership, represent units of equity ownership in a company. Owning shares makes you a partial owner of the company, entitling you to a portion of its profits and assets, proportionate to the number of shares you hold. They also typically grant voting rights in company matters.\n\nSynonyms: Stocks, equities, holdings, securities, stakes.\n",
+        "exampleA": "She owns shares in several tech companies.",
+        "exampleB": "The company's shares plummeted after the earnings report.",
+        "exampleC": "He plans to sell his shares to raise capital.",
+        "status": "learned"
+    },
+    {
+        "id": "4237b327-ca23-40f6-948f-65d4fa53f3f7",
+        "word": "shelf stacker",
+        "persian": "قفسه چین",
+        "definition": "A shelf stacker is a worker in a retail environment, typically a supermarket or grocery store, whose primary responsibility is to replenish and organize merchandise on shelves, ensuring products are readily available and visually appealing to customers. They also often check for expired or damaged items and may assist with basic stocktaking.\n\nSynonyms: stock clerk, shelf stocker, stocker, retail assistant, merchandiser.\n",
+        "exampleA": "The shelf stacker carefully arranged the cans of soup on the shelf.",
+        "exampleB": "He started as a shelf stacker but quickly moved up to a management position.",
+        "exampleC": "Working as a shelf stacker can be tiring, but it's a good way to stay active.",
+        "status": "learned"
+    },
+    {
+        "id": "29c45eba-bab0-47b4-b141-4124fe9c520b",
+        "word": "shift work",
+        "persian": "نوبت و شیفت کاری",
+        "definition": "Shift work refers to a work schedule that operates outside of traditional 9-to-5 business hours, often involving employees working in rotating or fixed periods, such as evenings, nights, or early mornings. This allows businesses to operate for extended hours or even 24/7, but can disrupt an individual's natural sleep-wake cycle.\n\nSynonyms: Rotating shifts, staggered shifts, night shift, swing shift, graveyard shift.\n",
+        "exampleA": "The factory relies heavily on shift work to maintain 24/7 production.",
+        "exampleB": "Shift work can disrupt your sleep patterns and affect your overall health.",
+        "exampleC": "Many nurses and doctors are accustomed to the demands of shift work.",
+        "status": "learned"
+    },
+    {
+        "id": "3f8e682c-df3c-435b-aa4e-da9304e07d46",
+        "word": "skills",
+        "persian": "معادل‌های مختلفی برای skills در فارسی وجود دارد که بسته به زمینه می‌توان از آن‌ها استفاده کرد. رایج‌ترین ترجمه‌ها عبارتند از: مهارت‌ها، توانایی‌ها و قابلیت‌ها.\n",
+        "definition": "\"Skills\" refer to the learned or acquired abilities to perform a task competently. They are the specific capabilities that enable someone to effectively and efficiently execute a particular action or activity. They can be technical, like coding or operating machinery, or soft, like communication and problem-solving.\n\nSynonyms: abilities, talents, competencies, expertise, proficiency.\n",
+        "exampleA": "The company is looking for candidates with strong communication skills.",
+        "exampleB": "Developing new skills is essential for career advancement.",
+        "exampleC": "Her resume highlighted her technical skills and experience.",
+        "status": ""
+    },
+    {
+        "id": "2e03fa79-4e14-4129-8560-bf915c12bd45",
+        "word": "staff",
+        "persian": "کارکنان",
+        "definition": "\"Staff\" refers to a group of people who work for an organization or business. These individuals are employed to perform various tasks and responsibilities to contribute to the overall operation and success of the entity. It encompasses all levels of employees, from entry-level positions to senior management.\n\nSynonyms: personnel, workforce, employees, team, crew.\n",
+        "exampleA": "The hospital staff worked tirelessly during the pandemic.",
+        "exampleB": "Our company is looking to hire new staff to handle the increased workload.",
+        "exampleC": "The museum staff provided helpful information about the exhibits.",
+        "status": "learned"
+    },
+    {
+        "id": "18c6da48-a1db-4e2d-af55-0dea9194d00d",
+        "word": "supervisor",
+        "persian": "معنی supervisor میشه سرپرست، ناظر، یا مسئول.\n",
+        "definition": "A supervisor is an individual who oversees and directs the work of others, ensuring tasks are completed efficiently and according to established standards. They provide guidance, support, and feedback to their team members, and are responsible for monitoring performance and addressing any issues that arise.\n\nSynonyms: manager, overseer, foreman, director, superintendent, team lead\n",
+        "exampleA": "The supervisor reviewed my performance and gave me valuable feedback.",
+        "exampleB": "Please direct all questions to your immediate supervisor.",
+        "exampleC": "The construction crew worked diligently under the supervisor's watchful eye.",
+        "status": ""
+    },
+    {
+        "id": "1a79cb16-9e90-41c6-ba08-bdb03b31c5db",
+        "word": "takeover",
+        "persian": "«تصاحب»، «تسخیر»، یا «به دست آوردن» بسته به زمینه.\n",
+        "definition": "A takeover is the acquisition of control of a company by another, often achieved through purchasing a majority of its shares. It essentially involves one entity assuming ownership and operational control over another.\nSynonyms: Acquisition, Merger, Buyout, Takeover bid.\n",
+        "exampleA": "The hostile takeover bid was ultimately unsuccessful.",
+        "exampleB": "The company feared a corporate takeover by its rival.",
+        "exampleC": "After the takeover, many employees were laid off.",
+        "status": ""
+    },
+    {
+        "id": "bc02525f-d5eb-4556-995c-29757160c4d5",
+        "word": "target",
+        "persian": "\"هدف\" یا \"مقصد\"، بسته به متن و مفهوم مورد نظر.\n",
+        "definition": "A target is a specific objective or goal that someone aims to achieve. It can refer to a physical object aimed at, a desired outcome, or a specific metric one is trying to reach in areas like sales, production, or learning. In essence, it's something you're focusing your efforts on to accomplish.\n\nSynonyms: objective, goal, aim, mark, bullseye.\n",
+        "exampleA": "The archer aimed carefully at the target.",
+        "exampleB": "They identified the competitor as their main target.",
+        "exampleC": "Raising awareness is the target of this campaign.",
+        "status": ""
+    },
+    {
+        "id": "258c4837-9ec9-4972-bfcd-637719672269",
+        "word": "to be promoted",
+        "persian": "ترفیع گرفتن",
+        "definition": "To be promoted means to be advanced to a higher position or rank within an organization, usually accompanied by increased responsibilities, authority, and often, salary. It signifies recognition of an employee's skills, performance, and potential for leadership.\n\nSynonyms: advanced, elevated, upgraded, moved up, boosted.\n",
+        "exampleA": "She worked incredibly hard to be promoted to senior manager.",
+        "exampleB": "He hoped to be promoted after successfully leading the project.",
+        "exampleC": "The company outlined clear criteria for employees to be promoted.",
+        "status": "learned"
+    },
+    {
+        "id": "33e73701-ea79-40b2-ada2-f4ba3cd153d0",
+        "word": "trade",
+        "persian": "بازرگانی",
+        "definition": "\"Trade\" refers to the voluntary exchange of goods, services, or assets between two or more parties. It's a fundamental aspect of economics, allowing individuals, businesses, and nations to specialize in production and obtain things they need or want from others. Trade can be as simple as bartering or as complex as international commerce involving multiple currencies and regulations.\n\nSynonyms: commerce, exchange, barter, dealing, transaction.\n",
+        "exampleA": "They decided to trade their old car for a newer model.",
+        "exampleB": "International trade has increased significantly in recent years.",
+        "exampleC": "The two countries signed a trade agreement to boost economic cooperation.",
+        "status": "learned"
+    },
+    {
+        "id": "83a86cc1-cb8b-4830-a904-5a789c1d3f5c",
+        "word": "trend",
+        "persian": "\"Trend\" در فارسی معمولاً به \"روند\"، \"گرایش\"، \"مد روز\" یا \"رایج\" ترجمه می‌شود. بسته به متن و موضوع، می‌توان از این معادل‌ها استفاده کرد.\n",
+        "definition": "A trend refers to a general direction in which something is developing or changing. It's a pattern or prevailing tendency, often observed over time, that indicates a shift in preference, behavior, or a particular phenomenon. Think of it as something becoming more popular or common.\n\nSynonyms: fad, vogue, fashion, tendency, direction, pattern.\n",
+        "exampleA": "The latest trend in fashion is oversized clothing.",
+        "exampleB": "Experts are analyzing the data to identify the emerging trend in the stock market.",
+        "exampleC": "Social media plays a large role in shaping and spreading cultural trends.",
+        "status": ""
+    },
+    {
+        "id": "18ee779b-b450-4ee6-a196-96b73c63075e",
+        "word": "understanding",
+        "persian": "فهمیده",
+        "definition": "Understanding refers to the ability to comprehend, grasp, and interpret information, concepts, or situations. It involves not just knowing facts but also seeing the relationships between them, drawing inferences, and applying that knowledge effectively. Essentially, it's the capacity to make sense of something.\n\nSynonyms: comprehension, insight, awareness, perception, grasp, discernment\n",
+        "exampleA": "Her understanding of the situation was crucial for resolving the conflict.",
+        "exampleB": "He lacked a basic understanding of physics.",
+        "exampleC": "The professor emphasized the importance of developing a deep understanding of the subject matter.",
+        "status": "learned"
+    },
+    {
+        "id": "05e4df2a-a429-4935-b16d-734310f66d7f",
+        "word": "unemployed",
+        "persian": "بیکار",
+        "definition": "\"Unemployed\" refers to the state of actively seeking and being available for work, but not currently having a job. It's a key indicator of economic health, reflecting the proportion of the labor force that is willing and able to work but cannot find employment.\n\nSynonyms: jobless, out of work, workless, between jobs.\n",
+        "exampleA": "The recent factory closure left many residents unemployed and struggling to find new work.",
+        "exampleB": "After graduating college, she spent several months unemployed while searching for a suitable position.",
+        "exampleC": "The government is implementing new programs to help the unemployed gain the skills they need for in-demand jobs.",
+        "status": "learned"
+    },
+    {
+        "id": "f37c9dc8-5f36-4be4-b9a5-e602981ca97d",
+        "word": "unemployment",
+        "persian": "بیکاری",
+        "definition": "Unemployment refers to the state of actively seeking work but being unable to find a job, despite being willing and available to work. It's a key indicator of economic health, reflecting the underutilization of labor resources and the potential loss of income and skills for individuals. It often arises due to factors like economic downturns, technological advancements, or structural changes in industries.\n\nSynonyms: Joblessness, worklessness, out of work, underemployment.\n",
+        "exampleA": "The city is struggling with high rates of unemployment.",
+        "exampleB": "Increased automation has contributed to concerns about unemployment.",
+        "exampleC": "Government programs aim to reduce unemployment through job training.",
+        "status": "learned"
+    },
+    {
+        "id": "c848db54-2ce6-4c81-9877-39df2a149e6c",
+        "word": "unskilled",
+        "persian": "بدون نیاز به مهارت، بی مهارت",
+        "definition": "\"Unskilled\" describes someone lacking the specific training, knowledge, or experience necessary to perform a particular task or job competently. It implies a lack of proficiency and often suggests the individual may need guidance or further instruction to achieve a desired level of ability.\n\nSynonyms: Inexperienced, Untrained, Inept, Unqualified, Amateurish.\n",
+        "exampleA": "The job required specialized knowledge, so unskilled workers were not considered.",
+        "exampleB": "He was labeled as unskilled labor despite his willingness to learn.",
+        "exampleC": "Many argue that automation will displace unskilled workers in the manufacturing sector.",
+        "status": "seen"
+    },
+    {
+        "id": "200d2f6c-9a9b-43c1-88b7-e8eec831f6bd",
+        "word": "wage",
+        "persian": "دستمزد",
+        "definition": "A wage is a payment, typically monetary, that an employer gives to an employee in exchange for labor or services performed. It's often calculated on an hourly, daily, or weekly basis, distinguishing it from a salary which is a fixed amount paid over a longer period (like monthly or annually).\n\nSynonyms: salary, earnings, pay, remuneration, compensation, stipend\n",
+        "exampleA": "a wage cut, fair wage",
+        "exampleB": "The minimum wage varies from state to state.",
+        "exampleC": "She demanded a higher wage for her increased workload.",
+        "status": "seen"
+    },
+    {
+        "id": "b2753d36-f4ea-4a47-914f-f3caf0bf24b4",
+        "word": "wages",
+        "persian": "دستمزد، حقوق، یا مزد. بسته به بافت جمله می‌تونه معانی مختلفی داشته باشه، اما همگی به پولی اشاره دارن که در ازای کار پرداخت می‌شه.\n",
+        "definition": "Wages refer to the payment an employer gives to an employee in exchange for their labor or services. It's typically a fixed amount paid regularly, often hourly, weekly, or monthly. Wages are a crucial part of an individual's income and contribute significantly to their financial well-being.\n\nSynonyms: Salary, pay, earnings, remuneration, compensation.\n",
+        "exampleA": "She worked hard to earn decent wages.",
+        "exampleB": "The company announced a freeze on wages due to economic downturn.",
+        "exampleC": "Many workers are fighting for fair wages and better benefits.",
+        "status": ""
+    },
+    {
+        "id": "664c6b76-8f0f-4663-88fd-688048066225",
+        "word": "workforce",
+        "persian": "نیروی کار",
+        "definition": "\"Workforce\" refers to the collective group of people who are available and able to work, typically employed in a particular organization, industry, or geographical area. It encompasses all individuals contributing their labor, skills, and efforts to produce goods or services.\n\nSynonyms: labor force, personnel, staff, employees, human resources.\n",
+        "exampleA": "The company boasts a highly skilled workforce.",
+        "exampleB": "Changes in technology are impacting the nature of the workforce.",
+        "exampleC": "Diversity in the workforce is crucial for innovation.",
+        "status": "learned"
+    },
+    {
+        "id": "f2f3da5c-28ec-4410-9700-4c8188e0c0d2",
+        "word": "workplace",
+        "persian": "محیط کار",
+        "definition": "A workplace is any location, whether physical or virtual, where work activities are performed by individuals for an employer or organization. It's the environment encompassing the physical space, equipment, and resources used to carry out tasks, as well as the social interactions and organizational culture present during the performance of work.\n\nSynonyms: office, job site, place of employment, business location.\n",
+        "exampleA": "The new policy aims to create a more inclusive workplace.",
+        "exampleB": "She was promoted to a managerial role in the workplace.",
+        "exampleC": "Safety regulations are essential in any workplace.",
+        "status": "learned"
+    }
+]

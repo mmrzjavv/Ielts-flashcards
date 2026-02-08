@@ -1,0 +1,602 @@
+[
+    {
+        "id": "c60d78e4-308c-4846-8e6f-eea6bdc9f46f",
+        "word": "absorb",
+        "persian": "\"جذب کردن\"، \"فرو بردن\" یا \"به خود گرفتن\" معادل‌های مناسبی برای کلمه \"absorb\" هستند. انتخاب دقیق‌ترین معادل بستگی به متن و مفهوم مورد نظر دارد.\n",
+        "definition": "To absorb means to take something in completely, whether it's a liquid, information, or even a shock. It implies a thorough assimilation, like a sponge soaking up water or a student understanding a complex concept.\n\nSynonyms: Assimilate, Imbibe, Soak up, Digest, Grasp.\n",
+        "exampleA": "The sponge will absorb the spilled milk.",
+        "exampleB": "Plants absorb sunlight for photosynthesis.",
+        "exampleC": "He tried to absorb all the information in the lecture.",
+        "status": ""
+    },
+    {
+        "id": "051b4afb-0b19-4b4b-84f4-ae33f62a37a8",
+        "word": "alternative",
+        "persian": "جایگزین",
+        "definition": "\"Alternative\" refers to a different or contrasting option available in place of something else. It suggests the existence of at least one other possibility or choice that can be considered or used instead of the primary or conventional one.\n\nSynonyms: option, substitute, choice, other, backup.\n",
+        "exampleA": "We needed an alternative plan in case the weather turned bad.",
+        "exampleB": "Is there an alternative method for completing this task?",
+        "exampleC": "Solar power is a clean alternative to fossil fuels.",
+        "status": "learned"
+    },
+    {
+        "id": "903bd177-bc7a-4243-bf86-d1f25334b90b",
+        "word": "atmosphere",
+        "persian": "\"atmosphere\" بسته به متن می‌تونه به \"جو\"، \"فضا\"، \"حال و هوا\" یا \"اتمسفر\" ترجمه بشه.\n",
+        "definition": "\"Atmosphere\" refers to the pervading tone or mood of a place, situation, or creative work. It's the feeling you get, the intangible quality that surrounds something and influences how you perceive it. It can be light and airy, dark and oppressive, or anything in between.\n\nSynonyms: mood, ambiance, feeling, aura, climate, environment.\n",
+        "exampleA": "The restaurant had a cozy and inviting atmosphere.",
+        "exampleB": "The political atmosphere in the country is tense.",
+        "exampleC": "We need to create a more positive atmosphere at work.",
+        "status": ""
+    },
+    {
+        "id": "d1efcb83-6ea5-474a-9c89-8de78256ac9b",
+        "word": "balance",
+        "persian": "\"Balance\" بسته به متن می‌تونه معادل‌های مختلفی در فارسی داشته باشه، اما رایج‌ترین ترجمه‌ها عبارتند از:\n\n   تعادل: برای حفظ ثبات و پایداری.\n   توازن: برای برابری و تناسب بین دو یا چند چیز.\n   مانده: در امور مالی و حسابداری.\n   موازنه: برای سنجش و مقایسه.\n",
+        "definition": "\"Balance\" refers to a state of equilibrium or stability, where opposing forces or elements are in equal measure or are properly proportioned. It can describe physical stability, like standing upright, or a more abstract harmony between different aspects of life, such as work and leisure, or financial income and expenses. Striving for balance often involves making adjustments to achieve and maintain this desired state.\n\nSynonyms: equilibrium, stability, harmony, evenness, poise.\n",
+        "exampleA": "The acrobat struggled to maintain her balance on the tightrope.",
+        "exampleB": "A healthy diet and regular exercise help to balance your energy levels.",
+        "exampleC": "The company strives to balance profit with social responsibility.",
+        "status": ""
+    },
+    {
+        "id": "0564a10c-a71d-495a-bc84-80d545130faf",
+        "word": "biofuel",
+        "persian": "سوخت های زیستی",
+        "definition": "Biofuel refers to any fuel derived from biomass, which includes recently living organisms or their metabolic byproducts, such as plants, algae, and animal waste. It's considered a renewable energy source because the biomass can be replenished, and when burned, biofuels release carbon dioxide that was recently absorbed from the atmosphere, ideally creating a closed carbon cycle.\n\nSynonyms: biomass fuel, renewable fuel, agrofuel, biogenic fuel.\n",
+        "exampleA": "The government is investing heavily in biofuel research to reduce reliance on fossil fuels.",
+        "exampleB": "Switching to biofuel could significantly lower our carbon footprint.",
+        "exampleC": "Many farmers are now growing crops specifically for biofuel production.",
+        "status": "learned"
+    },
+    {
+        "id": "fc7e655a-e806-4ba6-8aa9-162bb3e715e1",
+        "word": "carbon",
+        "persian": "کربن یک عنصر شیمیایی است که در تمام موجودات زنده یافت می‌شود و نقش اساسی در ساختار مولکول‌های آلی دارد.\n",
+        "definition": "Carbon is a fundamental element found in all known organic compounds and is essential for life as we know it. It's incredibly versatile because it can form stable bonds with itself and many other elements, creating a vast array of molecules, from simple greenhouse gases to complex proteins and DNA. Its ability to catenate (form chains) is especially crucial for building complex organic structures.\n\nSynonyms: Element 6, C, Graphite, Diamond, Charcoal.\n",
+        "exampleA": "Diamonds are a form of pure carbon.",
+        "exampleB": "The scientists analyzed the carbon content of the soil sample.",
+        "exampleC": "Carbon emissions from factories contribute to air pollution.",
+        "status": ""
+    },
+    {
+        "id": "4a2087c8-7acc-4e6c-aed5-688a9d7742c1",
+        "word": "carbon dioxide",
+        "persian": "کربن دی‌اکسید به فارسی «دی‌اکسید کربن» یا «کربن دی‌اکسید» ترجمه می‌شود. هر دو اصطلاح رایج و قابل قبول هستند.\n",
+        "definition": "Carbon dioxide (CO2) is a colorless, odorless gas comprised of one carbon atom and two oxygen atoms. It's a natural component of the atmosphere, produced through processes like respiration, decomposition, and combustion. While essential for plant photosynthesis, elevated levels of CO2 contribute to the greenhouse effect and climate change.\n\nSynonyms: carbonic anhydride, carbon acid gas, CO2.\n",
+        "exampleA": "Plants absorb carbon dioxide from the atmosphere during photosynthesis.",
+        "exampleB": "The burning of fossil fuels releases large amounts of carbon dioxide.",
+        "exampleC": "Carbon dioxide is a greenhouse gas that contributes to climate change.",
+        "status": ""
+    },
+    {
+        "id": "52da6507-834d-4e79-9246-c51845c9839d",
+        "word": "commonplace",
+        "persian": "همه جایی و پیش پا افتاده",
+        "definition": "\"Commonplace\" refers to something that is ordinary, unremarkable, or frequently encountered. It lacks originality or distinctiveness and is often considered to be typical or everyday. Essentially, it's the opposite of something rare, unique, or exceptional.\n\nSynonyms: ordinary, typical, mundane, banal, trite, pedestrian.\n",
+        "exampleA": "Car thefts are commonplace in this part of town.",
+        "exampleB": "Online shopping has become so commonplace that many brick-and-mortar stores are struggling to compete.",
+        "exampleC": "While once considered innovative, smartphones are now a commonplace part of everyday life.",
+        "status": "learned"
+    },
+    {
+        "id": "f633999b-cacb-49b4-ae11-169837811970",
+        "word": "conserve",
+        "persian": "صرفه جویی کردن، محافظت کردن",
+        "definition": "To conserve means to protect something, especially something environmentally or culturally valuable, from harm or destruction. It implies careful management and preservation of resources for future use, ensuring their availability and well-being over time.\n\nSynonyms: preserve, protect, maintain, safeguard, reserve, sustain.\n",
+        "exampleA": "We must conserve water during this drought.",
+        "exampleB": "The museum is working to conserve historical artifacts.",
+        "exampleC": "Efforts to conserve energy are vital for the environment.",
+        "status": "seen"
+    },
+    {
+        "id": "9c049277-cddc-44e1-b59a-7aaa371a01c9",
+        "word": "consume",
+        "persian": "مصرف کردن",
+        "definition": "\"Consume\" means to use up, eat, or completely destroy something. It implies a process of depletion or taking in until little or nothing remains. It can apply to tangible items like food or fuel, but also abstract things like time or energy.\nSynonyms: devour, ingest, utilize, deplete, expend.\n",
+        "exampleA": "The new engine will consume less fuel.",
+        "exampleB": "We need to consume less plastic to protect the environment.",
+        "exampleC": "The fire quickly consumed the entire building.",
+        "status": "learned"
+    },
+    {
+        "id": "33a2a325-c3c4-488f-aed6-9413917784fc",
+        "word": "convert",
+        "persian": "تبدیل کردن",
+        "definition": "To convert means to change something into a different form, state, or character. It often implies a transformation, whether it's changing one's beliefs, a physical object's properties, or data from one format to another.\n\nSynonyms: transform, change, alter, adapt, modify.\n",
+        "exampleA": "You can use this software to convert the file to a different format.",
+        "exampleB": "The company plans to convert the old factory into apartments.",
+        "exampleC": "He decided to convert to a different religion.",
+        "status": "learned"
+    },
+    {
+        "id": "23375bce-aaa1-4318-a9b1-b99121374f82",
+        "word": "counter",
+        "persian": "مقابله کردن",
+        "definition": "\"Counter\" is a versatile word meaning to act against or in opposition to something, to present an opposing argument or action, or to offset or neutralize an effect. It implies a response that resists or negates a previous action or statement. Synonyms include: oppose, resist, contradict, negate, offset, neutralize.\n",
+        "exampleA": "Exercise helps to counter the effects of stress.",
+        "exampleB": "Please place your groceries on the counter.",
+        "exampleC": "The protesters staged a counter demonstration.",
+        "status": "seen"
+    },
+    {
+        "id": "63e2d4a2-e5f9-43ce-9a08-fd147ccbd955",
+        "word": "crisis",
+        "persian": "\"بحران\" یا \"وضعیت بحرانی\" بهترین ترجمه‌ها برای کلمه \"crisis\" هستند.\n",
+        "definition": "A crisis is a turning point or decisive moment, often involving danger or instability, that requires urgent action to prevent potentially negative outcomes. It represents a situation where normal operating procedures are no longer sufficient and significant decisions must be made under pressure.\n\nSynonyms: emergency, turning point, predicament, disaster, catastrophe.\n",
+        "exampleA": "The country is facing a severe economic crisis.",
+        "exampleB": "The environmental crisis demands immediate action.",
+        "exampleC": "His outburst was triggered by a personal crisis.",
+        "status": ""
+    },
+    {
+        "id": "d4d88ced-e8ad-4423-8a5c-89c20ef1692d",
+        "word": "critical",
+        "persian": "بسته به متن، \"critical\" می‌تونه معانی مختلفی داشته باشه. اما به طور کلی، معادل‌های فارسی زیر برای اون مناسب هستند:\n\n   بحرانی: وقتی شرایط خطرناک و نیازمند توجه فوری باشه.\n   حیاتی: وقتی چیزی برای موفقیت یا بقا ضروری باشه.\n   مهم: وقتی چیزی تاثیر قابل توجهی داشته باشه.\n   انتقادی: وقتی به معنی ارزیابی و تحلیل باشه.\n   حساس: وقتی نیاز به دقت و توجه زیادی باشه.\n",
+        "definition": "\"Critical\" can mean expressing adverse or disapproving comments or judgments, essentially pointing out flaws or weaknesses. It can also refer to something being extremely important or decisive. Depending on the context, \"critical\" can describe something that is vital and essential, or something that is judgmental and negative.\n\nSynonyms: judgmental, fault-finding, crucial, vital, essential.\n",
+        "exampleA": "The patient's condition is critical, and requires immediate attention.",
+        "exampleB": "Understanding the nuances of the law is critical for a lawyer.",
+        "exampleC": "He played a critical role in the success of the project.",
+        "status": ""
+    },
+    {
+        "id": "37b66e68-5489-44ba-9997-e173f5d7829a",
+        "word": "deplete",
+        "persian": "تهی کردن، به ته رسانیدن",
+        "definition": "\"Deplete\" means to reduce or exhaust the quantity or supply of something, often a resource or asset, to a significant extent. It implies a decrease in abundance or availability.\n\nSynonyms: exhaust, consume, diminish, drain, use up.\n",
+        "exampleA": "Salmon populations have been\t severely depleted.",
+        "exampleB": "Overfishing can deplete fish populations to dangerously low levels.",
+        "exampleC": "The intense heat will quickly deplete our water supply.",
+        "status": "seen"
+    },
+    {
+        "id": "82df1d32-269e-4585-8435-90d8739659e5",
+        "word": "diminish",
+        "persian": "کلمه \"diminish\" در فارسی می‌تواند به صورت‌های مختلفی ترجمه شود، از جمله: کاهش یافتن، کم شدن، تقلیل یافتن، کم کردن، کاستن. انتخاب دقیق‌ترین معادل بستگی به متن و مفهوم مورد نظر دارد.\n",
+        "definition": "To diminish means to make or become less; to reduce in size, importance, or intensity. It implies a gradual reduction rather than a sudden disappearance.\nSynonyms: decrease, lessen, reduce, dwindle, abate\n",
+        "exampleA": "The heavy rain started to diminish after a few hours.",
+        "exampleB": "His enthusiasm for the project began to diminish as he faced more challenges.",
+        "exampleC": "Eating less sugar can help diminish the risk of health problems.",
+        "status": ""
+    },
+    {
+        "id": "776233ca-dc21-4974-9af1-56f093843ce6",
+        "word": "discharge",
+        "persian": "مرخص کردن، ترشح کردن، آزاد کردن مواد شیمیایی در جایی",
+        "definition": "\"Discharge\" refers to the act of releasing or allowing something to leave a confined space or state. It can apply to various contexts, such as releasing a substance (like fluid or electricity), dismissing someone from a job or obligation, or firing a weapon. It generally signifies a letting go or a termination of something.\n\nSynonyms: release, expel, dismiss, fire, unleash.\n",
+        "exampleA": "The patient was given instructions upon discharge from the hospital.",
+        "exampleB": "The company decided to discharge the employee due to poor performance.",
+        "exampleC": "The river's discharge into the ocean creates a rich ecosystem.",
+        "status": "learned"
+    },
+    {
+        "id": "1e932686-c49a-4a26-a1af-83c51f48f1ca",
+        "word": "disposable",
+        "persian": "\"یک‌بارمصرف\" یا \"دور انداختنی\" معادل‌های مناسبی برای کلمه \"disposable\" هستند.\n",
+        "definition": "\"Disposable\" refers to something designed to be used only once or for a short period and then thrown away. It emphasizes convenience and often low cost, but also carries implications about waste and environmental impact.\n\nSynonyms: throwaway, single-use, expendable, consumable.\n",
+        "exampleA": "The restaurant used disposable plates and cutlery to minimize cleanup.",
+        "exampleB": "Many people are concerned about the environmental impact of disposable products.",
+        "exampleC": "He considered his relationship with her to be entirely disposable.",
+        "status": ""
+    },
+    {
+        "id": "a9dcd69e-4db5-44c0-b3d9-0a190531ad5b",
+        "word": "drastic",
+        "persian": "\"Drastic\" بسته به متن می‌تونه به فارسی به «شدید»، «اساسی»، «قاطع»، «بنیادی» یا «فوری» ترجمه بشه.\n",
+        "definition": "extreme and sudden",
+        "exampleA": "Drastic changes\t are needed if environmental catastrophe is to be avoided.",
+        "exampleB": "The company took drastic measures to avoid bankruptcy.",
+        "exampleC": "Cutting off all communication seemed like a drastic response.",
+        "status": "seen"
+    },
+    {
+        "id": "1608fb8e-ccf4-4b1e-9484-51eddb913c6f",
+        "word": "dwindle",
+        "persian": "\"Dwindle\" در فارسی می‌تواند به معنی \"کاهش یافتن\"، \"کم شدن تدریجی\"، \"تحلیل رفتن\" یا \"کوچک شدن\" باشد. انتخاب دقیق‌ترین معادل بستگی به متن و شرایط دارد.\n",
+        "definition": "\"Dwindle\" means to gradually decrease in size, amount, or strength over a period of time. It suggests a slow and steady reduction rather than a sudden disappearance. Think of a once plentiful resource slowly becoming scarce.\n\nSynonyms: diminish, decrease, shrink, lessen, wane.\n",
+        "exampleA": "The crowd began to dwindle as the rain started to fall.",
+        "exampleB": "My savings started to dwindle after the unexpected car repair.",
+        "exampleC": "Her hope began to dwindle as the search continued without success.",
+        "status": ""
+    },
+    {
+        "id": "ab431d0b-4d03-4b34-ac9a-a2e4e9be7c78",
+        "word": "eco-friendly",
+        "persian": "سازگار با محیط زیست",
+        "definition": "\"Eco-friendly\" describes products, practices, or lifestyles that minimize harm to the environment. It encompasses efforts to reduce pollution, conserve resources, and protect ecosystems, ultimately aiming for a more sustainable relationship between humans and the planet.\n\nSynonyms: Environmentally friendly, green, sustainable, earth-friendly.\n",
+        "exampleA": "Many consumers are actively seeking eco-friendly products to reduce their environmental impact.",
+        "exampleB": "The company is committed to using eco-friendly packaging for all of its new products.",
+        "exampleC": "Switching to eco-friendly cleaning supplies can make a big difference in your home.",
+        "status": "learned"
+    },
+    {
+        "id": "c6a39b62-9785-4635-8ba1-fe80653b530b",
+        "word": "effective",
+        "persian": "\"مؤثر\" یا \"کارآمد\" بهترین معادل‌ها برای \"effective\" هستند. بسته به متن، می‌توان از کلماتی مانند \"نتیجه‌بخش\"، \"کارساز\" یا \"مفید\" هم استفاده کرد.\n",
+        "definition": "\"Effective\" means producing a desired or intended result; it signifies that something achieves its purpose successfully. It implies that actions, methods, or tools are capable of yielding the intended outcome and fulfilling their function.\n\nSynonyms: successful, productive, efficient, potent, efficacious.\n",
+        "exampleA": "The new marketing strategy proved to be highly effective in boosting sales.",
+        "exampleB": "Regular exercise is an effective way to maintain a healthy weight.",
+        "exampleC": "A well-written resume is an effective tool for landing job interviews.",
+        "status": ""
+    },
+    {
+        "id": "287239d4-5193-417a-a65f-123a2c16addd",
+        "word": "efficient",
+        "persian": "\"Efficient\" در فارسی می‌تواند به صورت‌های مختلفی ترجمه شود، اما رایج‌ترین و مناسب‌ترین ترجمه‌ها عبارتند از: کارآمد، بهینه، موثر.\n",
+        "definition": "\"Efficient\" means achieving maximum productivity with minimum wasted effort or expense. It describes a process, person, or system that operates effectively and economically, accomplishing a desired outcome with the least amount of resources like time, energy, or money.\n\nSynonyms: effective, productive, streamlined, resourceful, optimized.\n",
+        "exampleA": "The new engine design is much more efficient than the old one.",
+        "exampleB": "She developed an efficient system for managing her time.",
+        "exampleC": "Using public transportation is an efficient way to commute.",
+        "status": ""
+    },
+    {
+        "id": "fbb4fa08-fd2c-46ae-ab2c-002000b3ab7e",
+        "word": "electricity",
+        "persian": "\"الکتریسیته\" به فارسی یعنی \"برق\".\n",
+        "definition": "Electricity is a form of energy resulting from the existence and flow of charged particles (electrons or ions), producing phenomena like light, heat, and power. It is a fundamental force of nature and the backbone of modern technology, used to operate countless devices from light bulbs to computers.\n\nSynonyms: electric power, current, voltage, charge.\n",
+        "exampleA": "The city experienced a power outage due to a surge in electricity demand.",
+        "exampleB": "Solar panels are an increasingly popular method for generating electricity.",
+        "exampleC": "Be careful when working with electricity to avoid getting shocked.",
+        "status": ""
+    },
+    {
+        "id": "4aa3c8e1-d9ba-4cde-9aa3-b7b1a7f0426b",
+        "word": "emissions",
+        "persian": "\"Emissions\" در فارسی به معنای «انتشارها»، «آلاینده‌ها» یا «گازهای خروجی» است و معمولاً به خروج گازها یا ذرات آلاینده به هوا اشاره دارد.\n",
+        "definition": "\"Emissions\" refer to the release of substances, typically gases, into the atmosphere. These substances can be harmful pollutants or greenhouse gases that contribute to air pollution, climate change, and other environmental problems. They often come from industrial processes, transportation, and burning fossil fuels.\n\nSynonyms: discharge, release, outflow, fumes, exhaust.\n",
+        "exampleA": "The factory's emissions contribute significantly to air pollution.",
+        "exampleB": "Electric vehicles produce zero tailpipe emissions, making them a cleaner alternative.",
+        "exampleC": "Governments are setting stricter regulations on industrial emissions to combat climate change.",
+        "status": ""
+    },
+    {
+        "id": "eea1de0f-3002-4421-b877-c9d00603b343",
+        "word": "emit",
+        "persian": "\"Emit\" در فارسی معمولاً به صورت \"منتشر کردن\"، \"ساطع کردن\"، \"بیرون دادن\" یا \"تولید کردن\" ترجمه می‌شود. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "to send out gas, heat, light, sound etc",
+        "exampleA": "The machine emits a high-pitched sound when you press the button.",
+        "exampleB": "The power plant continues to emit harmful pollutants into the atmosphere.",
+        "exampleC": "The radio transmitter can emit a strong signal over a long distance.",
+        "status": "seen"
+    },
+    {
+        "id": "e1d9d457-a574-4ec8-b8a0-2c7ac630afac",
+        "word": "energy efficient bulb",
+        "persian": "لامپ کم مصرف",
+        "definition": "An energy-efficient bulb is a type of light bulb designed to produce the same amount of light as a traditional bulb (like an incandescent) while using significantly less electricity. This results in lower energy consumption, reduced electricity bills, and a smaller carbon footprint.\n\nSynonyms: low-energy bulb, energy-saving bulb, efficient light bulb.\n",
+        "exampleA": "We switched to an energy efficient bulb to reduce our electricity bill.",
+        "exampleB": "Replacing incandescent lights with an energy efficient bulb is a simple way to help the environment.",
+        "exampleC": "The store offers a wide variety of energy efficient bulb options, including LEDs and CFLs.",
+        "status": "seen"
+    },
+    {
+        "id": "df587fcb-52c1-4c15-a1bb-c109043566b7",
+        "word": "environmentally friendly",
+        "persian": "\"دوستدار محیط زیست\" یا \"سازگار با محیط زیست\".\n",
+        "definition": "\"Environmentally friendly\" describes products, practices, or behaviors that minimize harm to the environment. It signifies a conscious effort to reduce pollution, conserve natural resources, and avoid contributing to climate change or other ecological problems. The goal is to lessen the negative impact on ecosystems and promote a more sustainable relationship between humans and the planet.\n\nSynonyms: eco-friendly, sustainable, green, nature-friendly, ecologically sound.\n",
+        "exampleA": "Using reusable bags is an environmentally friendly way to reduce plastic waste.",
+        "exampleB": "The company is committed to developing environmentally friendly products.",
+        "exampleC": "Solar panels are an environmentally friendly source of energy.",
+        "status": ""
+    },
+    {
+        "id": "dddccd02-c8a6-484d-89f1-9babc30e278b",
+        "word": "exhaust",
+        "persian": "\"exhaust\" بسته به متن می‌تونه معانی مختلفی داشته باشه. به طور کلی، معانی رایج اون عبارتند از:\n\n   خسته کردن/از پا انداختن: وقتی در مورد شخص یا چیزی صحبت می‌کنیم که انرژی زیادی صرف کرده.\n   اگزوز/دود: وقتی در مورد خروج گازهای ناشی از احتراق در موتور صحبت می‌کنیم.\n   به پایان رساندن/تمام کردن: وقتی در مورد استفاده کامل از چیزی صحبت می‌کنیم.\n",
+        "definition": "To exhaust something means to use it up completely, to drain it of its resources or energy until nothing remains. It can also refer to making someone extremely tired or weary.\nSynonyms: deplete, drain, fatigue, consume, weary.\n",
+        "exampleA": "The car's exhaust pipe was emitting thick, black smoke.",
+        "exampleB": "After running the marathon, I felt completely exhausted.",
+        "exampleC": "We need to exhaust all possible options before making a decision.",
+        "status": ""
+    },
+    {
+        "id": "a8f155d3-a05f-4883-b652-971f2e9144c0",
+        "word": "expend",
+        "persian": "صرف کردن",
+        "definition": "To expend means to use up or consume something, often a resource like money, time, or energy. It implies an outlay or disbursement of something that can be depleted.\n\nSynonyms: use, consume, spend, utilize, exhaust, deplete.\n",
+        "exampleA": "Manufacturers have expended a lot of time and effort trying to improve computer security.",
+        "exampleB": "The company plans to expend considerable resources on research and development.",
+        "exampleC": "We need to expend less energy on worrying about things we cannot control.",
+        "status": "seen"
+    },
+    {
+        "id": "b625d075-e182-469d-bef8-eeade06d072a",
+        "word": "fossil fuel",
+        "persian": "سوخت فسیلی",
+        "definition": "Fossil fuels are combustible geologic deposits of organic matter, formed from decayed plants and animals that have been buried and subjected to heat and pressure in the Earth's crust over millions of years. These fuels are primarily used for energy generation through combustion, releasing stored energy in the form of heat and light, but also producing significant greenhouse gas emissions.\n\nSynonyms: conventional fuel, non-renewable energy source, hydrocarbon fuel.\n",
+        "exampleA": "The burning of fossil fuel is a major contributor to greenhouse gas emissions.",
+        "exampleB": "Many countries are investing in renewable energy sources to reduce their reliance on fossil fuel.",
+        "exampleC": "The debate over the future of energy often centers on the transition away from fossil fuel.",
+        "status": "learned"
+    },
+    {
+        "id": "60c3e5a4-5aa0-4b60-946f-d2c0f69453b5",
+        "word": "fuel",
+        "persian": "\"Fuel\" بسته به متن می‌تونه به فارسی «سوخت»، «مواد سوختی» یا «تامین‌کننده انرژی» ترجمه بشه.\n",
+        "definition": "\"Fuel\" refers to any substance that can be consumed to produce energy, typically through combustion or a chemical reaction. This energy can then be used to power engines, generate heat, or provide electricity. Essentially, it's the source of power for a system.\n\nSynonyms: propellant, energy source, combustible, power source.\n",
+        "exampleA": "The rising cost of fuel is impacting the transportation industry.",
+        "exampleB": "Wood is often used as fuel for campfires.",
+        "exampleC": "The athlete needed fuel to power through the marathon.",
+        "status": ""
+    },
+    {
+        "id": "b2396488-d628-4f29-9486-f866524f019f",
+        "word": "fumes",
+        "persian": "\"Fumes\" بسته به متن می‌تونه به \"بخارات\"، \"دود\"، \"گازهای سمی\" یا \"بوهای تند\" ترجمه بشه. یه ترجمه عمومی‌تر می‌تونه \"گازهای متصاعد شده\" باشه.\n",
+        "definition": "\"Fumes\" refer to smoke, gas, or vapor that smells strongly and can be harmful or unpleasant to breathe. They are often released from chemical reactions, burning materials, or other industrial processes.\n\nSynonyms: Vapors, exhalations, emissions, smoke, gas.\n",
+        "exampleA": "The mechanic warned us about the dangerous fumes coming from the old engine.",
+        "exampleB": "She held her breath to avoid inhaling the paint fumes.",
+        "exampleC": "A cloud of exhaust fumes filled the air after the race.",
+        "status": ""
+    },
+    {
+        "id": "b908c959-af67-414d-99b3-85322f4b8a6b",
+        "word": "gas",
+        "persian": "بسته به زمینه، \"gas\" می‌تونه به معانی مختلفی ترجمه بشه:\n\n   اگر منظور سوخت باشه: گاز\n   اگر منظور حالت ماده باشه: گاز یا حالت گازی\n   اگر منظور درد معده باشه: نفخ یا گاز معده\n   به عنوان فعل (gas up): بنزین زدن یا سوخت گیری\n",
+        "definition": "\"Gas\" has multiple meanings. In everyday language, it refers to a state of matter characterized by its ability to expand freely to fill any available space. It's a substance that's neither solid nor liquid, like the air we breathe. Alternatively, \"gas\" can also mean gasoline, a fuel used in vehicles.\n\nSynonyms: vapor, fumes, petrol, fuel.\n",
+        "exampleA": "The car ran out of gas on the highway.",
+        "exampleB": "Natural gas is a common fuel source for heating homes.",
+        "exampleC": "She was overcome by the smell of gas.",
+        "status": ""
+    },
+    {
+        "id": "c1136914-2e53-4921-8859-75e8e30146c2",
+        "word": "greenhouse gas",
+        "persian": "«گاز گلخانه‌ای» ترجمهٔ فارسی عبارت \"greenhouse gas\" است.\n",
+        "definition": "A greenhouse gas is a gas that absorbs and emits radiant energy within the thermal infrared range, causing the greenhouse effect. This process traps heat in the Earth's atmosphere, leading to a warming effect on the planet's surface. Key greenhouse gases include carbon dioxide, methane, nitrous oxide, and fluorinated gases.\n\nSynonyms: Climate-forcing gas, heat-trapping gas.\n",
+        "exampleA": "The burning of fossil fuels is a major contributor to greenhouse gas emissions.",
+        "exampleB": "Reducing our carbon footprint is essential to mitigating the impact of greenhouse gas.",
+        "exampleC": "Scientists are studying the effects of greenhouse gas on global temperatures.",
+        "status": ""
+    },
+    {
+        "id": "4b23dd16-f807-4990-8d01-2cbb623d02d4",
+        "word": "hazard",
+        "persian": "مخاطره، خطر بالقوه",
+        "definition": "A hazard is something that has the potential to cause harm or negative effects. It can be a substance, object, action, or condition that could lead to injury, illness, damage to property, or environmental harm. Essentially, it's a source of danger or risk.\n\nSynonyms: danger, peril, risk, threat, jeopardy.\n",
+        "exampleA": "Polluted water sources are a hazard to wildlife.",
+        "exampleB": "The construction site presented many safety hazards.",
+        "exampleC": "Smoking is a serious health hazard.",
+        "status": "seen"
+    },
+    {
+        "id": "a0925353-1df1-4680-8197-f0fb719aafcc",
+        "word": "hybrid",
+        "persian": "خودرو هیبریدی( برقی بنزینی)ه",
+        "definition": "A hybrid is something that is a combination of two or more different things. It blends the qualities or characteristics of its components, creating something new and often improved. Think of it as a mix-and-match approach that results in a unified entity with diverse origins.\n\nSynonyms: mixture, blend, composite, crossbreed, fusion.\n",
+        "exampleA": "The company developed a hybrid approach combining traditional methods with innovative technologies.",
+        "exampleB": "She drives a hybrid car to reduce her carbon footprint.",
+        "exampleC": "This breed of dog is a hybrid, resulting in unique characteristics.",
+        "status": "learned"
+    },
+    {
+        "id": "25633852-c59d-46db-aec7-98354b935bb2",
+        "word": "hydrogen",
+        "persian": "هیدروژن به فارسی «هیدروژن» یا «آب‌ساز» ترجمه می‌شود.\n",
+        "definition": "Hydrogen is the simplest and most abundant element in the universe. It is a colorless, odorless, and highly flammable gas with the atomic symbol H and atomic number 1. It is a fundamental building block of water and organic compounds, playing a crucial role in many chemical reactions and energy production processes.\n\nSynonyms: Protium (for its most common isotope), H2, Dihydrogen\n",
+        "exampleA": "Water is composed of hydrogen and oxygen.",
+        "exampleB": "Hydrogen is the lightest and most abundant element in the universe.",
+        "exampleC": "Scientists are exploring hydrogen as a clean energy source.",
+        "status": ""
+    },
+    {
+        "id": "740f99a6-9d52-4e9f-bc1e-046cbf99392d",
+        "word": "limit",
+        "persian": "\"Limit\" در فارسی می‌تواند بسته به متن، معانی مختلفی داشته باشد. رایج‌ترین ترجمه‌ها عبارتند از: محدودیت، حد، مرز.\n",
+        "definition": "A limit defines a boundary, constraint, or the maximum extent to which something can go or exist. It represents a point beyond which something either cannot or is not allowed to proceed. It can refer to physical quantities, abstract concepts, or permissible actions.\nSynonyms: restriction, boundary, constraint, threshold, ceiling.\n",
+        "exampleA": "There is a limit to how much I can tolerate.",
+        "exampleB": "We need to limit spending to stay within our budget.",
+        "exampleC": "The speed limit on this road is 55 miles per hour.",
+        "status": ""
+    },
+    {
+        "id": "1d03de6b-6351-452d-8847-3a9ce09b87db",
+        "word": "maintain",
+        "persian": "\"Maintain\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها عبارتند از: \"نگهداری کردن\"، \"حفظ کردن\"، \"پایدار نگه داشتن\" یا \"ادامه دادن\".\n",
+        "definition": "To maintain something means to keep it in good condition or working order, often by regularly checking and repairing it. It implies preventing decline or preserving a particular state. It can also mean to continue or preserve a certain situation or feeling.\n\nSynonyms: preserve, uphold, sustain, conserve, retain.\n",
+        "exampleA": "It's important to maintain a healthy diet and exercise regularly.",
+        "exampleB": "The museum staff works hard to maintain the artifacts in pristine condition.",
+        "exampleC": "The company aims to maintain its market share despite increased competition.",
+        "status": ""
+    },
+    {
+        "id": "d83dc016-49be-4e5e-b0d5-167c057085c0",
+        "word": "myth",
+        "persian": "\"Myth\" در فارسی معمولاً به عنوان \"افسانه\"، \"اسطوره\" یا \"روایت اساطیری\" ترجمه می‌شود. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد، اما هر سه گزینه به داستان‌ها و باورهای سنتی و اغلب غیرواقعی اشاره دارند که در فرهنگ‌ها ریشه دوانده‌اند.\n",
+        "definition": "a commonly believed but false idea",
+        "exampleA": "The story of Icarus is a well-known Greek myth.",
+        "exampleB": "It's a common myth that all spiders are dangerous.",
+        "exampleC": "He debunked the myth surrounding the company's success.",
+        "status": "learned"
+    },
+    {
+        "id": "9761bc10-b647-448c-b5e4-39c53130f51b",
+        "word": "nuclear",
+        "persian": "معنی \"هسته‌ای\" یا \"اتمی\" رو می‌ده.\n",
+        "definition": "\"Nuclear\" generally refers to anything relating to the nucleus of an atom, which is the central core containing protons and neutrons. More broadly, it's often used to describe processes, technologies, or weapons involving the energy released from nuclear reactions, such as nuclear fission or nuclear fusion. This energy release is incredibly powerful, making nuclear technology both a potent source of power and a destructive force.\n\nSynonyms: Atomic, fission-based, thermonuclear.\n",
+        "exampleA": "The debate over nuclear energy is complex and multifaceted.",
+        "exampleB": "A nuclear family typically consists of two parents and their children.",
+        "exampleC": "The threat of nuclear war has loomed large in global politics for decades.",
+        "status": ""
+    },
+    {
+        "id": "39a7a434-9257-4171-ad51-f466bbc6f2e7",
+        "word": "offset",
+        "persian": "جبران کردن، خنثی کردن",
+        "definition": "\"Offset\" means to counteract or balance the effect of something, typically a negative impact, with a compensating action or element. It essentially involves neutralizing a problem by creating an equivalent or opposite effect.\nSynonyms: counteract, compensate, balance, neutralize, negate.\n",
+        "exampleA": "The architect used an offset to create a more visually interesting facade.",
+        "exampleB": "We need to offset our carbon emissions by planting more trees.",
+        "exampleC": "The printer has a setting to offset the text from the edge of the page.",
+        "status": "seen"
+    },
+    {
+        "id": "1a205a73-791b-4e36-818d-bbe611052cca",
+        "word": "outweigh",
+        "persian": "بر چیزی چربیدن، مهمتر بودن از",
+        "definition": "To outweigh something means to be more important, significant, or influential than it. It suggests a greater value, effect, or impact compared to something else, often leading to one thing being favored or chosen over the other.\n\nSynonyms: exceed, surpass, override, eclipse, overshadow, prevail.\n",
+        "exampleA": "The benefits of this treatment far outweigh any risks.",
+        "exampleB": "The benefits of exercise outweigh the risks.",
+        "exampleC": "In this case, the potential rewards outweigh the initial investment.",
+        "status": "seen"
+    },
+    {
+        "id": "e6f6b851-1afe-4db8-9792-4c6768f903ea",
+        "word": "petrol",
+        "persian": "بسته به بافتار، \"petrol\" می‌تونه به فارسی «بنزین» یا «نفت» ترجمه بشه. در بیشتر موارد، منظور از \"petrol\" همون بنزینه که برای سوخت خودروها استفاده می‌شه.\n",
+        "definition": "\"Petrol\" is a common term, primarily used in British English, for gasoline, a fuel derived from crude oil that is used to power internal combustion engines in vehicles and other machines. It's a flammable liquid consisting of hydrocarbons and various additives to enhance performance and reduce engine wear.\nSynonyms: gasoline, gas, fuel, benzine, motorgas.\n",
+        "exampleA": "The price of petrol has increased dramatically in recent weeks.",
+        "exampleB": "I need to stop at the petrol station to fill up the car.",
+        "exampleC": "He siphoned petrol from the parked car.",
+        "status": ""
+    },
+    {
+        "id": "1427292b-af9f-4d7e-afec-6baad8744868",
+        "word": "petroleum",
+        "persian": "نفت",
+        "definition": "Petroleum, also known as crude oil, is a naturally occurring, flammable liquid found beneath the Earth's surface. It's a complex mixture of hydrocarbons (mostly alkanes, cycloalkanes, and aromatic hydrocarbons) and other organic compounds. Petroleum is a vital raw material for a wide range of products, including fuels like gasoline and kerosene, plastics, and various other chemicals. It is extracted through drilling and refining processes.\n\nSynonyms: crude oil, oil, black gold, fossil fuel\n",
+        "exampleA": "The price of petroleum significantly impacts the cost of transportation.",
+        "exampleB": "Many everyday products are derived from petroleum, including plastics and synthetic fabrics.",
+        "exampleC": "Concerns about climate change are driving the search for alternatives to petroleum-based fuels.",
+        "status": "learned"
+    },
+    {
+        "id": "ff965863-06dd-4ce6-8aaa-825390e9d150",
+        "word": "preserve",
+        "persian": "محافظت کردن، باقی نگه داشتن",
+        "definition": "To preserve means to keep something safe from harm or decay, maintaining its original condition or value over time. It involves protecting and safeguarding something for future use or enjoyment.\n\nSynonyms: Conserve, protect, maintain, safeguard, uphold.\n",
+        "exampleA": "to preserve the environment",
+        "exampleB": "The museum works hard to preserve ancient artifacts.",
+        "exampleC": "We should all strive to preserve natural resources for future generations.",
+        "status": "seen"
+    },
+    {
+        "id": "64ed1fad-602d-4e50-b9bf-2a9b10a1246a",
+        "word": "readily",
+        "persian": "به راحتی، به سادگی",
+        "definition": "\"Readily\" means easily and without hesitation or resistance. It suggests willingness and quickness in action or availability. It implies something can be done or obtained without difficulty.\n\nSynonyms: easily, willingly, promptly, freely, voluntarily, gladly.\n",
+        "exampleA": "He readily agreed to help.",
+        "exampleB": "The information was readily available online.",
+        "exampleC": "She readily agreed to help with the project.",
+        "status": "seen"
+    },
+    {
+        "id": "ffb5a06f-f52e-4251-9d5c-9b5bade92953",
+        "word": "rechargeable",
+        "persian": "قابل شارژ مجدد",
+        "definition": "\"Rechargeable\" describes something, typically a battery, that can be restored to a fully charged state after being discharged, allowing it to be used again and again. It avoids the need for continuous replacement, making it more sustainable and cost-effective in the long run.\n\nSynonyms: replenishable, reusable, restorable, renewable.\n",
+        "exampleA": "She bought a rechargeable battery for her camera.",
+        "exampleB": "The cordless vacuum cleaner is rechargeable and easy to use.",
+        "exampleC": "We need to find a rechargeable light for camping.",
+        "status": "learned"
+    },
+    {
+        "id": "4f1f9765-2f59-4ca2-9d94-a93c6de37e06",
+        "word": "renewable",
+        "persian": "تجدید شدنی",
+        "definition": "\"Renewable\" refers to a resource or energy source that is naturally replenished on a human timescale, meaning it is not depleted when used. These resources can be used repeatedly without causing a significant reduction in their availability. The concept is crucial for sustainable living and reducing our reliance on finite resources like fossil fuels.\n\nSynonyms: sustainable, inexhaustible, replenishable.\n",
+        "exampleA": "Solar energy is a key component of a renewable energy future.",
+        "exampleB": "The company is investing heavily in renewable resources such as wind and hydro power.",
+        "exampleC": "Switching to renewable sources is crucial for reducing our carbon footprint.",
+        "status": "learned"
+    },
+    {
+        "id": "7e835f84-4c13-4a9d-bf50-e650dce0fd1e",
+        "word": "resources",
+        "persian": "بسته به متن، \"resources\" می‌تونه به منابع، امکانات، دارایی‌ها یا ذخایر ترجمه بشه.\n",
+        "definition": "\"Resources\" refer to anything that can be used to create something, fulfill a need, or achieve a goal. These can be tangible items like raw materials, equipment, or money, or intangible assets like skills, knowledge, time, or relationships. Effectively managing and utilizing resources is crucial for success in various aspects of life and business.\n\nSynonyms: assets, supplies, materials, capital, means\n",
+        "exampleA": "The company's success depends on efficient allocation of resources.",
+        "exampleB": "We need to conserve our natural resources for future generations.",
+        "exampleC": "The library provides valuable resources for students and researchers.",
+        "status": ""
+    },
+    {
+        "id": "99766d3d-3927-425f-9359-0389e369631a",
+        "word": "retain",
+        "persian": "حفظ کردن، در خود نگه داشتن",
+        "definition": "To retain something means to keep possession of it or to continue to have it. It implies holding onto something, whether it's a physical object, a skill, information, or even a position. The word suggests a conscious effort to maintain or preserve what one has.\n\nSynonyms: keep, maintain, preserve, hold, remember\n",
+        "exampleA": "The company decided to retain all of its employees despite the economic downturn.",
+        "exampleB": "This type of soil is known to retain water very well.",
+        "exampleC": "He struggled to retain information from the lecture, finding it difficult to focus.",
+        "status": "seen"
+    },
+    {
+        "id": "2bace9d5-f259-4f54-8032-94390116fe55",
+        "word": "solar",
+        "persian": "\"Solar\" در فارسی معمولاً به صورت «خورشیدی» ترجمه می‌شود که به معنای مرتبط با خورشید یا انرژی خورشیدی است.\n",
+        "definition": "\"Solar\" fundamentally relates to the sun. It describes anything derived from or pertaining to the sun, most commonly its energy or light. For example, solar panels capture sunlight and convert it into electricity.\n\nSynonyms: sun-related, heliacal, sunlike, radiant.\n",
+        "exampleA": "The company invested heavily in solar energy.",
+        "exampleB": "We installed solar panels on our roof to reduce our electricity bill.",
+        "exampleC": "Scientists are exploring new and efficient solar cell technologies.",
+        "status": ""
+    },
+    {
+        "id": "b779c859-b118-4822-b845-1f4477463fae",
+        "word": "tidy up",
+        "persian": "مرتب کردن منزل",
+        "definition": "\"Tidy up\" means to make a place or thing neat and organized by removing clutter and putting things in their proper place. It implies a process of cleaning and arranging to achieve a more presentable and orderly state.\n\nSynonyms: clean up, straighten up, neaten, organize.\n",
+        "exampleA": "Please tidy up your room before dinner.",
+        "exampleB": "We need to tidy up the office before the clients arrive.",
+        "exampleC": "I'm going to tidy up a bit before I relax.",
+        "status": "learned"
+    },
+    {
+        "id": "41b9a860-c2bb-4eb6-adf7-3b4d60dc2cb2",
+        "word": "tumble dryer",
+        "persian": "خشک کن البسه",
+        "definition": "A tumble dryer is a household appliance that removes moisture from clothes and other textiles by tumbling them in a heated drum while air is circulated. This process dries the items quickly, making it a convenient alternative to air drying.\n\nSynonyms: clothes dryer, spin dryer, drying machine\n",
+        "exampleA": "I put the wet clothes in the tumble dryer.",
+        "exampleB": "The laundry room has a washing machine and a tumble dryer.",
+        "exampleC": "She prefers to hang her clothes outside instead of using the tumble dryer.",
+        "status": "seen"
+    },
+    {
+        "id": "2167688c-ddc4-403d-9775-fd656dfcb97c",
+        "word": "turbine",
+        "persian": "توربین",
+        "definition": "A turbine is a rotary mechanical device that extracts energy from a fluid flow (liquid or gas) and converts it into useful work. This work can then be used to generate electricity, power machinery, or propel a vehicle. Essentially, it acts like a rotating engine powered by the movement of a fluid.\n\nSynonyms: rotary engine, turbomachine, rotor, impeller (sometimes used in a specific context).\n",
+        "exampleA": "The wind turbine spun rapidly in the strong breeze.",
+        "exampleB": "Engineers inspected the turbine blades for any signs of wear and tear.",
+        "exampleC": "Hydroelectric dams use turbines to convert the energy of moving water into electricity.",
+        "status": "learned"
+    },
+    {
+        "id": "f106e534-e1ae-4034-b6db-8d0ff281887c",
+        "word": "unleaded (petrol)",
+        "persian": "\"بنزین بدون سرب\" یا \"بنزین سوپر\"\n",
+        "definition": "Unleaded petrol refers to gasoline that does not contain lead additives. Lead was previously added to petrol as an octane booster to improve engine performance and reduce knocking, but due to its harmful environmental and health effects, it was phased out and replaced with alternative octane enhancers.\n\nSynonyms: Lead-free petrol, regular petrol, unleaded gasoline.\n",
+        "exampleA": "The car requires unleaded petrol to run efficiently.",
+        "exampleB": "Is unleaded petrol cheaper at this station?",
+        "exampleC": "We only sell unleaded petrol; we don't stock diesel.",
+        "status": ""
+    },
+    {
+        "id": "66ba55e5-be35-42e6-8858-ce849c6afbf8",
+        "word": "unleaded petrol",
+        "persian": "lead-free petrol، بنزین بدون سرب",
+        "definition": "Unleaded petrol is gasoline that does not contain lead additives. Lead was previously added to petrol to increase its octane rating and reduce engine knocking, but it was phased out due to its harmful effects on human health and the environment. Today, unleaded petrol is the standard type of gasoline used in most vehicles.\n\nSynonyms: Petrol without lead, gasoline without lead, regular gasoline.\n",
+        "exampleA": "The car requires unleaded petrol, so don't put diesel in it.",
+        "exampleB": "Prices for unleaded petrol have risen sharply in recent weeks.",
+        "exampleC": "He filled the tank with unleaded petrol at the self-service station.",
+        "status": "learned"
+    },
+    {
+        "id": "25a4740e-4960-497f-b911-18fe6dfcfb3b",
+        "word": "vehicle",
+        "persian": "معادل‌های فارسی برای \"vehicle\" شامل وسیله نقلیه، خودرو، ماشین، و مرکب هستند که بسته به نوع و کاربرد وسیله مورد نظر، می‌توان از آن‌ها استفاده کرد.\n",
+        "definition": "A vehicle is a means of transport or conveyance, something used to carry people or goods from one place to another. This typically refers to motorized devices like cars, trucks, buses, or trains, but can also encompass non-motorized options like bicycles or even conceptual carriers such as a metaphor used in writing.\n\nSynonyms: conveyance, transport, automobile, machine, car.\n",
+        "exampleA": "The vehicle was parked illegally.",
+        "exampleB": "They escaped in a stolen vehicle.",
+        "exampleC": "Maintenance is essential for the longevity of any vehicle.",
+        "status": ""
+    },
+    {
+        "id": "85a55f51-62da-4e6e-8249-4cf0e776b626",
+        "word": "waste",
+        "persian": "هدر دادن",
+        "definition": "\"Waste\" refers to any substance or object that is unwanted, unusable, or discarded after its primary use is finished. It encompasses materials that are no longer valuable to the producer or owner and are typically disposed of or managed. It can also describe the act of using something carelessly or extravagantly without necessity.\n\nSynonyms: refuse, garbage, trash, debris, scrap, excess.\n",
+        "exampleA": "Don't waste your time on things that don't matter.",
+        "exampleB": "The factory's waste pollutes the nearby river.",
+        "exampleC": "We need to find a way to reduce food waste.",
+        "status": "learned"
+    }
+]

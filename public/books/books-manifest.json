@@ -1,0 +1,174 @@
+{
+  "books": [
+    {
+      "name": "cambridge-vocabulary-for-ielts",
+      "displayName": "Cambridge Vocabulary for IELTS",
+      "icon": "📚",
+      "sessions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "name": "Focus-on-ielts-longman",
+      "displayName": "Focus on IELTS - Longman",
+      "icon": "📖",
+      "sessions": [
+        3,
+        5,
+        7,
+        9
+      ]
+    },
+    {
+      "name": "1800-toefl-essential-vocabulary_-tel_-alienankidecks",
+      "displayName": "1800 TOEFL Essential Vocabulary",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "1800-toefl-essential-vocabulary_-tel_-alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "2500-gre_tel_alienankidecks",
+      "displayName": "2500 GRE",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "2500-gre_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "400-must-have-words-toefl_tel_alienankidecks",
+      "displayName": "400 Must Have Words TOEFL",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "400-must-have-words-toefl_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "504-absolutely-essential-words_tel_alienankidecks",
+      "displayName": "504 Absolutely Essential Words",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "504-absolutely-essential-words_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "advanced-english-c1-c2_tel_alienankidecks",
+      "displayName": "Advanced English (C1, C2)",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "advanced-english-c1-c2_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "barrons-essential-words-for-ielts_tel_alienankidecks",
+      "displayName": "Barron's Essential Words For IELTS",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "barrons-essential-words-for-ielts_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "barrons-1100-word-you-need-to-know-alienankidecks",
+      "displayName": "Barrons 1100 Word You Need to Know",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "barrons-1100-word-you-need-to-know-alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "cambridge_english_vocabulary_for_ielts_advanced_tel_alienankidecks",
+      "displayName": "Cambridge English Vocabulary for IELTS Advanced",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "cambridge_english_vocabulary_for_ielts_advanced_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "longman-dictionary-collocations_tel_alienankidecks",
+      "displayName": "Longman Dictionary - Collocations",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "longman-dictionary-collocations_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "magoosh-gre-flashcards-alienankidecks",
+      "displayName": "Magoosh GRE Flashcards",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "magoosh-gre-flashcards-alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "oxford-word-skills-advanced-alienankidecks",
+      "displayName": "Oxford Word Skills Advanced",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "oxford-word-skills-advanced-alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "oxford-word-skills-intermediate-alienankidecks",
+      "displayName": "Oxford Word Skills Intermediate",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "oxford-word-skills-intermediate-alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    },
+    {
+      "name": "top-101-high-frequency-gre-words_tel_alienankidecks",
+      "displayName": "Top 101 High Frequency GRE Words",
+      "icon": "📚",
+      "format": "apkg",
+      "fileName": "top-101-high-frequency-gre-words_tel_alienankidecks.apkg",
+      "sessions": [
+        "Full"
+      ]
+    }
+  ]
+}

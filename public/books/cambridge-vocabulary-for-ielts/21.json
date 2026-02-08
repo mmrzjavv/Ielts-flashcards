@@ -1,0 +1,332 @@
+[
+    {
+        "id": "f598ca42-6b76-42f6-ac43-0afa941a890d",
+        "word": "advancement",
+        "persian": "پیشرفت و ترقی",
+        "definition": "\"Advancement\" refers to progress or improvement in a particular field, skill, or situation. It signifies moving forward from a previous state to a more developed, successful, or elevated position. This can encompass personal growth, career progression, or societal development.\n\nSynonyms: progress, development, upgrade, furtherance, promotion.\n",
+        "exampleA": "All she was interested in was the advancement of her own career.",
+        "exampleB": "Her hard work and dedication led to a significant advancement in her career.",
+        "exampleC": "The company invested heavily in research and development to ensure technological advancement.",
+        "status": "learned"
+    },
+    {
+        "id": "1617e23f-f624-4103-a78b-03adb6bad7fe",
+        "word": "approachable",
+        "persian": "\"Approachable\" بسته به context می‌تونه به معانی مختلفی ترجمه بشه، اما به طور کلی یعنی \"در دسترس\"، \"مهربان و صمیمی\" یا \"قابل تعامل\". مثلاً میشه گفت یه آدم approachable یعنی \"خوش‌برخورد\" یا \"دسترسی بهش آسونه\".\n",
+        "definition": "friendly and easy to talk to",
+        "exampleA": "The professor was approachable and always willing to help students.",
+        "exampleB": "Her friendly smile made her seem very approachable.",
+        "exampleC": "We need to make the application process more approachable for new users.",
+        "status": "learned"
+    },
+    {
+        "id": "1c71af1b-2bfd-4458-addb-95a9b28112b6",
+        "word": "assessment",
+        "persian": "ارزیابی",
+        "definition": "Assessment is the process of gathering and interpreting information about student learning, performance, or understanding. It involves collecting evidence through various methods to determine what students know, understand, and can do, typically for the purpose of providing feedback, assigning grades, or making instructional decisions.\n\nSynonyms: evaluation, appraisal, measurement, judgment, analysis\n",
+        "exampleA": "fair assessment",
+        "exampleB": "The teacher gave a comprehensive assessment of the student's progress.",
+        "exampleC": "A thorough risk assessment is needed before starting the project.",
+        "status": "learned"
+    },
+    {
+        "id": "dff01283-ba67-4a51-b28c-d97c345de1d6",
+        "word": "assumption",
+        "persian": "فرض",
+        "definition": "An assumption is a belief or idea that is taken for granted to be true, often without proof or verification. It's a starting point for reasoning, planning, or decision-making, and it can be conscious or unconscious. Assumptions can be helpful to simplify complex situations but can also lead to errors if the underlying belief proves to be false.\n\nSynonyms: Presumption, supposition, conjecture, hypothesis, belief.\n",
+        "exampleA": "Her entire argument rested on the assumption that everyone shared her values.",
+        "exampleB": "The company operated under the assumption that the economy would continue to grow.",
+        "exampleC": "Before proceeding, let's examine the underlying assumptions of this model.",
+        "status": "seen"
+    },
+    {
+        "id": "38fb084d-c025-4dba-be83-3e678e209bbf",
+        "word": "be consistent with sth",
+        "persian": "با چیزی همخوان بودن",
+        "definition": "To \"be consistent with something\" means to align with, agree with, or not contradict that thing. It implies a logical coherence or compatibility between two or more elements. If an action, belief, or statement is consistent with something else, it means it follows logically from it and doesn't create a conflict or discrepancy.\n\nSynonyms: align with, correspond to, accord with, harmonize with, be in agreement with.\n",
+        "exampleA": "Her actions must be consistent with her words if she wants to be taken seriously.",
+        "exampleB": "The company's environmental policies need to be consistent with international standards.",
+        "exampleC": "Your answer should be consistent with the information provided in the text.",
+        "status": "seen"
+    },
+    {
+        "id": "1273006e-c6dd-43f4-9be8-8350b0e83238",
+        "word": "be of benefit to sb",
+        "persian": "به نفع کسی بودن / برای کسی مفید بودن.\n",
+        "definition": "be useful to someone",
+        "exampleA": "The new training program will be of benefit to all employees.",
+        "exampleB": "A healthy diet can be of benefit to your overall well-being.",
+        "exampleC": "Volunteering in the community can be of benefit to both yourself and others.",
+        "status": "learned"
+    },
+    {
+        "id": "7f56cbeb-efea-4c6a-9d6a-816ad7518460",
+        "word": "changeable",
+        "persian": "متغیر، قابل تغییر",
+        "definition": "\"Changeable\" describes something or someone that is prone to alterations, instability, or fluctuation. It implies a lack of fixity and a tendency to be easily influenced or transformed.\n\nSynonyms: variable, mutable, adaptable, fickle, erratic\n",
+        "exampleA": "The weather in April is notoriously changeable.",
+        "exampleB": "Her mood was quite changeable, making it difficult to predict her reaction.",
+        "exampleC": "The software's settings are highly changeable, allowing for customization.",
+        "status": "learned"
+    },
+    {
+        "id": "32cf4e50-993d-4ff5-b897-68ad77b43fa0",
+        "word": "consistency",
+        "persian": "ثبات قدم، همخوانی، یکسانی، قوام مایعات",
+        "definition": "Consistency refers to the quality of being reliable and unchanging in behavior, actions, or principles. It implies adhering to the same patterns and standards over time, resulting in predictability and dependability. In essence, it means being the same, no matter what.\n\nSynonyms: uniformity, steadfastness, reliability, regularity, predictability.\n",
+        "exampleA": "The team's success was due to their consistency in training and execution.",
+        "exampleB": "Maintaining consistency in branding is crucial for building a strong identity.",
+        "exampleC": "For optimal results, ensure consistency in your workout routine.",
+        "status": "learned"
+    },
+    {
+        "id": "b84a2ada-610c-4e9d-9e4b-8cd39a3205a4",
+        "word": "conveyor belt",
+        "persian": "نوار نقاله",
+        "definition": "A conveyor belt is a continuous moving belt used to transport objects or materials from one point to another, often within a manufacturing, distribution, or processing facility. It's a fundamental component of automated material handling, allowing for efficient and consistent movement of goods, saving time and labor.\n\nSynonyms: assembly line, transport belt, moving belt, belt conveyor.\n",
+        "exampleA": "The packages moved steadily along the conveyor belt.",
+        "exampleB": "He works at the factory, monitoring items on the conveyor belt.",
+        "exampleC": "The airport uses a conveyor belt to transport luggage.",
+        "status": "seen"
+    },
+    {
+        "id": "eed807d6-d70f-446d-9e66-67a87448cb2a",
+        "word": "disinterested",
+        "persian": "بی غرض",
+        "definition": "\"Disinterested\" means impartial and unbiased, lacking any personal stake or motive in a particular outcome. It implies a fair and objective perspective, free from any preconceived notions or personal gain. Essentially, someone who is disinterested doesn't have a dog in the fight.\n\nSynonyms: impartial, unbiased, neutral, objective, detached.\n",
+        "exampleA": "a disinterested observer/judgment",
+        "exampleB": "The judge remained disinterested throughout the trial, ensuring a fair verdict.",
+        "exampleC": "A disinterested observer is crucial for gathering objective data in scientific research.",
+        "status": "learned"
+    },
+    {
+        "id": "76b3700f-d97e-47c3-b312-83a2bfea9280",
+        "word": "disorganised",
+        "persian": "نابسامان، بی برنامه",
+        "definition": "\"Disorganised\" means lacking order or planning; it describes a state of being chaotic, messy, and inefficient. Someone who is disorganised might struggle to keep track of their belongings, meet deadlines, or follow a logical sequence of actions. It implies a lack of structure that hinders effectiveness.\n\nSynonyms: chaotic, messy, unsystematic, disordered, jumbled.\n",
+        "exampleA": "The whole conference was totally disorganized - nobody knew what they were supposed to be doing.",
+        "exampleB": "The office was disorganised, with papers strewn across every surface.",
+        "exampleC": "Her thoughts were disorganised, making it difficult to focus on the task at hand.",
+        "status": "learned"
+    },
+    {
+        "id": "5191955b-e93c-468a-99d2-34e6bac1ded3",
+        "word": "dissimilar (to)",
+        "persian": "غیرمشابه",
+        "definition": "\"Dissimilar (to)\" means not alike or different from something else. It emphasizes a lack of resemblance or similarity between two or more things. It implies a degree of contrast or distinction.\n\nSynonyms: unlike, different, distinct, contrasting, disparate.\n",
+        "exampleA": "The new house is not dissimilar (= is similar) to our old one, except that it's a bit bigger.",
+        "exampleB": "Her artistic style is dissimilar to any I have seen before.",
+        "exampleC": "While they are siblings, their personalities are quite dissimilar to each other.",
+        "status": "learned"
+    },
+    {
+        "id": "107b310e-0f45-465c-bd6e-6a51f309f9ed",
+        "word": "distribution",
+        "persian": "توزیع",
+        "definition": "Distribution refers to the act of sharing or dispersing something, whether it be resources, goods, information, or responsibilities, among a group or across an area. It's the process of making something available to those who need or want it, and it often involves logistics, planning, and a system for allocation.\n\nSynonyms: Allocation, disbursement, delivery, spread, circulation.\n",
+        "exampleA": "distribution of goods between people/ distribution costs",
+        "exampleB": "The distribution of wealth in the country is highly unequal.",
+        "exampleC": "We are responsible for the distribution of the leaflets throughout the neighborhood.",
+        "status": "learned"
+    },
+    {
+        "id": "6ee42814-5875-4680-b2e5-ef22bc4b5de7",
+        "word": "environmentalist",
+        "persian": "طرفدارحفظ منابع طبیعی",
+        "definition": "An environmentalist is someone who is concerned about and advocates for the protection of the natural environment. They believe in preserving ecosystems, mitigating pollution, and promoting sustainable practices to safeguard the planet for current and future generations. This concern often translates into action, whether through advocacy, conservation, research, or lifestyle choices that minimize their environmental impact.\n\nSynonyms: Conservationist, ecologist, nature lover, green advocate\n",
+        "exampleA": "The environmentalist dedicated their life to protecting endangered species.",
+        "exampleB": "As an environmentalist, she advocates for sustainable practices in her community.",
+        "exampleC": "The company's new policies were praised by environmentalists for their commitment to reducing carbon emissions.",
+        "status": "learned"
+    },
+    {
+        "id": "6595567d-4be9-4c70-a19f-41803e536d4c",
+        "word": "environmentally friendly",
+        "persian": "\"Environmentally friendly\" را می‌توان به صورت «سازگار با محیط زیست»، «دوستدار محیط زیست» یا «بی‌ضرر برای محیط زیست» ترجمه کرد. انتخاب بهترین گزینه بستگی به بافت جمله دارد.\n",
+        "definition": "eco-friendly",
+        "exampleA": "Using reusable shopping bags is an environmentally friendly practice.",
+        "exampleB": "The company is committed to developing environmentally friendly technologies.",
+        "exampleC": "Electric cars are considered an environmentally friendly alternative to gasoline-powered vehicles.",
+        "status": "learned"
+    },
+    {
+        "id": "f0f2f3b8-ae88-4ce6-bc84-d7a3cd6bae82",
+        "word": "establishment",
+        "persian": "تاسیس",
+        "definition": "The \"establishment\" refers to a dominant group or elite that holds power and influence in a society, often resistant to change and seen as upholding the status quo. It encompasses institutions, systems, and individuals who control key areas such as politics, business, culture, and media.\n\nSynonyms: ruling class, power structure, elite, bureaucracy, old guard\n",
+        "exampleA": "Since its establishment two years ago, the advice centre has seen over 500 people a week.",
+        "exampleB": "The old church is a respected establishment in the community.",
+        "exampleC": "He challenged the establishment's views on climate change.",
+        "status": "learned"
+    },
+    {
+        "id": "6f9543b0-5e41-4738-9343-c38962bb8dec",
+        "word": "impatient",
+        "persian": "بی تاب، بی صبر",
+        "definition": "\"Impatient\" describes a state of being restless, agitated, or unwilling to tolerate delays or obstacles. It suggests a lack of patience and a desire for things to happen more quickly or easily than they are. Someone who is impatient may show frustration, annoyance, or even anger when faced with waiting or difficulties.\n\nSynonyms: restless, eager, anxious, intolerant, hasty.\n",
+        "exampleA": "The impatient driver honked his horn repeatedly.",
+        "exampleB": "She tapped her foot impatiently while waiting for the results.",
+        "exampleC": "He grew impatient with the slow pace of the project.",
+        "status": "learned"
+    },
+    {
+        "id": "9466f423-b7af-4025-9233-cca4c4491e9f",
+        "word": "interpretation",
+        "persian": "تفسیر",
+        "definition": "Interpretation is the act of explaining or understanding the meaning of something, be it a text, a piece of art, a dream, or even someone's behavior. It involves analyzing and giving one's own understanding or explanation of what is being presented, often filling in gaps or providing context.\n\nSynonyms: explanation, understanding, analysis, elucidation, construction.\n",
+        "exampleA": "The rules are vague and open to interpretation.",
+        "exampleB": "The artist's interpretation of the scene was quite abstract.",
+        "exampleC": "The legal interpretation of the contract is still under debate.",
+        "status": "learned"
+    },
+    {
+        "id": "537677b2-eb3b-486e-a9c1-2f2d80219f4d",
+        "word": "misinterpret",
+        "persian": "تفسیر اشتباه کردن",
+        "definition": "To misinterpret means to understand or explain something incorrectly; to get the wrong meaning from it. It implies a failure in comprehension, often leading to a misunderstanding or an incorrect conclusion.\n\nSynonyms: misunderstand, misconstrue, misread, distort, misconceive.\n",
+        "exampleA": "It's easy to misinterpret his sarcasm as genuine anger.",
+        "exampleB": "I think you misinterpret my silence as agreement when I'm actually just listening.",
+        "exampleC": "She worried that people would misinterpret her motives for volunteering.",
+        "status": "learned"
+    },
+    {
+        "id": "d5f0c353-3bcd-42e4-bb73-e931b515b1d9",
+        "word": "misrepresent",
+        "persian": "بد جلوه دادن",
+        "definition": "To misrepresent means to give a false or misleading account of something, often intentionally, in order to create a particular impression. It involves distorting facts, ideas, or images to deceive or mislead others about the true nature of the subject.\n\nSynonyms: distort, falsify, misstate, twist, pervert\n",
+        "exampleA": "The company was accused of trying to misrepresent the safety of its product.",
+        "exampleB": "He felt that the article tended to misrepresent his views on the matter.",
+        "exampleC": "The defendant argued that the witness deliberately tried to misrepresent the facts.",
+        "status": "learned"
+    },
+    {
+        "id": "7c8b58f4-8f3f-4467-946b-4d0d5d79049d",
+        "word": "reassess",
+        "persian": "مورد ارزیابی مجدد قرار دادن",
+        "definition": "To \"reassess\" means to evaluate or consider something again, typically after a period of time or when new information becomes available. It involves taking a fresh look at a situation, decision, or value judgment to determine if the original assessment is still valid or if adjustments need to be made.\n\nSynonyms: re-evaluate, reconsider, review, revise, reappraise.\n",
+        "exampleA": "After receiving the negative feedback, the team decided to reassess their strategy.",
+        "exampleB": "The company needs to reassess its marketing plan to better target its audience.",
+        "exampleC": "It's important to reassess your priorities periodically to ensure you're on the right track.",
+        "status": "seen"
+    },
+    {
+        "id": "2da38545-ea91-4a15-9029-1f6244bd96d4",
+        "word": "reinterpret",
+        "persian": "دوباره تفسیر کردن",
+        "definition": "To reinterpret means to understand or explain something in a new or different way, often challenging the previously accepted understanding. It involves looking at something familiar with fresh eyes and offering a revised explanation or interpretation.\n\nSynonyms: reframe, reconceptualize, revise, rework, redefine.\n",
+        "exampleA": "The art critic decided to reinterpret the artist's work as a commentary on social injustice.",
+        "exampleB": "Historians are constantly working to reinterpret the past based on new evidence.",
+        "exampleC": "The software engineer had to reinterpret the error message to understand the actual problem.",
+        "status": "seen"
+    },
+    {
+        "id": "d973be3a-de16-41c2-8dcd-9eb86c6f1d4c",
+        "word": "representation",
+        "persian": "نمایندگی، نماد",
+        "definition": "Representation refers to the act of speaking or acting on behalf of someone else or a group of people, or the way something is depicted or portrayed. It involves accurately reflecting their views, interests, or characteristics, or presenting a particular image or version of something. It can also denote standing in for someone or something else.\n\nSynonyms: depiction, portrayal, advocacy, embodiment, delegation.\n",
+        "exampleA": "Can he afford legal representation?/ This statue is a representation of Hercules.",
+        "exampleB": "The artist's painting offered a unique representation of the urban landscape.",
+        "exampleC": "The lawyer argued that the defendant deserved better representation in court.",
+        "status": "learned"
+    },
+    {
+        "id": "fcc1057c-8fbb-441c-98bf-fa26c80cc491",
+        "word": "roller",
+        "persian": "غلتک",
+        "definition": "A \"roller\" is a cylindrical object that rotates around an axis, used to move, flatten, or apply something. It facilitates smooth movement or even distribution across a surface.\n\nSynonyms: cylinder, drum, wheel, caster.\n",
+        "exampleA": "She used a paint roller to quickly cover the wall.",
+        "exampleB": "The baker expertly flattened the dough with a rolling pin, which is a type of roller.",
+        "exampleC": "He was a high roller, known for gambling large sums of money.",
+        "status": "seen"
+    },
+    {
+        "id": "e650f365-a9b7-4687-91ce-61a2acf59c5e",
+        "word": "truly",
+        "persian": "بسته به متن، کلمه \"truly\" رو میشه به شکل‌های مختلفی ترجمه کرد:\n\n   به‌راستی/واقعاً: برای تاکید بر حقیقت یک موضوع.\n   صادقانه/از صمیم قلب: برای بیان احساسات یا نظرات.\n   به‌طور کامل/به‌تمامی: برای تاکید بر جامعیت یک موضوع.\n   خالصانه: اگر منظور ابراز احساسات پاک و بی ریا باشد.\n\nبهترین ترجمه به زمینه‌ای که کلمه در آن استفاده شده بستگی دارد.\n",
+        "definition": "really",
+        "exampleA": "This is a truly remarkable achievement.",
+        "exampleB": "I am truly grateful for your help.",
+        "exampleC": "The painting is truly a masterpiece.",
+        "status": "learned"
+    },
+    {
+        "id": "7533b4ea-e069-46e1-b542-c790629490ab",
+        "word": "unapproachable",
+        "persian": "\"دست‌نیافتنی\"، \"غیرقابل دسترس\"، \"دشوارگیر\" یا \"خوددار\" بسته به متن.\n",
+        "definition": "Someone who is unapproachable has an unfriendly and slightly frightening manner that makes other people less likely to speak to them",
+        "exampleA": "His stern demeanor made him seem unapproachable.",
+        "exampleB": "The high prices made the luxury items unapproachable for many.",
+        "exampleC": "The complex jargon in the report made it unapproachable to the average reader.",
+        "status": "learned"
+    },
+    {
+        "id": "6114aaff-79c1-4dd8-b960-699c815df0a8",
+        "word": "unassessable",
+        "persian": "غیر قابل ارزیابی",
+        "definition": "\"Unassessable\" means something that cannot be evaluated, judged, or measured in a meaningful or accurate way. It implies a lack of criteria, information, or tools necessary to form a valid assessment. It essentially describes something beyond comprehension or evaluation.\n\nSynonyms: immeasurable, incalculable, indeterminable, unascertainable, unevaluable.\n",
+        "exampleA": "The damage to the antique vase was unassessable without expert analysis.",
+        "exampleB": "The true impact of the policy change on the local economy is currently unassessable.",
+        "exampleC": "Due to the conflicting data, the risk factor was deemed unassessable.",
+        "status": "learned"
+    },
+    {
+        "id": "d8e27ee3-e2f0-482c-ba38-48be3b53e0e9",
+        "word": "unidentifiable",
+        "persian": "غیر قابل شناسایی",
+        "definition": "\"Unidentifiable\" describes something that cannot be recognized, determined, or understood. It signifies a lack of clarity or distinctive features that would allow for identification. It suggests that whatever is being described is unknown or incapable of being placed into a known category.\n\nSynonyms: unrecognizable, indistinguishable, obscure, anonymous, cryptic.\n",
+        "exampleA": "the identity of the corpse remained unidentifiable.",
+        "exampleB": "The object in the sky was completely unidentifiable.",
+        "exampleC": "His motives remained unidentifiable, even after careful analysis.",
+        "status": "learned"
+    },
+    {
+        "id": "b4c1580d-7ffa-4c8c-8979-783ae367aaea",
+        "word": "uninterested",
+        "persian": "بی علاقه",
+        "definition": "\"Uninterested\" describes a state of lacking curiosity, concern, or enthusiasm about something. It implies a lack of engagement or a feeling that something is not worth one's attention.\n\nSynonyms: apathetic, bored, indifferent, detached, unconcerned.\n",
+        "exampleA": "The cat seemed uninterested in the toy mouse.",
+        "exampleB": "She was completely uninterested in his long story about work.",
+        "exampleC": "His speech was met with an uninterested silence from the audience.",
+        "status": "learned"
+    },
+    {
+        "id": "6d68b007-97e1-4d6e-ad8a-4758ac2805af",
+        "word": "unnoticed",
+        "persian": "بدون اینکه مورد توجه قرار بگبرد",
+        "definition": "\"Unnoticed\" means to pass by or exist without being observed, acknowledged, or attracting attention. It describes something that goes unseen or unrecognized.\n\nSynonyms: undetected, overlooked, disregarded, invisible.\n",
+        "exampleA": "Elsa stood unnoticed at the edge of the crowd.",
+        "exampleB": "The cat slipped unnoticed into the garden.",
+        "exampleC": "Her talent went largely unnoticed during her early career.",
+        "status": "learned"
+    },
+    {
+        "id": "2b8387d6-c164-4f19-8844-38b46d39dded",
+        "word": "unplugged",
+        "persian": "«آنپلاگد» بسته به متن می‌تونه معانی مختلفی داشته باشه، اما معمولاً به معنی «بدون برق»، «آکوستیک» (در مورد موسیقی) یا «قطع شده از اینترنت/دنیای دیجیتال» ترجمه می‌شه.\n",
+        "definition": "if a group of musicians perform unplugged, they perform without electric instruments",
+        "exampleA": "After a stressful week, I spent the weekend unplugged, enjoying nature and quiet.",
+        "exampleB": "The band performed an unplugged set, showcasing their raw talent.",
+        "exampleC": "To improve my sleep, I try to stay unplugged from electronic devices for an hour before bed.",
+        "status": "learned"
+    },
+    {
+        "id": "b3dd1f18-cac1-4589-8bb8-b8b0da3fd152",
+        "word": "variation",
+        "persian": "\"تغییر\"، \"تنوع\"، \"اختلاف\" یا \"تغییرات\" بسته به متن و مفهوم مورد نظر.\n",
+        "definition": "changes",
+        "exampleA": "The recipe allows for some variation in the amount of spice you use.",
+        "exampleB": "There is considerable variation in temperature throughout the day.",
+        "exampleC": "Genetic variation is essential for a species to adapt to changing environments.",
+        "status": "learned"
+    },
+    {
+        "id": "1ef957ce-54dc-4576-bcea-8e684e1278e7",
+        "word": "worrying",
+        "persian": "نگران کننده",
+        "definition": "\"Worrying\" describes the state of feeling anxious, troubled, or uneasy about potential problems or negative outcomes, often involving persistent thoughts and feelings of apprehension. It's a state of mental distress caused by perceived threats or uncertainties.\n\nSynonyms: Anxious, apprehensive, concerned, distressed, uneasy\n",
+        "exampleA": "It's a very worrying situation.",
+        "exampleB": "The worrying trend of declining test scores prompted a review of the curriculum.",
+        "exampleC": "Her persistent cough was worrying, so she decided to see a doctor.",
+        "status": "learned"
+    }
+]

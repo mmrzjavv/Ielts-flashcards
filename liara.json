@@ -1,0 +1,9 @@
+{
+"app":"flash-card",
+"port":80,
+"platform":"next",
+"build":{
+"location":"iran"
+},
+"disks":[]
+}

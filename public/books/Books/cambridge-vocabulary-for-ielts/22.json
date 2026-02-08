@@ -1,0 +1,292 @@
+[
+    {
+        "id": "ca7baea4-708a-423d-80a1-af5a0705d967",
+        "word": "bounce back",
+        "persian": "\"Bounce back\" در فارسی معمولاً به معنی \"بهبود یافتن سریع\"، \"دوباره سرپا شدن\" یا \"به حالت اولیه برگشتن\" ترجمه می‌شود، به ویژه پس از یک مشکل یا شکست.\n",
+        "definition": "recover",
+        "exampleA": "After a difficult loss, the team managed to bounce back and win the championship.",
+        "exampleB": "The economy is expected to bounce back strongly after the recession.",
+        "exampleC": "She's incredibly resilient and always manages to bounce back from setbacks.",
+        "status": "learned"
+    },
+    {
+        "id": "f8f4068d-0125-4dc4-ad8b-fecdde4a247e",
+        "word": "considerable fall",
+        "persian": "کاهش قابل توجه",
+        "definition": "\"Considerable fall\" indicates a significant decrease or decline in something, whether it's quantity, value, or level. It suggests the drop is noteworthy and substantial, not just a minor fluctuation.\n\nSynonyms: Substantial decline, significant drop, marked decrease, sharp downturn.\n",
+        "exampleA": "The stock market experienced a considerable fall after the disappointing earnings report.",
+        "exampleB": "There was a considerable fall in temperature overnight, bringing frost to the fields.",
+        "exampleC": "The old building suffered a considerable fall of plaster from the ceiling.",
+        "status": "learned"
+    },
+    {
+        "id": "e94ce1cf-1c75-4b09-b60f-7785b96d9f97",
+        "word": "constant change",
+        "persian": "تغییر ثابت",
+        "definition": "\"Constant change\" refers to a state of continuous flux or alteration where things are never static or remaining the same for long. It implies a dynamic environment characterized by frequent modifications, updates, or shifts in circumstances, conditions, or perspectives.\n\nSynonyms: perpetual motion, ongoing evolution, continuous transformation, relentless alteration, endless variation.\n",
+        "exampleA": "The technology industry is characterized by constant change, requiring continuous learning and adaptation.",
+        "exampleB": "Living in a big city means experiencing constant change in the environment and the people around you.",
+        "exampleC": "Her moods were subject to constant change, making it difficult to predict her reactions.",
+        "status": "learned"
+    },
+    {
+        "id": "115e2cff-ae70-42ca-9978-9c1b156c3e5a",
+        "word": "downward trend",
+        "persian": "سیر نزولی",
+        "definition": "A downward trend signifies a pattern or tendency for something to decrease, decline, or diminish over time. It indicates a negative progression or movement in a downward direction, often represented visually on a graph. Synonyms: decline, decrease, fall, slump, downturn.\n",
+        "exampleA": "The company's profits have been showing a downward trend for the past quarter.",
+        "exampleB": "Analysts predict a downward trend in housing prices over the next year.",
+        "exampleC": "Despite efforts to improve, the unemployment rate continues on a downward trend.",
+        "status": "learned"
+    },
+    {
+        "id": "caa30f1b-5d3d-4c58-8533-519ec8db45bb",
+        "word": "dramatic rise",
+        "persian": "بالا رفتن چشمگیر",
+        "definition": "\"Dramatic rise\" signifies a sudden, significant, and often unexpected increase or surge in something, usually quantifiable like numbers, statistics, or prices. It implies that the increase is substantial enough to be noticeable and potentially impactful.\nSynonyms: surge, spike, sharp increase, exponential growth, steep ascent.\n",
+        "exampleA": "The company experienced a dramatic rise in profits this quarter.",
+        "exampleB": "There has been a dramatic rise in the number of students applying to the university.",
+        "exampleC": "The meteorologist predicted a dramatic rise in temperature over the weekend.",
+        "status": "learned"
+    },
+    {
+        "id": "10d6abb4-4d4b-4eea-93e8-2db4adfb6dca",
+        "word": "drop",
+        "persian": "افت کردن",
+        "definition": "\"Drop\" is a versatile word generally meaning to fall or let something fall vertically. It can refer to a liquid falling in small amounts, a decrease in level or amount, or the act of releasing something. Figuratively, it can also mean to abandon or cease contact with someone or something.\n\nSynonyms: fall, descend, release, abandon, lower.\n",
+        "exampleA": "Be careful not to drop the vase.",
+        "exampleB": "The company decided to drop the product line.",
+        "exampleC": "I felt a sudden drop in temperature as I entered the room.",
+        "status": "learned"
+    },
+    {
+        "id": "fa580be3-1d24-4b35-b956-8b3ceb19a4a9",
+        "word": "erratic fluctuations",
+        "persian": "نوسانات بی نظم و بی قاعده",
+        "definition": "\"Erratic fluctuations\" refers to unpredictable and irregular changes or variations in something, like a price, mood, or measurement. It implies that these shifts lack a consistent pattern and are often seemingly random.\n\nSynonyms: Unstable variations, inconsistent swings, sporadic shifts, unpredictable oscillations\n",
+        "exampleA": "The stock price experienced erratic fluctuations throughout the day, making it difficult to predict its closing value.",
+        "exampleB": "The patient's blood pressure showed erratic fluctuations, requiring close monitoring by the medical staff.",
+        "exampleC": "Due to the unreliable power source, the lights displayed erratic fluctuations in brightness.",
+        "status": "seen"
+    },
+    {
+        "id": "ef62b947-1e1a-4eb9-bc9e-e31d4e5f87d4",
+        "word": "fall",
+        "persian": "کاهش یافتن، زمین خوردن",
+        "definition": "\"Fall\" refers to the season between summer and winter, characterized by the dropping of leaves from trees, cooler temperatures, and the harvesting of crops. It's often associated with a sense of transition and change as nature prepares for the dormancy of winter.\n\nSynonyms: Autumn, harvest time, the fall season.\n",
+        "exampleA": "Average temperatures fell by ten degrees.",
+        "exampleB": "I love to watch the leaves fall from the trees in autumn.",
+        "exampleC": "Be careful not to fall on the icy sidewalk.",
+        "status": "learned"
+    },
+    {
+        "id": "7c57b5f7-4866-4950-af65-7954b47372c5",
+        "word": "figures",
+        "persian": "ارقام",
+        "definition": "\"Figures\" generally refers to numerical data, often used to represent quantities, statistics, or amounts. It can also refer to diagrams or illustrations used to clarify or represent information visually. Think of it as a quantifiable representation of something.\n\nSynonyms: numbers, statistics, data, amounts, illustrations, diagrams\n",
+        "exampleA": "The sales figures for the last quarter were disappointing.",
+        "exampleB": "He cited several figures to support his argument.",
+        "exampleC": "The detective noticed some suspicious figures lurking in the shadows.",
+        "status": "learned"
+    },
+    {
+        "id": "0e73610d-216f-4b6f-979b-ae3027f402f2",
+        "word": "fixed",
+        "persian": "ثابت و بدون تغییر",
+        "definition": "\"Fixed\" implies something is secured, repaired, or predetermined. It can mean something is firmly in place and unmoving, or that a problem has been resolved and is now functioning correctly. Alternatively, it can also suggest something has been prearranged or manipulated, often dishonestly, to achieve a desired outcome.\n\nSynonyms: repaired, secure, predetermined, rigged, set, mended, resolute.\n",
+        "exampleA": "The mechanic fixed my car in under an hour.",
+        "exampleB": "The price of the software is fixed and cannot be negotiated.",
+        "exampleC": "He fixed his gaze on the horizon, lost in thought.",
+        "status": "learned"
+    },
+    {
+        "id": "ad7ef0c0-f4c6-402f-9118-9ea29754d28d",
+        "word": "fluctuate wildly",
+        "persian": "به شدت نوسان داشتن",
+        "definition": "\"Fluctuate wildly\" describes something that changes irregularly and drastically, swinging between high and low values or states in an unpredictable manner. It suggests a lack of stability and a tendency towards extreme variations.\n\nSynonyms: oscillate erratically, vary sharply, swing dramatically, waver violently, seesaw wildly.\n",
+        "exampleA": "The stock market can fluctuate wildly based on economic news.",
+        "exampleB": "Her emotions tended to fluctuate wildly, making it difficult to predict her reaction.",
+        "exampleC": "The price of gasoline can fluctuate wildly depending on global events.",
+        "status": "learned"
+    },
+    {
+        "id": "6bbcd7fd-9adc-4d55-8bdb-6df333b987ff",
+        "word": "have a (narrow) lead",
+        "persian": "برتری (نزدیکی) داشتن",
+        "definition": "\"Have a (narrow) lead\" means to be slightly ahead of someone or something else in a competition, race, or situation. It indicates that you are in first place, but the margin is small and easily surmountable by the pursuer. Synonyms include: be slightly ahead, be in front by a little, hold a slim advantage, be narrowly winning.\n",
+        "exampleA": "The incumbent party currently have a narrow lead in the polls, but the election is far from decided.",
+        "exampleB": "Our team have a narrow lead going into the final inning, so we need to stay focused and play strong defense.",
+        "exampleC": "Although they have a narrow lead in market share, their competitor's innovative products are quickly gaining traction.",
+        "status": "learned"
+    },
+    {
+        "id": "d4a8d16b-491a-4fe2-a313-367d40db8236",
+        "word": "hover around/about",
+        "persian": "حول یک مقدار خاص شناور و ثابت بودن",
+        "definition": "\"Hover around/about\" means to stay near someone or something, typically without a clear purpose or direction, often creating a feeling of anticipation, nervousness, or watchful attention. It suggests a lingering presence in close proximity.\n\nSynonyms: linger, loiter, hang around, dawdle, circle.\n",
+        "exampleA": "The oil prices are hovering around 100 dollars.",
+        "exampleB": "Butterflies hover around the flowers in the garden.",
+        "exampleC": "Suspiciously, he seemed to hover about the entrance, watching everyone who came in.",
+        "status": "learned"
+    },
+    {
+        "id": "1a719cbd-e600-46ee-9920-c1f611495fdd",
+        "word": "outstrip sth",
+        "persian": "پیش افتادن از، پیشی جستن از",
+        "definition": "\"Outstrip something\" means to exceed or surpass it, often in terms of speed, progress, or achievement. It implies moving ahead of or doing better than something else, leaving it behind in some way.\n\nSynonyms: surpass, exceed, outdo, eclipse, transcend.\n",
+        "exampleA": "Demand for new aircraft production is outstripping supply.",
+        "exampleB": "Demand for the new product is expected to outstrip supply.",
+        "exampleC": "Their economic growth is beginning to outstrip that of neighboring countries.",
+        "status": "seen"
+    },
+    {
+        "id": "9a092253-141f-4385-aefc-0e8f4f146ad9",
+        "word": "plateau",
+        "persian": "\"Plateau\" بسته به زمینه می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها این‌ها هستند:\n\n   فلات: برای اشاره به یک زمین مرتفع و مسطح.\n   سطح: برای اشاره به یک دوره سکون یا عدم پیشرفت در یک فرآیند یا فعالیت.\n   سینی: برای اشاره به یک ظرف تخت که برای حمل غذا یا نوشیدنی استفاده می‌شود.\n",
+        "definition": "if something plateaus, it reaches and then stays at a particular level",
+        "exampleA": "The company's growth plateaued after reaching a certain market saturation.",
+        "exampleB": "After months of intense training, the athlete reached a performance plateau.",
+        "exampleC": "The land in this region is characterized by a vast, arid plateau.",
+        "status": "seen"
+    },
+    {
+        "id": "dddb9fab-203b-4614-a32a-fc7ad53162b5",
+        "word": "plunge",
+        "persian": "سقوط کردن",
+        "definition": "\"Plunge\" describes a sudden and rapid descent, dip, or forceful thrust into something. It often implies a quick and dramatic action, whether literal, like diving into water, or figurative, like experiencing a sharp drop in value.\n\nSynonyms: dive, plummet, dip, descend, submerge\n",
+        "exampleA": "Oil prices have\t plunged to a new low.",
+        "exampleB": "The stock market took a sudden plunge after the disappointing earnings report.",
+        "exampleC": "I took a plunge into the icy water, instantly regretting my decision.",
+        "status": "learned"
+    },
+    {
+        "id": "7988a42d-3de3-47bf-8bef-df29c9958f88",
+        "word": "rapidly",
+        "persian": "به سرعت",
+        "definition": "\"Rapidly\" means something happens or is done with great speed, quickly, and without much delay. It emphasizes the swiftness and velocity of an action or process.\n\nSynonyms: quickly, swiftly, promptly, hastily, expeditiously.\n",
+        "exampleA": "The company's profits increased rapidly after the new marketing campaign.",
+        "exampleB": "The disease spread rapidly through the population, causing widespread panic.",
+        "exampleC": "The chef chopped the vegetables rapidly and efficiently.",
+        "status": "learned"
+    },
+    {
+        "id": "429cab58-b38e-486e-b40c-93856a7ba2dd",
+        "word": "reach a high",
+        "persian": "به بالا رسیدن",
+        "definition": "To \"reach a high\" means to experience a peak or intense level of something, most commonly referring to an elevated emotional state, physical sensation, or performance. It signifies reaching the maximum point of pleasure, excitement, achievement, or ability in a particular context.\n\nSynonyms: peak, climax, top out, culminate, soar\n",
+        "exampleA": "The stock market is expected to reach a high by the end of the year.",
+        "exampleB": "The climber strained every muscle to reach a high point on the cliff face.",
+        "exampleC": "The artist's career didn't reach a high until late in life.",
+        "status": "learned"
+    },
+    {
+        "id": "f1e71c55-5b43-4f55-8f2f-509fc1f2bde2",
+        "word": "reach a low",
+        "persian": "به کف رسیدن",
+        "definition": "To \"reach a low\" means to experience the worst or most difficult point in a situation, feeling, or condition. It signifies hitting rock bottom, facing a nadir, or sinking to the lowest possible ebb. It often implies a turning point, as there's typically nowhere else to go but up after reaching such a state.\n\nSynonyms: hit rock bottom, reach a nadir, hit an all-time low, plumb the depths\n",
+        "exampleA": "The company's stock price reached a low of $5 this week.",
+        "exampleB": "His depression reached a low point after losing his job.",
+        "exampleC": "Our water supply reached a low level due to the drought.",
+        "status": "learned"
+    },
+    {
+        "id": "a946a0de-5f70-46e6-8b67-6eed624b01ab",
+        "word": "remain constant",
+        "persian": "ثابت باقی ماندن",
+        "definition": "\"Remain constant\" means to stay the same, without changing or varying over time. It implies a state of stability and lack of fluctuation in a particular value, condition, or characteristic.\n\nSynonyms: stay consistent, hold steady, persist, maintain.\n",
+        "exampleA": "The speed of light in a vacuum is believed to remain constant.",
+        "exampleB": "Even with fluctuating demand, the price will remain constant for the next quarter.",
+        "exampleC": "To ensure a fair experiment, we need to make sure all other variables remain constant.",
+        "status": "learned"
+    },
+    {
+        "id": "1885a7ba-2289-4350-a1cd-d17f1becb9f7",
+        "word": "remain unchanged",
+        "persian": "بدون تغییر باقی ماندن",
+        "definition": "\"Remain unchanged\" means to stay in the same state or condition; to not be altered, modified, or affected in any way. It implies a lack of transformation or change over a period of time.\n\nSynonyms: stay the same, persist, endure, hold, maintain.\n",
+        "exampleA": "Despite the market fluctuations, the company's core values remain unchanged.",
+        "exampleB": "Even after years of neglect, the inscription on the ancient stone remained unchanged.",
+        "exampleC": "For decades, the small town's charm and character remained unchanged.",
+        "status": "learned"
+    },
+    {
+        "id": "08848698-419d-4fbc-ae24-567a61273714",
+        "word": "rise",
+        "persian": "بالا رفتن، بلند شدن",
+        "definition": "\"Rise\" generally means to move from a lower position to a higher one, whether physically, metaphorically, or in terms of status or power. It signifies an upward movement or advancement.\nSynonyms: ascend, elevate, arise, mount, surge, thrive.\n",
+        "exampleA": "The sun began to rise over the horizon, painting the sky with vibrant colors.",
+        "exampleB": "A wave of anger began to rise within him as he listened to the accusations.",
+        "exampleC": "Investors predicted a significant rise in the company's stock price after the announcement.",
+        "status": "learned"
+    },
+    {
+        "id": "46e2ace7-ad1f-422a-be39-05a07115308c",
+        "word": "sharp",
+        "persian": "تیز و شدید",
+        "definition": "\"Sharp\" has multiple meanings, but generally describes something with a keen edge or point capable of cutting or piercing easily. It can also refer to intelligence and quick-wittedness, or a distinct and noticeable quality. Furthermore, \"sharp\" can describe a precise or clear image, sound, or feeling.\n\nSynonyms: keen, pointed, intelligent, clever, distinct, clear, acute.\n",
+        "exampleA": "The knife was so sharp, it sliced through the tomato with ease.",
+        "exampleB": "Her wit was sharp, and she always had a clever comeback ready.",
+        "exampleC": "The mountain peaks were sharp against the clear blue sky.",
+        "status": "learned"
+    },
+    {
+        "id": "77bc9b73-c970-4c06-8be7-10c7f1a15176",
+        "word": "soar",
+        "persian": "اوج گرفتن",
+        "definition": "\"Soar\" means to fly or rise high in the air, often effortlessly and gracefully. It implies a sense of freedom, triumph, and elevation. Think of an eagle circling high above the mountains.\n\nSynonyms: ascend, rise, fly, climb, escalate, surge.\n",
+        "exampleA": "The eagle watched from above before it would soar to hunt.",
+        "exampleB": "Her spirits began to soar when she heard the good news.",
+        "exampleC": "The company's profits are expected to soar in the coming year.",
+        "status": "learned"
+    },
+    {
+        "id": "305741dc-0a3d-4268-807e-4e9ccf54d800",
+        "word": "steadily",
+        "persian": "به شکل یکنواخت",
+        "definition": "\"Steadily\" means in a constant, regular, and unwavering manner, often implying a consistent pace or degree. It suggests something that continues without sudden or significant changes or interruptions.\n\nSynonyms: consistently, uniformly, regularly, continuously, evenly.\n",
+        "exampleA": "The rain fell steadily throughout the night.",
+        "exampleB": "Her health improved steadily after the surgery.",
+        "exampleC": "The company's profits rose steadily over the past year.",
+        "status": "learned"
+    },
+    {
+        "id": "6f062c3c-1cb4-47ca-b86b-0e84d5005398",
+        "word": "steep",
+        "persian": "با شیب تند",
+        "definition": "\"Steep\" describes something that rises or falls sharply and abruptly, often at a severe angle. It implies a significant change in elevation over a short distance, making it difficult to climb or descend.\nSynonyms: sharp, precipitous, sheer, abrupt, inclined.\n",
+        "exampleA": "The climb to the summit was incredibly steep.",
+        "exampleB": "We watched the tea steep in the hot water.",
+        "exampleC": "The company faced a steep decline in profits this quarter.",
+        "status": "learned"
+    },
+    {
+        "id": "d4c58878-bb5e-472d-90f2-c3b7aeea09cf",
+        "word": "surge up",
+        "persian": "افزایش ناگهانی پیدا کردن",
+        "definition": "\"Surge up\" means to suddenly and powerfully increase or rise. It suggests a rapid and often unexpected movement upward or forward, often associated with strong emotions or forces.\n\nSynonyms: erupt, gush, well up, rise rapidly, surge forward.\n",
+        "exampleA": "A feeling of hope began to surge up within her.",
+        "exampleB": "The crowd began to surge up towards the stage.",
+        "exampleC": "Unexpected emotions can surge up from the subconscious.",
+        "status": "learned"
+    },
+    {
+        "id": "bbf91cc7-3bef-48a0-a801-61465308cebe",
+        "word": "unpredictable",
+        "persian": "غیر قابل پیش بینی",
+        "definition": "\"Unpredictable\" describes something or someone whose behavior or outcome is difficult or impossible to foresee or anticipate with any certainty. It implies a lack of consistent patterns or reliable predictability, making it challenging to plan around.\n\nSynonyms: erratic, capricious, volatile, whimsical, changeable\n",
+        "exampleA": "The stock market has been incredibly unpredictable lately.",
+        "exampleB": "Her reaction was completely unpredictable; I had no idea she would be so angry.",
+        "exampleC": "The weather in the mountains is notoriously unpredictable, so be prepared for anything.",
+        "status": "learned"
+    },
+    {
+        "id": "efe72354-ca58-4549-9eee-bb53065c3e8e",
+        "word": "upward trend",
+        "persian": "سیر صعودی",
+        "definition": "An \"upward trend\" describes a general movement or direction of something, like a price, statistic, or performance metric, moving consistently higher over a period of time. It indicates growth, improvement, or an increase in value.\nSynonyms: positive trend, increasing trend, uptrend, rising trend, growth trend.\n",
+        "exampleA": "The company's profits show an upward trend over the past five years.",
+        "exampleB": "Analysts predict an upward trend in the housing market due to low interest rates.",
+        "exampleC": "There's been a noticeable upward trend in the number of students applying to the university.",
+        "status": "learned"
+    }
+]

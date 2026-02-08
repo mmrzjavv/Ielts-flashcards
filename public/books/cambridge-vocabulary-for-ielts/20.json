@@ -1,0 +1,942 @@
+[
+    {
+        "id": "5b517663-5655-4033-a5fc-2fe256acb2e5",
+        "word": "abstract",
+        "persian": "معنی \"abstract\" بسته به متن میتونه متفاوت باشه، اما رایج‌ترین معادل‌ها در فارسی اینها هستن: انتزاعی، مجرد، چکیده، خلاصه.\n",
+        "definition": "Abstract means not concrete or physical, but rather existing as an idea, concept, or thought, separate from material reality. It often refers to something that is difficult to define or understand clearly due to its lack of tangible form or specific instance.\n\nSynonyms: theoretical, conceptual, intangible, non-concrete, ideal.\n",
+        "exampleA": "The artist is known for his abstract paintings that challenge viewers' perceptions.",
+        "exampleB": "The professor's lecture on quantum physics was quite abstract and difficult to follow.",
+        "exampleC": "Justice, liberty, and equality are abstract concepts that have been debated for centuries.",
+        "status": ""
+    },
+    {
+        "id": "91f29b45-105e-4262-a5af-35960b67438c",
+        "word": "accomplished",
+        "persian": "معنی \"accomplished\" بسته به متن می‌تونه متفاوت باشه، اما در کل به معنی ماهر، باتجربه، کارکشته، موفق، یا به سرانجام رسانده شده هست.\n",
+        "definition": "skilled",
+        "exampleA": "He was accomplished in all the arts.",
+        "exampleB": "She is an accomplished pianist, having won several international competitions.",
+        "exampleC": "After years of hard work, he felt accomplished upon finishing the project.",
+        "status": "learned"
+    },
+    {
+        "id": "aba23a32-1930-4af0-a669-2c1b20a6d18c",
+        "word": "actor",
+        "persian": "بازیگر",
+        "definition": "An actor is a person who portrays a character in a performance, whether it's in a play, film, television show, or other medium. They use their voice, body language, and emotions to bring fictional or historical figures to life and engage with an audience.\n\nSynonyms: performer, player, thespian, artist.\n",
+        "exampleA": "The actor delivered a powerful and moving performance.",
+        "exampleB": "She dreamed of becoming a famous actor and starring in blockbuster films.",
+        "exampleC": "The director worked closely with each actor to develop their character.",
+        "status": "learned"
+    },
+    {
+        "id": "57756c63-a56c-4348-bef7-6d8489a7c771",
+        "word": "actress",
+        "persian": "بازیگر زن",
+        "definition": "An actress is a female performer who portrays a character in a play, film, television show, or other form of entertainment. She uses her talent and skills to bring a character to life through speech, movement, and expression, aiming to engage and entertain an audience.\n\nSynonyms: performer, thespian, entertainer, star, female lead.\n",
+        "exampleA": "The actress received critical acclaim for her portrayal of the complex character.",
+        "exampleB": "She always dreamed of becoming a famous actress.",
+        "exampleC": "The actress stunned on the red carpet in a designer gown.",
+        "status": "learned"
+    },
+    {
+        "id": "4ba0959a-ac20-46f5-9a80-bff338b35809",
+        "word": "aesthetic",
+        "persian": "\"Aesthetic\" در فارسی معمولاً به «زیبایی‌شناسی»، «زیباشناختی»، «هنری» یا «ذوقی» ترجمه می‌شود و به درک و قضاوت در مورد زیبایی و هنر اشاره دارد.\n",
+        "definition": "describes an object or a work of art that shows great beauty",
+        "exampleA": "furniture that is both aesthetic and functional",
+        "exampleB": "The minimalist design of the apartment was very aesthetic.",
+        "exampleC": "She appreciated the aesthetic qualities of the old, weathered building.",
+        "status": "learned"
+    },
+    {
+        "id": "52c8a577-7cf0-407c-b095-1ade514c8e00",
+        "word": "aesthetics",
+        "persian": "زیبایی شناسی",
+        "definition": "Aesthetics refers to the philosophical study of beauty and taste, concerning itself with the nature of art, beauty, and sensory experiences. It explores how we perceive and appreciate things like art, nature, or even everyday objects, and the principles underlying our judgments of what is beautiful, sublime, or pleasing.\n\nSynonyms: art theory, philosophy of beauty, sense of beauty, artistic taste.\n",
+        "exampleA": "The minimalist design prioritizes functionality over aesthetics.",
+        "exampleB": "Her paintings explore the aesthetics of decay and rebirth.",
+        "exampleC": "Different cultures have varying perspectives on beauty and aesthetics.",
+        "status": "learned"
+    },
+    {
+        "id": "51e4950f-22bf-45f3-b9fb-4718121fbc0d",
+        "word": "appreciation",
+        "persian": "قدرشناسی، تقدیر، قدردانی، فهم",
+        "definition": "Appreciation is the act of recognizing and enjoying the good qualities of someone or something. It involves acknowledging value, expressing gratitude, and understanding the significance of a person's efforts, a beautiful object, or a positive experience. It can be shown through words, actions, or simply a feeling of warmth and contentment.\n\nSynonyms: gratitude, thankfulness, recognition, acknowledgement, esteem.\n",
+        "exampleA": "Max has no appreciation of the finer things in life.",
+        "exampleB": "The team showed their appreciation for her hard work with a bonus.",
+        "exampleC": "I have a deep appreciation for the beauty of classical music.",
+        "status": "learned"
+    },
+    {
+        "id": "59de342b-ab06-4f83-94bb-04f185a7b1e3",
+        "word": "artefact",
+        "persian": "\"Artefact\" در فارسی معمولاً به \"دست‌ساخته\"، \"اثر باستانی\"، \"شیء دست‌ساز\" یا \"مصنوع\" ترجمه می‌شود، بسته به بافت جمله.\n",
+        "definition": "An artefact (or artifact) is a human-made object that holds cultural or historical significance, often recovered through archaeological excavation or historical research. It provides insights into past civilizations, technologies, and ways of life.\n\nSynonyms: relic, artifact, antiquity, historical object, artifact\n",
+        "exampleA": "The museum displayed a priceless artefact from the ancient civilization.",
+        "exampleB": "This old coin is a fascinating artefact of a bygone era.",
+        "exampleC": "The archaeologist carefully examined the artefact unearthed at the dig site.",
+        "status": ""
+    },
+    {
+        "id": "d2b55fb8-796d-41f6-ab6f-59d182537abe",
+        "word": "artist",
+        "persian": "هنرمند",
+        "definition": "An artist is someone who creates art, whether visual, auditory, or performance-based. They use their skill and imagination to express ideas, emotions, or experiences through various mediums like painting, sculpture, music, writing, dance, and more. Ultimately, an artist aims to connect with an audience and offer a unique perspective on the world.\n\nSynonyms: creator, performer, artisan, sculptor.\n",
+        "exampleA": "The artist meticulously crafted each brushstroke to capture the essence of the sunset.",
+        "exampleB": "She dreams of becoming a famous artist and showcasing her work in galleries around the world.",
+        "exampleC": "The artist used a variety of textures and colors to create a truly unique and captivating piece.",
+        "status": "learned"
+    },
+    {
+        "id": "ce8fece1-2df9-4a79-b19e-fcbc71aaaedd",
+        "word": "artistic skills",
+        "persian": "مهارتهای هنری",
+        "definition": "\"Artistic skills\" refer to the developed abilities and techniques that allow someone to create, perform, or appreciate works of art. It encompasses a wide range of talents including drawing, painting, sculpting, musical composition, writing, dancing, acting, and other creative expressions that require practice, knowledge, and imagination.\n\nSynonyms: creative talents, artistic abilities, aesthetic skills, expressive capabilities, imaginative gifts.\n",
+        "exampleA": "Her artistic skills shone through in the detailed portrait she painted.",
+        "exampleB": "Developing strong artistic skills requires dedication and practice.",
+        "exampleC": "The company was looking for a graphic designer with exceptional artistic skills.",
+        "status": "learned"
+    },
+    {
+        "id": "9eb87f8c-daf6-4aeb-aef8-63cd54036612",
+        "word": "atmosphere",
+        "persian": "\"atmosphere\" بسته به متن می‌تونه به \"جو\"، \"فضا\"، \"حال و هوا\" یا \"اتمسفر\" ترجمه بشه.\n",
+        "definition": "\"Atmosphere\" refers to the pervading tone or mood of a place, situation, or creative work. It's the feeling you get, the intangible quality that surrounds something and influences how you perceive it. It can be light and airy, dark and oppressive, or anything in between.\n\nSynonyms: mood, ambiance, feeling, aura, climate, environment.\n",
+        "exampleA": "The restaurant had a cozy and inviting atmosphere.",
+        "exampleB": "The political atmosphere in the country is tense.",
+        "exampleC": "We need to create a more positive atmosphere at work.",
+        "status": ""
+    },
+    {
+        "id": "463ad0ad-d24c-4769-8cb5-244c653012de",
+        "word": "audience",
+        "persian": "حضار",
+        "definition": "An audience is a group of people who are gathered together to listen to or watch something, such as a performance, speech, or presentation. They are the intended recipients of the message being conveyed and their presence often provides feedback and shapes the event.\n\nSynonyms: Listeners, spectators, viewers, attendees, public.\n",
+        "exampleA": "The speaker captivated the audience with her compelling story.",
+        "exampleB": "The play was a success, drawing a large and enthusiastic audience each night.",
+        "exampleC": "The comedian tailored his jokes to appeal to a younger audience.",
+        "status": "learned"
+    },
+    {
+        "id": "bfa60ba6-7dfc-45c1-ab20-0973ef2dbe09",
+        "word": "ballerina",
+        "persian": "\"بالرین\" در فارسی به معنای \"رقصنده باله\" یا \"هنرمند رقص باله\" است.\n",
+        "definition": "a female ballet dancer",
+        "exampleA": "The ballerina gracefully leapt across the stage.",
+        "exampleB": "She dreamt of becoming a prima ballerina one day.",
+        "exampleC": "The ballerina's tutu shimmered under the bright lights.",
+        "status": "learned"
+    },
+    {
+        "id": "dbff40b9-fe8e-48d7-8074-93bf66374393",
+        "word": "ballet",
+        "persian": "باله نوعی رقص نمایشی است که در آن حرکات موزون، هماهنگی و ظرافت بدن با موسیقی ترکیب می‌شوند تا داستانی را روایت کنند یا احساسی را بیان نمایند.\n",
+        "definition": "Ballet is a highly technical and stylized form of dance originating in the Italian Renaissance and further developed in France and Russia. It is characterized by graceful movements, precise positions, and ethereal qualities, often telling a story through choreography, music, and costume. Ballet emphasizes lightness, fluidity, and the illusion of defying gravity.\n\nSynonyms: classical dance, dance performance, dance art.\n",
+        "exampleA": "She has been taking ballet lessons since she was five years old.",
+        "exampleB": "The lead dancer's performance in the ballet was breathtaking.",
+        "exampleC": "Many athletes use ballet techniques to improve their balance and flexibility.",
+        "status": ""
+    },
+    {
+        "id": "5dfb02d2-e13b-497d-8d3d-6a60b1f81a91",
+        "word": "burgeoning",
+        "persian": "رو به رشد",
+        "definition": "\"Burgeoning\" means growing or developing rapidly; flourishing. It often describes something that is expanding, thriving, and showing signs of great success or potential.\n\nSynonyms: flourishing, thriving, expanding, developing, prospering.\n",
+        "exampleA": "the burgeoning market for digital cameras",
+        "exampleB": "The burgeoning tech industry is attracting young professionals to the city.",
+        "exampleC": "She nurtured a burgeoning interest in botany, spending hours in the garden.",
+        "status": "learned"
+    },
+    {
+        "id": "dca2dfe5-a846-4a55-bd6d-e2445d35151e",
+        "word": "carving",
+        "persian": "کنده کاری",
+        "definition": "\"Carving\" refers to the act of shaping a material, typically wood, stone, or ivory, by cutting away pieces to create a three-dimensional form or decorative pattern. It involves using sharp tools to remove material and reveal the desired artistic or functional object hidden within.\n\nSynonyms: Sculpting, whittling, chiseling, engraving, modeling.\n",
+        "exampleA": "The artist spent weeks carving the sculpture from a single block of marble.",
+        "exampleB": "We enjoyed carving pumpkins with the kids on Halloween.",
+        "exampleC": "The intricate carving on the wooden door was truly impressive.",
+        "status": "learned"
+    },
+    {
+        "id": "fc2cc0db-e156-48b1-9dd8-1b00e68caef3",
+        "word": "choreograph",
+        "persian": "معنی Choreograph در فارسی به معنای \"طراحی رقص\" یا \"طراحی حرکات موزون\" است.\n",
+        "definition": "to arrange how dancers should move during a performance",
+        "exampleA": "The show is very cleverly choreographed.",
+        "exampleB": "The dancers worked tirelessly to choreograph a stunning ballet performance.",
+        "exampleC": "He helped choreograph the complicated logistics of the fundraising event.",
+        "status": "learned"
+    },
+    {
+        "id": "a709713d-343c-4e21-af75-2157567e59ae",
+        "word": "classical",
+        "persian": "\"کلاسیک\" در فارسی به معنای سنتی، اصیل، برجسته و ماندگار در یک حوزه هنری یا فرهنگی است و معمولاً به آثاری اشاره دارد که ارزش و اعتبار خود را در طول زمان حفظ کرده‌اند.\n",
+        "definition": "\"Classical\" refers to something that is considered a model of excellence, enduring, and of high quality, often associated with ancient Greece and Rome or with a traditional and established style or form. It suggests a standard of beauty, elegance, or skill that has stood the test of time.\n\nSynonyms: archetypal, exemplary, timeless, traditional, standard.\n",
+        "exampleA": "She studied classical piano for over ten years.",
+        "exampleB": "The museum featured a collection of classical sculptures from ancient Greece.",
+        "exampleC": "He preferred classical literature to modern novels.",
+        "status": ""
+    },
+    {
+        "id": "1595a864-58a5-4b57-9b4f-f65c15bf4747",
+        "word": "conception",
+        "persian": "\"Conception\" بسته به متن می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها عبارتند از:\n\n   تصور: به معنی ایده یا برداشت اولیه از چیزی.\n   مفهوم: به معنی درک و فهم یک ایده یا موضوع.\n   بارداری: به معنی آغاز شکل‌گیری جنین.\n",
+        "definition": "idea",
+        "exampleA": "the conception of parliamentary democracy",
+        "exampleB": "The project was brilliant in its conception, but flawed in its execution.",
+        "exampleC": "At what point does life begin, from the moment of conception or later?",
+        "status": "learned"
+    },
+    {
+        "id": "cbb9e02b-a521-405c-a05c-c2c4657e7e41",
+        "word": "concert",
+        "persian": "\"کنسرت\" در فارسی به معنی \"اجرای زندهٔ موسیقی\" است، معمولاً در یک سالن یا فضای بزرگ برای مخاطبان.\n",
+        "definition": "A concert is a live musical performance, typically featuring one or more musicians or singers performing for an audience. It's a gathering where people come together to enjoy and appreciate music in a shared, communal experience.\n\nSynonyms: Gig, show, performance, recital, musical.\n",
+        "exampleA": "I'm really looking forward to the concert next week.",
+        "exampleB": "The concert was so loud that I had to wear earplugs.",
+        "exampleC": "We decided to have a picnic before the outdoor concert.",
+        "status": ""
+    },
+    {
+        "id": "3a733331-42e5-4098-9f5b-74d3e9858413",
+        "word": "crafts",
+        "persian": "معنی \"crafts\" بسته به متن می‌تونه متفاوت باشه، اما معمولاً به معنی \"صنایع دستی\"، \"کارهای هنری دستی\" یا \"مهارت‌های فنی و دستی\" است.\n",
+        "definition": "\"Crafts\" refers to activities involving skill and creativity in making things by hand or using tools. It encompasses a wide range of practices, often resulting in functional or decorative items. These activities emphasize personal expression and the unique touch of the artisan.\n\nSynonyms: handcrafts, arts and crafts, handicraft, artisanship.\n",
+        "exampleA": "She enjoys spending her weekends creating various crafts, from knitting to painting.",
+        "exampleB": "The local market is filled with vendors selling handmade crafts.",
+        "exampleC": "The children made colorful paper crafts in art class.",
+        "status": ""
+    },
+    {
+        "id": "180ed613-7e84-49c7-8cfc-1ccccc4817b1",
+        "word": "create",
+        "persian": "ایجاد کردن، ساختن، خلق کردن یا به وجود آوردن. بسته به متن، یکی از این معانی مناسب‌تر است.\n",
+        "definition": "To create means to bring something into existence that did not exist before, whether it's a physical object, a work of art, an idea, or a solution to a problem. It involves originality, ingenuity, and the transformation of existing materials or concepts into something new and valuable.\n\nSynonyms: invent, originate, generate, produce, fashion.\n",
+        "exampleA": "The artist will create a masterpiece.",
+        "exampleB": "We need to create a budget for the project.",
+        "exampleC": "The chef can create delicious meals from simple ingredients.",
+        "status": ""
+    },
+    {
+        "id": "29585155-b1a6-4bb4-b5fb-6c1f2daa44b3",
+        "word": "creation",
+        "persian": "خلقت، آفرینش",
+        "definition": "\"Creation\" refers to the act of bringing something new into existence, whether it's a tangible object, an idea, or a work of art. It implies originality and the use of skill, imagination, or ingenuity to form something that did not exist before. It can encompass both artistic endeavors and the broader concept of generating or inventing.\n\nSynonyms: origination, generation, innovation, invention, formation.\n",
+        "exampleA": "The artist's latest creation is a stunning sculpture made of recycled materials.",
+        "exampleB": "The creation of the internet has revolutionized communication and information sharing.",
+        "exampleC": "In many cultures, there are myths and legends about the creation of the world.",
+        "status": "learned"
+    },
+    {
+        "id": "2745d995-adc1-4bc1-b65b-a5f63b113521",
+        "word": "creative",
+        "persian": "\"خلاقانه\"، \"نوآورانه\" یا \"آفرینشگر\". بسته به بافت جمله، هر کدام از این‌ها می‌تواند مناسب باشد.\n",
+        "definition": "\"Creative\" describes the ability to generate new and original ideas, make connections between seemingly unrelated things, and approach problems in innovative ways. It involves thinking outside the box and producing something novel and valuable, whether it's an artistic expression, a solution to a problem, or a new product or service.\n\nSynonyms: innovative, imaginative, inventive, resourceful, ingenious.\n",
+        "exampleA": "She is a creative writer with a knack for crafting compelling stories.",
+        "exampleB": "The company needs creative solutions to overcome the current challenges.",
+        "exampleC": "His creative use of color transformed the mundane space into a vibrant work of art.",
+        "status": ""
+    },
+    {
+        "id": "f0290a8e-949c-46fe-9ae2-73b0cb210f33",
+        "word": "cultural",
+        "persian": "\"فرهنگی\" معادل فارسی کلمه \"cultural\" است.\n",
+        "definition": "\"Cultural\" refers to the shared values, beliefs, customs, knowledge, and practices of a group of people, often defined by ethnicity, nationality, or other commonalities. It encompasses everything from art and literature to social norms and traditions, shaping the way people perceive the world and interact with one another.\n\nSynonyms: societal, ethnic, traditional, civilizational, heritage-related.\n",
+        "exampleA": "The city's cultural attractions draw tourists from around the world.",
+        "exampleB": "Understanding different cultural norms is crucial for international business.",
+        "exampleC": "The festival celebrated the rich cultural heritage of the region.",
+        "status": ""
+    },
+    {
+        "id": "587506e1-cf00-4e0f-a427-414a50df8258",
+        "word": "culture",
+        "persian": "«فرهنگ» معادل دقیقی برای واژه \"culture\" است و به مجموعه‌ای از آداب، رسوم، باورها، هنرها و دستاوردهای یک جامعه یا گروه اشاره دارد.\n",
+        "definition": "Culture encompasses the shared values, beliefs, practices, and material objects that characterize a group of people. It's a complex system that shapes their behavior, interactions, and worldview, passed down through generations. This shared heritage defines their identity and differentiates them from other groups.\n\nSynonyms: civilization, heritage, traditions, way of life.\n",
+        "exampleA": "The museum showcased artifacts representing various aspects of the region's culture.",
+        "exampleB": "She immersed herself in the local culture while studying abroad.",
+        "exampleC": "Corporate culture plays a significant role in employee satisfaction and productivity.",
+        "status": ""
+    },
+    {
+        "id": "2d0b9225-0282-4578-a58d-d38df876f223",
+        "word": "depict",
+        "persian": "به تصویر کشیدن",
+        "definition": "\"Depict\" means to represent or portray something, typically through visual means like drawing, painting, or photography, but it can also refer to describing something in words. It's about creating a vivid impression or showing something in a specific way.\n\nSynonyms: illustrate, portray, represent, describe, render.\n",
+        "exampleA": "People were shocked by the advertisement which depicted a woman beating her husband.",
+        "exampleB": "The painting aimed to depict the beauty of the sunset over the ocean.",
+        "exampleC": "The article will depict the challenges faced by small businesses during the pandemic.",
+        "status": "learned"
+    },
+    {
+        "id": "ded9f2c4-ac81-4ba3-b765-03fd90c2b237",
+        "word": "distracting",
+        "persian": "حواس پرت کننده",
+        "definition": "\"Distracting\" describes something that diverts attention from a desired focus or task, pulling your thoughts and efforts away from what you intend to be concentrating on. It can refer to anything from a loud noise to a compelling thought that interferes with concentration and productivity.\n\nSynonyms: disruptive, diverting, attention-grabbing, interfering, unsettling.\n",
+        "exampleA": "Please turn your music down - it's very distracting.",
+        "exampleB": "The loud music was distracting, making it difficult to concentrate on my work.",
+        "exampleC": "His constant fidgeting was distracting to the other students in the class.",
+        "status": "learned"
+    },
+    {
+        "id": "c0520c02-9a86-4ee9-a23d-8898fcfcef5d",
+        "word": "eclectic",
+        "persian": "معادل دقیقی برای \"eclectic\" در فارسی وجود ندارد، اما بسته به متن، می‌توان آن را به صورت‌های زیر ترجمه کرد:\n\n   گزین‌گرا: کسی که از منابع مختلف بهترین‌ها را انتخاب و ترکیب می‌کند.\n   اِنتخابی: کسی که روش یا سبک خاصی را دنبال نمی‌کند و از روش‌های مختلف استفاده می‌کند.\n   متنوع: چیزی که از عناصر مختلف و گوناگونی تشکیل شده است.\n   درآمیخته: ترکیبی از سبک‌ها، ایده‌ها یا سلیقه‌های مختلف.\n",
+        "definition": "deriving ideas, style, or taste from a broad and diverse range of sources",
+        "exampleA": "an eclectic taste in literature",
+        "exampleB": "Her apartment was decorated in an eclectic style, with vintage furniture mixed with modern art.",
+        "exampleC": "The restaurant's menu was eclectic, offering dishes from many different cultures.",
+        "status": "seen"
+    },
+    {
+        "id": "c57d2d05-cf4a-4055-846e-0109e26ed861",
+        "word": "electric",
+        "persian": "معادل فارسی کلمه \"electric\"، «برقی» است.\n",
+        "definition": "\"Electric\" fundamentally means relating to or powered by electricity. However, it can also describe something exciting, stimulating, or charged with intense emotion. Think of a performance that leaves you buzzing with energy or an atmosphere thick with anticipation. Synonyms for the second meaning include: thrilling, electrifying, stimulating, dynamic, and charged.\n",
+        "exampleA": "The city's skyline glowed with electric lights.",
+        "exampleB": "Her performance was electric, captivating the entire audience.",
+        "exampleC": "The new car boasts an electric engine, reducing its carbon footprint.",
+        "status": ""
+    },
+    {
+        "id": "fcc8a031-68f2-4d0b-b831-e9f4e9d25016",
+        "word": "emotion",
+        "persian": "\"Emotion\" در فارسی معمولاً به \"احساس\"، \"هیجان\" یا \"عاطفه\" ترجمه می‌شود. انتخاب دقیق‌ترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "Emotion is a complex psychological state involving subjective experience, physiological response, and behavioral or expressive changes. It's a feeling, such as joy, sadness, anger, fear, or love, that motivates us to act or react to our environment. Emotions shape our perceptions, influence our decisions, and are fundamental to our social interactions.\n\nSynonyms: feeling, sentiment, affect, passion.\n",
+        "exampleA": "Her voice was thick with emotion as she described the reunion.",
+        "exampleB": "The artist captured raw emotion in the sculpture's face.",
+        "exampleC": "It's important to process your emotions in a healthy way.",
+        "status": ""
+    },
+    {
+        "id": "59885d40-cea8-4142-9d2d-9975dc717840",
+        "word": "emotional",
+        "persian": "معادل‌های مختلفی برای \"emotional\" در فارسی وجود دارد، اما با توجه به زمینه می‌توان از این موارد استفاده کرد: عاطفی، احساسی، هیجانی.\n",
+        "definition": "\"Emotional\" describes something that relates to, arises from, or appeals to the emotions. It signifies a state of being characterized by strong feelings, such as happiness, sadness, anger, or fear. It can also refer to something designed to evoke an emotional response in others.\n\nSynonyms: sentimental, passionate, sensitive, heartfelt, fervent.\n",
+        "exampleA": "The movie was so emotional that I cried.",
+        "exampleB": "Her response to the news was surprisingly emotional.",
+        "exampleC": "He struggled to express his emotional state.",
+        "status": ""
+    },
+    {
+        "id": "2d8a9ea1-a779-4329-a04a-29553c7f12d2",
+        "word": "enrich",
+        "persian": "«غنی کردن»، «پر بار کردن»، «ارتقا دادن» و «بهبود بخشیدن» معادل‌های مناسبی برای enrich هستند که با توجه به بافت جمله می‌توان از آن‌ها استفاده کرد.\n",
+        "definition": "\"Enrich\" means to improve the quality or value of something, often by adding something to it. It suggests making something fuller, more meaningful, or more satisfying.\n\nSynonyms: enhance, improve, augment, amplify, develop.\n",
+        "exampleA": "Travel can enrich your understanding of different cultures.",
+        "exampleB": "Adding spices can enrich the flavor of a simple dish.",
+        "exampleC": "Educational programs aim to enrich the lives of underprivileged children.",
+        "status": ""
+    },
+    {
+        "id": "e72296bd-7fc6-4a44-aef7-3afffcade526",
+        "word": "escape",
+        "persian": "فرار کردن",
+        "definition": "Escape means to break free from confinement, danger, or an undesirable situation. It signifies the act of getting away or avoiding something negative. It often implies a desire for freedom, safety, or a better circumstance.\n\nSynonyms: Flee, evade, abscond, liberate oneself, break out.\n",
+        "exampleA": "He narrowly (= only just) escaped a fine.",
+        "exampleB": "The prisoner planned his escape meticulously.",
+        "exampleC": "Sometimes a good book is all I need for a mental escape.",
+        "status": "learned"
+    },
+    {
+        "id": "93b7bc5d-6cdd-4887-b09f-24c3d03d1122",
+        "word": "exhibition",
+        "persian": "\"Exhibition\" در فارسی معمولاً به \"نمایشگاه\" ترجمه می‌شود.\n",
+        "definition": "An exhibition is a public display of works of art, items of interest, or other objects, often held in a museum, gallery, or other venue. It serves to showcase these items for viewing and appreciation by the public, and often includes accompanying information or context.\n\nSynonyms: show, display, exposition, presentation, fair\n",
+        "exampleA": "The museum's new exhibition features works by local artists.",
+        "exampleB": "We visited the art exhibition last weekend and were very impressed.",
+        "exampleC": "The exhibition will be open to the public from June 1st to July 15th.",
+        "status": ""
+    },
+    {
+        "id": "39ec0cd4-f472-4e33-b9f1-8d647f4a6bef",
+        "word": "expression",
+        "persian": "بسته به متن، \"expression\" می‌تونه به صورت‌های مختلفی ترجمه بشه:\n\n   بیان: وقتی منظور ابراز احساسات یا افکار باشه.\n   اصطلاح: وقتی منظور یک عبارت خاص با معنی مشخص باشه.\n   عبارت: وقتی منظور یک فرمول یا نحوه نوشتن چیزی باشه.\n   حالت چهره: وقتی منظور نشان دادن احساسات از طریق چهره باشه.\n   تجلی: وقتی منظور بروز یا آشکار شدن چیزی باشه.\n",
+        "definition": "\"Expression\" refers to the act of conveying thoughts, feelings, or ideas through words, actions, or creative means. It's about making something internal visible or audible to the outside world.\n    \nSynonyms: articulation, communication, manifestation, declaration, demonstration.\n",
+        "exampleA": "Her face was a mask, giving no outward expression of her inner turmoil.",
+        "exampleB": "The artist captured the raw expression of grief in the sculpture.",
+        "exampleC": "I'm not sure how to put my feelings into words; it's hard to find the right expression.",
+        "status": ""
+    },
+    {
+        "id": "1a9679b6-a23f-4b55-885f-b2cbb1d1972e",
+        "word": "festival",
+        "persian": "جشنواره",
+        "definition": "A festival is a period of celebration, often religious or cultural, characterized by joyous activities, communal gatherings, and special events. It marks a significant occasion or commemorates a specific event with music, dancing, feasting, and other forms of entertainment, fostering a sense of unity and shared identity among participants.\n\nSynonyms: celebration, festivity, carnival, jubilee, gala.\n",
+        "exampleA": "The town's annual music festival is a highlight of the summer.",
+        "exampleB": "We celebrated the harvest festival with traditional dances and food.",
+        "exampleC": "She wore a flower crown to the Renaissance festival.",
+        "status": "learned"
+    },
+    {
+        "id": "f1d48c89-7a10-46da-a26c-bcf075475d26",
+        "word": "fundamental",
+        "persian": "بنیادین",
+        "definition": "\"Fundamental\" refers to something that is essential, basic, or serving as the foundation or cornerstone of something else. It's a core principle, component, or skill upon which everything else is built or depends. If something is fundamental, it's absolutely necessary and cannot be easily removed without causing significant disruption or collapse.\n\nSynonyms: essential, basic, foundational, primary, crucial, integral.\n",
+        "exampleA": "It's one of the fundamental differences between men and women.",
+        "exampleB": "Literacy is fundamental to a child's education.",
+        "exampleC": "Respect for human rights is a fundamental principle of international law.",
+        "status": "learned"
+    },
+    {
+        "id": "bcff4e8c-b469-4596-8893-38077831213f",
+        "word": "gallery",
+        "persian": "گالری می‌تواند به فارسی به صورت \"نگارخانه\" (برای نمایش آثار هنری) یا \"گالری\" (به عنوان وام‌واژه و رایج) ترجمه شود.\n",
+        "definition": "A gallery is a room or building used for the exhibition of art, typically paintings, sculptures, and other visual artworks. It can also refer to a long, narrow space or corridor, often with windows or arches along one side, or a raised platform or balcony inside a building.\n    \nSynonyms: art museum, art space, exhibition hall, arcade, balcony.\n",
+        "exampleA": "The artist's new exhibition will be held in a prestigious gallery downtown.",
+        "exampleB": "We spent the afternoon wandering through the gallery, admiring the sculptures and paintings.",
+        "exampleC": "The gallery owner carefully curated the collection to showcase emerging talent.",
+        "status": ""
+    },
+    {
+        "id": "489f2f4f-b76a-460f-8258-e44d0d888ce3",
+        "word": "host",
+        "persian": "میزبانی کردن",
+        "definition": "\"Host\" refers to someone who receives or entertains guests, offering them hospitality and ensuring their comfort and enjoyment. It can also refer to a person, organization, or entity that provides space, resources, or a platform for an event, meeting, or performance. Synonyms include entertainer, provider, presenter, or facilitator.\n",
+        "exampleA": "Which country is hosting the next Olympic Games?",
+        "exampleB": "The hotel will host the annual conference next year.",
+        "exampleC": "Our neighbors graciously offered to host a barbecue in their backyard.",
+        "status": "learned"
+    },
+    {
+        "id": "5ba000e8-4607-4641-aa23-e8569bb7dc88",
+        "word": "image",
+        "persian": "بسته به متن، «image» می‌تونه به «تصویر»، «عکس»، «تصور»، «تجسم» یا «نمود» ترجمه بشه. انتخاب بهترین ترجمه به این بستگی داره که توی چه زمینه‌ای استفاده شده.\n",
+        "definition": "The term \"image\" refers to a visual representation of something, such as a person, object, or scene, captured through a photograph, painting, drawing, or other medium. It can also refer to a mental picture or impression of something or someone. In a broader sense, it represents how something is perceived or presented to the public.\n\nSynonyms: picture, representation, likeness, depiction, impression.\n",
+        "exampleA": "The artist used vibrant colors to create a stunning image.",
+        "exampleB": "I need to find an image to use for my presentation.",
+        "exampleC": "The security camera captured a clear image of the suspect.",
+        "status": ""
+    },
+    {
+        "id": "d6e1b442-bf6d-433c-b631-57c10677a3f5",
+        "word": "imagination",
+        "persian": "\"Imagination\" در فارسی می‌تواند به \"تخیل\"، \"تصور\"، \"خیال‌پردازی\" یا \"قوه تخیل\" ترجمه شود که همگی به توانایی ساختن تصاویر و ایده‌ها در ذهن اشاره دارند.\n",
+        "definition": "Imagination is the ability to form new ideas, images, or concepts in the mind that are not necessarily present to the senses. It involves creativity and the power to envision things that do not yet exist or to consider alternative possibilities. It's the faculty that allows us to escape reality and explore hypothetical scenarios, contributing to innovation, problem-solving, and artistic expression.\n\nSynonyms: creativity, fantasy, vision, inventiveness, ingenuity.\n",
+        "exampleA": "Her vivid imagination helped her create fantastical stories.",
+        "exampleB": "Solving complex problems often requires a leap of imagination.",
+        "exampleC": "The artist's work is a testament to the power of imagination.",
+        "status": ""
+    },
+    {
+        "id": "b37401c6-3173-499d-9456-ea73211ee362",
+        "word": "imaginative",
+        "persian": "\"Imaginative\" در فارسی می‌تواند به صورت‌های مختلفی ترجمه شود، از جمله: \"خلاقانه\"، \"خیال‌پردازانه\"، \"تصوراتی\"، \"نوآورانه\" یا \"دارای قوه تخیل قوی\". انتخاب بهترین معادل بستگی به بافت جمله دارد.\n",
+        "definition": "containing new and interesting ideas",
+        "exampleA": "The architects have made imaginative use of glass and transparent plastic.",
+        "exampleB": "Her imaginative stories captivated the children.",
+        "exampleC": "The designer used an imaginative blend of colors and textures.",
+        "status": "learned"
+    },
+    {
+        "id": "96e9db26-c468-471c-a0fb-07e6d5d50bab",
+        "word": "imagine",
+        "persian": "\"تصور کن\"، \"فرض کن\" یا \"مجسم کن\"\n",
+        "definition": "To imagine means to form a mental image or concept of something not present to the senses or never experienced. It involves creating a picture in your mind, conjuring up possibilities, or fantasizing about scenarios, ideas, or objects. It's the power to see beyond reality and explore the realm of potential.\n\nSynonyms: envision, visualize, conceive, picture, dream\n",
+        "exampleA": "Imagine a world without music.",
+        "exampleB": "Can you imagine the look on her face when she wins?",
+        "exampleC": "Imagine all the possibilities if we invest in renewable energy.",
+        "status": ""
+    },
+    {
+        "id": "a8cb47d4-6e69-4ffb-b753-f8d68e4245b1",
+        "word": "influence",
+        "persian": "\"Influence\" در فارسی معمولاً به صورت \"تاثیر\"، \"اثرگذاری\" یا \"نفوذ\" ترجمه می‌شود.\n",
+        "definition": "Influence is the capacity to have an effect on the character, development, or behavior of someone or something. It suggests a subtle or indirect power that shapes outcomes or opinions without necessarily resorting to force or direct command. This can manifest through persuasion, example, or even just the presence of someone or something.\n\nSynonyms: impact, affect, sway, mold, shape.\n",
+        "exampleA": "Her writing has a strong influence on young readers.",
+        "exampleB": "The environment can influence a person's behavior.",
+        "exampleC": "Political donations often seek to influence legislation.",
+        "status": ""
+    },
+    {
+        "id": "284b2eef-01b7-46ac-93cd-11fb7d8305fe",
+        "word": "influence",
+        "persian": "\"Influence\" در فارسی معمولاً به صورت \"تاثیر\"، \"اثرگذاری\" یا \"نفوذ\" ترجمه می‌شود.\n",
+        "definition": "Influence is the capacity to have an effect on the character, development, or behavior of someone or something. It suggests a subtle or indirect power that shapes outcomes or opinions without necessarily resorting to force or direct command. This can manifest through persuasion, example, or even just the presence of someone or something.\n\nSynonyms: impact, affect, sway, mold, shape.\n",
+        "exampleA": "Her writing has a strong influence on young readers.",
+        "exampleB": "The environment can influence a person's behavior.",
+        "exampleC": "Political donations often seek to influence legislation.",
+        "status": ""
+    },
+    {
+        "id": "3d3ad189-efa6-497a-be90-55d77f8a258a",
+        "word": "influential",
+        "persian": "\"مؤثر\"، \"با نفوذ\" یا \"تاثیرگذار\"\n",
+        "definition": "\"Influential\" describes someone or something that has a significant impact on the actions, opinions, or behavior of others. It suggests the ability to shape or change things due to power, authority, credibility, or charisma. An influential person can sway decisions, inspire movements, or leave a lasting mark on society.\n\nSynonyms: impactful, powerful, persuasive, dominant, effective.\n",
+        "exampleA": "Her research has been incredibly influential in shaping environmental policy.",
+        "exampleB": "The author's influential book sparked a nationwide debate.",
+        "exampleC": "He is a highly influential figure in the tech industry.",
+        "status": ""
+    },
+    {
+        "id": "fbcfbfbe-b03d-4574-b25f-807cf3752625",
+        "word": "influential (in sth)",
+        "persian": "دارای نفوذ و تاثیر گذار",
+        "definition": "\"Influential (in sth)\" means having a significant impact or power to affect someone or something, particularly within a specific area or context. It implies the ability to shape opinions, decisions, or actions, leading to noticeable consequences.\n    \nSynonyms: powerful, effective, impactful, authoritative, consequential\n",
+        "exampleA": "Johnson was influential (= important) in persuading the producers to put money into the film.",
+        "exampleB": "Her research was highly influential in shaping environmental policy.",
+        "exampleC": "He was an influential figure in the development of modern jazz.",
+        "status": "learned"
+    },
+    {
+        "id": "4d2fc4d2-bc06-4c03-9056-9579ff4b8f96",
+        "word": "inspiration",
+        "persian": "انگیزه، منبع الهام",
+        "definition": "Inspiration is a feeling of enthusiasm or a sudden burst of creativity that drives you to do or create something new or original. It's the spark that ignites your imagination and motivates you to pursue a particular goal or idea with passion and energy.\n\nSynonyms: stimulus, motivation, muse, influence, ingenuity.\n",
+        "exampleA": "The golden autumn light provided the inspiration for the painting.",
+        "exampleB": "The artist found inspiration in the vibrant colors of the sunset.",
+        "exampleC": "Her unwavering determination served as an inspiration to her teammates.",
+        "status": "learned"
+    },
+    {
+        "id": "1c90c152-5943-48c9-9321-8d8792b66a91",
+        "word": "inspirational",
+        "persian": "بسته به متن، \"inspirational\" می‌تونه به فارسی به صورت‌های زیر ترجمه بشه:\n\n   الهام‌بخش\n   انگیزه دهنده\n   نیروبخش\n   روحیه بخش\n\nانتخاب دقیق‌ترین معادل بستگی به این داره که دقیقا منظورتون از این کلمه چیه.\n",
+        "definition": "\"Inspirational\" describes something or someone that fills you with a desire to do or create something good, to achieve a goal, or to simply become a better version of yourself. It evokes a feeling of enthusiasm, motivation, and hope, often leading to positive action.\n\nSynonyms: motivating, encouraging, uplifting, stimulating, invigorating.\n",
+        "exampleA": "Her speech was incredibly inspirational, motivating everyone in the audience to pursue their dreams.",
+        "exampleB": "The teacher's dedication to her students was truly inspirational, fostering a love of learning in each one.",
+        "exampleC": "Reading about historical figures who overcame adversity can be very inspirational.",
+        "status": ""
+    },
+    {
+        "id": "00a15ffb-f97f-494e-bc37-6ea13a369efa",
+        "word": "inspire",
+        "persian": "\"Inspire\" بسته به متن، می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌های اون عبارتند از: \"الهام بخشیدن\"، \"انگیزه دادن\"، \"تشویق کردن\" یا \"برانگیختن\".\n",
+        "definition": "To inspire means to fill someone with the urge or ability to do or feel something, especially creatively. It's about sparking enthusiasm, motivation, or a sense of purpose within another person.\n\nSynonyms: motivate, encourage, stimulate, influence, galvanize.\n",
+        "exampleA": "The speaker's powerful words inspire hope in the audience.",
+        "exampleB": "Her dedication to the cause continues to inspire others to volunteer.",
+        "exampleC": "The beautiful landscape can inspire creativity in artists and writers.",
+        "status": ""
+    },
+    {
+        "id": "9068faab-8ad1-49af-a267-bd131627fcc7",
+        "word": "interactive",
+        "persian": "تعاملی",
+        "definition": "\"Interactive\" describes something that involves reciprocal action or influence between two or more entities, often a user and a computer system, machine, or environment. It implies a dynamic exchange where actions by one party affect the other, creating a responsive and engaging experience.\n\nSynonyms: responsive, reactive, reciprocal, dynamic, engaging.\n",
+        "exampleA": "This is an interactive museum where children can actively manipulate the exhibits.",
+        "exampleB": "The museum exhibit was highly interactive, allowing visitors to manipulate the displays.",
+        "exampleC": "We need to develop an interactive website that engages users and encourages them to explore our content.",
+        "status": "learned"
+    },
+    {
+        "id": "91938fea-41aa-40ff-8f79-9dcc2a9ac690",
+        "word": "intimacy",
+        "persian": "صمیمیت",
+        "definition": "Intimacy refers to a close, familiar, and usually affectionate or loving personal relationship with another person or group. It involves a feeling of emotional connectedness, vulnerability, and mutual trust, often cultivated through shared experiences, communication, and physical closeness. It's about knowing someone deeply and being known in return.\n\nSynonyms: closeness, familiarity, affection, rapport, connectedness.\n",
+        "exampleA": "Intimacy between teachers and students is not recommended.",
+        "exampleB": "The couple's deep intimacy was evident in their gentle touch.",
+        "exampleC": "She longed for the intimacy that she once shared with her best friend.",
+        "status": "learned"
+    },
+    {
+        "id": "9e6a620b-122b-4535-9f14-b3eec4e7a6bc",
+        "word": "literary",
+        "persian": "ادبی",
+        "definition": "\"Literary\" generally refers to anything relating to literature, the written word, or the art of writing. It describes works that are considered to have artistic or intellectual value, often characterized by refined language, imaginative storytelling, and exploration of complex themes. Literary works are often studied for their aesthetic qualities and cultural significance.\n\nSynonyms: cultured, educated, bookish, scholarly, erudite\n",
+        "exampleA": "The novel is considered a literary masterpiece.",
+        "exampleB": "She has a literary agent shopping her manuscript around.",
+        "exampleC": "His writing style is very literary and allusive.",
+        "status": "learned"
+    },
+    {
+        "id": "c20e7f8a-dc74-470d-8ca7-30a4fcc869f7",
+        "word": "literature",
+        "persian": "\"Literature\" در فارسی معمولاً به «ادبیات» ترجمه می‌شود که شامل آثار نوشتاری ارزشمند و هنری مانند شعر، داستان، نمایشنامه و غیره است.\n",
+        "definition": "Literature encompasses written works, especially those considered of superior or lasting artistic merit, that explore and interpret human experience, ideas, and emotions through language. It can include novels, poetry, plays, short stories, essays, and other forms of creative writing.\n\nSynonyms: writings, letters, belles-lettres, body of work, canon\n",
+        "exampleA": "Her passion for literature led her to pursue a degree in English.",
+        "exampleB": "The syllabus included a wide range of literature, from classic novels to modern poetry.",
+        "exampleC": "He found solace and inspiration in the pages of great literature.",
+        "status": ""
+    },
+    {
+        "id": "d901af62-cd0e-414d-902c-04837f6ed270",
+        "word": "live",
+        "persian": "زنده و مستقیم",
+        "definition": "To \"live\" means to be alive, to experience life, and to carry out the activities associated with being alive, such as breathing, eating, moving, and interacting with the world. It encompasses existence, vitality, and the span of time between birth and death.\n\nSynonyms: exist, breathe, subsist, be alive\n",
+        "exampleA": "I want to live in a small cabin in the woods.",
+        "exampleB": "Did you see the band live last night?",
+        "exampleC": "We live just down the street from the park.",
+        "status": "learned"
+    },
+    {
+        "id": "78930f3d-1f40-4f66-80b7-29a1a58692af",
+        "word": "magical",
+        "persian": "جادویی",
+        "definition": "\"Magical\" describes something that possesses a sense of wonder, enchantment, or extraordinary power, often suggesting supernatural or inexplicable qualities. It evokes a feeling of awe and delight, as if something is beyond the ordinary and touched by magic or fantasy.\n\nSynonyms: Enchanting, mystical, wondrous, spellbinding, fantastical\n",
+        "exampleA": "Diamonds were once thought to have magical powers.",
+        "exampleB": "The old book promised a magical journey through forgotten lands.",
+        "exampleC": "Her singing voice had a magical quality that captivated the audience.",
+        "status": "learned"
+    },
+    {
+        "id": "6e985c01-1817-42e2-b622-3f2033fb2bd9",
+        "word": "monotonous",
+        "persian": "\"Monotonous\" در فارسی می‌تواند به \"یکنواخت\"، \"خسته کننده\"، \"یکنواخت و کسل‌کننده\" یا \"تکراری\" ترجمه شود. انتخاب دقیق‌ترین معادل به بافت جمله بستگی دارد.\n",
+        "definition": "\"Monotonous\" describes something that is repetitive, tedious, and lacking in variety or interest. It implies a lack of change that leads to boredom or a dull experience.\n\nSynonyms: tedious, repetitive, humdrum, boring, unvarying\n",
+        "exampleA": "The factory work was monotonous and soul-crushing.",
+        "exampleB": "She found his voice monotonous and difficult to listen to for long periods.",
+        "exampleC": "The landscape was monotonous, stretching flatly to the horizon.",
+        "status": ""
+    },
+    {
+        "id": "581af368-17d6-4935-8804-b5c95c947fa8",
+        "word": "mood",
+        "persian": "حالت روحی",
+        "definition": "\"Mood\" refers to a prevailing emotional state or feeling that influences a person's thoughts and behaviors. It's less intense and longer-lasting than an emotion, and it can color how someone perceives the world around them. Essentially, it's the atmosphere of your internal experience.\n\nSynonyms: disposition, temperament, spirit, feeling, humor.\n",
+        "exampleA": "The mood of the crowd suddenly turned (= the crowd suddenly became) aggressive.",
+        "exampleB": "The rainy weather always puts me in a melancholic mood.",
+        "exampleC": "Her upbeat music really lifted my mood.",
+        "status": "learned"
+    },
+    {
+        "id": "cc748cb1-2956-4b60-9365-a203742e4306",
+        "word": "mundane",
+        "persian": "«Mundane» در فارسی معمولاً به معنای «پیش پا افتاده»، «معمولی»، «روزمره» یا «دنیوی» ترجمه می‌شود. بسته به متن، می‌توان از معادل‌های دیگری مانند «خاکستری» یا «کسل‌کننده» هم استفاده کرد.\n",
+        "definition": "ordinary",
+        "exampleA": "Initially, the work was pretty mundane.",
+        "exampleB": "The office work was incredibly mundane, consisting mostly of filing and data entry.",
+        "exampleC": "He sought adventure to escape the mundane routines of everyday life.",
+        "status": "learned"
+    },
+    {
+        "id": "8b2cdc3d-926c-4067-bf3d-32be78de338b",
+        "word": "musician",
+        "persian": "\"Musician\" در فارسی می‌تواند به «موسیقیدان»، «نوازنده»، یا «اهل موسیقی» ترجمه شود که همگی به فردی اشاره دارند که به طور حرفه‌ای یا آماتور به خلق یا اجرای موسیقی می‌پردازد.\n",
+        "definition": "A musician is a person who plays a musical instrument or sings, either professionally or as a hobby. They create, perform, or compose music, often demonstrating skill and artistry in their craft.\n\nSynonyms: instrumentalist, artist, composer, performer, virtuoso.\n",
+        "exampleA": "The musician tuned his guitar before the concert.",
+        "exampleB": "She dreamed of becoming a world-famous musician.",
+        "exampleC": "The street musician played a lively melody for passersby.",
+        "status": ""
+    },
+    {
+        "id": "cc8305d5-ed49-4b65-96f5-0e40483e8cc9",
+        "word": "opera",
+        "persian": "معادل دقیق و رایج \"opera\" در فارسی «اپرا» است که به همان شکل و با همان معنی به کار می‌رود.\n",
+        "definition": "a musical play in which all of the words are sung",
+        "exampleA": "She's always dreamed of singing opera on a grand stage.",
+        "exampleB": "The opera house was beautifully decorated for the premiere.",
+        "exampleC": "We enjoyed a night out at the opera, despite not fully understanding the plot.",
+        "status": "learned"
+    },
+    {
+        "id": "ad232c4b-a20b-489e-b17f-193f1ec547cb",
+        "word": "orchestra",
+        "persian": "ارکستر به گروه بزرگی از نوازندگان گفته می‌شود که با سازهای مختلف به اجرای قطعات موسیقی می‌پردازند.\n",
+        "definition": "a large group of musicians who play many different instruments together and are led by a conductor",
+        "exampleA": "The orchestra played a beautiful rendition of Beethoven's Fifth Symphony.",
+        "exampleB": "She dreamed of one day conducting a world-renowned orchestra.",
+        "exampleC": "The school's orchestra program provided students with valuable musical training.",
+        "status": "learned"
+    },
+    {
+        "id": "3d4acd79-1bba-49f2-9c24-239c7a8e42a3",
+        "word": "painting",
+        "persian": "نقاشی\n",
+        "definition": "\"Painting\" refers to the art of applying color to a surface, often a canvas or wall, to create an image, design, or composition. It's a visual art form that allows artists to express their ideas, emotions, and perceptions through the manipulation of paint, pigments, and other materials.\n\nSynonyms: depiction, artwork, portrait, illustration, mural.\n",
+        "exampleA": "She spent the afternoon painting a landscape.",
+        "exampleB": "The old master's painting was priceless.",
+        "exampleC": "He made a living painting houses.",
+        "status": ""
+    },
+    {
+        "id": "aae22999-eb20-4d4a-b7c1-a03e05dc9de8",
+        "word": "participate",
+        "persian": "شرکت کردن، مشارکت داشتن، سهیم شدن، و حضور داشتن، همگی معادل‌های مناسبی برای واژه \"participate\" هستند و بسته به متن، می‌توان از هر کدام از آن‌ها استفاده کرد.\n",
+        "definition": "To participate means to take part in an activity or event, often sharing in the experience and contributing to the overall outcome. It implies being involved and actively engaging with others or the task at hand.\n\nSynonyms: Join, Engage, Contribute, Take part, Get involved\n",
+        "exampleA": "We encourage everyone to participate in the upcoming community event.",
+        "exampleB": "Students must participate actively in class discussions to earn full credit.",
+        "exampleC": "Several countries have agreed to participate in the international research project.",
+        "status": ""
+    },
+    {
+        "id": "dbd3e07b-177b-4e51-b694-e3f91b50d5c7",
+        "word": "passionate",
+        "persian": "پرشور، پر احساس",
+        "definition": "\"Passionate\" describes someone who has or is driven by strong feelings, enthusiasm, or desire for something. It signifies intense emotional engagement and a deep commitment to a person, idea, or activity. Someone passionate is likely to be fervent, dedicated, and expressive about their affections or beliefs.\n\nSynonyms: ardent, zealous, fervent, enthusiastic, intense\n",
+        "exampleA": "The Italians are said to be the most passionate people in Europe.",
+        "exampleB": "She is a passionate advocate for animal rights.",
+        "exampleC": "The dancer delivered a passionate performance that captivated the audience.",
+        "status": "learned"
+    },
+    {
+        "id": "ccbf5b74-97e3-425a-98a9-4bc6726d7c47",
+        "word": "perform",
+        "persian": "معنی \"perform\" بسته به متن می‌تونه متفاوت باشه، اما رایج‌ترین معادل‌های فارسی اون عبارتند از: اجرا کردن، انجام دادن، ایفای نقش کردن، به نمایش گذاشتن.\n",
+        "definition": "To perform means to carry out, accomplish, or execute a task, action, or function, often in a public or formal setting. It can also refer to presenting a form of entertainment, like acting, singing, or playing an instrument, before an audience.\n\nSynonyms: execute, enact, fulfill, achieve, present.\n",
+        "exampleA": "The orchestra will perform Beethoven's Symphony No. 5.",
+        "exampleB": "We need to perform a risk assessment before starting the project.",
+        "exampleC": "The actor gave a stunning performance on stage.",
+        "status": ""
+    },
+    {
+        "id": "fa83f81a-6e28-4460-baf6-7f55333c7634",
+        "word": "performance",
+        "persian": "\"Performance\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین ترجمه‌ها عبارتند از: \"عملکرد\"، \"اجرا\" یا \"کارایی\".\n",
+        "definition": "\"Performance\" refers to the act of carrying out, accomplishing, or fulfilling a task, action, or function. It can also describe the manner in which something or someone functions, operates, or behaves. More specifically, it often relates to how effectively something fulfills its intended purpose or how well someone executes a skill or presentation.\n\nSynonyms: Execution, achievement, delivery, enactment, operation, functionality.\n",
+        "exampleA": "The actor's performance in the play was outstanding.",
+        "exampleB": "The company's financial performance exceeded expectations this quarter.",
+        "exampleC": "Regular maintenance is crucial for optimal machine performance.",
+        "status": ""
+    },
+    {
+        "id": "f4c70ca3-004e-4124-a94f-9c2e45862ca5",
+        "word": "play",
+        "persian": "نمایش، اجرای موزیک یا تئاتر",
+        "definition": "\"Play\" refers to engaging in activities for enjoyment and recreation, often involving spontaneity, imagination, and creativity. It's a fundamental human (and animal) behavior crucial for learning, development, and social interaction, offering a break from routine and a chance to explore possibilities without serious consequences.\n\nSynonyms: Recreation, amusement, entertainment, frolic, game.\n",
+        "exampleA": "The children love to play in the park.",
+        "exampleB": "Did you see the new play at the theater?",
+        "exampleC": "We need to play our best if we want to win the game.",
+        "status": "learned"
+    },
+    {
+        "id": "1305df18-f0e9-49ae-abf0-ab02c2ff5c74",
+        "word": "popular",
+        "persian": "\"محبوب\"، \"مشهور\"، \"پرطرفدار\" یا \"رایج\". انتخاب بین این‌ها بستگی به زمینه داره.\n",
+        "definition": "\"Popular\" describes something or someone widely liked, accepted, or admired by many people. It signifies widespread approval and prevalence within a group or society.\n\nSynonyms: well-liked, favored, prevalent, in demand, trendy\n",
+        "exampleA": "That new song is incredibly popular right now.",
+        "exampleB": "She was a popular student and well-liked by everyone.",
+        "exampleC": "Pizza is a popular choice for a Friday night dinner.",
+        "status": ""
+    },
+    {
+        "id": "0fddcf03-166a-41f6-b3fb-012e9fe10c78",
+        "word": "portrait",
+        "persian": "\"Portrait\" در فارسی می‌تواند به \"چهره‌نگاری\"، \"تصویر چهره\"، یا به طور ساده \"تصویر\" ترجمه شود، به‌خصوص وقتی که هدف اصلی نمایش چهره یک شخص باشد.\n",
+        "definition": "A portrait is a representation of a person or group of people, typically focusing on the face and expression, with the aim of capturing their likeness and often conveying something about their character or personality. It can be created using various media, such as painting, drawing, photography, or sculpture.\n\nSynonyms: likeness, depiction, representation, image, study.\n",
+        "exampleA": "The museum displayed a stunning portrait of the queen.",
+        "exampleB": "She commissioned a portrait of her beloved dog.",
+        "exampleC": "He painted a self-portrait in his signature style.",
+        "status": ""
+    },
+    {
+        "id": "d60a2681-a167-4f2b-8f5b-2653a3039339",
+        "word": "prominent",
+        "persian": "\"Prominent\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: برجسته، مشهور، مهم، یا شاخص.\n",
+        "definition": "\"Prominent\" means standing out or being easily noticeable due to importance, reputation, or physical projection. It describes something or someone that is highly visible or influential within a particular context.\n\nSynonyms: conspicuous, notable, distinguished, eminent, remarkable.\n",
+        "exampleA": "The church is a prominent landmark in the city.",
+        "exampleB": "She is a prominent figure in the world of environmental activism.",
+        "exampleC": "The author's prominent use of symbolism added depth to the novel.",
+        "status": ""
+    },
+    {
+        "id": "d870cf17-9769-41de-b111-0a367820ed4d",
+        "word": "proportion",
+        "persian": "\"proportion\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: \"نسبت\"، \"تناسب\"، \"سهم\" یا \"میزان\".\n",
+        "definition": "Proportion refers to the relative size or amount of something compared to something else, indicating how things relate to each other in terms of quantity, size, or degree. It suggests a balanced and harmonious relationship between parts within a whole.\n\nSynonyms: ratio, balance, fraction, share, dimension, relationship.\n",
+        "exampleA": "A significant proportion of the population lives below the poverty line.",
+        "exampleB": "The recipe calls for a proportion of two parts flour to one part sugar.",
+        "exampleC": "The artist carefully considered the proportion of each element in the painting.",
+        "status": ""
+    },
+    {
+        "id": "3012a9b0-5347-40c3-b1e0-ee2e359c53c3",
+        "word": "provoke",
+        "persian": "برانگیختن، to cause a reaction, especially a negative one",
+        "definition": "To provoke means to deliberately incite, stir up, or instigate a reaction, feeling, or action, often one that is negative or unwanted. It implies an intentional act aimed at eliciting a response from someone or something.\n\nSynonyms: incite, goad, instigate, irritate, aggravate.\n",
+        "exampleA": "The prospect of increased prices has already provoked an outcry.",
+        "exampleB": "The dog's aggressive barking was meant to provoke a reaction from the mailman.",
+        "exampleC": "His controversial statement was intended to provoke a debate about the current political climate.",
+        "status": "learned"
+    },
+    {
+        "id": "2236ba0c-41f8-45b1-a219-dc448264f345",
+        "word": "reflection",
+        "persian": "انعکاس",
+        "definition": "Reflection refers to the bouncing back of light, sound, or other waves from a surface. More broadly, it also signifies deep thought or consideration, a serious contemplation of something. It can also mean a representation or image, like seeing yourself in a mirror.\n\nSynonyms: contemplation, deliberation, rumination, image, echo, reverberation.\n",
+        "exampleA": "The fact that soldiers are on the streets is a reflection of how terrified the government is.",
+        "exampleB": "The still lake offered a perfect reflection of the mountains.",
+        "exampleC": "After the argument, she took some time for reflection on her actions.",
+        "status": "learned"
+    },
+    {
+        "id": "02cbd45f-6c6b-496a-a884-0fb7dd0cbea6",
+        "word": "relaxing",
+        "persian": "آرام بخش",
+        "definition": "\"Relaxing\" describes the state of being free from tension and anxiety, both physically and mentally. It signifies a sense of ease, comfort, and tranquility, often associated with activities that reduce stress and promote calmness.\n\nSynonyms: Calming, Soothing, Unwinding, Restful, Tranquil\n",
+        "exampleA": "After a long day at work, a hot bath is incredibly relaxing.",
+        "exampleB": "We spent a relaxing afternoon reading books in the park.",
+        "exampleC": "The gentle music created a relaxing atmosphere in the spa.",
+        "status": "learned"
+    },
+    {
+        "id": "52493bb2-e8b8-4527-b9ba-ea903e32f432",
+        "word": "response",
+        "persian": "پاسخ، واکنش، جواب، یا بازخورد. انتخاب دقیق‌ترین معادل به بافتار (context) بستگی دارد.\n",
+        "definition": "A \"response\" is a reaction or answer to a question, request, event, or situation. It can be verbal, written, or an action taken as a result of something else. Essentially, it's how someone or something reacts to a stimulus.\n\nSynonyms: answer, reply, reaction, feedback, acknowledgment\n",
+        "exampleA": "The company's response to the crisis was swift and decisive.",
+        "exampleB": "Her emotional response to the news was unexpected.",
+        "exampleC": "We await your response to our proposal.",
+        "status": ""
+    },
+    {
+        "id": "8ed4bc7d-6ed9-409d-a943-de033b7a30e8",
+        "word": "sculptor",
+        "persian": "\"sculptor\" در فارسی به معنای \"مجسمه‌ساز\" یا \"پیکرتراش\" است.\n",
+        "definition": "A sculptor is an artist who creates three-dimensional works of art by shaping or combining materials such as stone, wood, metal, clay, or plaster. They use various techniques like carving, molding, welding, or assembling to bring their artistic visions to life, often creating statues, figures, or abstract forms.\n\nSynonyms: carver, modeler, artist, statuary.\n",
+        "exampleA": "The sculptor chipped away at the marble, revealing the figure within.",
+        "exampleB": "She is a renowned sculptor, known for her abstract bronze creations.",
+        "exampleC": "The young sculptor dreams of having his work displayed in a prestigious gallery.",
+        "status": ""
+    },
+    {
+        "id": "84b2e564-2147-498a-85ef-be7cf8e787eb",
+        "word": "sculpture",
+        "persian": "«مجسمه‌سازی» یا «تندیس‌گری». بسته به بافت جمله، هر دو معنی می‌توانند درست باشند.\n",
+        "definition": "Sculpture is the art of creating three-dimensional forms, typically by carving, modeling, casting, or assembling materials. It involves shaping and manipulating materials like stone, wood, metal, clay, or even found objects to create an aesthetic object or expressive artwork that exists in physical space.\n\nSynonyms: carving, statue, model, effigy, figure.\n",
+        "exampleA": "The museum displayed a magnificent marble sculpture.",
+        "exampleB": "She took a class to learn the art of sculpture.",
+        "exampleC": "The artist used recycled materials to create a unique sculpture.",
+        "status": ""
+    },
+    {
+        "id": "ac6e834c-4d7f-4c0c-836e-75b85d698a6f",
+        "word": "showcase",
+        "persian": "«به نمایش گذاشتن»، «به رخ کشیدن»، «عرضه کردن» یا «به تصویر کشیدن» همگی می‌توانند معادل‌های مناسبی برای showcase باشند، بسته به اینکه در چه متنی استفاده شده باشد.\n",
+        "definition": "to show the best qualities or parts of something",
+        "exampleA": "The main aim of the exhibition is to showcase British design.",
+        "exampleB": "The art gallery will showcase local talent this month.",
+        "exampleC": "The company used the conference to showcase their latest product.",
+        "status": "learned"
+    },
+    {
+        "id": "955b3e16-1eac-4e58-b063-d2919d09c0c7",
+        "word": "showcase",
+        "persian": "«به نمایش گذاشتن»، «به رخ کشیدن»، «معرفی کردن» یا «ارائه دادن برجسته» همگی می‌توانند معادل‌های مناسبی برای showcase باشند، بسته به اینکه در چه زمینه‌ای به کار رفته باشد.\n",
+        "definition": "to show the best qualities or parts of something",
+        "exampleA": "The museum will showcase a new exhibit of ancient artifacts.",
+        "exampleB": "This event is a great opportunity to showcase your talents.",
+        "exampleC": "The company used the conference to showcase their latest product.",
+        "status": "learned"
+    },
+    {
+        "id": "3ae79e69-7e28-48e1-8a76-3d4533f25e1e",
+        "word": "stimulating",
+        "persian": "تحریک کننده، محرک",
+        "definition": "\"Stimulating\" describes something that excites, invigorates, or arouses interest and enthusiasm. It can refer to intellectual challenges, sensory experiences, or anything that prompts a positive and active response in the mind or body, leaving you feeling energized and engaged.\n\nSynonyms: invigorating, arousing, exciting, inspiring, thought-provoking.\n",
+        "exampleA": "The debate was stimulating, with participants offering diverse viewpoints.",
+        "exampleB": "She found the new book to be incredibly stimulating and thought-provoking.",
+        "exampleC": "A stimulating environment is crucial for children's cognitive development.",
+        "status": "learned"
+    },
+    {
+        "id": "72b297e1-9e6b-4357-a96f-c92469a2a2cc",
+        "word": "stimulus",
+        "persian": "محرک یا انگیزه، بسته به متن و کاربردش، بهترین ترجمه‌ها برای کلمه \"stimulus\" هستند.\n",
+        "definition": "A stimulus is something that provokes a functional reaction in an organism or system. It's an agent, action, or condition that elicits a physiological or psychological response. In essence, it's a trigger that causes something else to happen.\n\nSynonyms: incentive, catalyst, impetus, trigger, motivation\n",
+        "exampleA": "The bright light acted as a stimulus, causing her to blink.",
+        "exampleB": "Economic stimulus packages are often used to combat recessions.",
+        "exampleC": "The teacher used a variety of visual and auditory stimuli to engage the students.",
+        "status": ""
+    },
+    {
+        "id": "636cf178-aaa2-42cd-83d2-96678564cbb9",
+        "word": "style",
+        "persian": "سبک",
+        "definition": "\"Style\" refers to a distinctive manner or way of doing something. It encompasses how something is done, expressed, or presented, and can be applied to various fields like fashion, art, writing, or even behavior. It's a way of conveying individuality and leaving a unique mark.\n\nSynonyms: Manner, approach, flair, technique, mode\n",
+        "exampleA": "Her unique style always turns heads.",
+        "exampleB": "The architect designed the building in a modern style.",
+        "exampleC": "Each writer has their own distinctive style of prose.",
+        "status": "learned"
+    },
+    {
+        "id": "5c64cbb8-fa16-46c2-bd25-02a0d7f486ef",
+        "word": "taste",
+        "persian": "\"Taste\" بسته به زمینه می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌ها عبارتند از: طعم (به عنوان حس چشایی)، مزه (به عنوان کیفیت طعم)، ذائقه (به عنوان سلیقه در غذا یا هنر) و چشیدن (به عنوان عمل امتحان کردن طعم).\n",
+        "definition": "\"Taste\" refers to the sensation produced when a substance in the mouth reacts chemically with taste receptor cells located on taste buds, primarily on the tongue. It's one of the five basic senses and involves detecting flavors like sweet, sour, salty, bitter, and umami. Beyond these basic tastes, our perception of \"taste\" is often influenced by smell, texture, temperature, and even visual appearance.\n\nSynonyms: flavor, savor, relish, tang, palatability\n",
+        "exampleA": "I love the taste of freshly baked bread.",
+        "exampleB": "The chef asked me to taste the soup and give my opinion.",
+        "exampleC": "Some people have a better sense of taste than others.",
+        "status": ""
+    },
+    {
+        "id": "d83ed3c9-d1e5-48f7-bccf-e3b22f40c971",
+        "word": "theatre",
+        "persian": "تئاتر",
+        "definition": "\"Theatre\" refers to a collaborative form of fine art that uses live performers to present a real or imagined event before a live audience in a specific location, often involving a combination of scenery, costumes, music, and dramatic storytelling. It encompasses a broad range of dramatic works, from plays and musicals to opera and dance performances.\n\nSynonyms: drama, playhouse, performing arts, stagecraft, dramatics.\n",
+        "exampleA": "We saw a fantastic play at the theatre last night.",
+        "exampleB": "The community theatre group is putting on a production of Shakespeare.",
+        "exampleC": "Her dream is to work backstage in a major theatre.",
+        "status": "learned"
+    },
+    {
+        "id": "6955afd3-05d8-41db-b88d-a184fe5581b2",
+        "word": "theme",
+        "persian": "\"Theme\" بسته به متن می‌تونه به معانی مختلفی ترجمه بشه، اما رایج‌ترین معادل‌های فارسی اون عبارتند از: \"موضوع\"، \"تم\"، \"درونمایه\" یا \"مضمون\".\n",
+        "definition": "A theme is the central idea, underlying meaning, or message explored in a literary work, film, or other artistic creation. It's not simply the subject matter, but rather a comment or perspective on that subject. Think of it as the takeaway point that the author wants to convey about life, humanity, or the world.\n\nSynonyms: motif, subject, topic, message, concept.\n",
+        "exampleA": "The theme of the novel is the struggle between good and evil.",
+        "exampleB": "The party's theme was a roaring twenties celebration.",
+        "exampleC": "Despite the different styles, all the paintings shared a common theme of nature.",
+        "status": ""
+    },
+    {
+        "id": "bd504a2f-def8-4bc8-9af1-deda0d2163e7",
+        "word": "the performing arts",
+        "persian": "هنرهای نمایشی",
+        "definition": "The performing arts are art forms where the artist uses their own body, voice, or presence to convey meaning and emotion to an audience, usually in a live setting. They encompass a broad range of disciplines focused on artistic creation through performance.\n\nSynonyms: performing arts, live arts, performance art, stage arts, dramatic arts.\n",
+        "exampleA": "She has always been drawn to the performing arts, especially theatre and dance.",
+        "exampleB": "The city's vibrant cultural scene is largely due to its strong support for the performing arts.",
+        "exampleC": "Funding for the performing arts is often the first to be cut during economic downturns.",
+        "status": "learned"
+    },
+    {
+        "id": "e18e2f11-8fa2-4af7-ad1a-9fee3cab6529",
+        "word": "transcend",
+        "persian": "فراتر رفتن، فراتر بودن",
+        "definition": "To transcend means to go beyond or rise above a limit, boundary, or restriction. It suggests surpassing ordinary limitations or overcoming obstacles to achieve a higher level of understanding, experience, or existence. Essentially, it's about exceeding expectations or limitations.\n\nSynonyms: surpass, exceed, overcome, outstrip, rise above.\n",
+        "exampleA": "The underlying message of the film is that love transcends everything else.",
+        "exampleB": "Her performance managed to transcend the limitations of the script.",
+        "exampleC": "Meditation can help individuals transcend their everyday anxieties.",
+        "status": "seen"
+    },
+    {
+        "id": "07936281-a1a6-4a71-8d27-b2dd79fb2221",
+        "word": "venue",
+        "persian": "مکان برگزاری",
+        "definition": "A venue is the place where an event or activity happens, whether it's a concert, a meeting, a wedding, or a sporting competition. It's essentially the physical location or site designated for a specific purpose or gathering.\n\nSynonyms: location, site, locale, setting, arena\n",
+        "exampleA": "The stadium has been specifically designed as a venue for European Cup matches.",
+        "exampleB": "The wedding venue was beautifully decorated with flowers.",
+        "exampleC": "We need to book a venue for the conference that can accommodate 500 people.",
+        "status": "learned"
+    },
+    {
+        "id": "0afc4b1b-e6ac-47ec-a491-22b5c6d3c597",
+        "word": "visual",
+        "persian": "\"visual\" در فارسی می‌تواند به معانی مختلفی ترجمه شود، اما رایج‌ترین ترجمه‌ها عبارتند از: دیداری، بصری، تصویری. انتخاب دقیق‌ترین معادل بستگی به زمینه استفاده دارد.\n",
+        "definition": "\"Visual\" refers to anything related to sight or the sense of seeing. It encompasses elements that can be perceived by the eyes, such as images, colors, shapes, and patterns. A visual presentation, for example, relies on graphics, pictures, or videos to communicate information.\n\nSynonyms: Optical, pictorial, graphic, ocular, visible.\n",
+        "exampleA": "The artist had a very unique visual style.",
+        "exampleB": "The movie's visual effects were stunning.",
+        "exampleC": "I am a visual learner and prefer diagrams to written text.",
+        "status": ""
+    },
+    {
+        "id": "ba974ca1-b66a-400d-a943-3f5797241a8d",
+        "word": "vivid",
+        "persian": "روشن . واضح . زنده",
+        "definition": "\"Vivid\" describes something that is intensely bright, clear, and full of life or color, producing a strong and distinct impression on the senses or the mind. It suggests a quality that is striking and memorable, leaving a lasting impact.\nSynonyms: bright, colorful, brilliant, striking, realistic, graphic.\n",
+        "exampleA": "The artist used vivid colors to capture the energy of the city.",
+        "exampleB": "Her vivid memories of childhood summers were filled with laughter and sunshine.",
+        "exampleC": "The dream was so vivid, I could almost feel the sand between my toes.",
+        "status": "learned"
+    },
+    {
+        "id": "d85c8f92-a574-46b5-8e62-2a9c43fbd2b6",
+        "word": "works",
+        "persian": "بسته به متن، \"works\" می‌تونه معانی مختلفی داشته باشه، اما رایج‌ترین ترجمه‌ها عبارتند از:\n\n   کار می‌کند: (وقتی در مورد عملکرد یک دستگاه یا سیستم صحبت می‌کنیم)\n   آثار: (وقتی در مورد آثار هنری یا ادبی صحبت می‌کنیم)\n   کارها: (به صورت جمع، اشاره به فعالیت‌ها یا وظایف)\n   جواب می‌دهد/موثر است: (وقتی در مورد یک راه حل یا روش صحبت می‌کنیم)\n   تولیدات/کارخانه: (در زمینه صنعتی)",
+        "definition": "In this context, \"works\" typically means that something is effective, functional, or achieves its intended purpose. It implies that a method, solution, or object is successful in producing the desired outcome or operating as expected.\nSynonyms: functions, operates, is effective, is successful, is viable.\n",
+        "exampleA": "The new software works perfectly on my computer.",
+        "exampleB": "She works hard to achieve her goals.",
+        "exampleC": "This strategy works well in the current market.",
+        "status": ""
+    },
+    {
+        "id": "e79ee565-4eed-44ea-ad4e-01d0ad030b88",
+        "word": "writer",
+        "persian": "\"نویسنده\" معادل دقیقی برای \"writer\" در فارسی است.\n",
+        "definition": "A writer is someone who creates written works, typically for publication or distribution. This encompasses a broad range of activities, from crafting novels and poems to composing articles, reports, and scripts. Essentially, a writer uses language to communicate ideas, tell stories, and express themselves through the written word.\n\nSynonyms: author, wordsmith, scribe, penman, journalist, novelist.\n",
+        "exampleA": "The writer struggled with writer's block for weeks.",
+        "exampleB": "She aspired to be a successful writer someday.",
+        "exampleC": "The writer meticulously crafted each sentence to perfection.",
+        "status": ""
+    }
+]
