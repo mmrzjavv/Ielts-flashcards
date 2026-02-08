@@ -1,9 +1,11 @@
 import JSZip from 'jszip';
-import initSqlJs from 'sql.js';
+// import initSqlJs from 'sql.js'; // Dynamically imported
 import { Card } from '@/types';
 
 export async function parseAnkiFile(file: File | Blob): Promise<Card[]> {
   console.log("Starting Anki parsing...");
+  // Dynamically import sql.js to avoid SSR/build issues with fs module
+  const initSqlJs = (await import('sql.js')).default;
   const zip = new JSZip();
   const contents = await zip.loadAsync(file);
 
@@ -42,6 +44,7 @@ export async function parseAnkiFile(file: File | Blob): Promise<Card[]> {
   }
   
   // Get Models (Field Definitions)
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   let models: any = {};
   try {
       const colResult = db.exec("SELECT models FROM col");
@@ -89,18 +92,19 @@ export async function parseAnkiFile(file: File | Blob): Promise<Card[]> {
       let word = '';
       let meaning = '';
       let phonetic = '';
-      let synonyms: string[] = [];
-      let examples: { english: string, persian: string } = { english: '', persian: '' };
+      const synonyms: string[] = [];
+      const examples: { english: string, persian: string } = { english: '', persian: '' };
 
       const model = models[mid];
 
       if (model && model.flds) {
           // Dynamic Mapping
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
           const fieldMap = model.flds.map((f: any) => ({ name: f.name.toLowerCase(), value: clean(fields[f.ord]) }));
           
           // Helper to find value by field name regex
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
           const findField = (regex: RegExp) => fieldMap.find((f: any) => regex.test(f.name))?.value || '';
-          const findFields = (regex: RegExp) => fieldMap.filter((f: any) => regex.test(f.name)).map((f: any) => f.value);
 
           word = findField(/^(word|front|term|expression|vocab)/i) || clean(fields[0]);
           

@@ -74,6 +74,7 @@ function SessionContent() {
               
               // Map JSON structure to Card interface
               // JSON has 'persian' field instead of 'meaning'
+              // eslint-disable-next-line @typescript-eslint/no-explicit-any
               const mappedCards: Card[] = jsonCards.map((c: any) => ({
                   word: c.word,
                   phonetic: c.phonetic || '', 

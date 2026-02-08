@@ -57,13 +57,13 @@ export default function Home() {
           <div className="text-sm text-gray-500 font-mono">v2.0.0</div>
       </nav>
 
-      <div className="max-w-7xl mx-auto px-6 py-12 lg:py-20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 py-12 lg:py-20">
           {/* Hero Section */}
-          <header className="mb-20 text-center animate-fade-in-down">
-              <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-8 bg-gradient-to-b from-white to-gray-400 text-transparent bg-clip-text">
+          <header className="mb-12 sm:mb-20 text-center animate-fade-in-down">
+              <h1 className="text-4xl sm:text-5xl md:text-7xl font-extrabold tracking-tight mb-6 sm:mb-8 bg-gradient-to-b from-white to-gray-400 text-transparent bg-clip-text">
                 Master Your Vocabulary.
               </h1>
-              <p className="text-xl md:text-2xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
+              <p className="text-lg sm:text-xl md:text-2xl text-gray-400 max-w-2xl mx-auto leading-relaxed px-2">
                 The intensive learning loop designed for serious learners. 
                 <br className="hidden md:block" />
                 Prepare for IELTS & TOEFL with the <span className="text-green-400 font-semibold">No Escape</span> method.
@@ -81,18 +81,18 @@ export default function Home() {
                 {/* Book Library Card */}
                 <Link 
                     href="/books" 
-                    className="group relative overflow-hidden bg-[#161616] border border-gray-800 rounded-3xl p-8 hover:border-gray-600 transition-all duration-300 hover:bg-[#1a1a1a]"
+                    className="group relative overflow-hidden bg-[#161616] border border-gray-800 rounded-3xl p-6 sm:p-8 hover:border-gray-600 transition-all duration-300 hover:bg-[#1a1a1a]"
                 >
                     <div className="absolute top-0 right-0 -mt-12 -mr-12 w-48 h-48 bg-purple-500/10 rounded-full blur-3xl group-hover:bg-purple-500/20 transition-all duration-500"></div>
                     <div className="relative z-10 h-full flex flex-col justify-between">
                         <div>
                             <div className="flex justify-between items-start mb-6">
-                                <span className="text-5xl p-4 bg-[#252525] rounded-2xl border border-gray-700/50 shadow-inner">📚</span>
+                                <span className="text-4xl sm:text-5xl p-3 sm:p-4 bg-[#252525] rounded-2xl border border-gray-700/50 shadow-inner">📚</span>
                                 <div className="p-2 bg-purple-500/10 rounded-lg">
                                     <svg className="w-6 h-6 text-purple-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" /></svg>
                                 </div>
                             </div>
-                            <h3 className="text-3xl font-bold mb-3 text-gray-100 group-hover:text-purple-400 transition-colors">Library</h3>
+                            <h3 className="text-2xl sm:text-3xl font-bold mb-3 text-gray-100 group-hover:text-purple-400 transition-colors">Library</h3>
                             <p className="text-gray-400 leading-relaxed">
                                 Access curated collections of vocabulary books. Optimized for IELTS & TOEFL.
                             </p>
@@ -114,7 +114,7 @@ export default function Home() {
                  <div>
                      <h2 className="text-2xl font-bold text-gray-200 mb-4">About Ieltsflashcards</h2>
                      <p className="mb-4">
-                         Ieltsflashcards is a specialized tool for mastering English vocabulary. Unlike standard flashcard apps, it forces you to review difficult words until they are truly mastered using the "Assessment, Drill, Final Review" cycle.
+                         Ieltsflashcards is a specialized tool for mastering English vocabulary. Unlike standard flashcard apps, it forces you to review difficult words until they are truly mastered using the &quot;Assessment, Drill, Final Review&quot; cycle.
                      </p>
                      <p>
                          Perfect for students preparing for high-stakes exams like IELTS Academic, IELTS General, and TOEFL iBT.
@@ -128,7 +128,7 @@ export default function Home() {
                      <ul className="list-disc list-inside space-y-2 text-gray-500">
                          <li>پشتیبانی از فایل‌های Anki (.apkg)</li>
                          <li>پشتیبانی از فایل‌های اکسل و CSV</li>
-                         <li>متد آموزشی "بدون فرار" (No Escape)</li>
+                         <li>متد آموزشی &quot;بدون فرار&quot; (No Escape)</li>
                          <li>مناسب برای فارسی زبانان</li>
                      </ul>
                  </div>

@@ -18,7 +18,7 @@ export const Dashboard: React.FC<DashboardProps> = ({ state, timer, bookName }) 
   };
   
   // Calculate remaining
-  const remaining = cards.length - masteredPile.length;
+  // const remaining = cards.length - masteredPile.length;
 
   return (
     <>

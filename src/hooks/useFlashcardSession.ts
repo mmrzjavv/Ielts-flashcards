@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
-import { Card, SessionState, StudyMode, InputMode, LearningPhase } from '@/types';
+import { Card, SessionState, StudyMode, InputMode } from '@/types';
 
 const INITIAL_STATE: SessionState = {
   cards: [],
@@ -115,7 +115,7 @@ export const useFlashcardSession = () => {
         const currentCard = getCurrentCard();
         if (!currentCard) return prev;
 
-        let newState = { ...prev };
+        const newState = { ...prev };
         newState.correctAnswers += 1;
         newState.totalAttempts += 1;
 
@@ -170,7 +170,7 @@ export const useFlashcardSession = () => {
         const currentCard = getCurrentCard();
         if (!currentCard) return prev;
 
-        let newState = { ...prev };
+        const newState = { ...prev };
         newState.totalAttempts += 1;
 
         // Add to wrong answers if not already there (for download)

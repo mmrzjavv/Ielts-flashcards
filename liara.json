@@ -1,6 +1,6 @@
 {
-"app":"flash-card",
-"port":80,
+"app":"ielts-flash-cards",
+"port":3000,
 "platform":"next",
 "build":{
 "location":"iran"

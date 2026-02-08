@@ -26,7 +26,7 @@ export const Controls: React.FC<ControlsProps> = ({
     onWrong, 
     onOverride,
     onSpeak,
-    canOverride,
+    // canOverride, // Unused
     inputValue,
     onInputChange,
     onSubmitAnswer,

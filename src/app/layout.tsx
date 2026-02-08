@@ -1,16 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://ieltsflashcards.ir'),
@@ -32,7 +21,6 @@ export const metadata: Metadata = {
     icon: "/icon.svg",
     apple: "/icon.svg",
   },
-  themeColor: "#0a0a0a",
   openGraph: {
     title: "Ieltsflashcards - Master Vocabulary",
     description: "Intensive vocabulary training with pronunciation and smart revision.",
@@ -78,7 +66,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen flex flex-col bg-[#0a0a0a] text-white`}
+        className={`antialiased min-h-screen flex flex-col bg-[#0a0a0a] text-white`}
       >
         <div className="flex-1">
             {children}

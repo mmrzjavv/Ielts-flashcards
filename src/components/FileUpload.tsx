@@ -39,6 +39,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({ onDataLoaded }) => {
                   const worksheet = workbook.Sheets[firstSheetName];
                   const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
                   
+                  // eslint-disable-next-line @typescript-eslint/no-explicit-any
                   cards = jsonData.map((row: any) => {
                     if (Array.isArray(row) && row.length >= 3) {
                         return {
@@ -107,7 +108,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({ onDataLoaded }) => {
     <div className="w-full max-w-xl mx-auto">
         <div 
             className={`
-                relative border-2 border-dashed rounded-2xl p-12 text-center transition-all duration-300
+                relative border-2 border-dashed rounded-2xl p-6 sm:p-12 text-center transition-all duration-300
                 ${isDragging ? 'border-green-500 bg-green-50 scale-105' : 'border-gray-300 bg-gray-900/50 hover:border-green-400'}
                 ${isLoading ? 'opacity-50 cursor-wait' : 'cursor-pointer'}
             `}
@@ -148,11 +149,11 @@ export const FileUpload: React.FC<FileUploadProps> = ({ onDataLoaded }) => {
                 <p className="text-[10px] text-gray-500 mb-2 uppercase tracking-widest font-semibold text-center">
                     Excel / CSV Column Structure
                 </p>
-                <div className="flex items-center justify-center gap-2 text-xs text-gray-400 font-mono bg-black/20 py-2 rounded-lg border border-gray-800/50">
+                <div className="flex flex-wrap items-center justify-center gap-2 text-xs text-gray-400 font-mono bg-black/20 py-2 rounded-lg border border-gray-800/50">
                     <span className="px-1 text-emerald-400/80">A: Word</span>
-                    <span className="text-gray-700">|</span>
+                    <span className="text-gray-700 hidden sm:inline">|</span>
                     <span className="px-1 text-blue-400/80">B: Phonetic</span>
-                    <span className="text-gray-700">|</span>
+                    <span className="text-gray-700 hidden sm:inline">|</span>
                     <span className="px-1 text-purple-400/80">C: Meaning</span>
                 </div>
             </div>
