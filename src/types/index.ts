@@ -45,6 +45,7 @@ export interface SessionState {
   
   // Metadata
   bookName?: string;
+  sessionName?: string;
 }
 
 export interface BookSession {

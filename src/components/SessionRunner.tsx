@@ -13,10 +13,11 @@ interface SessionRunnerProps {
     cards: Card[];
     mode: StudyMode; // Default mode passed from parent
     bookName?: string;
+    sessionName?: string;
     resume?: boolean;
 }
 
-export const SessionRunner: React.FC<SessionRunnerProps> = ({ cards, mode: initialMode, bookName, resume = false }) => {
+export const SessionRunner: React.FC<SessionRunnerProps> = ({ cards, mode: initialMode, bookName, sessionName, resume = false }) => {
     const { 
         state, 
         timer, 
@@ -24,6 +25,8 @@ export const SessionRunner: React.FC<SessionRunnerProps> = ({ cards, mode: initi
         getCurrentCard, 
         handleCorrectAnswer, 
         handleWrongAnswer,
+        handlePrevious,
+        canUndo,
         isInitialized,
         updateStudyMode,
         updateInputMode
@@ -87,7 +90,7 @@ export const SessionRunner: React.FC<SessionRunnerProps> = ({ cards, mode: initi
     }, [currentCard]);
 
     const handleStart = () => {
-        startSession(cards, setupMode, setupInputMode, !!bookName, bookName);
+        startSession(cards, setupMode, setupInputMode, !!bookName, bookName, sessionName);
         setSessionStarted(true);
         setIsSetupComplete(true);
     };
@@ -369,6 +372,8 @@ export const SessionRunner: React.FC<SessionRunnerProps> = ({ cards, mode: initi
                     onSpeak={() => speak(currentCard.word)}
                     showAnswer={showAnswer}
                     canOverride={true}
+                    onPrevious={handlePrevious}
+                    canUndo={canUndo}
                     
                     // Typing props
                     inputValue={inputValue}

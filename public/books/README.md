@@ -6,7 +6,7 @@ The app automatically discovers books and their sessions. You have two options:
 
 ### Option 1: Using the Manifest File (Recommended - FASTEST)
 
-1. Edit `Books/books-manifest.json`
+1. Edit `books-manifest.json`
 2. Add your new book entry with session numbers:
 
 ```json
@@ -28,7 +28,7 @@ The app automatically discovers books and their sessions. You have two options:
 }
 ```
 
-3. Create a folder with the same name as `"name"` in the Books directory
+3. Create a folder with the same name as `"name"` in this directory
 4. Add JSON session files matching the numbers in `"sessions"` array
 5. **That's it!** The app loads instantly because it doesn't need to check 100 files!
 
@@ -38,7 +38,7 @@ The app automatically discovers books and their sessions. You have two options:
 
 If you don't want to edit the manifest file:
 
-1. Create a folder in the `Books` directory (e.g., `Books/my-vocabulary-book/`)
+1. Create a folder in this directory (e.g., `my-vocabulary-book/`)
 2. Add JSON session files numbered starting from 1 (e.g., `1.json`, `2.json`, `3.json`, etc.)
 3. The app will try to discover it automatically
 
@@ -74,7 +74,7 @@ Each session JSON file should contain an array of vocabulary items:
 
 ### Adding a New Book
 
-1. Create folder: `Books/toefl-vocabulary/`
+1. Create folder: `toefl-vocabulary/` (inside `public/books/`)
 2. Add sessions: `1.json`, `2.json`, `3.json`
 3. Update `books-manifest.json`:
 ```json

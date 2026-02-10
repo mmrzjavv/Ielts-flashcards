@@ -22,6 +22,7 @@ const STORAGE_KEY = 'flashcard_v2_session';
 
 export const useFlashcardSession = () => {
   const [state, setState] = useState<SessionState>(INITIAL_STATE);
+  const [history, setHistory] = useState<SessionState[]>([]);
   const [timer, setTimer] = useState(0);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
   const [isInitialized, setIsInitialized] = useState(false);
@@ -63,7 +64,25 @@ export const useFlashcardSession = () => {
     };
   }, [state.cards.length, state.isSessionComplete]);
 
-  const startSession = useCallback((cards: Card[], studyMode: StudyMode, inputMode: InputMode, isBook: boolean, bookName?: string) => {
+  // Track completion
+  useEffect(() => {
+    if (state.isSessionComplete && state.bookName && state.sessionName) {
+        const key = 'completed_sessions';
+        const sessionKey = `${state.bookName}:${state.sessionName}`;
+        try {
+            const stored = localStorage.getItem(key);
+            let completed: string[] = stored ? JSON.parse(stored) : [];
+            if (!completed.includes(sessionKey)) {
+                completed.push(sessionKey);
+                localStorage.setItem(key, JSON.stringify(completed));
+            }
+        } catch (e) {
+            console.error("Failed to save completion status", e);
+        }
+    }
+  }, [state.isSessionComplete, state.bookName, state.sessionName]);
+
+  const startSession = useCallback((cards: Card[], studyMode: StudyMode, inputMode: InputMode, isBook: boolean, bookName?: string, sessionName?: string) => {
     if (typeof window !== 'undefined') {
         localStorage.removeItem(STORAGE_KEY);
     }
@@ -81,10 +100,12 @@ export const useFlashcardSession = () => {
       startTime: Date.now(),
       studyMode,
       inputMode,
-      bookName: bookName
+      bookName: bookName,
+      sessionName: sessionName
     };
     
     setState(newState);
+    setHistory([]);
     setTimer(0);
   }, []);
 
@@ -110,7 +131,20 @@ export const useFlashcardSession = () => {
     return null;
   }, [state]);
 
+  const handlePrevious = useCallback(() => {
+    setHistory(prev => {
+        if (prev.length === 0) return prev;
+        const previousState = prev[prev.length - 1];
+        setState(previousState);
+        return prev.slice(0, -1);
+    });
+  }, []);
+
   const handleCorrectAnswer = useCallback(() => {
+    setHistory(prev => {
+        const newHistory = [...prev, state];
+        return newHistory.length > 20 ? newHistory.slice(-20) : newHistory;
+    });
     setState(prev => {
         const currentCard = getCurrentCard();
         if (!currentCard) return prev;
@@ -163,9 +197,13 @@ export const useFlashcardSession = () => {
 
         return newState;
     });
-  }, [getCurrentCard]);
+  }, [getCurrentCard, state]);
 
   const handleWrongAnswer = useCallback(() => {
+    setHistory(prev => {
+        const newHistory = [...prev, state];
+        return newHistory.length > 20 ? newHistory.slice(-20) : newHistory;
+    });
     setState(prev => {
         const currentCard = getCurrentCard();
         if (!currentCard) return prev;
@@ -204,7 +242,7 @@ export const useFlashcardSession = () => {
 
         return newState;
     });
-  }, [getCurrentCard]);
+  }, [getCurrentCard, state]);
 
   const updateStudyMode = useCallback((mode: StudyMode) => {
       setState(prev => ({ ...prev, studyMode: mode }));
@@ -223,6 +261,8 @@ export const useFlashcardSession = () => {
     getCurrentCard,
     handleCorrectAnswer,
     handleWrongAnswer,
+    handlePrevious,
+    canUndo: history.length > 0,
     updateStudyMode,
     updateInputMode
   };

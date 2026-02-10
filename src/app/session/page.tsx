@@ -123,6 +123,7 @@ function SessionContent() {
         cards={cards} 
         mode="en-fa" // Default for now
         bookName={bookParam || undefined}
+        sessionName={sessionParam || undefined}
         resume={isResumeMode}
     />
   );

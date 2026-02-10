@@ -16,6 +16,9 @@ interface ControlsProps {
   onInputChange: (val: string) => void;
   onSubmitAnswer: () => void;
   feedback?: { type: 'correct' | 'incorrect', message: string } | null;
+
+  onPrevious?: () => void;
+  canUndo?: boolean;
 }
 
 export const Controls: React.FC<ControlsProps> = ({ 
@@ -30,7 +33,9 @@ export const Controls: React.FC<ControlsProps> = ({
     inputValue,
     onInputChange,
     onSubmitAnswer,
-    feedback
+    feedback,
+    onPrevious,
+    canUndo
 }) => {
     const inputRef = useRef<HTMLInputElement>(null);
 
@@ -79,6 +84,21 @@ export const Controls: React.FC<ControlsProps> = ({
             return (
                 <div className="flex flex-col items-center gap-4 mt-8 w-full max-w-md">
                      <div className="flex gap-2 w-full">
+                        {/* Previous Button for Typing Mode (Question) */}
+                        {onPrevious && (
+                            <button 
+                                onClick={(e) => { e.stopPropagation(); onPrevious(); }}
+                                disabled={!canUndo}
+                                className={`px-4 py-3 text-white rounded-lg font-medium transition-colors ${
+                                    canUndo 
+                                    ? 'bg-gray-600 hover:bg-gray-700' 
+                                    : 'bg-gray-800 text-gray-600 cursor-not-allowed border border-gray-700'
+                                }`}
+                                title="Previous Card"
+                            >
+                                &larr;
+                            </button>
+                        )}
                         <input
                             ref={inputRef}
                             type="text"
@@ -111,6 +131,20 @@ export const Controls: React.FC<ControlsProps> = ({
                     </div>
                     
                     <div className="flex gap-4">
+                        {onPrevious && (
+                             <button 
+                                onClick={(e) => { e.stopPropagation(); onPrevious(); }}
+                                disabled={!canUndo}
+                                className={`px-4 py-3 text-white rounded-lg font-medium transition-colors ${
+                                    canUndo 
+                                    ? 'bg-gray-600 hover:bg-gray-700' 
+                                    : 'bg-gray-800 text-gray-600 cursor-not-allowed border border-gray-700'
+                                }`}
+                                title="Previous Card"
+                             >
+                                &larr;
+                             </button>
+                        )}
                         {feedback?.type === 'incorrect' && (
                              <button 
                                 onClick={onOverride}
@@ -135,6 +169,20 @@ export const Controls: React.FC<ControlsProps> = ({
     if (!showAnswer) {
         return (
             <div className="flex gap-4 mt-8">
+                {onPrevious && (
+                    <button 
+                        onClick={(e) => { e.stopPropagation(); onPrevious(); }}
+                        disabled={!canUndo}
+                        className={`px-6 py-3 text-white rounded-lg font-medium transition-colors ${
+                            canUndo 
+                            ? 'bg-gray-600 hover:bg-gray-700' 
+                            : 'bg-gray-800 text-gray-600 cursor-not-allowed border border-gray-700'
+                        }`}
+                        title="Previous Card"
+                    >
+                        &larr; Prev
+                    </button>
+                )}
                 <button 
                     onClick={(e) => { e.stopPropagation(); onSpeak(); }}
                     className="px-6 py-3 bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-700 font-medium transition-colors"
@@ -153,7 +201,21 @@ export const Controls: React.FC<ControlsProps> = ({
 
     return (
         <div className="flex flex-col items-center gap-4 mt-8">
-            <div className="flex gap-6">
+            <div className="flex gap-6 items-center">
+                {onPrevious && (
+                     <button 
+                        onClick={(e) => { e.stopPropagation(); onPrevious(); }}
+                        disabled={!canUndo}
+                        className={`px-4 py-3 text-white rounded-lg font-medium transition-colors ${
+                            canUndo 
+                            ? 'bg-gray-600 hover:bg-gray-700' 
+                            : 'bg-gray-800 text-gray-600 cursor-not-allowed border border-gray-700'
+                        }`}
+                        title="Previous Card"
+                     >
+                        &larr;
+                     </button>
+                )}
                 <button 
                     onClick={onWrong}
                     className="px-8 py-3 bg-red-500 text-white rounded-lg hover:bg-red-600 font-bold shadow-md transition-colors w-32"

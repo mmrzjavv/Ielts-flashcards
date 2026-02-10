@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
 import { BooksManifest } from '@/types';
+import { SessionGrid } from '@/components/SessionGrid';
 
 async function getBooks(): Promise<BooksManifest> {
   const filePath = path.join(process.cwd(), 'public', 'books', 'books-manifest.json');
@@ -44,17 +45,7 @@ export default async function BooksPage() {
               
               <div className="space-y-3">
                 <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider">Available Sessions</h3>
-                <div className="grid grid-cols-5 gap-2">
-                  {book.sessions.map((session) => (
-                    <Link 
-                      key={session}
-                      href={`/session?book=${book.name}&session=${session}`}
-                      className="aspect-square flex items-center justify-center bg-[#2a2a2a] text-gray-300 rounded-lg hover:bg-green-600 hover:text-white text-sm font-bold transition-all border border-gray-700 hover:border-green-500"
-                    >
-                      {session}
-                    </Link>
-                  ))}
-                </div>
+                <SessionGrid bookName={book.name} sessions={book.sessions} />
               </div>
             </div>
           ))}
