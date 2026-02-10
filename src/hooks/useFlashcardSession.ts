@@ -71,7 +71,7 @@ export const useFlashcardSession = () => {
         const sessionKey = `${state.bookName}:${state.sessionName}`;
         try {
             const stored = localStorage.getItem(key);
-            let completed: string[] = stored ? JSON.parse(stored) : [];
+            const completed: string[] = stored ? JSON.parse(stored) : [];
             if (!completed.includes(sessionKey)) {
                 completed.push(sessionKey);
                 localStorage.setItem(key, JSON.stringify(completed));
